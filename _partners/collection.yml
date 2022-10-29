@@ -2,4 +2,5 @@ collections:
   partners:
     output: true
     order:
+      - Parents/Outstanding Youth in Education Award (OYEA) 2022.md
       - Parents/.keep
