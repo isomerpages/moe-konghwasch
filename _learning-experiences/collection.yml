@@ -2,5 +2,6 @@ collections:
   learning-experiences:
     output: true
     order:
+      - Programmes/Sexuality Education.md
       - Programmes/Cyber Wellness.md
       - Programmes/.keep
