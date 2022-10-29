@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parents/Haze Management.md
       - Parents/P1 Registration.md
       - Parents/Edusave Character Award (ECHA).md
       - Parents/President's Award for Teachers (PAT) 2022.md
