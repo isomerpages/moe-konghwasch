@@ -2,6 +2,7 @@ collections:
   heritage:
     output: true
     order:
+      - About Us/Financial Assistance.md
       - About Us/.keep
       - School History.md
       - Principal's Message 2022.md
