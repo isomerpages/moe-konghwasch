@@ -12,9 +12,9 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
-        - title: Distinctive Programmes
+        - title: Our Achievements
           description: ""
-          url: /distinctive-programmes/flagship/
+          url: /pride/sport-achievement/
         - title: Quick Links
           description: ""
           url: /quick-links/
