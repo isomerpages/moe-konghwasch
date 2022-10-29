@@ -2,4 +2,5 @@ collections:
   learning-experiences:
     output: true
     order:
+      - Programmes/Cyber Wellness.md
       - Programmes/.keep
