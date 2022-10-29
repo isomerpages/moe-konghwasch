@@ -2,5 +2,6 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Flagship.md
       - "Applied Learning Programme: “Every Pupil an Effective Communicator”.md"
       - Learning for Life Programme – Exposure–Experience–Excel through Sports.md
