@@ -2,6 +2,7 @@ collections:
   heritage:
     output: true
     order:
+      - About Us/Allied Educator.md
       - About Us/Key Personnel.md
       - About Us/Rules & Regulations.md
       - About Us/Financial Assistance.md
