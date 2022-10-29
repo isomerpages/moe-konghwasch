@@ -2,5 +2,6 @@ collections:
   partners:
     output: true
     order:
+      - Parents/President's Award for Teachers (PAT) 2022.md
       - Parents/Outstanding Youth in Education Award (OYEA) 2022.md
       - Parents/.keep
