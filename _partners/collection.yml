@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parent Support Group (VSP).md
       - Alumni 校友会.md
       - Parents/Overview.md
       - Parents/Haze Management.md
