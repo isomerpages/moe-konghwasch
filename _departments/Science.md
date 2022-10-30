@@ -40,3 +40,21 @@ Comparison of the stage of the life-cycle of the butterfly and mealworm beetle (
 P5 Human systems model-making and exhibition.
 
 <img src="/images/sci6.png" style="width:80%">
+
+Fun with Science toy-making competition and exhibition for P3 to P6 students.
+
+<img src="/images/sci7.png" style="width:80%">
+
+P3 and P4 Tinkering Workshops at the Science Centre.
+
+<img src="/images/sci8.png" style="width:80%">
+
+P6 Learning Journey to the Lee Kong Chian Natural History Museum.
+
+<img src="/images/sci9.png" style="width:80%">
+
+Students’ demonstration of learning at the school’s learning festival.
+
+<img src="/images/sci10.png" style="width:80%">
+
+The school’s winning toy entries for the Sony Creative Science Award in 2017 (left) and 2018 (right).
