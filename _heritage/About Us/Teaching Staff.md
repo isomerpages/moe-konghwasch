@@ -29,3 +29,13 @@ third_nav_title: About Us
 | P2-7 Responsibility | Mrs Choong Wah Loy Shirley<br>[choong\_wah\_loy@schools.gov.sg](mailto:choong_wah_loy@schools.gov.sg) <br><br>Mdm Chew Siew Leng <br>[chew\_siew\_leng@schools.gov.sg](mailto:chew_siew_leng@schools.gov.sg)<br> |
 | P2-8 Honesty | Ms Chan Jye Yin Jayne <br>[chan\_jye\_yin@schools.gov.sg](mailto:chan_jye_yin@schools.gov.sg)<br> |
 | P2-9 Integrity | Ms Siti Nurfadzillah Husni Thamrin<br>[siti\_nurfadzillah\_husni\_thamrin@schools.gov.sg](mailto:siti_nurfadzillah_husni_thamrin@schools.gov.sg)<br><br>Ms Seow Kheng Ling<br>[seow\_kheng\_ling@schools.gov.sg](mailto:seow_kheng_ling@schools.gov.sg) |
+
+| Class | Form Teacher |
+|:---:|:---:|
+| P3-1 Humility | Ms Ng Ling Er <br>[ng\_ling\_er@schools.gov.sg](mailto:ng_ling_er@schools.gov.sg)<br><br><br>Mr Muhammad Zulkifli Bin Mohd Idries <br>[muhammad\_zulkifli\_mohd\_idries@schools.gov.sg](mailto:muhammad_zulkifli_mohd_idries@schools.gov.sg)<br> |
+| P3-2 Filial | Mdm Tay Soh Cheng Carol <br>[ng-tay\_soh\_cheng@schools.gov.sg](mailto:ng-tay_soh_cheng@schools.gov.sg)<br><br><br>Mr Lin Jinlong Jimmy<br>[lin\_jinlong\_jimmy@schools.gov.sg](mailto:lin_jinlong_jimmy@schools.gov.sg)<br> |
+| P3-3 Sincerity | Ms Evelyn Tan<br>[tan\_leng\_hwee\_evelyn@schools.gov.sg](mailto:tan_leng_hwee_evelyn@schools.gov.sg)<br><br>Mr Lee Chia Liang<br>[lee\_chia\_liang@schools.gov.sg](mailto:lee_chia_liang@schools.gov.sg)<br> |
+| P3-4 Perseverance | Mrs Seah-Tan Hui Xian<br>[tan\_hui\_xian@schools.gov.sg](mailto:tan_hui_xian@schools.gov.sg)<br><br>Mdm Mabel Liao Mei Bao<br>[mabel\_liao\_mei\_bao@schools.gov.sg](mailto:mabel_liao_mei_bao@schools.gov.sg)<br> |
+| P3-5 Tolerance | Mdm Hafsah Bte Yasin<br>[hafsah\_yasin@schools.gov.sg](mailto:hafsah_yasin@schools.gov.sg)<br><br><br>Miss Kang Mui Tiang<br>[kang\_mui\_tiang@schools.gov.sg](mailto:kang_mui_tiang@schools.gov.sg) |
+| P3-6 Respect | Mr Low Kok Leong <br>[low\_kok\_leong@schools.gov.sg](mailto:low_kok_leong@schools.gov.sg)<br><br>Mdm Chien Chia Chun<br>[chien\_chia\_chun@schools.gov.sg](mailto:chien_chia_chun@schools.gov.sg)<br> |
+| P3-7 Responsibility | Mrs Hue-Tan Siew Hoon <br>[hue-tan\_siew\_hoon@schools.gov.sg](mailto:hue-tan_siew_hoon@schools.gov.sg)<br><br>Mrs Teo-Zhang Juan Juan<br>[zhang\_juan\_juan@schools.gov.sg](mailto:zhang_juan_juan@schools.gov.sg) |
