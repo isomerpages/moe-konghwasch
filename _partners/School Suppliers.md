@@ -48,3 +48,24 @@ description: ""
 | Fax: | 63862407 |
 |  Online Store: | [https://jeepsinguniform.com/](https://jeepsinguniform.com/) |
 |  |  |
+
+**Sale of Uniform @ School (Booth next to the Canteen) during School Term**
+
+|  |  |
+|---|---|
+| Mon & Tue: | 9.00am to 3.30pm |
+| Lunch Break: | 11.45pm to 12.45pm |
+|  |  |
+
+#### Transport
+
+**RS Transport**
+
+|  |  |
+|---|---|
+| Contact : | Mr Richard Tan |
+| Address: | Blk 1004 Toa Payoh North <br>#06-01 <br>Singapore 318995 |
+| Tel : | 62510281/62510283 |
+| Fax : | 62510261 |
+| Email: | [rstransport@hotmail.sg](mailto:rstransport@hotmail.sg) |
+|  |  |
