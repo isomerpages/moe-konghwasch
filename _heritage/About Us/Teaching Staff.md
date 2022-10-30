@@ -6,6 +6,8 @@ third_nav_title: About Us
 ---
 ### Teaching Staff
 
+#### Primary 1
+
 | Class | Form Teacher |
 |:---:|:---:|
 | P1-1 Humility | Mdm Nur Shida Bte Umar Ali <br>n[nur\_shida\_umar\_ali@schools.gov.sg](mailto:nur_shida_umar_ali@schools.gov.sg)<br><br>Mr Tan Kian Boon <br>[tan\_kian\_boon@schools.gov.sg](mailto:tan_kian_boon@schools.gov.sg)<br> |
@@ -17,6 +19,8 @@ third_nav_title: About Us
 | P1-7 Responsibility | Mdm Nuraisha Bte Mohd Anis<br>[nuraisha\_mohamed\_anis@schools.gov.sg](mailto:nuraisha_mohamed_anis@schools.gov.sg)<br><br>Mr Lee Yew Cheong<br>[lee\_yew\_cheong@schools.gov.sg](mailto:lee_yew_cheong@schools.gov.sg)<br> |
 | P1-8 Honesty | Mrs Teng-Ho Yanlin<br>[ho\_yan\_lin@schools.gov.sg](mailto:ho_yan_lin@schools.gov.sg)<br><br>Miss Wong Luan Yin <br>[wong\_luan\_yin@schools.gov.sg](mailto:wong_luan_yin@schools.gov.sg)<br> |
 | P1-9 Integrity | Mdm Hoon Siow Hway Wendy <br>[hoon\_siow\_hway@schools.gov.sg](mailto:hoon_siow_hway@schools.gov.sg) |
+
+#### Primary 2
 
 | Class | Form Teacher |
 |:---:|:---:|
@@ -30,6 +34,8 @@ third_nav_title: About Us
 | P2-8 Honesty | Ms Chan Jye Yin Jayne <br>[chan\_jye\_yin@schools.gov.sg](mailto:chan_jye_yin@schools.gov.sg)<br> |
 | P2-9 Integrity | Ms Siti Nurfadzillah Husni Thamrin<br>[siti\_nurfadzillah\_husni\_thamrin@schools.gov.sg](mailto:siti_nurfadzillah_husni_thamrin@schools.gov.sg)<br><br>Ms Seow Kheng Ling<br>[seow\_kheng\_ling@schools.gov.sg](mailto:seow_kheng_ling@schools.gov.sg) |
 
+#### Primary 3
+
 | Class | Form Teacher |
 |:---:|:---:|
 | P3-1 Humility | Ms Ng Ling Er <br>[ng\_ling\_er@schools.gov.sg](mailto:ng_ling_er@schools.gov.sg)<br><br><br>Mr Muhammad Zulkifli Bin Mohd Idries <br>[muhammad\_zulkifli\_mohd\_idries@schools.gov.sg](mailto:muhammad_zulkifli_mohd_idries@schools.gov.sg)<br> |
@@ -39,6 +45,8 @@ third_nav_title: About Us
 | P3-5 Tolerance | Mdm Hafsah Bte Yasin<br>[hafsah\_yasin@schools.gov.sg](mailto:hafsah_yasin@schools.gov.sg)<br><br><br>Miss Kang Mui Tiang<br>[kang\_mui\_tiang@schools.gov.sg](mailto:kang_mui_tiang@schools.gov.sg) |
 | P3-6 Respect | Mr Low Kok Leong <br>[low\_kok\_leong@schools.gov.sg](mailto:low_kok_leong@schools.gov.sg)<br><br>Mdm Chien Chia Chun<br>[chien\_chia\_chun@schools.gov.sg](mailto:chien_chia_chun@schools.gov.sg)<br> |
 | P3-7 Responsibility | Mrs Hue-Tan Siew Hoon <br>[hue-tan\_siew\_hoon@schools.gov.sg](mailto:hue-tan_siew_hoon@schools.gov.sg)<br><br>Mrs Teo-Zhang Juan Juan<br>[zhang\_juan\_juan@schools.gov.sg](mailto:zhang_juan_juan@schools.gov.sg) |
+
+#### Primary 4
 
 | Class | Form Teacher |
 |:---:|:---:|
@@ -50,6 +58,8 @@ third_nav_title: About Us
 | P4-6 Respect | Mdm Khusniah Liza Bte Aziz<br>[khusniah\_liza\_zainal@schools.gov.sg](mailto:khusniah_liza_zainal@schools.gov.sg)<br><br>Ms Chan Yin Ling<br>[chan\_yin\_ling\_a@schools.gov.sg](mailto:chan_yin_ling_a@schools.gov.sg)<br> |
 | P4-7 Responsibility | Mrs Wong-Ho Si Yi<br>[ho\_si\_yi@schools.gov.sg](mailto:ho_si_yi@schools.gov.sg)<br><br>Ms Tan Hui Ling Lynnette<br>[tan\_hui\_ling\_lynnette@schools.gov.sg](mailto:tan_hui_ling_lynnette@schools.gov.sg) |
 
+#### Primary 5
+
 | Class | Form Teacher |
 |:---:|:---:|
 | P5-1 Humility | Mrs Tan-Liang Kok Fen <br>[liang\_kok\_fen@schools.gov.sg](mailto:liang_kok_fen@schools.gov.sg)<br><br>Mrs Tan-Lin Shiying Diana <br>[lin\_shiying\_diana@schools.gov.sg](mailto:lin_shiying_diana@schools.gov.sg)<br> |
@@ -59,6 +69,8 @@ third_nav_title: About Us
 | P5-5 Tolerance | Mdm Sim Qing Qing <br>[sim\_qing\_qing@schools.gov.sg](mailto:sim_qing_qing@schools.gov.sg)<br><br>Mdm Yeo Chin Choo Wendy <br>[yeo\_chin\_choo\_wendy@schools.gov.sg](mailto:yeo_chin_choo_wendy@schools.gov.sg)<br> |
 | P5-6 Respect | Mdm Nurafida Bte Mohd Anis<br>[nurafida\_mohamed\_anis@schools.gov.sg](mailto:nurafida_mohamed_anis@schools.gov.sg)<br><br><br>Mr Kok Zui Hua Leonard<br>[kok\_zui\_hua@schools.gov.sg](mailto:kok_zui_hua@schools.gov.sg) |
 | P5-7 Responsibility | Miss Yip Lai Ching Violet<br>[yip\_lai\_ching\_violet@schools.gov.sg](mailto:yip_lai_ching_violet@schools.gov.sg)<br><br><br>Mrs Kang-Hwang Yongxiang<br>[hwang\_yongxiang@schools.gov.sg](mailto:hwang_yongxiang@schools.gov.sg)<br> |
+
+#### Primary 6
 
 | Class | Form Teacher |
 |:---:|:---:|
