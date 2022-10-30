@@ -14,15 +14,15 @@ To nurture the joy of learning in mathematics, meaningful learning experiences w
 
 |  |  |
 |---|---|
-|<img src="/images/math1.png" style="width:80%">    | <img src="/images/math3.png" style="width:55%"> |
-| <img src="/images/math5.png" style="width:80%"> | <img src="/images/math7.png" style="width:40%">  |
+|<img style="width:80%" src="/images/math1.png">    | <img style="width:55%" src="/images/math3.png"> |
+| <img style="width:80%" src="/images/math5.png"> | <img style="width:40%" src="/images/math7.png">  |
 
 
  **Learning Mathematics through Recess Games**  
  
 Math Playground gives pupils the opportunity to learn and reinforce mathematical concepts through play in a non-threatening environment during recess. Pupils play mathematics games with their fellow pupils who are chosen to be Math Facilitators.
 
-<img src="/images/math11.png" style="width:60%">
+<img style="width:60%" src="/images/math11.png">
 
 **Problem Solving with Heuristics (P1 to P6)**  
 
@@ -39,3 +39,5 @@ The E2K Mathematics Programme is a mathematics enrichment programme for selected
 Pupils will have opportunities to collaborate with their peers and engage in mathematical thinking through resources such as puzzles, games and mathematics explorations which are specially designed for the programme. The rich learning experiences offered by the programme serve to help pupils to develop the habits, attitudes and dispositions mathematicians possess, as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.  
   
 Besides the E2K Mathematics Programme, we aim to develop in our pupils higher-order problem solving skills and stretch their problem solving abilities to their fullest potential through Mathematics Olympiad training programme and external mathematics competitions.
+
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQgWdwsVA4X1nw1iao-GAm7nDRKhQrclokTXoPzMEqEEbpFRhCg22Jkd-dvMdZhxLIpD-D-uFNRdzBH/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
