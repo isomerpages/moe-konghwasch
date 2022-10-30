@@ -69,3 +69,19 @@ description: ""
 | Fax : | 62510261 |
 | Email: | [rstransport@hotmail.sg](mailto:rstransport@hotmail.sg) |
 |  |  |
+
+#### School Dental Clinic
+
+|  |  |
+|---|---|
+| Dental Therapist : | Miss Tan Hwee Yi |
+| Tel: | 8940 4583 |
+|  |  |
+
+**School Term Opening Hours**
+
+|  |  |
+|---|---|
+| Tues to Thurs: | 8.00am to 5.30pm * \(Subject to changes) |
+| Lunch Break: | 1.00pm to 2.00pm   |
+|  |  |
