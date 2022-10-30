@@ -39,3 +39,24 @@ third_nav_title: About Us
 | P3-5 Tolerance | Mdm Hafsah Bte Yasin<br>[hafsah\_yasin@schools.gov.sg](mailto:hafsah_yasin@schools.gov.sg)<br><br><br>Miss Kang Mui Tiang<br>[kang\_mui\_tiang@schools.gov.sg](mailto:kang_mui_tiang@schools.gov.sg) |
 | P3-6 Respect | Mr Low Kok Leong <br>[low\_kok\_leong@schools.gov.sg](mailto:low_kok_leong@schools.gov.sg)<br><br>Mdm Chien Chia Chun<br>[chien\_chia\_chun@schools.gov.sg](mailto:chien_chia_chun@schools.gov.sg)<br> |
 | P3-7 Responsibility | Mrs Hue-Tan Siew Hoon <br>[hue-tan\_siew\_hoon@schools.gov.sg](mailto:hue-tan_siew_hoon@schools.gov.sg)<br><br>Mrs Teo-Zhang Juan Juan<br>[zhang\_juan\_juan@schools.gov.sg](mailto:zhang_juan_juan@schools.gov.sg) |
+
+| Class | Form Teacher |
+|:---:|:---:|
+| P4-1 Humility | Mrs Ng-Lee Sin Chieh <br>[lee\_sin\_chieh@schools.gov.sg](mailto:lee_sin_chieh@schools.gov.sg)<br> |
+| P4-2 Filial | Mrs Chong-Goh Hwee Leng Wendi<br>[goh\_hwee\_leng@schools.gov.sg](mailto:goh_hwee_leng@schools.gov.sg)<br><br>Mrs Yeoh-Goh Jia Hui <br>[goh\_jia\_hui@schools.gov.sg](mailto:goh_jia_hui@schools.gov.sg)<br> |
+| P4-3 Sincerity | Mrs Ng-Sim Li Juan Matilda<br>[matilda\_sim\_li\_juan@schools.gov.sg](mailto:matilda_sim_li_juan@schools.gov.sg)<br>Mdm Tang Ling Ling<br>[tang\_ling\_ling@schools.gov.sg](mailto:tang_ling_ling@schools.gov.sg) |
+| P4-4 Perseverance | Mdm Goh Siew Huang <br>[goh\_siew\_huang@schools.gov.sg](mailto:goh_siew_huang@schools.gov.sg)<br><br>Miss Chin Wan Chen Vivienne<br>[chin\_wan\_chen@schools.gov.sg](mailto:chin_wan_chen@schools.gov.sg)<br> |
+| P4-5 Tolerance | Mrs Seow-Ng Woon Shin Joelynn <br>[ng\_woon\_shin\_joelynn@schools.gov.sg](mailto:ng_woon_shin_joelynn@schools.gov.sg)<br><br>Miss Gan Ching Ching<br>[gan\_ching\_ching@schools.gov.sg](mailto:gan_ching_ching@schools.gov.sg)<br> |
+| P4-6 Respect | Mdm Khusniah Liza Bte Aziz<br>[khusniah\_liza\_zainal@schools.gov.sg](mailto:khusniah_liza_zainal@schools.gov.sg)<br><br>Ms Chan Yin Ling<br>[chan\_yin\_ling\_a@schools.gov.sg](mailto:chan_yin_ling_a@schools.gov.sg)<br> |
+| P4-7 Responsibility | Mrs Wong-Ho Si Yi<br>[ho\_si\_yi@schools.gov.sg](mailto:ho_si_yi@schools.gov.sg)<br><br>Ms Tan Hui Ling Lynnette<br>[tan\_hui\_ling\_lynnette@schools.gov.sg](mailto:tan_hui_ling_lynnette@schools.gov.sg) |
+
+|  | Form Teacher |
+|:---:|:---:|
+| Class | Form Teacher |
+| P5-1 Humility | Mrs Tan-Liang Kok Fen <br>liang_kok_fen@schools.gov.sg<br><br>Mrs Tan-Lin Shiying Diana <br>lin_shiying_diana@schools.gov.sg<br> |
+| P5-2 Filial | Mrs Tang Kin Tuck Christabelle<br>tang_kin_tuck@schools.gov.sg<br><br>Mdm Zheng Huier<br>zheng_huier@schools.gov.sg<br><br>Ms Seah Geok Choon<br>seah_geok_choon@schools.gov.sg<br> |
+| P5-3 Sincerity | <br>Ms Gauri Varsha Rai<br>gauri_varsha_rai@schools.gov.sg<br><br>Mrs Chew-Wong Hui Ren<br>wong_hui_ren@schools.gov.sg |
+| P5-4 Perseverance | Mdm Sharifah Warda Bte Syed Mohd Alsagoff<br>sharifah_warda_s_m@schools.gov.sg<br><br>Mr Khoo Wenzhong James<br>khoo_wenzhong_james@schools.gov.sg<br> |
+| P5-5 Tolerance | Mdm Sim Qing Qing <br>sim_qing_qing@schools.gov.sg<br><br>Mdm Yeo Chin Choo Wendy <br>yeo_chin_choo_wendy@schools.gov.sg<br> |
+| P5-6 Respect | Mdm Nurafida Bte Mohd Anis<br>nurafida_mohamed_anis@schools.gov.sg<br><br><br>Mr Kok Zui Hua Leonard<br>kok_zui_hua@schools.gov.sg |
+| P5-7 Responsibility | Miss Yip Lai Ching Violet<br>yip_lai_ching_violet@schools.gov.sg<br><br><br>Mrs Kang-Hwang Yongxiang<br>hwang_yongxiang@schools.gov.sg<br> |
