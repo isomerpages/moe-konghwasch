@@ -53,3 +53,16 @@ For Recreational Team, pupils will play badminton at a non-competitive environme
 | <img src="/images/cca63.png" style="width:40%"> | <img src="/images/cca64.png" style="width:900%"> |
 | <img src="/images/cca65.png" style="width:40%"> | <img src="/images/cca66.png" style="width:900%"> |
 
+#### Achievements & Highlights of 2019
+
+**East Zone Badminton Championships 2019**  
+Junior Girls – 2nd   
+Senior Girls – 1st    
+Junior Boys – 2nd   
+Senior Boys – 3rd   
+  
+**National Badminton Championships 2019**  
+Junior Girls – 4th  
+Senior Girls – 4th  
+Junior Boys – Top 8   
+ Senior Boys – Top 16
