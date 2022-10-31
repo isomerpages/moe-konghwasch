@@ -38,4 +38,4 @@ Talented students are identified and nurtured to represent the school for compet
 
 |  |  |  |  |
 |---|---|---|---|
-| <a href="here"><img style="width:45%" src="/images/cca15.png"></a> | <a href="here"><img style="width:45%" src="/images/cca16.png"></a> |  |  |
+| <a href="here"><img style="width:60%" src="/images/cca15.png"></a><figure>Brownies</figure> | <a href="here"><img style="width:65%" src="/images/cca16.png"></a><figure>Scouts</figure> |  |  |
