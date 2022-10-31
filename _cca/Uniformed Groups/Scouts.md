@@ -84,6 +84,8 @@ Highlights for 2019:
 
 |  |  |
 |---|---|
-| <img src="/images/cca102.png" style="width:50%"> |<img src="/images/cca103.png" style="width:99%">  |
+| <img src="/images/cca102.png" style="width:50%" align=left> |<img src="/images/cca103.png" style="width:95%" align=left>  |
 
-<img src="/images/cca104.jpg" style="width:60%">
+<br>
+
+<img src="/images/cca104.jpg" style="width:70%">
