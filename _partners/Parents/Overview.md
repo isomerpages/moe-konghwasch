@@ -48,7 +48,7 @@ Hardcopy application is to be submitted to General Office with supporting docume
 
 #### Onboarding Parents Gateway
 
-<img src="/images/par3.gif" style="width:140px;height:240px;margin-right:15px;" align = "left"><br>[**Onboarding to Parent Gateway**](/files/Onboarding%20to%20Parent%20Gateway.pdf) <br><br> [**Parents Guide for PG Travel Declaration Update Particulars**](/files/Parents%20Guide%20for%20PG%20Travel%20Declaration%20Update%20Particulars.pdf)<br><br>
+<img src="/images/par3.gif" style="width:240px;height:390px;margin-right:15px;" align = "left"><br>[**Onboarding to Parent Gateway**](/files/Onboarding%20to%20Parent%20Gateway.pdf) <br><br> [**Parents Guide for PG Travel Declaration Update Particulars**](/files/Parents%20Guide%20for%20PG%20Travel%20Declaration%20Update%20Particulars.pdf)<br><br><br><br><br><br><br><br><br><br>
 
 
 #### All Levels
