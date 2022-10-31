@@ -3,6 +3,8 @@ title: Aesthetics
 permalink: /departments/aesthetics/
 description: ""
 ---
+### Aesthetics
+
 <figure><b>美学课程<br>
 	保罗 · 塞尚</b><br><br>
 一切艺术都是情感的表现<br><Br>
@@ -66,4 +68,4 @@ Every pupil is introduced to different types of musical instruments, learns the 
 <figure><img src="/images/aes5.png" style="width:75%"><figcaption> Kong Hwa Idol Auditions</figcaption></figure> 
 
 * * *
-<figure><img src="/images/aes6.png" style="width:75%"><figcaption> Calligraphy and Chinese Painting lesson</figcaption></figure> 
+<figure><img src="/images/aes6.png" style="width:75%"><figcaption> Calligraphy and Chinese Painting lesson</figcaption></figure>
