@@ -6,7 +6,16 @@ links:
     collection: departments
   - title: Learning Experiences
     collection: learning-experiences
-  - title: Distinctive Programmes
-    collection: distinctive-programmes
   - title: Partners
     collection: partners
+  - title: Quick Links
+    url: https://staging.d1zbyh3gidoh8o.amplifyapp.com/
+    sublinks:
+      - title: MC Login
+        url: https://www.mconline.sg/LEAD/login/lms_login.aspx
+      - title: SLS Login
+        url: https://vle.learning.moe.edu.sg/login
+      - title: Library
+        url: https://schoolibrary.moe.edu.sg/konghwa/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+      - title: Google
+        url: http://workspace.google.com/dashboard
