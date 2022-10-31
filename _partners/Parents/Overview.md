@@ -50,4 +50,12 @@ Hardcopy application is to be submitted to General Office with supporting docume
 
 #### Onboarding Parents Gateway
 
-<img src="/images/par3.gif" style="width:140px;height:240px;margin-right:15px;" align = "left"><br><br>[**Onboarding to Parent Gateway**](/files/Onboarding%20to%20Parent%20Gateway.pdf) <br><br> [**Parents Guide for PG Travel Declaration Update Particulars**](/files/Parents%20Guide%20for%20PG%20Travel%20Declaration%20Update%20Particulars.pdf) 
+<img src="/images/par3.gif" style="width:140px;height:240px;margin-right:15px;" align = "left"><br>[**Onboarding to Parent Gateway**](/files/Onboarding%20to%20Parent%20Gateway.pdf) <br><br> [**Parents Guide for PG Travel Declaration Update Particulars**](/files/Parents%20Guide%20for%20PG%20Travel%20Declaration%20Update%20Particulars.pdf)<br><br>
+
+
+#### All Levels
+
+
+| School News | Insurance Information | Traffic News | General |
+|---|---|---|---|
+| [Guide on PayNow Registration]<br><br>[Edusave Character Award (ECHA)]<br><br>[FAQs for PayNow]<br><br>[Participate in Parents Gateway]<br><br>[Participation in Parents Gateway] | [Group Personal Accident Claim Form]<br><br><br>[Product Fact Sheet Year 2022 Sep 2022] |  | [Healthy Meals in School Programme Criteria]<br><br>[ECG Journal Letter to Parents]<br><br>[Guide to Login to Google Mail and Google Meet]<br><br>[Healthy Meals in School Programme Circular for Parents]<br><br>[Information Sheet on Giro and Edusave Schemes]<br><br>[Guide to log into Student Learning Space]<br><br>[Guidelines on the Use of Insect Repellent Spray]<br><br>[Tips For helping children(uses of smartphone]) |
