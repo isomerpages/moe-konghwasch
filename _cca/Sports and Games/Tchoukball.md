@@ -8,8 +8,6 @@ third_nav_title: Sports and Games
 
 #### Training Schedule
 
-  
-
 Day    : Fridays<br>
 Time  : 3 pm to 4 pm<br>
 Venue: eCCA
