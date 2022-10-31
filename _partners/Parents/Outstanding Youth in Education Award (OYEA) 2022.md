@@ -4,9 +4,7 @@ permalink: /partners/Parents/OYEA-2022/
 description: ""
 third_nav_title: Parents
 ---
-
-
-Outstanding Youth in Education Award (OYEA)  
+### Outstanding Youth in Education Award (OYEA) 2022
   
 1.      The Outstanding Youth in Education Award seeks to recognise excellent young teachers for their youthful idealism, energy, enthusiasm and active involvement in the development of youths. With effect from 2012, the age criterion for OYEA has been revised to 35 years and younger. For OYEA 2022, it is open to educators who are born on or after 30 June 1987.  
 
