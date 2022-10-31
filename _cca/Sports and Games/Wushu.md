@@ -6,8 +6,7 @@ third_nav_title: Sports and Games
 ---
 ### Wushu
 
-Training Schedule
------------------
+#### Training Schedule
 
   
 
