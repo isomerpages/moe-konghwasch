@@ -84,4 +84,4 @@ Infocomm members are tasked to capture memorable moments of Kong Hwa events. The
 | <img src="/images/cca37.png" style="width:80%"> | <img src="/images/cca38.png" style="width:80%"> |
 | <img src="/images/cca39.png" style="width:80%"> | <img src="/images/cca40.png" style="width:80%"> |
 
-Photos taken by students during photography lesson.
+<figure> Photos taken by students during photography lesson.</figure>
