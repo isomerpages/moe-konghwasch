@@ -15,7 +15,7 @@ sections:
         - title: Our Achievements
           description: ""
           url: /pride/sport-achievement/
-        - title: Quick Links
+        - title: Distinctive Programmes
           description: ""
-          url: /quick-links/
+          url: /distinctive-programmes/flagship/
 ---
