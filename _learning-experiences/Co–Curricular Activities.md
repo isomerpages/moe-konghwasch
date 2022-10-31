@@ -19,20 +19,20 @@ Talented students are identified and nurtured to represent the school for compet
 
 |  |  |  |  |
 |---|---|---|---|
-| <a href="here"><img style="width:85%" src="/images/cca1.png"></a> | <a href="here"><img style="width:85%" src="/images/cca2.png"></a> | <a href="here"><img style="width:85%" src="/images/cca3.png"></a> | <a href="here"><img style="width:85%" src="/images/cca4.png"></a> |
+| <a href="here"><img style="width:85%" src="/images/cca1.png"></a><figure>Art Club</figure> | <a href="here"><img style="width:65%" src="/images/cca2.png"></a><figure>Calligraphy Club</figure> | <a href="here"><img style="width:85%" src="/images/cca3.png"></a><figure>Chess Club</figure> | <a href="here"><img style="width:65%" src="/images/cca4.png"></a><figure>Infocomm Club</figure> |
 
 #### Performing Arts
 
 |  |  |  |  |
 |---|---|---|---|
-| <a href="here"><img style="width:85%" src="/images/cca5.png"></a> | <a href="here"><img style="width:85%" src="/images/cca6.png"></a> | <a href="here"><img style="width:85%" src="/images/cca7.png"></a> | <a href="here"><img style="width:85%" src="/images/cca8.png"></a> |
+| <a href="here"><img style="width:85%" src="/images/cca5.png"></a><figure>Chinese Dance</figure> | <a href="here"><img style="width:80%" src="/images/cca6.png"></a><figure>Chinese Orchestra</figure> | <a href="here"><img style="width:80%" src="/images/cca7.png"></a><figure>Guzheng Ensemble</figure> | <a href="here"><img style="width:95%" src="/images/cca8.png"></a><figure>Show Choir</figure> |
 
 #### Sports & Games
 
 |  |  |  |  |
 |---|---|---|---|
-| <a href="here"><img style="width:85%" src="/images/cca9.png"></a> | <a href="here"><img style="width:85%" src="/images/cca10.png"></a> | <a href="here"><img style="width:85%" src="/images/cca11.png"></a> | <a href="here"><img style="width:85%" src="/images/cca12.png"></a> |
-| <a href="here"><img style="width:85%" src="/images/cca13.png"></a> | <a href="here"><img style="width:85%" src="/images/cca14.png"></a> |  | |
+| <a href="here"><img style="width:80%" src="/images/cca9.png"></a><figure>Badminton</figure> | <a href="here"><img style="width:85%" src="/images/cca10.png"></a><figure>Basketball</figure> | <a href="here"><img style="width:95%" src="/images/cca11.png"></a><figure>Netball</figure> | <a href="here"><img style="width:95%" src="/images/cca12.png"></a><figure>Table Tennis</figure> |
+| <a href="here"><img style="width:85%" src="/images/cca13.png"></a><figure>Tchoukball</figure> | <a href="here"><img style="width:90%" src="/images/cca14.png"></a><figure>Wushu</figure> |  | |
 
 #### Uniformed Group
 
