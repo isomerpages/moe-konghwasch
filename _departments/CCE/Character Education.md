@@ -32,7 +32,10 @@ Character Education involves learning, growth and change. It is the shared respo
   
 The Values in Action level programmes actively involve students in various community projects. It provides a platform for students to serve the school and the community, preparing them for a lifetime of active citizenship and contribution. Through the process of serving, students acquire a strong sense of belonging to the community, commitment to caring for others, and develop empathy.
 
-<img src="/images/cce1.png" style="width:50%" align=left>  <img src="/images/cce2.png" style="width:50%" align=left> 
+|  |  |
+|---|---|
+| <img src="/images/cce1.png" style="width:80%"> | <img src="/images/cce2.png" style="width:80%"> |
+
 
 **FTGP and Values in Education Programmes**
 
@@ -51,7 +54,10 @@ To help cultivate good life habits in students both in school and at home, Kong 
   
 To complement the programme, a Buddy Clean Workshop in partnership with the National Environment Agency is conducted to aid students in picking up the skills required for cleaning and working as a team, as well as the values of cooperation and responsibility.
 
-<img src="/images/cce3.png" style="width:50%" align=left>  <img src="/images/cce4.png" style="width:50%" align=left> 
+|  |  |
+|---|---|
+| <img src="/images/cce3.png" style="width:80%"> | <img src="/images/cce4.png" style="width:80%"> |
+
 
 **Student Advocacy of Meaningful Causes**  
   
@@ -66,4 +72,3 @@ Our Kindness Ambassadors, or Friends of Singa, do their part in spreading the me
 **Recognition and Affirmation of the Positive**  
   
 Creating an environment conducive to joyful learning, Kong Hwa School recognises and affirms the positive in every child. Besides the termly Model Class Award that students work towards to as a class, stories are also shared during Assembly highlighting the individual demonstrations of positive behaviour by student exemplars. Through this focus on the positive, we want our students to learn with joy and look forward to their school experience.
-
