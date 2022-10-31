@@ -57,3 +57,19 @@ Hardcopy application is to be submitted to General Office with supporting docume
 | School News | Insurance Information | Traffic News | General |
 |---|---|---|---|
 | [Guide on PayNow Registration](/files/al1.pdf)<br><br>[Edusave Character Award (ECHA)](https://staging.d1zbyh3gidoh8o.amplifyapp.com/partners/Parents/ECHA/)<br><br>[FAQs for PayNow](/files/al2.pdf)<br><br>[Participate in Parents Gateway](/files/al3.pdf)<br><br>[Participation in Parents Gateway](/files/al4.pdf) | [Group Personal Accident Claim Form](/files/al5.pdf)<br><br><br>[Product Fact Sheet Year 2022 Sep 2022](/files/al6.pdf) |  | [Healthy Meals in School Programme Criteria](/files/al7.pdf)<br><br>[ECG Journal Letter to Parents](/files/al8.pdf)<br><br>[Guide to Login to Google Mail and Google Meet](/files/al9.pdf)<br><br>[Healthy Meals in School Programme Circular for Parents](/files/al10.pdf)<br><br>[Information Sheet on Giro and Edusave Schemes](/files/al11.pdf)<br><br>[Guide to log into Student Learning Space](/files/al12.pdf)<br><br>[Guidelines on the Use of Insect Repellent Spray](/files/al13.pdf)<br><br>[Tips For helping children(uses of smartphone] Please upload file here |
+
+
+#### Primary 5
+
+[P5 Camp 2022 Frequently Asked Questions](/files/P5%20Camp%202022%20Frequently%20Asked%20Questions.pdf)
+
+[P5 Camp Pack List 2022](/files/P5%20Camp%20Pack%20List%202022.pdf)
+
+
+#### Primary 6
+
+
+
+[Resource Kit - Are you a P.S.L.E parent](/files/Resource%20Kit.pdf)
+
+[Resources on the New PSLE Scoring and Secondary 1 Posting Systems](/files/Resources%20on%20the%20New%20PSLE%20Scoring%20and%20Secondary%201%20Posting%20Systems-rotated.pdf)
