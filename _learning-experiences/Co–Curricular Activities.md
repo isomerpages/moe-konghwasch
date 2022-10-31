@@ -19,7 +19,7 @@ Talented students are identified and nurtured to represent the school for compet
 
 |  |  |  |  |
 |---|---|---|---|
-| <a href="https://staging.d1zbyh3gidoh8o.amplifyapp.com/cca/Clubs-and-Society/art-club/"><img style="width:85%" src="/images/cca1.png"></a><figure>Art Club</figure> | <a href="https://staging.d1zbyh3gidoh8o.amplifyapp.com/cca/Clubs-and-Society/calligraphy-club/"><img style="width:65%" src="/images/cca2.png"></a><figure>Calligraphy Club</figure> | <a href="https://staging.d1zbyh3gidoh8o.amplifyapp.com/cca/Clubs-and-Society/chess-club/"><img style="width:85%" src="/images/cca3.png"></a><figure>Chess Club</figure> | <a href="https://staging.d1zbyh3gidoh8o.amplifyapp.com/cca/Clubs-and-Society/infocomm-club/"><img style="width:65%" src="/images/cca4.png"></a><figure>Infocomm Club</figure> |
+| <a href="https://staging.d1zbyh3gidoh8o.amplifyapp.com/cca/Clubs-and-Society/art-club/"><img style="width:85%" src="/images/cca1.png"></a><figure>Art Club</figure> | <a href="https://staging.d1zbyh3gidoh8o.amplifyapp.com/cca/Clubs-and-Society/calligraphy-club/"><img style="width:75%" src="/images/cca2.png"></a><figure>Calligraphy Club</figure> | <a href="https://staging.d1zbyh3gidoh8o.amplifyapp.com/cca/Clubs-and-Society/chess-club/"><img style="width:85%" src="/images/cca3.png"></a><figure>Chess Club</figure> | <a href="https://staging.d1zbyh3gidoh8o.amplifyapp.com/cca/Clubs-and-Society/infocomm-club/"><img style="width:75%" src="/images/cca4.png"></a><figure>Infocomm Club</figure> |
 
 #### Performing Arts
 
