@@ -68,7 +68,13 @@ Hardcopy application is to be submitted to General Office with supporting docume
 
 #### Primary 6
 
+**Resources on the new PSLE Scoring and S1 Posting System**
 
+|  |  |
+|---|---|
+|[https://www.moe.gov.sg/microsites/psle-fsbb](https://www.moe.gov.sg/microsites/psle-fsbb)<br>[Infosheet on PSLE changes](/files/Infosheet%20on%20PSLE%20changes.pdf) | Details on the new PSLE Scoring & S1 Posting |
+| [https://go.gov.sg/psle-explainer-1](https://go.gov.sg/psle-explainer-1) | Top Questions on PSLE Answered! (Part 1) |
+| [https://go.gov.sg/psle-explainer-2](https://go.gov.sg/psle-explainer-2)   | Top Questions on PSLE Answered! (Part 2) |
 
 [Resource Kit - Are you a P.S.L.E parent](/files/Resource%20Kit.pdf)
 
