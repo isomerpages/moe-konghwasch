@@ -3,6 +3,8 @@ title: Mathematics
 permalink: /departments/mathematics/
 description: ""
 ---
+### Mathematics
+
 **Vision**  <br>
 **Every Konghwaian, An Analytical Thinker and A confident and Creative Problem Solver**
 
