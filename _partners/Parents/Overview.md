@@ -8,8 +8,6 @@ third_nav_title: Parents
 
 * * *
 
-###   
-
 **Forms for Parents**
 
 **Application for Leave of Absence**
