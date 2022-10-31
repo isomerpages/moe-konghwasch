@@ -50,8 +50,8 @@ For Recreational Team, pupils will play badminton at a non-competitive environme
 
 |  |  |
 |---|---|
-| <img src="/images/cca63.png" style="width:40%"> | <img src="/images/cca64.png" style="width:900%"> |
-| <img src="/images/cca65.png" style="width:40%"> | <img src="/images/cca66.png" style="width:900%"> |
+| <img src="/images/cca66.png" style="width:90%"> | <img src="/images/cca65.png" style="width:80%"> |
+| <img src="/images/cca64.png" style="width:90%"> | <img src="/images/cca64.png" style="width:90%"> |
 
 #### Achievements & Highlights of 2019
 
