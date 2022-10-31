@@ -28,7 +28,7 @@ third_nav_title: Parents
 
 **Nomination**
 
- 4      Parents, students, teaching staff, non-teaching staff and other key stakeholders (VSP, Alumni, and parents who have had more than one interaction with the nominee) may nominate deserving students. All nominations have to be made using the [Nomination Form](https://www.konghwa.moe.edu.sg/qql/slot/u412/Parents/2022/echa%202022/Nomination%20Form%202022.pdf), available from the Kong Hwa School website and Parent Gateway from 1 June 2022.
+ 4      Parents, students, teaching staff, non-teaching staff and other key stakeholders (VSP, Alumni, and parents who have had more than one interaction with the nominee) may nominate deserving students. All nominations have to be made using the [Nomination Form](/files/Nomination%20Form%202022.pdf), available from the Kong Hwa School website and Parent Gateway from 1 June 2022.
 
  5      Completed nomination forms with supporting evidence(s) must be submitted to the General Office or Form Teachers by 5 p.m., 5 July 2022. For queries and clarifications, please contact Mrs Joelynn Seow, CCE Coordinator, at [ng\_woon\_shin\_joelynn@schools.gov.sg](mailto:ng_woon_shin_joelynn@schools.gov.sg).
 
