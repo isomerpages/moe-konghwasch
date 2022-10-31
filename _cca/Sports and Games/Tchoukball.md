@@ -32,3 +32,9 @@ Tchoukball is a non-contact team sport that emphasizes on speed, teamwork and st
   
 
 Our Tchoukball CCA shares the same belief with the founder of Tchoukball, Dr Herman Brandt – “the objective of human physical activities is not to make champions, but rather to help construct a harmonious society”. Through authentic settings and platforms during practice and competition, students will not only acquire and refine on their physical abilities and motor skills, but most importantly, develop various social and emotional skills like self-awareness, relationship management and responsible decision making which better equips them for the 21st century.
+
+<img src="/images/cca79.png" style="width:70%">
+
+<img src="/images/cca80.png" style="width:70%">
+
+<img src="/images/cca81.png" style="width:70%">
