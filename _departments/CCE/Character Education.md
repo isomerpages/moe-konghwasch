@@ -67,7 +67,7 @@ The Ecobuddies programme is a collaborative project with Dunman High School. The
   
 Our Kindness Ambassadors, or Friends of Singa, do their part in spreading the message of kindness. Every year, our Kindness Ambassadors plan and execute a kindness project during Kindness Week, focusing on a theme by the Singapore Kindness Movement, and reaching out to the hearts of the community and the school.
 
-<img src="/images/cce5.png" style="width:50%" align=left>  <img src="/images/cce6.png" style="width:50%" align=left> 
+<img src="/images/cce5.png" style="width:50%" align=left>  <img src="/images/cce6.png" style="width:40%" align=left> <br><br><br><br>
 
 **Recognition and Affirmation of the Positive**  
   
