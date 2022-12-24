@@ -1,8 +1,0 @@
-collections:
-  learning-experiences:
-    output: true
-    order:
-      - Co–Curricular Activities.md
-      - Programmes/Sexuality Education.md
-      - Programmes/Cyber Wellness.md
-      - Programmes/.keep
