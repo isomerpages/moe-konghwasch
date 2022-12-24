@@ -1,7 +1,5 @@
 logo: /images/khlogo.png
 links:
-  - title: Departments
-    collection: departments
   - title: Learning Experiences
     collection: learning-experiences
   - title: Partners
