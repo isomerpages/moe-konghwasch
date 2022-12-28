@@ -29,4 +29,12 @@ sections:
       image: /images/infopic2.jpeg
       alt: Image alt text
       button: Find our more
+  - infopic:
+      title: " P5 VIA Intergenerational Learning Programme (ILP)"
+      description: And it's a wrap! Kudos to our amazing P5 teachers and students for
+        a successful VIA programme.
+      button: Find out more
+      url: https://www.facebook.com/508444454665371/posts/500234392153044
+      image: /images/infopic3.jpeg
+      alt: Image alt text
 ---
