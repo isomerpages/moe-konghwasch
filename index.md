@@ -28,4 +28,5 @@ sections:
       url: https://www.facebook.com/508444454665371/posts/501621428681007
       image: /images/infopic2.jpeg
       alt: Image alt text
+      button: Find our more
 ---
