@@ -2,5 +2,6 @@ collections:
   cognitive:
     output: true
     order:
+      - Science.md
       - Project Work.md
       - Thinkers' Programme.md
