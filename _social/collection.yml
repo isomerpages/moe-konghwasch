@@ -2,4 +2,5 @@ collections:
   social:
     output: true
     order:
+      - Co Curricular Activities/Overview.md
       - Co Curricular Activities/.keep
