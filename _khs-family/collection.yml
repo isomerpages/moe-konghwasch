@@ -1,4 +1,5 @@
 collections:
   khs-family:
     output: true
-    order: []
+    order:
+      - School Service Providers.md
