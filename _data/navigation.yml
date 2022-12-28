@@ -1,13 +1,13 @@
 logo: /images/khlogo.png
 links:
-  - title: Quick Links
-    url: https://staging.d1zbyh3gidoh8o.amplifyapp.com/
-    sublinks:
-      - title: MC Login
-        url: https://www.mconline.sg/LEAD/login/lms_login.aspx
-      - title: SLS Login
-        url: https://vle.learning.moe.edu.sg/login
-      - title: Library
-        url: https://schoolibrary.moe.edu.sg/konghwa/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
-      - title: Google
-        url: http://workspace.google.com/dashboard
+  - title: About KHS
+    collection: about-khs
+  - title: KHS Family
+    collection: khs-family
+  - title: KHS Learning Experiences
+    url: /permalink
+    sublinks: []
+  - title: KHS Pride
+    collection: khs-pride
+  - title: KHS Digital Learning
+    collection: khs-digital-learning
