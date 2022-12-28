@@ -4,10 +4,12 @@ links:
     collection: about-khs
   - title: KHS Family
     collection: khs-family
-  - title: KHS Learning Experiences
+  - title: Learning Experiences
     url: /permalink
     sublinks: []
   - title: KHS Pride
     collection: khs-pride
   - title: KHS Digital Learning
     collection: khs-digital-learning
+  - title: Info Hub
+    collection: information-hub
