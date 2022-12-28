@@ -2,5 +2,6 @@ collections:
   about-khs:
     output: true
     order:
+      - School History.md
       - Student Discipline and School Rules.md
       - Contact Us.md
