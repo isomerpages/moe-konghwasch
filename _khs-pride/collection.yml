@@ -1,4 +1,5 @@
 collections:
   khs-pride:
     output: true
-    order: []
+    order:
+      - Aesthetics Achievements.md
