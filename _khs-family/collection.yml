@@ -1,0 +1,4 @@
+collections:
+  khs-family:
+    output: true
+    order: []
