@@ -1,4 +1,5 @@
 collections:
   khs-digital-learning:
     output: true
-    order: []
+    order:
+      - Student iCON.md
