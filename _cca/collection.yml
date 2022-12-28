@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Visual and Performing Arts/Guzheng.md
       - Visual and Performing Arts/Show Choir.md
       - Visual and Performing Arts/.keep
