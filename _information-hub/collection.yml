@@ -1,4 +1,5 @@
 collections:
   information-hub:
     output: true
-    order: []
+    order:
+      - Parents Gateway Mobile App.md
