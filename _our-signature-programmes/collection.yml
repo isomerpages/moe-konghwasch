@@ -2,5 +2,6 @@ collections:
   our-signature-programmes:
     output: true
     order:
+      - Bicultural Chinese Elective Programme.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
