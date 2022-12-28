@@ -2,6 +2,7 @@ collections:
   information-hub:
     output: true
     order:
+      - Primary 1 Registration (Statistics).md
       - Primary 1 Orientation Package & Administrative Matters (2023).md
       - Student Insurance.md
       - MOE Financial Assistance Scheme.md
