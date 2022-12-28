@@ -8,14 +8,4 @@ notification: ""
 sections:
   - hero:
       background: /images/bannerupdated.gif
-      key_highlights:
-        - title: Announcements
-          description: ""
-          url: /announcements/
-        - title: Our Achievements
-          description: ""
-          url: /pride/sport-achievement/
-        - title: Distinctive Programmes
-          description: ""
-          url: /distinctive-programmes/flagship/
 ---
