@@ -2,5 +2,6 @@ collections:
   moral:
     output: true
     order:
+      - CCE/Citizenship Education.md
       - CCE/.keep
       - MOE Sexuality Education.md
