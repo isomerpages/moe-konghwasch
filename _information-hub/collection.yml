@@ -2,6 +2,7 @@ collections:
   information-hub:
     output: true
     order:
+      - Application for Leave of Absence (LOA).md
       - Primary 1 Registration (Statistics).md
       - Primary 1 Orientation Package & Administrative Matters (2023).md
       - Student Insurance.md
