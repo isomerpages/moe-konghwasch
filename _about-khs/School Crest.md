@@ -6,7 +6,7 @@ description: ""
 ### School Crest
 
 
-<img src="/images/crest1.png" style="width:30%">
+<img src="/images/crest1.png" style="width:20%">
 
 The two Chinese characters **光华** form the torch. The torch is in red and it symbolises the “Flame of Knowledge”. The yellow background symbolises the radiance of the burning torch which reflects the school’s pursuit of excellence.
 
