@@ -3,7 +3,7 @@ title: Parents
 permalink: /khs-family/parents/
 description: ""
 ---
-### PARENT SUPPORT GROUP - VERY SUPPORTIVE PARENTS (VSP)
+### Parent Support Group - Very Supportive Parents (VSP)
 
 KONG HWA VSP (Very Supportive Parents) was formed in 1999 with a Mission to be the voice of Kong Hwa Parents for responsible and constructive feedback, and be the catalyst for the improvement of the school learning environment outside of what the Ministry of Education can do.
 
