@@ -43,7 +43,7 @@ With Sincerity and Perseverance
 **Kindness**  <br>
 _I know good, do good, and feel good!_<br><br>
 **Humility**  <br>
-_I see my strengths and talents but do not seek to be the centre of attention. _<br><br>
+_I see my strengths and talents but do not seek to be the centre of attention._<br><br>
 **Sincerity**  <br>
 _I mean what I say and do as I say._ <br><br>
 **Perseverance**  <br>
