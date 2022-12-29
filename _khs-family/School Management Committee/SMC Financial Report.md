@@ -8,7 +8,7 @@ third_nav_title: School Management Committee
 
 #### Financial & Non-Financial Information
 
-<b><u>1\. Non-Financial Information</u></b>
+<b><u>1. Non-Financial Information</u></b>
 
 **Name of School:** Kong Hwa School<br>
 **Address:** 350 Guillemard Road Singapore 399772
@@ -45,7 +45,7 @@ third_nav_title: School Management Committee
 
   
 
-<b><u>2\. Financial Information</u></b>
+<b><u>2. Financial Information</u></b>
 
   
 
