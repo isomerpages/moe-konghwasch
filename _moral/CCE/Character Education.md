@@ -6,6 +6,6 @@ third_nav_title: CCE
 ---
 ### Character Education
 
-*   [Form Teacher's Guidance Period (FTGP)](https://www.konghwa.moe.edu.sg/khs-learning-experiences/moral/character-and-citizenship-education/character-education/form-teachers-guidance-period-ftgp)
-*   [Green Movement](https://www.konghwa.moe.edu.sg/khs-learning-experiences/moral/character-and-citizenship-education/character-education/green-movement)
-*   [Kindness Movement](https://www.konghwa.moe.edu.sg/khs-learning-experiences/moral/character-and-citizenship-education/character-education/kindness-movement)
+*   [Form Teacher's Guidance Period (FTGP)](https://staging.d1zbyh3gidoh8o.amplifyapp.com/cce/Character-Education/ftgp/)
+*   [Green Movement](https://staging.d1zbyh3gidoh8o.amplifyapp.com/cce/Character-Education/green-movement/)
+*   [Kindness Movement](https://staging.d1zbyh3gidoh8o.amplifyapp.com/cce/Character-Education/kindness-movement/)
