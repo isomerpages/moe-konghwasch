@@ -9,6 +9,16 @@ links:
     sublinks:
       - title: 德 Moral
         url: /moral/positive-education/
+      - title: 智 Cognitive
+        url: /cognitive/english-language/
+      - title: 体 Physical
+        url: /physical/physical-education/
+      - title: 群 Social
+        url: /social/programme-for-active-learning/
+      - title: 美 Aesthetics
+        url: /aesthetics/
+      - title: Our Signature Programmes
+        url: /our-signature-programmes/sap/
   - title: KHS Pride
     collection: khs-pride
   - title: Info Hub
