@@ -96,4 +96,4 @@ Junior Division Boys:
 
 <figure><img src="/images/tt3.png" style="width:75%"><figcaption> Senior Girls (First in East Zone Championship 2022)</figcaption></figure>
 
-<figure><img src="/images/tt4.png" style="width:75%"><figcaption> Senior Boys (First in East Zone Championship 2022)/figcaption></figure>
+<figure><img src="/images/tt4.png" style="width:75%"><figcaption> Senior Boys (First in East Zone Championship 2022)</figcaption></figure>
