@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 ---
 ### Co-Curricular Activities
 
-*   [Clubs and Societies](https://www.konghwa.moe.edu.sg/khs-learning-experiences/social/co-curricular-activities-cca/clubs-and-societies)
-*   [Physical Sports](https://www.konghwa.moe.edu.sg/khs-learning-experiences/social/co-curricular-activities-cca/physical-sports)
-*   [Uniformed Groups](https://www.konghwa.moe.edu.sg/khs-learning-experiences/social/co-curricular-activities-cca/uniformed-groups)
-*   [Visual and Performing Arts](https://www.konghwa.moe.edu.sg/khs-learning-experiences/social/co-curricular-activities-cca/visual-and-performing-arts)
+*   [Clubs and Societies](https://staging.d1zbyh3gidoh8o.amplifyapp.com/cca/Clubs-and-Societies/chess-club/)
+*   [Physical Sports](https://staging.d1zbyh3gidoh8o.amplifyapp.com/cca/Physical-Sports/badminton/)
+*   [Uniformed Groups](https://staging.d1zbyh3gidoh8o.amplifyapp.com/cca/Uniformed-Groups/brownies/)
+*   [Visual and Performing Arts](https://staging.d1zbyh3gidoh8o.amplifyapp.com/cca/Visual-and-Performing-Arts/art-club/)
