@@ -3,6 +3,8 @@ title: English Language
 permalink: /cognitive/english-language/
 description: ""
 ---
+### English Language
+
 #### Vision and Mission
 
 At Kong Hwa, we aim to develop every Kong Hwaian into an effective and confident communicator.
