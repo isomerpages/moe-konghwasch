@@ -5,8 +5,10 @@ links:
   - title: KHS Family
     collection: khs-family
   - title: Learning Experiences
-    url: /permalink
-    sublinks: []
+    url: /moral/positive-education/
+    sublinks:
+      - title: 德 Moral
+        url: /moral/positive-education/
   - title: KHS Pride
     collection: khs-pride
   - title: Info Hub
