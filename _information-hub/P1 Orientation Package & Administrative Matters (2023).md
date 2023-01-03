@@ -34,7 +34,7 @@ The portal can be accessed via the URL: https://pg.moe.edu.sg/forms/sdf or the Q
 
   
 
-![student detail form.png](/files/opam8.pdf)  
+<img src="/images/opam1.png" style="width:20%">
 
   
 
@@ -56,16 +56,16 @@ Edusave Application:
 
   
 
-![moe-efas-khs2.png](/files/opam8.pdf) 
+<img src="/images/opam2.png" style="width:20%">
 
   
 
-[MOE FAS Application Form Oct 2022](/files/opam9.pdf)
+[MOE FAS Application Form Oct 2022](/files/opam8.pdf)
 
 Hardcopy application is to be submitted to General Office with supporting documents.
 
   
 
-[MOE FAS Checklist 2023](https://www.konghwa.moe.edu.sg/qql/slot/u412/2022/Information%20Hub/Pri%201%20Orientation%20Package%20&%20Admin%20Matter/MOE%20FAS%20Checklist_2023.pdf)
+[MOE FAS Checklist 2023](/files/opam9.pdf)
 
 School Virtual Tour:
