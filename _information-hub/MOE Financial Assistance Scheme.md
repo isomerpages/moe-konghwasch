@@ -17,14 +17,14 @@ The MOE FAS is to help needy Singaporean families reduce their burden in meeting
 
 **REVISION OF ELIGIBILITY CRITERIA FOR MOE FAS**
 
-1.  The Minister for Education announced that from March 2012, the eligibility criteria for MOE FAS would be revised as follows:
+1\.  The Minister for Education announced that from March 2012, the eligibility criteria for MOE FAS would be revised as follows:
 
-1.  The family’s gross household income (GHI) does not exceed $2,500 [\[1\]](https://www.konghwa.moe.edu.sg/information-hub/moe-financial-assistance-scheme#criteria1) per month; or
-2.  The family’s per capita income (PCI) does not exceed $625 per month.
+a.  The family’s gross household income (GHI) does not exceed $2,500 [\[1\]](https://www.konghwa.moe.edu.sg/information-hub/moe-financial-assistance-scheme#criteria1) per month; or<br>
+b.  The family’s per capita income (PCI) does not exceed $625 per month.
 
   
 
-2.  The PCI is introduced as a parallel assessment criterion to enable students from larger families to benefit. For families with GHI which exceeds $2,500, the PCI will be computed based on the GHI divided by the number of household members. Household members include the student, his/her parents, unmarried siblings and grandparents, and other dependents living in the same household.
+2\.  The PCI is introduced as a parallel assessment criterion to enable students from larger families to benefit. For families with GHI which exceeds $2,500, the PCI will be computed based on the GHI divided by the number of household members. Household members include the student, his/her parents, unmarried siblings and grandparents, and other dependents living in the same household.
 
   
 
@@ -36,7 +36,7 @@ The MOE FAS is to help needy Singaporean families reduce their burden in meeting
 
 **BENEFITS UNDER MOE FAS**
 
-3.  The benefits provided under the MOE FAS are tabulated below:
+3\.  The benefits provided under the MOE FAS are tabulated below:
 
   
 
