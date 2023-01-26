@@ -66,11 +66,11 @@ description: ""
 
 | Class | Form Teacher |
 |:---:|:---:|
-| P6-1 | Mrs Tan-Liang Kok Fen<br>liang_kok_fen@schools.gov.sg<br><br>Mrs Tan-Lin Shiying Diana<br>lin_shiying_diana@schools.gov.sg |
-| P6-2 | Mrs Tang Kin Tuck Christabelle<br>tang_kin_tuck@schools.gov.sg<br><br>Miss Pay Hui Ling<br>pay_hui_ling@schools.gov.sg |
-| P6-3 | Ms Gauri Varsha Rai<br>gauri_varsha_rai@schools.gov.sg<br><br>Mrs Chew-Wong Hui Ren<br>wong_hui_ren@schools.gov.sg |
-| P6-4 | Mdm Sharifah Warda Bte Syed Mohd Alsagoff<br>sharifah_warda_s_m@schools.gov.sg<br><br>Mr Khoo Wenzhong James<br>khoo_wenzhong_james@schools.gov.sg |
-| P6-5 | Mdm Sim Qing Qing<br>sim_qing_qing@schools.gov.sg<br><br>Mdm Yeo Chin Choo Wendy<br>yeo_chin_choo_wendy@schools.gov.sg |
-| P6-6 | Mdm Nurafida Bte Mohd Anis<br>nurafida_mohamed_anis@schools.gov.sg<br><br>Mr Kok Zui Hua Leonard<br>kok_zui_hua@schools.gov.sg |
-| P6-7 | Miss Yip Lai Ching Violet<br>yip_lai_ching_violet@schools.gov.sg<br><br>Mrs Kang-Hwang Yongxiang<br>hwang_yongxiang@schools.gov.sg |
+| P6-1 | Mrs Tan-Liang Kok Fen<br>[liang\_kok\_fen@schools.gov.sg](mailto:liang_kok_fen@schools.gov.sg)<br><br>Mrs Tan-Lin Shiying Diana<br>[lin\_shiying\_diana@schools.gov.sg](mailto:lin_shiying_diana@schools.gov.sg) |
+| P6-2 | Mrs Tang Kin Tuck Christabelle<br>[tang\_kin\_tuck@schools.gov.sg](mailto:tang_kin_tuck@schools.gov.sg)<br><br>Miss Pay Hui Ling<br>[pay\_hui\_ling@schools.gov.sg](mailto:pay_hui_ling@schools.gov.sg) |
+| P6-3 | Ms Gauri Varsha Rai<br>[gauri\_varsha\_rai@schools.gov.sg](mailto:gauri_varsha_rai@schools.gov.sg)<br><br>Mrs Chew-Wong Hui Ren<br>[wong\_hui\_ren@schools.gov.sg](mailto:wong_hui_ren@schools.gov.sg) |
+| P6-4 | Mdm Sharifah Warda Bte Syed Mohd Alsagoff<br>[sharifah\_warda\_s\_m@schools.gov.sg](mailto:sharifah_warda_s_m@schools.gov.sg)<br><br>Mr Khoo Wenzhong James<br>[khoo\_wenzhong\_james@schools.gov.sg](mailto:khoo_wenzhong_james@schools.gov.sg) |
+| P6-5 | Mdm Sim Qing Qing<br>[sim\_qing\_qing@schools.gov.sg](mailto:sim_qing_qing@schools.gov.sg)<br><br>Mdm Yeo Chin Choo Wendy<br>[yeo\_chin\_choo\_wendy@schools.gov.sg](mailto:yeo_chin_choo_wendy@schools.gov.sg) |
+| P6-6 | Mdm Nurafida Bte Mohd Anis<br>[nurafida\_mohamed\_anis@schools.gov.sg](mailto:nurafida_mohamed_anis@schools.gov.sg)<br><br>Mr Kok Zui Hua Leonard<br>[kok\_zui\_hua@schools.gov.sg](mailto:kok_zui_hua@schools.gov.sg) |
+| P6-7 | Miss Yip Lai Ching Violet<br>[yip\_lai\_ching\_violet@schools.gov.sg](mailto:yip_lai_ching_violet@schools.gov.sg)<br><br>Mrs Kang-Hwang Yongxiang<br>[hwang\_yongxiang@schools.gov.sg](mailto:hwang_yongxiang@schools.gov.sg) |
 |  |  |
