@@ -55,13 +55,13 @@ description: ""
 
 | Class | Form Teacher |
 |:---:|:---:|
-| P5-1 | Mrs Sharon Maggie Seet<br>sharon_maggie_seet@schools.gov.sg<br><br>Mrs Yeoh-Leong Poh Lay Claire<br>leong_poh_lay@schools.gov.sg |
-| P5-2 | Mdm Tan Siew Sian<br>tan_siew_sian@schools.gov.sg<br><br>Mr Jaysern Lee Teck Chuang<br>jaysern_lee_teck_chuang@schools.gov.sg |
-| P5-3 | Miss Ong Huey Fern<br>ong_huey_fern@schools.gov.sg<br><br>Mdm Zheng Huier<br>zheng_huier@schools.gov.sg |
-| P5-4 | Mrs Seow-Ng Woon Shin Joelynn<br>ng_woon_shin_joelynn@schools.gov.sg<br><br>Mdm Tay Lee Joo Julie<br>tay_lee_joo_julie@schools.gov.sg |
-| P5-5 | Mdm Siti Aishah Bte Ismail<br>siti_aishah_ismail@schools.gov.sg<br><br>Mr Larry Phoon<br>phoon_kong_meng_larry@schools.gov.sg |
-| P5-6 | Mr Jerry Yang<br>yang_ziyi@schools.gov.sg<br><br>Mrs Han-Yap Lay Hua<br>yap_lay_hua@schools.gov.sg |
-| P5-7 | Mdm Chong Chui Mei Penny<br>chong_chui_mei_penny@schools.gov.sg<br><br>Mrs Chong-Goh Hwee Leng Wendi<br>goh_hwee_leng@schools.gov.sg |
+| P5-1 | Mrs Sharon Maggie Seet<br>[sharon\_maggie\_seet@schools.gov.sg](mailto:sharon_maggie_seet@schools.gov.sg)<br><br>Mrs Yeoh-Leong Poh Lay Claire<br>[leong\_poh\_lay@schools.gov.sg](mailto:leong_poh_lay@schools.gov.sg) |
+| P5-2 | Mdm Tan Siew Sian<br>[tan\_siew\_sian@schools.gov.sg](mailto:tan_siew_sian@schools.gov.sg)<br><br>Mr Jaysern Lee Teck Chuang<br>[jaysern\_lee\_teck\_chuang@schools.gov.sg](mailto:Jaysern_Lee_Teck_Chuang@schools.gov.sg) |
+| P5-3 | Miss Ong Huey Fern<br>[ong\_huey\_fern@schools.gov.sg](mailto:ong_huey_fern@schools.gov.sg)<br><br>Mdm Zheng Huier<br>[zheng\_huier@schools.gov.sg](mailto:zheng_huier@schools.gov.sg) |
+| P5-4 | Mrs Seow-Ng Woon Shin Joelynn<br>[ng\_woon\_shin\_joelynn@schools.gov.sg](mailto:ng_woon_shin_joelynn@schools.gov.sg)<br><br>Mdm Tay Lee Joo Julie<br>[tay\_lee\_joo\_julie@schools.gov.sg](mailto:tay_lee_joo_julie@schools.gov.sg) |
+| P5-5 | Mdm Siti Aishah Bte Ismail<br>[siti\_aishah\_ismail@schools.gov.sg](mailto:siti_aishah_ismail@schools.gov.sg)<br><br>Mr Larry Phoon<br>[phoon\_kong\_meng\_larry@schools.gov.sg](mailto:phoon_kong_meng_larry@schools.gov.sg) |
+| P5-6 | Mr Jerry Yang<br>[yang\_ziyi@schools.gov.sg](mailto:Yang_Ziyi@schools.gov.sg)<br><br>Mrs Han-Yap Lay Hua<br>[yap\_lay\_hua@schools.gov.sg](mailto:yap_lay_hua@schools.gov.sg) |
+| P5-7 | Mdm Chong Chui Mei Penny<br>[chong\_chui\_mei\_penny@schools.gov.sg](mailto:chong_chui_mei_penny@schools.gov.sg)<br><br>Mrs Chong-Goh Hwee Leng Wendi<br>[goh\_hwee\_leng@schools.gov.sg](mailto:goh_hwee_leng@schools.gov.sg) |
 |  |  |
 
 | Class | Form Teacher |
