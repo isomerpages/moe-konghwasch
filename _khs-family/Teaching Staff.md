@@ -44,13 +44,13 @@ description: ""
 
 | Class | Form Teacher |
 |:---:|:---:|
-| P4-1 | Ms Ng Ling Er<br>ng_ling_er@schools.gov.sg<br><br>Mr Muhammad Zulkifli Bin Mohd Idries<br>muhammad_zulkifli_mohd_idries@schools.gov.sg |
-| P4-2 | Mdm Tay Soh Cheng Carol<br>ng-tay_soh_cheng@schools.gov.sg<br><br>Mr Lin Jinlong Jimmy<br>lin_jinlong_jimmy@schools.gov.sg |
-| P4-3 | Ms Evelyn Tan<br>tan_leng_hwee_evelyn@schools.gov.sg<br><br>Mrs Goh-Wong Lee Ping<br>wong_lee_ping@schools.gov.sg |
-| P4-4 | Mrs Wong-Ho Si Yi<br>ho_si_yi@schools.gov.sg<br><br>Mdm Mabel Liao Mei Bao<br>mabel_liao_mei_bao@schools.gov.sg |
-| P4-5 | Mdm Hafsah Bte Yasin<br>hafsah_yasin@schools.gov.sg<br><br>Miss Kang Mui Tiang<br>kang_mui_tiang@schools.gov.sg |
-| P4-6 | Miss Gan Ching Ching<br>gan_ching_ching@schools.gov.sg<br><br>Mdm Chien Chia Chun<br>chien_chia_chun@schools.gov.sg |
-| P4-7 | Mrs Hue-Tan Siew Hoon<br>hue-tan_siew_hoon@schools.gov.sg<br><br>Mrs Teo-Zhang Juan Juan<br>zhang_juan_juan@schools.gov.sg<br><br>Mdm Shao Linjuan<br>shao_linjuan@schools.gov.sg |
+| P4-1 | Ms Ng Ling Er<br>[ng\_ling\_er@schools.gov.sg](mailto:ng_ling_er@schools.gov.sg)<br><br>Mr Muhammad Zulkifli Bin Mohd Idries<br>[muhammad\_zulkifli\_mohd\_idries@schools.gov.sg](mailto:muhammad_zulkifli_mohd_idries@schools.gov.sg) |
+| P4-2 | Mdm Tay Soh Cheng Carol<br>[ng-tay\_soh\_cheng@schools.gov.sg](mailto:ng-tay_soh_cheng@schools.gov.sg)<br><br>Mr Lin Jinlong Jimmy<br>[lin\_jinlong\_jimmy@schools.gov.sg](mailto:lin_jinlong_jimmy@schools.gov.sg) |
+| P4-3 | Ms Evelyn Tan<br>[tan\_leng\_hwee\_evelyn@schools.gov.sg](mailto:tan_leng_hwee_evelyn@schools.gov.sg)<br><br>Mrs Goh-Wong Lee Ping<br>[wong\_lee\_ping@schools.gov.sg](mailto:wong_lee_ping@schools.gov.sg) |
+| P4-4 | Mrs Wong-Ho Si Yi<br>[ho\_si\_yi@schools.gov.sg](mailto:ho_si_yi@schools.gov.sg)<br><br>Mdm Mabel Liao Mei Bao<br>[mabel\_liao\_mei\_bao@schools.gov.sg](mailto:mabel_liao_mei_bao@schools.gov.sg) |
+| P4-5 | Mdm Hafsah Bte Yasin<br>[hafsah\_yasin@schools.gov.sg](mailto:hafsah_yasin@schools.gov.sg)<br><br>Miss Kang Mui Tiang<br>[kang\_mui\_tiang@schools.gov.sg](mailto:kang_mui_tiang@schools.gov.sg) |
+| P4-6 | Miss Gan Ching Ching<br>[gan\_ching\_ching@schools.gov.sg](mailto:gan_ching_ching@schools.gov.sg)<br><br>Mdm Chien Chia Chun<br>[chien\_chia\_chun@schools.gov.sg](mailto:chien_chia_chun@schools.gov.sg) |
+| P4-7 | Mrs Hue-Tan Siew Hoon<br>[hue-tan\_siew\_hoon@schools.gov.sg](mailto:hue-tan_siew_hoon@schools.gov.sg)<br><br>Mrs Teo-Zhang Juan Juan<br>[zhang\_juan\_juan@schools.gov.sg](mailto:zhang_juan_juan@schools.gov.sg)<br><br>Mdm Shao Linjuan<br>[shao\_linjuan@schools.gov.sg](mailto:Shao_Linjuan@schools.gov.sg) |
 |  |  |
 
 | Class | Form Teacher |
