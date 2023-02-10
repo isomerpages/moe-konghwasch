@@ -51,12 +51,9 @@ Time: 2 pm to 3.30 pm
 
 #### Teacher In-Charge
 
-Mdm Nurafida [nurafida\_mohamed\_anis@moe.edu.sg](mailto:nurafida_mohamed_anis@moe.edu.sg)  
-
-Ms Quah Li Zhen [quah\_li\_zhen@schools.gov.sg](mailto:quah_li_zhen@schools.gov.sg)  
-
-Mdm Siti Aishah [siti\_aishah\_ismail@schools.gov.sg](mailto:siti_aishah_ismail@schools.gov.sg)
-
+Mdm Nurafida [nurafida\_mohamed\_anis@moe.edu.sg](mailto:nurafida_mohamed_anis@moe.edu.sg)  <br>
+Ms Quah Li Zhen [quah\_li\_zhen@schools.gov.sg](mailto:quah_li_zhen@schools.gov.sg)  <br>
+Mdm Siti Aishah [siti\_aishah\_ismail@schools.gov.sg](mailto:siti_aishah_ismail@schools.gov.sg)<br>
 Ms Tan Yan Shan [tan\_yan\_shan@schools.gov.sg](mailto:tan_yan_shan@schools.gov.sg)
 
 #### Achievements and Highlights for 2021- 2022
