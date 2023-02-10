@@ -4,7 +4,7 @@ permalink: /cca/Clubs-and-Societies/chess-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-### Chess Club
+### Chess Club (International Chess, Xiangqi & Weiqi)
 
 It’s not about the Kings, Queens, and Rooks, but rather, quadrants and coordinates, thinking strategically and foreseeing consequences. It’s about lines and angles, weighing options and making decisions. Chess might just be the perfect teaching and learning tool.
 
