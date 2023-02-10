@@ -5,4 +5,6 @@ description: ""
 ---
 ### School Song
 
+Insert audio clip here.
+
 <img src="/images/khssong.png" style="width:70%">
