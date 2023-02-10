@@ -27,12 +27,9 @@ Competition Season: National Primary School Chinese Calligraphy Competition
 
 #### Teachers In-Charge
 
-Mdm Yip Yijie [yip\_yijie@schools.gov.sg](mailto:yip_yijie@schools.gov.sg) EXT 557
-
-Mdm Zhang Haiyan [zhang\_haiyan@schools.gov.sg](mailto:zhang_haiyan@schools.gov.sg) EXT 556  
-
-Mdm Shao Linjuan [shao\_linjuan@schools.gov.sg](mailto:shao_linjuan@schools.gov.sg) EXT 558  
-
+Mdm Yip Yijie [yip\_yijie@schools.gov.sg](mailto:yip_yijie@schools.gov.sg) EXT 557<br>
+Mdm Zhang Haiyan [zhang\_haiyan@schools.gov.sg](mailto:zhang_haiyan@schools.gov.sg) EXT 556  <br>
+Mdm Shao Linjuan [shao\_linjuan@schools.gov.sg](mailto:shao_linjuan@schools.gov.sg) EXT 558  <br>
 Mdm Li Hongyu [li\_hongyu@schools.gov.sg](mailto:li_hongyu@schools.gov.sg) EXT 566
 
 #### Achievements & Highlights of 2021
