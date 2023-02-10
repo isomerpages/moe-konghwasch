@@ -23,7 +23,7 @@ description: ""
 <b>Perseverance</b><br>
 <i>I persist toward my goals despite obstacles, discouragement, or disappointment.</i><br>  
 <b>Respect</b><br>
-<i>I give due regard to the feelings of everyone around me.  
+<i>I give due regard to the feelings of everyone around me.  </i><br>
 <b>Responsibility</b><br> 
 <i>I am accountable for my tasks and behaviour.  
 <b>Integrity</b><br>
