@@ -26,12 +26,13 @@ It is also a great learning platform for you to develop your values of persevera
 
 Day: Mondays<br>
 Time: 3 pm to 4 pm<br>
-Venue: eCCA
+Venue: Music Room 2 (C302)
 
 #### Teachers In-Charge
 
-Mrs Ng-Lee Sin Chieh [lee\_sin\_chieh@schools.gov.sg](mailto:lee_sin_chieh@schools.gov.sg)<br>
-Ms Rachel Han [han\_simin@schools.gov.sg](mailto:han_simin@schools.gov.sg)
+Ms Rachel Han [han\_simin@schools.gov.sg](mailto:han_simin@schools.gov.sg)  
+
+Ms Tan Hui Ling Lynnette [tan\_hui\_ling\_lynnette@schools.gov.sg](mailto:tan_hui_ling_lynnette@schools.gov.sg)
 
 #### Our Achievements & Highlights for 2019
 
