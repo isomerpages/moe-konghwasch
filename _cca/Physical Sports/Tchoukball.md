@@ -22,8 +22,6 @@ Venue: Lecture Theatre (LT)
 
 #### Teachers In-Charge
 
-Mrs Christine Kang [lim\_ching\_chye@schools.gov.sg](mailto:lim_ching_chye@schools.gov.sg)
-
-[](mailto:ng_ling_er@schools.gov.sg)Miss Ng Ling Er  [ng\_ling\_er@schools.gov.sg](mailto:ng_ling_er@schools.gov.sg)  
-
+Mrs Christine Kang [lim\_ching\_chye@schools.gov.sg](mailto:lim_ching_chye@schools.gov.sg)<br>
+Miss Ng Ling Er  [ng\_ling\_er@schools.gov.sg](mailto:ng_ling_er@schools.gov.sg)  <br>
 Ms An Wei [an\_wei@schools.gov.sg](mailto:an_wei@schools.gov.sg)
