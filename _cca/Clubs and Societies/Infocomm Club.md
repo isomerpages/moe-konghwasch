@@ -35,3 +35,5 @@ Ms Foo Wanru Yvette [foo\_wanru\_yvette@moe.edu.sg](mailto:foo_wanru_yvette@moe
 Mr Low Kok Leong [low\_kok\_leong@moe.edu.sg](mailto:low_kok_leong@moe.edu.sg)
 
 Ms Gauri Rai [gauri\_varsha\_rai@moe.edu.sg](mailto:gauri_varsha_rai@moe.edu.sg)
+
+Mr Ng Zi Jian [ng\_zi\_jian@moe.edu.sg](mailto:ng_zi_jian@moe.edu.sg)
