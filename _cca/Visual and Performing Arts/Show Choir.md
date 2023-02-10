@@ -30,8 +30,7 @@ Venue: Music Room 2 (C302)
 
 #### Teachers In-Charge
 
-Ms Rachel Han [han\_simin@schools.gov.sg](mailto:han_simin@schools.gov.sg)  
-
+Ms Rachel Han [han\_simin@schools.gov.sg](mailto:han_simin@schools.gov.sg)  <br>
 Ms Tan Hui Ling Lynnette [tan\_hui\_ling\_lynnette@schools.gov.sg](mailto:tan_hui_ling_lynnette@schools.gov.sg)
 
 #### Our Achievements & Highlights for 2019
