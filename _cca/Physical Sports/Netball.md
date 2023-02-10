@@ -18,9 +18,9 @@ The focus of the school’s Netball CCA is inculcate in the girls a love for the
 
 Day: Mondays<br>
 Time: 3 pm to 4 pm<br>
-Venue: eCCA
+Venue:  Lecture Theatre (LT)
 
 #### Teacher In-Charge
 
-Miss Lim Hui Keng [lim\_hui\_keng@moe.edu.sg](mailto:lim_hui_keng@moe.edu.sg) Ext 525<br>
-Mrs Gaytri Thapa [sundra\_gaytri\_meriange@schools.gov.sg](mailto:sundra_gaytri_meriange@schools.gov.sg) Ext 521
+Mdm Chew Siew Leng (Teacher Xan) [chew\_siew\_leng@schools.gov.sg](mailto:chew_siew_leng@schools.gov.sg)  
+Mrs Yeoh-Goh Jia Hui [goh\_jia\_hui@schools.gov.sg](mailto:goh_jia_hui@schools.gov.sg)
