@@ -6,7 +6,7 @@ third_nav_title: Visual and Performing Arts
 ---
 ### Chinese Calligraphy Club
 
-The Chinese Calligraphy Club provides different platforms for the holistic development of the pupils in Chinese calligraphy and brush painting. To foster greater awareness in Chinese calligraphy, pupils were given opportunities to take part in national calligraphy competitions.
+The Chinese Calligraphy Club provides different platforms for the holistic development of the pupils in Chinese calligraphy and brush painting. To foster greater awareness in Chinese calligraphy, pupils were given opportunities to take part in national calligraphy competitions and SYF Art Exhibition.
 
   
 
@@ -21,14 +21,19 @@ Objectives:
 
 Day: Fridays<br>
 Time: 2 pm to 3.30 pm<br>
-Venue: A305 Classroom
+Venue: A106 Art Room 3
 
 Competition Season: National Primary School Chinese Calligraphy Competition
 
 #### Teachers In-Charge
 
-Mdm Yip Yijie [yip\_yijie@schools.gov.sg](mailto:yip_yijie@schools.gov.sg) Ext 557<br>
-Mdm Liu Yali [Liu\_Yali\_A@schools.gov.sg](mailto:Liu_Yali_A@schools.gov.sg) Ext 559
+Mdm Yip Yijie [yip\_yijie@schools.gov.sg](mailto:yip_yijie@schools.gov.sg) EXT 557
+
+Mdm Zhang Haiyan [zhang\_haiyan@schools.gov.sg](mailto:zhang_haiyan@schools.gov.sg) EXT 556  
+
+Mdm Shao Linjuan [shao\_linjuan@schools.gov.sg](mailto:shao_linjuan@schools.gov.sg) EXT 558  
+
+Mdm Li Hongyu [li\_hongyu@schools.gov.sg](mailto:li_hongyu@schools.gov.sg) EXT 566
 
 #### Achievements & Highlights of 2021
 
