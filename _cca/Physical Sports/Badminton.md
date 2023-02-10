@@ -10,7 +10,7 @@ There are two different categories of badminton teams in Kong Hwa School. They a
 
   
 
-For the school team, students are given the opportunity to play in the National School Games (NSG) competition. There are junior boys and girls team which comprises of students from P3 to P5 and senior boys and girls team which comprises of P5 & P6 students. These groups of students train three times a week. Selections will be held for pupils from P2 and P3 if they want to enter the school team.
+For the school team, students are given the opportunity to play in the National School Games (NSG) competition. There are junior boys and girls team which comprises of students from P3 to P5 and senior boys and girls team which comprises of P5 & P6 students. These groups of students train three times a week. 
 
   
 
@@ -29,20 +29,37 @@ Friday: 2 p.m. – 3.30 p.m.
 **School Team**
 
 Boys Team 1: Tuesday, Thursday and Friday from 2 p.m. – 5 p.m.<br>
-Boys Team 2: Tuesday and Thursday from 2 p.m. – 5 p.m.<br>
+Boys Team 2: Tuesday and Thursday from 2 p.m. – 5 p.m.<br><br>
 Girls Team 1: Monday, Wednesday and Friday from 2 p.m. – 5 p.m.<br>
 Girls Team 2: Monday and Wednesday from 2 p.m. – 5 p.m.
 
 #### Teachers In-Charge
 
-Mr James Khoo [khoo\_wenzhong\_james@schools.gov.sg](mailto:khoo_wenzhong_james@schools.gov.sg) Ext 215<br>
-Mdm Sim Qing Qing [sim\_qing\_qing@schools.gov.sg](mailto:sim_qing_qing@schools.gov.sg)<br>
-Ms Ong Huey Fern [ong\_huey\_fern@schools.gov.sg](mailto:ong_huey_fern@schools.gov.sg)<br>
-Mrs Wong-Ho Si Yi [ho\_si\_yi@schools.gov.sg](mailto:ho_si_yi@schools.gov.sg)<br>
-Ms Pay Hui Ling [pay\_hui\_ling@schools.gov.sg](mailto:pay_hui_ling@schools.gov.sg)<br>
-Mrs Sharon Lynn Tan [tan\_chun\_yin@schools.gov.sg](mailto:tan_chun_yin@schools.gov.sg)<br>
-Mdm Wendy Hoon [hoon\_siow\_hway@schools.gov.sg](mailto:hoon_siow_hway@schools.gov.sg)<br>
+Mr James Khoo [khoo\_wenzhong\_james@schools.gov.sg](mailto:khoo_wenzhong_james@schools.gov.sg)
+
+Mrs Thio-Kooh Yong Tse [kooh\_yong\_tse@schools.gov.sg](mailto:kooh_yong_tse@schools.gov.sg)
+
+Mdm Sim Qing Qing [sim\_qing\_qing@schools.gov.sg](mailto:sim_qing_qing@schools.gov.sg)
+
+Ms Ong Huey Fern [ong\_huey\_fern@schools.gov.sg](mailto:ong_huey_fern@schools.gov.sg)
+
+Mrs Wong-Ho Si Yi [ho\_si\_yi@schools.gov.sg](mailto:ho_si_yi@schools.gov.sg)
+
+Ms Pay Hui Ling [pay\_hui\_ling@schools.gov.sg](mailto:pay_hui_ling@schools.gov.sg)
+
+Mrs Sharon Lynn Tan [tan\_chun\_yin@schools.gov.sg](mailto:tan_chun_yin@schools.gov.sg)
+
+Mdm Wendy Hoon [hoon\_siow\_hway@schools.gov.sg](mailto:hoon_siow_hway@schools.gov.sg)
+
 Ms Siti Nurfadzillah [siti\_nurfadzillah\_husni\_thamrin@schools.gov.sg](mailto:siti_nurfadzillah_husni_thamrin@schools.gov.sg)
+
+[](mailto:yap_peck_sze@schools.gov.sg)
+
+Ms Yap Peck Sze [yap\_peck\_sze@schools.gov.sg](mailto:yap_peck_sze@schools.gov.sg)
+
+[](mailto:tan_leng_hwee_evelyn@schools.gov.sg)
+
+Ms Evelyn Tan [tan\_leng\_hwee\_evelyn@schools.gov.sg](mailto:tan_leng_hwee_evelyn@schools.gov.sg)
 
 #### Achievements & Highlights of 2021 and 2022
 
