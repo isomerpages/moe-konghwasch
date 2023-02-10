@@ -40,24 +40,15 @@ Venue: ISH 3
 
 #### Teachers In-Charge
 
-Ms Lim Ai Yi [lim\_ai\_yi@schools.gov.sg](mailto:lim_ai_yi@schools.gov.sg)  
-
-Mrs Joelynn Seow [ng\_woon\_shin\_joelynn@schools.gov.sg](mailto:ng_woon_shin_joelynn@schools.gov.sg)
-
-[](mailto:gan_ching_ching@schools.gov.sg)Ms Gan Ching Ching  [gan\_ching\_ching@schools.gov.sg](mailto:gan_ching_ching@schools.gov.sg)  
-
-Mdm Jessica Loo [loo\_yin\_wai@schools.gov.sg](mailto:loo_yin_wai@schools.gov.sg)  
-
-Mdm Sharifah [sharifah\_warda\_s\_m@schools.gov.sg](mailto:sharifah_warda_s_m@schools.gov.sg)  
-
-Mdm Siti Nazriana [siti\_nazriana\_busari@schools.gov.sg](mailto:siti_nazriana_busari@schools.gov.sg)
-
-Mdm Khusniah Liza [khusniah\_liza\_zainal@schools.gov.sg](mailto:khusniah_liza_zainal@schools.gov.sg)
-
-Mr Tan Kian Boon [tan\_kian\_boon@schools.gov.sg](mailto:tan_kian_boon@schools.gov.sg)
-
-Mrs Agnes Wong [lee\_lay\_hua@schools.gov.sg](mailto:lee_lay_hua@schools.gov.sg)
-
+Ms Lim Ai Yi [lim\_ai\_yi@schools.gov.sg](mailto:lim_ai_yi@schools.gov.sg)  <br>
+Mrs Joelynn Seow [ng\_woon\_shin\_joelynn@schools.gov.sg](mailto:ng_woon_shin_joelynn@schools.gov.sg)<br>
+Ms Gan Ching Ching  [gan\_ching\_ching@schools.gov.sg](mailto:gan_ching_ching@schools.gov.sg)  <br>
+Mdm Jessica Loo [loo\_yin\_wai@schools.gov.sg](mailto:loo_yin_wai@schools.gov.sg)  <br>
+Mdm Sharifah [sharifah\_warda\_s\_m@schools.gov.sg](mailto:sharifah_warda_s_m@schools.gov.sg)  <br>
+Mdm Siti Nazriana [siti\_nazriana\_busari@schools.gov.sg](mailto:siti_nazriana_busari@schools.gov.sg)<br>
+Mdm Khusniah Liza [khusniah\_liza\_zainal@schools.gov.sg](mailto:khusniah_liza_zainal@schools.gov.sg)<br>
+Mr Tan Kian Boon [tan\_kian\_boon@schools.gov.sg](mailto:tan_kian_boon@schools.gov.sg)<br>
+Mrs Agnes Wong [lee\_lay\_hua@schools.gov.sg](mailto:lee_lay_hua@schools.gov.sg)<br>
 Mr Zulkifli [muhammad\_zulkifli\_mohd\_idries@schools.gov.sg](mailto:muhammad_zulkifli_mohd_idries@schools.gov.sg)
 
 #### Achievements & Highlights
