@@ -6,26 +6,14 @@ third_nav_title: Citizenship Education
 ---
 ### Value–in–Action (VIA)
 
-#### Student Advocacy of Meaningful Causes
+The Values in Action level programmes prepare Kong Hwaians for a lifetime of active citizenship and contribution, involving them in projects to serve the school and the community. Progressively, our students expand their sphere of influence from P1 to P6, beginning with the home and the classroom, to the school, the wider community, and the world. 
 
-At Kong Hwa School, we want our students to take the lead, and in collaboration with external organisations, we provide platforms for students to become advocates of good causes for the community.
+“德育在于行动”让光华人为终身积极的公民身份和贡献做好准备，让他们参与到种种为学校和社区服务的公益计划。 我们的学生逐渐将他们的公益影响范围从小一扩展到小六 \- 从家庭和课堂中开始，扩展到学校、更广泛的社区，甚至于世界。
 
-#### Green Movement
-
-The Ecobuddies programme is a collaborative project with Dunman High School. The programme guides our P4 and P5 Green Captains towards character and cognitive excellence through role-modelling by their DHS seniors, and the inculcation of appropriate environmental values and attitudes. The Green Captains learn to better manage themselves, build up better social relationships with their peers and become more aware of themselves through the Ecobuddies activities, gaining greater clarity on how they can do their part as Green Captains in environmental education.  
-  
-
-<img src="/images/via100.png" style="width:70%">
-
-#### Kindness Movement
-
-Our Kindness Ambassadors, or Friends of Singa, do their part in spreading the message of kindness. Every year, our Kindness Ambassadors plan and execute a kindness project during Kindness Week, focusing on a theme by the Singapore Kindness Movement, and reaching out to the hearts of the community and the school.  
-  
-<img src="/images/via101.png" style="width:70%">
-
-#### The NE Show
-
-The National Education Show is a rousing opportunity for our Primary 5 students to develop greater understanding of our nation’s growth and a sense of belonging to Singapore. A once-in-a-lifetime opportunity for our Primary 5 students to preview the National Day Parade with their classmates and teachers, their love for our country is strengthened through the show, while taking heed of the trials and tribulations faced by our nation builders.  
-  
-
-<img src="/images/via102.png" style="width:70%">
+|  |  |
+|---|---|
+| <img src="/images/via1.png" style="width:80%"> | Our little Kong Hwaians put their values in action at the P1 and P2 level with the Happy Classroom and Happy Family VIA programme, performing chores and duties at home and in the classroom to do their part as a contributing member |
+| <img src="/images/via2.png" style="width:80%"><img src="/images/via3.png" style="width:80%"><img src="/images/via4.png" style="width:80%"> | At P3, our Kong Hwaians take up the title of Buddy Clean Ambassador, championing others in ensuring the cleanliness of the environment in the school. They also execute a secret mission in _Project Encourage_, swiftly cleaning up the classroom of a target P6 class when its occupants are not around, and leaving notes of encouragement to the P6 seniors for their impending PSLE. |
+| <img src="/images/via5.png" style="width:80%"><img src="/images/via6.png" style="width:80%"> | Our P4s work with _Food from the Heart_ to gather donations of food items from the school, rallying all of us to contribute in helping the less fortunate. Going from class to class to spread awareness, our P4 Kong Hwaians also educate their schoolmates on donation etiquette, and sensitivities to the needs of beneficiaries. |
+|<img src="/images/via7.png" style="width:80%"><img src="/images/via8.png" style="width:80%"><img src="/images/via9.png" style="width:80%"><img src="/images/via10.png" style="width:80%"><img src="/images/via11.png" style="width:80%">  | In partnership with the Council for the Third Age and Fei Yue Family Services, our P5 Kong Hwaians put their values in action through the Intergenerational Learning Programme (ILP), taking the reins in ideating topics for workshops to engage seniors in learning before planning and conducting these workshops for them. Hosted in our school, the programme has received rave reviews from the seniors who praise the little ones for their patience and care as they interact with them over craft work, smartphone apps, and other engaging and practical topics. |
+| <img src="/images/via12.png" style="width:80%"><img src="/images/via13.png" style="width:80%"><img src="/images/via14.png" style="width:80%"> | At P6, it is time to take advocacy to the world, as our Kong Hwaians champion positive environmental habits in the Beach Buddies programme in partnership with PCF. A day out at the beach, our P6 Kong Hwaians take on the roles of environmental advocate and big brother/sister as they guide kindergarteners from PCF for a combined beach clean-up. The interaction between P6s and the kindergarteners is precious, with many of our P6 Kong Hwaians displaying tender, patient and loving sides otherwise unseen by their teachers. |
