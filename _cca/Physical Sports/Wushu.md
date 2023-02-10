@@ -36,7 +36,7 @@ Venue: ISH Level 1
 Mr Albert Tan (IC): [tan\_chok\_how\_albert@schools.gov.sg](mailto:tan_chok_how_albert@schools.gov.sg), 63421195 Ext 551<br>
 Mdm Han Xiaoru (2IC): [han\_xiaoru@schools.gov.sg](mailto:han_xiaoru@schools.gov.sg), 63421195 Ext 560<br>
 Miss Lim Jie Xi: [lim\_Jie\_xi@schools.gov.sg](mailto:lim_Jie_xi@schools.gov.sg), 63421195 Ext 558<br>
-Mrs Chong-Chan Seok Yin: [chan\_seok\_yin@schools.gov.sg](mailto:chan_seok_yin@schools.gov.sg), 63421195 Ext 546
+
 
 #### Achievements & Highlights of 2021&2022
 
@@ -112,3 +112,6 @@ WONG YU QIAO (P6/3)<br>
 YUE EN XI, REANNE (P6/3)<br>
 3rd Position in Senior Girls 5-Duan Sword<br>
 1st Position in Senior Girls 5-Duan Spear
+
+<img src="/images/wushu.png" style="width:80%">
+The Wushu school and CCA team members’ training session at the school’s ISH level 1 basketball court, under the guidance of the respective coaches and teachers.
