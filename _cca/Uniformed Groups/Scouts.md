@@ -44,12 +44,9 @@ Venue:B4-05
 
 #### Teacher In-Charge
 
-Larry Phoon [phoon\_kong\_meng\_larry@moe.edu.sg](mailto:phoon_kong_meng_larry@moe.edu.sg)
-
-Jerry Yang [yang\_ziyi@moe.edu.sg](mailto:yang_ziyi@moe.edu.sg)
-
-Anilia Sim [sim\_kim\_noy\_anilia@moe.edu.sg](mailto:sim_kim_noy_anilia@moe.edu.sg)  
-
+Larry Phoon [phoon\_kong\_meng\_larry@moe.edu.sg](mailto:phoon_kong_meng_larry@moe.edu.sg)<br>
+Jerry Yang [yang\_ziyi@moe.edu.sg](mailto:yang_ziyi@moe.edu.sg)<br>
+Anilia Sim [sim\_kim\_noy\_anilia@moe.edu.sg](mailto:sim_kim_noy_anilia@moe.edu.sg)  <br>
 Tan Tong Joo [tan\_tong\_joo@moe.edu.sg](mailto:tan_tong_joo@moe.edu.sg)
 
 #### Achievements & Highlights of 2021-2022
