@@ -5,64 +5,74 @@ description: ""
 ---
 ### Aesthetics
 
-<figcaption><b>美学课程 <br>保罗 · 塞尚</b>
+<img src="/images/aes7.png" style="width:30%">
 
-一切艺术都是情感的表现<Br>
-
-“A work of art which did not begin in emotion is not art.”<br>
-
-~ Paul Cezanne~</figcaption>
-
-#### 我们的座右铭：
-
-提高光华学生美术创作的激情并培养他们对美术的鉴赏能力。
+### 光华学校七十周年 – 美术部简介
 
   
+光华学校美术部秉持着“乐于韵艺”的愿景，希望通过三大方面来激发学生对美术创作的热诚，并提高学生对美术作品的鉴赏能力。   
+  
+首先，光华学生在六年的学习生涯中，有机会在每个学期通过校内周会的讲座和介绍，知道遍布在新加坡各处的美术作品，并了解到每件艺术品背后的故事。当学生们升上四年级时，学校会让他们通过参观博物院， 接触并认识到更多的美术作品。在参访博物院时，导览员和老师会带领学生观赏来自各国各地的美术作品，然后进行小组讨论，以进一步让学生学会如何鉴赏美术作品。   
 
-#### Our Motto:
+Assembly talk, MBL,
 
-Developing every Kong Hwaian with a passion and an appreciation for arts.
+<img src="/images/aes8.png" style="width:60%">
 
-#### 视觉艺术
+其次，光华学生在六年的美术课程中，有机会在课堂上接触来自东西方和本地画家的艺术创作，了解到不同背景的艺术家在画中所要传达的信息。老师也会让学生对作品所要传达的信息提出个人观点，引导学生们从多方面进行鉴赏，以作为将来创作的灵感来源。学生们在进行美术创作时，将会学习如何运用各类美术材料来带出自己作品所要表达的信息作品完成后，学生们会对自己的作品进行自我评价，然后再与同学们进行赏析的活动。为达致这些目标，光华在小一至小四的美术课程中融入了书法与水墨画课。这也是我们秉持特选学校的特色，让学生在学习美术创作的同时，也得到学习中华文化艺术的机会。  
+  
+P1-P6 curriculum, SAP
 
-在光华学校的六年学习生涯中，我们的学生将接触多方面的中国与西方艺术。
+<img src="/images/aes9.png" style="width:60%">
 
+最后我们也会提供展览平台让学校里的小小美术家发挥各自的潜能，展示各自的才华。光华学校会为每个年级举办美术展览会，让学生展示作品，增强了学生们对美术创作的自信，也启发其他同学积极努力创作。老师们也会鼓励有才华的学生，在课间休息时，为其他的同学示范美术技巧，分享创作心得。除此之外，学校也会举办与传统节日相关的校内美术比赛，老师们也会鼓励学生积极参与校外的美术比赛。  
+
+Exhibition, Art corner, competition (internal, external)
+
+<img src="/images/aes10.png" style="width:60%">
+
+<img src="/images/aes11.png" style="width:60%">
+
+<img src="/images/aes12.png" style="width:60%">
+
+#### 我们坚信每一个孩子都是天生的音乐家。
+
+**乐于音乐 沉浸其中 (Experience)**  
+  
+光华的音乐课程灵活地结合了奥尔夫(Orff)、柯达伊(Kodály)和达尔克罗兹(Dalcroze)的教学法，让孩子们通过歌唱、律动、舞蹈、游戏、故事和戏剧表演的形式学习乐理以及音乐表演艺术。在老师的指导下，学生学习表演各种乐器：  
+  
+一、二年级：节令鼓、木鱼、钹、手铃等（打击乐器）  
+三年级：尤克丽丽（弹拨乐器）  
+四年级：竖笛（吹管乐器）  
+五年级：木琴、钢片琴 （打击乐器）  
+  
+学生在掌握表演乐器技术的当儿，也有机会和朋友合奏，并同台演出。在彩排和表演的过程中，学生明白相互聆听的重要，再通过舞台表演经验的累积，从而建立起自信心，也培育学生音乐方面的修养。  
   
 
-我们的视觉艺术课程包括了各种各样的艺术形式：图画、绘画、手工、陶瓷，艺术欣赏及数码艺术。同时，为了保有特选小学的特色，我们也着重于提供学生更多学习华文与接触华族文化的机会。有鉴于此，我们的二年级至四年级的美术课程也融入了由专业书法老师授课的书法与国画课。此外，我们也为小一生开办书法班，为他们提供在课余时间学习书法的宝贵机会。
-
+**探索音乐 创意无限 (Exploration)**  
   
-
-为了让学生通过不同的活动培养对美术的兴趣，光华学校每年都举办一次校内现场作画比赛与年终美术展。每一年的作画比赛都让学校发掘了不少才华出众，有美术特长的学生。每一年的年终美术展不止给予学生一个施展才华的舞台，所展出的学生佳作更是起了示范作用，鼓励学生积极参与美术欣赏。
-
-#### Visual Arts
-
-Students learn Chinese and Western arts in their six years of primary education in Kong Hwa School. They are exposed to various art forms like drawing, painting, craftwork, ceramic, art appreciation and digital art.
-
+音乐是人类共同的语言，所以为了激发学生的好奇心，光华学校的音乐课程也让学生有机会接触不同风格的曲目和来自不同国家的音乐家等素材，让孩子进一步地了解音乐家的创作旅程，并能进行简单的赏析。  
   
-
-As a SAP school with strong emphasis on Student exposure to Chinese culture, the Primary Two to Four Students learn Chinese Calligraphy and Chinese Brush Painting from the experts of these fields during their art lessons.
-
+此外，在音乐老师循序渐进的教学后，学生也有发挥创意及想象力的空间，在不同的阶段，进行自己的音乐创作。在各年级的音乐课堂上，小小音乐家也能选择表演不同乐器，为班级合奏增添层次感。  
+六年级的学生则学习利用数码科技和音乐软件创作出属于自己的主题曲。  
   
+**欣赏多元音乐 开拓新体验 (Exposure)**  
+  
+音乐不分国界，所以光华学校的音乐课程带领小小音乐家周游多元的音乐世界。学生学到了东南亚（泰国、印尼、马拉西亚、菲律宾等）、亚洲和欧美国家的童谣，从而通过音乐了解其国家的文化。学生也有机会练习华族戏曲，结合唱、做、念和打的表演形式，表演戏曲舞台中的动作。  
+  
+我们希望通过音乐课程激发光华学生对于音乐表演和创作的热忱，培养他们对音乐的鉴赏能力，保持对音乐持久而浓厚的兴趣，更希望他们终身喜爱音乐。
 
-School-based art competitions like the annual on-the-spot art competition are avenues to mine and discover talents in the area of visual arts for grooming. The annual year-end school-based art exhibition showcases and gives recognition to artistic Students who excel in the area of visual arts besides encouraging the Student population to engender greater appreciation of the arts.
+<img src="/images/aes13.png" style="width:40%">
 
-#### 音乐
+<img src="/images/aes14.png" style="width:40%">
 
-在音乐教学中，学生将认识各类中国打击乐器，了解中国音乐历史并学习弹奏一样打击乐器。经过三年的培训后，学校为了提供学生展现音乐才华的机会，将安排一年一度的迷你音乐会，邀请家长前来观看演出。同时，各个班级也将轮流在校内的学生演出角落奏出悦耳动听的曲子，让休息时间也充满音乐旋律。通过这些活动，学校希望培养学生对音乐持久而浓厚的兴趣，更希望他们终身喜爱音乐。
+<img src="/images/aes15.png" style="width:40%">
 
-#### Music
+<img src="/images/aes16.png" style="width:40%">
 
-Every Student is introduced to different types of musical instruments, learns the Chinese music history and acquires the skills of playing an instrument in their six years of primary education in Kong Hwa School. Students are given opportunities to perform before their peers as an affirmation of their effort and capabilities in music mastery. Students have many opportunities to perform either on stage or at the Students’ Platform where different classes are scheduled to perform weekly during recess time. The developmental school-based programmes aim to engender in the Students the passion and love for music.
+<img src="/images/aes17.png" style="width:40%">
 
-<figure><img src="/images/aes1.png" style="width:75%"><figcaption>Primary 2 students are excited and all ready for the Green Song Singing Competition.</figcaption></figure>
+<img src="/images/aes18.png" style="width:40%">
 
-<figure><img src="/images/aes2.png" style="width:75%"><figcaption>Primary 4 recorder recital at the Students’ Platform during recess.</figcaption></figure>
+<img src="/images/aes19.png" style="width:40%">
 
-<figure><img src="/images/aes3.png" style="width:75%"><figcaption>Students are engaged and actively participating in innovative music games.</figcaption></figure>
-
-<figure><img src="/images/aes4.png" style="width:75%"><figcaption>Kong Hwa School’s very own music corner – Students participating in a music quiz during recess.</figcaption></figure>
-
-<figure><img src="/images/aes5.png" style="width:75%"><figcaption>Kong Hwa Idol Auditions</figcaption></figure>
-
-<figure><img src="/images/aes6.png" style="width:75%"><figcaption>Calligraphy and Chinese Painting lesson</figcaption></figure>
+<img src="/images/aes20.png" style="width:40%">
