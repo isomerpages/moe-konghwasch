@@ -16,7 +16,7 @@ description: ""
 | P1-7 | Mrs Choong Wah Loy Shirley<br>[choong\_wah\_loy@schools.gov.sg](mailto:choong_wah_loy@schools.gov.sg)<br><br>Mdm Zhang Haiyan<br>[zhang\_haiyan@schools.gov.sg](mailto:zhang_haiyan@schools.gov.sg) |
 | P1-8 | Ms Siti Nurfadzillah Husni Thamrin<br>[siti\_nurfadzillah\_husni\_thamrin@schools.gov.sg](mailto:siti_nurfadzillah_husni_thamrin@schools.gov.sg)<br><br>Mrs Yeoh-Goh Jia Hui<br>[goh\_jia\_hui@schools.gov.sg](mailto:goh_jia_hui@schools.gov.sg) |
 | P1-9 | Ms Yap Peck Sze<br>[yap\_peck\_sze@schools.gov.sg](mailto:yap_peck_sze@schools.gov.sg)<br><br>Ms Chan Yin Ling<br>[chan\_yin\_ling\_a@schools.gov.sg](mailto:chan_yin_ling_a@schools.gov.sg) |
-|  |  |
+| Learning Support Coordinator | Mrs Nor Ashikin Fadzil <br>[nor\_ashikin\_md\_daud@schools.gov.sg](mailto:nor_ashikin_md_daud@schools.gov.sg) |
 
 | Class | Form Teacher |
 |:---:|:---:|
