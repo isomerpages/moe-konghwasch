@@ -31,8 +31,7 @@ Venue: Art Rooms
 
 #### Teachers In-Charge
 
-Mdm Julie Tay: [tay\_lee\_joo\_julie@moe.edu.sg](mailto:tay_lee_joo_julie@moe.edu.sg)
-
+Mdm Julie Tay: [tay\_lee\_joo\_julie@moe.edu.sg](mailto:tay_lee_joo_julie@moe.edu.sg)<br>
 Miss Ann Pei: [pei\_qianru@moe.edu.sg](mailto:pei_qianru@moe.edu.sg)
 
 #### Achievements & Highlights of 2022
