@@ -18,9 +18,12 @@ Our Tchoukball CCA shares the same belief with the founder of Tchoukball, Dr Her
 
 Day: Fridays<br>
 Time: 2 pm to 3.30 pm<br>
-Venue: Lecture Theatre (In Person CCA)
+Venue: Lecture Theatre (LT)
 
 #### Teachers In-Charge
 
-Mrs Christine Kang [lim\_ching\_chye@schools.gov.sg](mailto:lim_ching_chye@schools.gov.sg) Ext 546<br>
-Mdm Carol Tay [ng-tay\_soh\_cheng@schools.gov.sg](mailto:ng-tay_soh_cheng@schools.gov.sg) Ext 522
+Mrs Christine Kang [lim\_ching\_chye@schools.gov.sg](mailto:lim_ching_chye@schools.gov.sg)
+
+[](mailto:ng_ling_er@schools.gov.sg)Miss Ng Ling Er  [ng\_ling\_er@schools.gov.sg](mailto:ng_ling_er@schools.gov.sg)  
+
+Ms An Wei [an\_wei@schools.gov.sg](mailto:an_wei@schools.gov.sg)
