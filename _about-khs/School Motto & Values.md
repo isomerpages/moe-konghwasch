@@ -16,6 +16,7 @@ description: ""
 <b><u>Values (KHS PR2IDE)  </u></b><br>
 <b>Kindness</b><br>
 <i>I know good, do good, and feel good</i><br>
+
 <b>Humility</b><br>
 <i>I see my strengths and talents but do not seek to be the centre of attention.</i><br>  
 <b>Sincerity</b><br>
@@ -24,10 +25,12 @@ description: ""
 <i>I persist toward my goals despite obstacles, discouragement, or disappointment.</i><br>  
 <b>Respect</b><br>
 <i>I give due regard to the feelings of everyone around me.  </i><br>
+
 <b>Responsibility</b><br> 
 <i>I am accountable for my tasks and behaviour.</i><br>  
 <b>Integrity</b><br>
 <i>I am honest to myself and others.</i><br> 
+
 <b>Dare</b><br> 
 <i>I have the courage to face challenges, and to deal with setbacks.</i><br>  
 <b>Empathy </b><br> 
