@@ -1,0 +1,5 @@
+collections:
+  physical:
+    output: true
+    order:
+      - Physical Education.md

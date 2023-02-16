@@ -1,0 +1,10 @@
+collections:
+  cognitive:
+    output: true
+    order:
+      - English Language.md
+      - Chinese Language.md
+      - Mathematics.md
+      - Science.md
+      - Project Work.md
+      - Thinkers' Programme.md

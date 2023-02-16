@@ -1,0 +1,10 @@
+collections:
+  moral:
+    output: true
+    order:
+      - Positive Education.md
+      - CCE/Character and Citizenship Education.md
+      - CCE/Character Education.md
+      - CCE/Citizenship Education.md
+      - CCE/.keep
+      - MOE Sexuality Education.md

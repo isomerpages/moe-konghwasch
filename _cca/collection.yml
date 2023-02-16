@@ -1,0 +1,24 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Clubs and Societies/Chess Club.md
+      - Clubs and Societies/Infocomm Club.md
+      - Clubs and Societies/.keep
+      - Physical Sports/Badminton.md
+      - Physical Sports/Basketball.md
+      - Physical Sports/Netball.md
+      - Physical Sports/Table Tennis.md
+      - Physical Sports/Tchoukball.md
+      - Physical Sports/Wushu.md
+      - Physical Sports/.keep
+      - Uniformed Groups/Brownies.md
+      - Uniformed Groups/Scouts.md
+      - Uniformed Groups/.keep
+      - Visual and Performing Arts/Art Club.md
+      - Visual and Performing Arts/Chinese Calligraphy Club.md
+      - Visual and Performing Arts/Chinese Dance.md
+      - Visual and Performing Arts/Chinese Orchestra.md
+      - Visual and Performing Arts/Guzheng.md
+      - Visual and Performing Arts/Show Choir.md
+      - Visual and Performing Arts/.keep

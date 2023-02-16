@@ -1,0 +1,15 @@
+collections:
+  khs-family:
+    output: true
+    order:
+      - School Management Committee/.keep
+      - School Management Committee/Overview.md
+      - School Management Committee/SMC Members.md
+      - School Management Committee/SMC Financial Report.md
+      - Key Personnel.md
+      - Teaching Staff.md
+      - Allied Educators.md
+      - Executive & Administrative Staff.md
+      - Parents.md
+      - Alumni.md
+      - School Service Providers.md

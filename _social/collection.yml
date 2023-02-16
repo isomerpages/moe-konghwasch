@@ -1,0 +1,8 @@
+collections:
+  social:
+    output: true
+    order:
+      - Programme for Active Learning (PAL).md
+      - Student Management.md
+      - Co Curricular Activities/Overview.md
+      - Co Curricular Activities/.keep

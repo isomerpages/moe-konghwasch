@@ -1,15 +1,27 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/khlogo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About KHS
+    collection: about-khs
+  - title: KHS Family
+    collection: khs-family
+  - title: Learning Experiences
+    url: /moral/positive-education/
+    sublinks:
+      - title: 德 Moral
+        url: /moral/positive-education/
+      - title: 智 Cognitive
+        url: /cognitive/english-language/
+      - title: 体 Physical
+        url: /physical/physical-education/
+      - title: 群 Social
+        url: /social/programme-for-active-learning/
+      - title: 美 Aesthetics
+        url: /aesthetics/
+      - title: Our Signature Programmes
+        url: /our-signature-programmes/sap/
+  - title: KHS Pride
+    collection: khs-pride
+  - title: KHS Digital Learning
+    collection: khs-digital-learning
+  - title: Info Hub
+    collection: information-hub

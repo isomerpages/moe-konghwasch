@@ -1,0 +1,6 @@
+collections:
+  khs-pride:
+    output: true
+    order:
+      - Sports Achievements.md
+      - Aesthetics Achievements.md
