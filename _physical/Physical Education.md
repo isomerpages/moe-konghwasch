@@ -5,36 +5,32 @@ description: ""
 ---
 ### Physical Education
 
-#### PE Curriculum
+Our Physical Education (PE) programme aims to develop students in both physical skills and social emotional competencies. These will help our students to achieve an array of fundamental movement skills and proficiency in usage of sport equipment when engaging in games with their fellow peers. Along with these skills, students learn the important values of teamwork, resilience and sportsmanship during PE lessons.
+While focusing on enhancing the various sensory development of our students, we also aim to challenge them to use critical thinking and problem-solving skills in game like situations. Through this, the PE department teachers strive to develop a positive impact on students through inculcating lifelong love for physical activities and leading a healthy and active lifestyle.
 
-To ensure every Kong Hwaian is physically active and fit, PE lessons are planned to be fun and robust where students learn knowledge, attitude and fundamental skills such as throwing and catching, as well as various folk dances and games concepts. Besides learning skills to master the fundamental movements, dance and rhythm, students learn to live and demonstrate the values such as fair play, sportsmanship, teamwork and consideration for others as they play, dance, exercise and interact with their classmates.
+#### Learning for Life Programme (LLP)
 
-  
+Our LLP programme aims to enrich our students’ experience with physical activities which further develops their fundamental movement skills and lifelong learning for sports. Collaborating with ActiveSG through Schools Sports Partnership Programme (SSP), students develop their physical movement skills ranging from individual work to collaboration with groups in team games.
 
-PE plays an important role in the overall holistic development of the students and paves the way to inspire and lead the students to live a healthy and active lifestyle throughout their life.
+#### P1 & P2 - Gymnastics
+![](/images/School%20Sports%20Partnership%20-%20Gym%201.jpg)
 
-#### Events
+![](/images/School%20Sports%20Partnership%20-%20Gym%202.jpg)
 
-**PE Carnival**
+![](/images/School%20Sports%20Partnership%20-%20Gym%203.jpg)
 
-Sports Carnival provided a platform in increasing students' exposure to a variety of sports and games that are not available in school. The students can apply the fundamental and game skills learnt during their PE lessons to play the games. On top of having fun, values are emphasised during the play to promote good sportsmanship.
+#### P3 - Frisbee
 
-  
+![](/images/School%20Sports%20Partnership%20-%20Frisbee%201.jpg)
 
-The following sports and games have been specially selected for the following levels.
+![](/images/School%20Sports%20Partnership%20-%20Frisbee%202.jpg)
 
-  
+![](/images/School%20Sports%20Partnership%20-%20Frisbee%203.jpg)
 
-P1 – Golf<br>
-P2 – Bowling <br>
-P3 – Tchoukball<Br>
-P4 – Inline Skating<br>
-P5 – Sports Chanbara<br>
-P6 – Bossaball
+#### P4 - Floorball
 
-<img src="/images/carnival1.png" style="width:80%">
-<img src="/images/carnival2.png" style="width:80%">
+#### P5 - Volleyball
 
-**SHHK Sports Day**
+![](/images/School%20Sports%20Partnership%20-%20Volleyball%201.jpg)
 
-<img src="/images/carnival3.png" style="width:80%">
+![](/images/School%20Sports%20Partnership%20-%20Volleyball%202.jpg)
