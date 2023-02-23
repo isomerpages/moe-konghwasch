@@ -6,7 +6,7 @@ third_nav_title: Physical Sports
 ---
 ### Wushu
 
-In Wushu, the pupils will develop an understanding of the fundamental skills of Wushu, Quanshu and various weapons. Wushu serves more as a medium in the teaching of Chinese culture and tradition. By combining physical exercise and cultural study, Wushu lessons help foster pupils’ enthusiasm and love for the ancient sport in each gesture and move. They will achieve character development and personal growth in areas such as self-discipline, confidence, resilience and teamwork.
+In Wushu, the students will develop an understanding of the fundamental skills of Wushu, Quanshu and various weapons. Wushu serves more as a medium in the teaching of Chinese culture and tradition. By combining physical exercise and cultural study, Wushu lessons help foster pupils’ enthusiasm and love for the ancient sport in each gesture and move. They will achieve character development and personal growth in areas such as self-discipline, confidence, resilience and teamwork.
 
   
 
