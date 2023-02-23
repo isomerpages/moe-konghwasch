@@ -25,7 +25,7 @@ It is also a great learning platform for you to develop your values of persevera
 #### Training Schedule
 
 Day: Mondays<br>
-Time: 3 pm to 4 pm<br>
+Time: 2 pm to 4 pm<br>
 Venue: Music Room 2 (C302)
 
 #### Teachers In-Charge
