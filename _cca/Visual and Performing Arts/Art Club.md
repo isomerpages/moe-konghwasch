@@ -10,7 +10,7 @@ Art Club provides different avenues and platforms for the holistic development o
 
   
 
-Objectives:
+**Objectives:**
 
 *   To nurture an interest in art.
 *   To develop creativity and self-expression.
@@ -19,7 +19,7 @@ Objectives:
 
   
 
-Through the years, pupils were be exposed to 2D form of painting like acrylic painting, watercolour painting. Pupils will also be exposed to 3D art form like sculptures and sand animation. Pupils in art club are exposed to different art styles, artists and art movements through visits to art galleries and museums whenever possible. Pupils will gain a greater understanding of concepts and ideas in fine art. Pupils will actively participate in Art Competitions.
+Through the years, pupils will be exposed to 2D form of painting like acrylic painting, watercolour painting. Pupils will also be exposed to 3D art form like sculptures and sand animation. Pupils in art club are exposed to different art styles, artists and art movements through visits to art galleries and museums whenever possible. Pupils will gain a greater understanding of concepts and ideas in fine art. Pupils will actively participate in Art Competitions.
 
   
 
