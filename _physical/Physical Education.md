@@ -40,3 +40,29 @@ Our LLP programme aims to enrich our students’ experience with physical activi
 ![](/images/School%20Sports%20Partnership%20-%20Football%201.jpg)
 
 ![](/images/School%20Sports%20Partnership%20-%20Football%202.jpg)
+
+#### P5 Camp
+
+Through the camp, we seek to provide a platform for our students to learn through incorporating adventure learning and character development in an authentic outdoor setting. Another main focal point was to impart the values of teamwork, cooperation and confidence building through various challenges conducted by trained instructors in the camp. The activities required students to gain experiences beyond their comfort zones and come together to explore solutions for complex situations.
+
+![](/images/P5%20Adventure%20Camp%201.jpg)
+
+![](/images/P5%20Adventure%20Camp%202.jpg)
+
+![](/images/P5%20Adventure%20Camp%203.jpg)
+
+![](/images/P5%20Adventure%20Camp%205.jpg)
+
+![](/images/P5%20Adventure%20Camp%206.jpg)
+
+![](/images/P5%20Adventure%20Camp%207.jpg)
+
+![](/images/P5%20Adventure%20Camp%208.jpg)
+
+![](/images/P5%20Adventure%20Camp%209.jpg)
+
+![](/images/P5%20Adventure%20Camp%2010.jpg)
+
+![](/images/P5%20Adventure%20Camp%2011.jpg)
+
+![](/images/P5%20Adventure%20Camp%2012.jpg)
