@@ -66,3 +66,14 @@ Through the camp, we seek to provide a platform for our students to learn throug
 ![](/images/P5%20Adventure%20Camp%2011.jpg)
 
 ![](/images/P5%20Adventure%20Camp%2012.jpg)
+
+#### Annual SHHK Combined School Sports Meet
+
+Due to the COVID-19 pandemic, no Sports Meet was conducted from 2020 – 2022. However, with the improvement of the situation, the Sports Meet will be held this year on 19 May 2023 at Bishan Stadium.
+This is one of the events our students and staff were looking forward to. Held annually, our student athletes pitted their skills and talents against fellow competitors from various SHHK Schools, they were also enthusiastically cheered by their fellow Kong Hwaians who were seated at the spectators gallery. Through the competition, our student athletes also build on friendship and comradery with fellow competitors from other SHHK schools.
+ 
+![](/images/SHHK%20Combined%20Sports%20Meet%201.jpg)
+
+![](/images/SHHK%20Combined%20Sports%20Meet%202.jpg)
+
+![](/images/SHHK%20Combined%20Sports%20Meet%203.jpg)
