@@ -34,3 +34,9 @@ Our LLP programme aims to enrich our students’ experience with physical activi
 ![](/images/School%20Sports%20Partnership%20-%20Volleyball%201.jpg)
 
 ![](/images/School%20Sports%20Partnership%20-%20Volleyball%202.jpg)
+
+#### P6 - Football
+
+![](/images/School%20Sports%20Partnership%20-%20Football%201.jpg)
+
+![](/images/School%20Sports%20Partnership%20-%20Football%202.jpg)
