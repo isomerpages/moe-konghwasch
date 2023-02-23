@@ -33,7 +33,7 @@ Venue: Art Rooms
 
 Mdm Julie Tay: [tay\_lee\_joo\_julie@moe.edu.sg](mailto:tay_lee_joo_julie@moe.edu.sg)<br>
 Miss Ann Pei: [pei\_qianru@moe.edu.sg](mailto:pei_qianru@moe.edu.sg)<br>
-Mdm Zheng Huier : mailto:zheng_huier@schools.gov.sg
+Mdm Zheng Huier : (mailto:zheng_huier@schools.gov.sg)
 
 #### Achievements & Highlights of 2023
 
