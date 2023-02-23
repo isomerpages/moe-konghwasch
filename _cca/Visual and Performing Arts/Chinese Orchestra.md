@@ -14,7 +14,7 @@ In addition to our outstanding achievements in national platforms such as Singap
 
 #### Training Schedule
 
-| Day & Time | CO Instruments | Venue |  |
+|  | Day & Time | CO Instruments |Venue  |
 |:---:|:---:|:---:|---|
 | Sectional Practice<br><br>小组练习 | Mondays<br>2-4pm | 吹管乐:<br>笛子， 笙，唢呐(Dizi, Sheng, Suona)<br><br>拉弦乐:<br>二胡，大提琴，被大提琴(Erhu, Cello, Double Bass)<br><br>弹拨乐：<br>琵琶，阮，柳琴(Pipa, Ruan, Liuqin)<br><br>打击乐：<br>华乐打击乐器，扬琴 (Percussions, Yangqin)<br> | Respective CO rooms and classrooms for each sectional practice |
 | Full Orchestra practice<br><br>大组练习 | Fridays<br>2-4pm | 大组练习<br>Combined Practice<br> | CO Room |
