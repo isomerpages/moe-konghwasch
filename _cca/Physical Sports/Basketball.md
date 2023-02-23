@@ -25,8 +25,8 @@ Venue: ISH1
 
 #### Teachers In-Charge
 
-Mrs Yeoh-Goh Jia Hui (IC): [goh\_jia\_hui@schools.gov.sg](mailto:goh_jia_hui@schools.gov.sg)<br>
-Mrs Matilda Ng (2IC): [matilda\_sim\_li\_juan@schools.gov.sg](mailto:matilda_sim_li_juan@schools.gov.sg)<br>
+Mrs Yeoh-Goh Jia Hui: [goh\_jia\_hui@schools.gov.sg](mailto:goh_jia_hui@schools.gov.sg)<br>
+Mrs Matilda Ng: [matilda\_sim\_li\_juan@schools.gov.sg](mailto:matilda_sim_li_juan@schools.gov.sg)<br>
 Mrs Wong-Lim Eng Tsing [wong\_lim\_eng\_tsing@schools.gov.sg](mailto:wong_lim_eng_tsing@schools.gov.sg)<br>
 Mdm Liew Hwee Cheng [liew\_hwee\_cheng@schools.gov.sg](mailto:liew_hwee_cheng@schools.gov.sg)
 
