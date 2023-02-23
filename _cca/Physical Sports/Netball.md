@@ -17,7 +17,7 @@ The focus of the school’s Netball CCA is inculcate in the girls a love for the
 #### Training Schedule
 
 Day: Mondays<br>
-Time: 3 pm to 4 pm<br>
+Time: 3 pm to 3.30 pm<br>
 Venue:  Lecture Theatre (LT)
 
 #### Teacher In-Charge
