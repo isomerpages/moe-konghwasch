@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - 活跃学习计划 Programme for Active Learning (PAL).md
-      - 学生领袖团 Student Management.md
+      - 学生管理 Student Management.md
       - 课外活动 Co Curricular Activities/Overview.md
       - 课外活动 Co Curricular Activities/.keep
