@@ -2,7 +2,7 @@ collections:
   cognitive:
     output: true
     order:
-      - 英文部门 English Language.md
+      - 英文 English Language.md
       - 华文部门 Chinese Language.md
       - 数学部门 Mathematics.md
       - 科学 Science.md
