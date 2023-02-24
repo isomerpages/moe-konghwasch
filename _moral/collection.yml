@@ -2,7 +2,7 @@ collections:
   moral:
     output: true
     order:
-      - Positive Education.md
+      - 正面教育 Positive Education.md
       - CCE/Character and Citizenship Education.md
       - CCE/Character Education.md
       - CCE/Citizenship Education.md
