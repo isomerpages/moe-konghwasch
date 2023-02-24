@@ -13,17 +13,11 @@ While focusing on enhancing the various sensory development of our students, we 
 Our LLP programme aims to enrich our students’ experience with physical activities which further develops their fundamental movement skills and lifelong learning for sports. Collaborating with ActiveSG through Schools Sports Partnership Programme (SSP), students develop their physical movement skills ranging from individual work to collaboration with groups in team games.
 
 #### P1 & P2 - Gymnastics
-![](/images/School%20Sports%20Partnership%20-%20Gym%201.jpg)
-
 ![](/images/School%20Sports%20Partnership%20-%20Gym%202.jpg)
-
-![](/images/School%20Sports%20Partnership%20-%20Gym%203.jpg)
 
 #### P3 - Frisbee
 
 ![](/images/School%20Sports%20Partnership%20-%20Frisbee%201.jpg)
-
-![](/images/School%20Sports%20Partnership%20-%20Frisbee%202.jpg)
 
 ![](/images/School%20Sports%20Partnership%20-%20Frisbee%203.jpg)
 
@@ -31,13 +25,9 @@ Our LLP programme aims to enrich our students’ experience with physical activi
 
 #### P5 - Volleyball
 
-![](/images/School%20Sports%20Partnership%20-%20Volleyball%201.jpg)
-
 ![](/images/School%20Sports%20Partnership%20-%20Volleyball%202.jpg)
 
 #### P6 - Football
-
-![](/images/School%20Sports%20Partnership%20-%20Football%201.jpg)
 
 ![](/images/School%20Sports%20Partnership%20-%20Football%202.jpg)
 
@@ -75,5 +65,3 @@ This is one of the events our students and staff were looking forward to. Held a
 ![](/images/SHHK%20Combined%20Sports%20Meet%201.jpg)
 
 ![](/images/SHHK%20Combined%20Sports%20Meet%202.jpg)
-
-![](/images/SHHK%20Combined%20Sports%20Meet%203.jpg)
