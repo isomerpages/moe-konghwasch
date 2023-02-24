@@ -39,7 +39,7 @@ Cub Scouts can progress through participation in the activities and camps by ear
 #### Training Schedule
 
 Day: Every Friday<br>
-Time: 3 pm to 4 pm<br>
+Time: 3 pm to 3.30 pm<br>
 Venue:B4-05
 
 #### Teacher In-Charge

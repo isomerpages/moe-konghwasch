@@ -10,7 +10,7 @@ Art Club provides different avenues and platforms for the holistic development o
 
   
 
-Objectives:
+**Objectives:**
 
 *   To nurture an interest in art.
 *   To develop creativity and self-expression.
@@ -19,7 +19,7 @@ Objectives:
 
   
 
-Through the years, pupils were be exposed to 2D form of painting like acrylic painting, watercolour painting. Pupils will also be exposed to 3D art form like sculptures and sand animation. Pupils in art club are exposed to different art styles, artists and art movements through visits to art galleries and museums whenever possible. Pupils will gain a greater understanding of concepts and ideas in fine art. Pupils will actively participate in Art Competitions.
+Through the years, students will be exposed to 2D form of painting like acrylic painting, watercolour painting. Students will also be exposed to 3D art form like sculptures and sand animation. Students in art club are exposed to different art styles, artists and art movements through visits to art galleries and museums whenever possible. Students will gain a greater understanding of concepts and ideas in fine art. Students will actively participate in Art Competitions.
 
   
 
@@ -32,11 +32,11 @@ Venue: Art Rooms
 #### Teachers In-Charge
 
 Mdm Julie Tay: [tay\_lee\_joo\_julie@moe.edu.sg](mailto:tay_lee_joo_julie@moe.edu.sg)<br>
-Miss Ann Pei: [pei\_qianru@moe.edu.sg](mailto:pei_qianru@moe.edu.sg)
+Miss Ann Pei: [pei\_qianru@moe.edu.sg](mailto:pei_qianru@moe.edu.sg)<br>
+Mdm Zheng Huier : [zheng\_huier@schools.gov.sg](mailto:zheng_huier@schools.gov.sg)
 
-#### Achievements & Highlights of 2022
+#### Achievements & Highlights of 2023
 
-Pupils have visited the Nan Chiau High School<br><br>
-Pupils are exposed to poster design competition organized by LTA.<br><br>
-Logo Design<br><br>
-Painting Session
+Students will be taking part in the SYF Art.
+
+Slice of Art Corner to showcase

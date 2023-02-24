@@ -6,7 +6,7 @@ third_nav_title: Visual and Performing Arts
 ---
 ### Chinese Calligraphy Club
 
-The Chinese Calligraphy Club provides different platforms for the holistic development of the pupils in Chinese calligraphy and brush painting. To foster greater awareness in Chinese calligraphy, pupils were given opportunities to take part in national calligraphy competitions and SYF Art Exhibition.
+The Chinese Calligraphy Club provides different platforms for the holistic development of the students in Chinese calligraphy and brush painting. To foster greater awareness in Chinese calligraphy, students were given opportunities to take part in national calligraphy competitions and SYF Art Exhibition.
 
   
 
@@ -14,8 +14,8 @@ Objectives:
 
 *   To nurture an interest in Chinese calligraphy and brush painting
 *   To develop basic skills and techniques in Chinese calligraphy
-*   To expose pupils to Chinese history and culture
-*   To inculcate in pupils school values and a love for the Chinese Language
+*   To expose students to Chinese history and culture
+*   To inculcate in students school values and a love for the Chinese Language
 
 #### Training Schedule
 
@@ -27,10 +27,10 @@ Competition Season: National Primary School Chinese Calligraphy Competition
 
 #### Teachers In-Charge
 
-Mdm Yip Yijie [yip\_yijie@schools.gov.sg](mailto:yip_yijie@schools.gov.sg) EXT 557<br>
-Mdm Zhang Haiyan [zhang\_haiyan@schools.gov.sg](mailto:zhang_haiyan@schools.gov.sg) EXT 556  <br>
-Mdm Shao Linjuan [shao\_linjuan@schools.gov.sg](mailto:shao_linjuan@schools.gov.sg) EXT 558  <br>
-Mdm Li Hongyu [li\_hongyu@schools.gov.sg](mailto:li_hongyu@schools.gov.sg) EXT 566
+Mdm Yip Yijie [yip\_yijie@schools.gov.sg](mailto:yip_yijie@schools.gov.sg)<br>
+Mdm Zhang Haiyan [zhang\_haiyan@schools.gov.sg](mailto:zhang_haiyan@schools.gov.sg)<br>
+Mdm Shao Linjuan [shao\_linjuan@schools.gov.sg](mailto:shao_linjuan@schools.gov.sg)<br>
+Mdm Li Hongyu [li\_hongyu@schools.gov.sg](mailto:li_hongyu@schools.gov.sg)
 
 #### Achievements & Highlights of 2021
 

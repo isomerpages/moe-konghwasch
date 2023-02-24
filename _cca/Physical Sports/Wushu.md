@@ -6,7 +6,7 @@ third_nav_title: Physical Sports
 ---
 ### Wushu
 
-In Wushu, the pupils will develop an understanding of the fundamental skills of Wushu, Quanshu and various weapons. Wushu serves more as a medium in the teaching of Chinese culture and tradition. By combining physical exercise and cultural study, Wushu lessons help foster pupils’ enthusiasm and love for the ancient sport in each gesture and move. They will achieve character development and personal growth in areas such as self-discipline, confidence, resilience and teamwork.
+In Wushu, the students will develop an understanding of the fundamental skills of Wushu, Quanshu and various weapons. Wushu serves more as a medium in the teaching of Chinese culture and tradition. By combining physical exercise and cultural study, Wushu lessons help foster students’ enthusiasm and love for the ancient sport in each gesture and move. They will achieve character development and personal growth in areas such as self-discipline, confidence, resilience and teamwork.
 
   
 
@@ -26,16 +26,17 @@ Venue: ISH Level 1
 
 **CCA Team**
 
-Day: Every Monday (Primary 3 & 4); Every Friday (Primary 5)<br>
+Day: Every Monday (Primary 4 to 6)<br>
 (Primary 6 – till end of term 2)<br>
+(Primary 3 will join the sessions from term 2 week 1 onwards every Friday)<br>
 Time: 2 pm to 3.30 pm<br>
 Venue: ISH Level 1
 
 #### Teachers In-Charge
 
-Mr Albert Tan (IC): [tan\_chok\_how\_albert@schools.gov.sg](mailto:tan_chok_how_albert@schools.gov.sg), 63421195 Ext 551<br>
-Mdm Han Xiaoru (2IC): [han\_xiaoru@schools.gov.sg](mailto:han_xiaoru@schools.gov.sg), 63421195 Ext 560<br>
-Miss Lim Jie Xi: [lim\_Jie\_xi@schools.gov.sg](mailto:lim_Jie_xi@schools.gov.sg), 63421195 Ext 558<br>
+Mr Albert Tan (IC): [tan\_chok\_how\_albert@schools.gov.sg](mailto:tan_chok_how_albert@schools.gov.sg)<br>
+Mdm Han Xiaoru (2IC): [han\_xiaoru@schools.gov.sg](mailto:han_xiaoru@schools.gov.sg)<br>
+Miss Lim Jie Xi: [lim\_Jie\_xi@schools.gov.sg](mailto:lim_Jie_xi@schools.gov.sg)<br>
 
 
 #### Achievements & Highlights of 2021&2022

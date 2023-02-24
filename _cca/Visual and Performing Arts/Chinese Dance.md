@@ -19,10 +19,10 @@ Venue: Dance Room
 
 #### Teachers In-Charge
 
-Mdm Chien Chia Chun [chien\_chia\_chun@schools.gov.sg](mailto:chien_chia_chun@schools.gov.sg) 63421195 (EXT 561)<br>
-Mrs Teng-Ho Yanlin [ho\_yan\_lin@schools.gov.sg](mailto:ho_yan_lin@schools.gov.sg) 63421195 (EXT 552)<br>
-Mrs Tang Kin Tuck Christabelle [tang\_kin\_tuck@schools.gov.sg](mailto:tang_kin_tuck@schools.gov.sg) 63421195 (EXT535)<br>
-Mdm Liu Yali [liu\_yali\_a@schools.gov.sg](mailto:liu_yali_a@schools.gov.sg) 6342 1195 (EXT 559)
+Mdm Chien Chia Chun [chien\_chia\_chun@schools.gov.sg](mailto:chien_chia_chun@schools.gov.sg)<br>
+Mrs Teng-Ho Yanlin [ho\_yan\_lin@schools.gov.sg](mailto:ho_yan_lin@schools.gov.sg)<br>
+Mrs Tang Kin Tuck Christabelle [tang\_kin\_tuck@schools.gov.sg](mailto:tang_kin_tuck@schools.gov.sg)<br>
+Mdm Liu Yali [liu\_yali\_a@schools.gov.sg](mailto:liu_yali_a@schools.gov.sg)
 
 #### Achievements & Highlights  
 
