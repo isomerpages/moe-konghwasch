@@ -2,9 +2,9 @@ collections:
   cca:
     output: true
     order:
-      - Clubs and Societies/Chess Club.md
-      - Clubs and Societies/Infocomm Club.md
-      - Clubs and Societies/.keep
+      - 社团 Clubs and Societies/Chess Club.md
+      - 社团 Clubs and Societies/Infocomm Club.md
+      - 社团 Clubs and Societies/.keep
       - Physical Sports/Badminton.md
       - Physical Sports/Basketball.md
       - Physical Sports/Netball.md
