@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - 正面教育 Positive Education.md
-      - CCE/Character and Citizenship Education.md
-      - CCE/Character Education.md
-      - CCE/Citizenship Education.md
-      - CCE/.keep
+      - 品格与公民教育 CCE/Character and Citizenship Education.md
+      - 品格与公民教育 CCE/Character Education.md
+      - 品格与公民教育 CCE/Citizenship Education.md
+      - 品格与公民教育 CCE/.keep
       - MOE Sexuality Education.md
