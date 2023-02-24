@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - 英文 English Language.md
-      - 华文部门 Chinese Language.md
+      - 华文 Chinese Language.md
       - 数学部门 Mathematics.md
       - 科学 Science.md
       - Project Work.md
