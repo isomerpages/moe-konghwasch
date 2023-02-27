@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Overview.md
       - Character Education/Form Teacher's Guidance Period (FTGP).md
       - Character Education/Green Movement.md
       - Character Education/Kindness Movement.md
