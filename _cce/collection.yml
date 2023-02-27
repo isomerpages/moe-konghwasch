@@ -2,9 +2,9 @@ collections:
   cce:
     output: true
     order:
-      - 网络健康与防护 Cyber Wellness/Infocomm Technology.md
-      - 网络健康与防护 Cyber Wellness/Overview.md
-      - 网络健康与防护 Cyber Wellness/.keep
+      - Cyber Wellness/Infocomm Technology.md
+      - Cyber Wellness/Overview.md
+      - Cyber Wellness/.keep
       - Character Education/Form Teacher's Guidance Period (FTGP).md
       - Character Education/Green Movement.md
       - Character Education/Kindness Movement.md
