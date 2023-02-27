@@ -2,7 +2,7 @@ collections:
   social:
     output: true
     order:
-      - Programme for Active Learning (PAL).md
-      - Student Management.md
-      - Co Curricular Activities/Overview.md
-      - Co Curricular Activities/.keep
+      - 活跃学习计划 Programme for Active Learning (PAL).md
+      - 学生管理 Student Management.md
+      - 课程辅助活动 CCA/Overview.md
+      - 课程辅助活动 CCA/.keep

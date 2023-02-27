@@ -1,10 +1,10 @@
 logo: /images/khlogo.png
 links:
-  - title: About KHS
+  - title: 光华简介 About KHS
     collection: about-khs
-  - title: KHS Family
+  - title: 光华大家庭 KHS Family
     collection: khs-family
-  - title: Learning Experiences
+  - title: 校园动态 Learning Experiences
     url: /moral/positive-education/
     sublinks:
       - title: 德 Moral
@@ -17,11 +17,9 @@ links:
         url: /social/programme-for-active-learning/
       - title: 美 Aesthetics
         url: /aesthetics/
-      - title: Our Signature Programmes
+      - title: 特色活动 Signature Programmes
         url: /our-signature-programmes/sap/
-  - title: KHS Pride
+  - title: 荣誉 KHS Pride
     collection: khs-pride
-  - title: KHS Digital Learning
-    collection: khs-digital-learning
-  - title: Info Hub
+  - title: 家长专区 Info Hub
     collection: information-hub

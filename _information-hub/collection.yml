@@ -2,6 +2,7 @@ collections:
   information-hub:
     output: true
     order:
+      - Student iCON.md
       - New PSLE Scoring and Sec 1 Posting System.md
       - Edusave Character Award (ECHA).md
       - President's Award for Teachers (PAT) 2022.md

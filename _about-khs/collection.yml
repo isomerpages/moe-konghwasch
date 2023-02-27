@@ -2,11 +2,11 @@ collections:
   about-khs:
     output: true
     order:
-      - Principal's Message.md
-      - School Vision & Mission.md
-      - School Motto & Values.md
-      - School Crest.md
-      - School Song.md
-      - School History.md
-      - Student Discipline and School Rules.md
-      - Contact Us.md
+      - 校长的话 Principal's Message.md
+      - 学校的愿景与使命 School Vision & Mission.md
+      - 校训与价值观 School Motto & Values.md
+      - 校徽 School Crest.md
+      - 校歌 School Song.md
+      - 学校历史 School History.md
+      - 校规 Student Discipline and School Rules.md
+      - 联系我们 Contact Us.md

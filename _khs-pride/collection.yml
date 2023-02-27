@@ -2,5 +2,5 @@ collections:
   khs-pride:
     output: true
     order:
-      - Sports Achievements.md
-      - Aesthetics Achievements.md
+      - 体育运动荣誉 Sports Achievements.md
+      - 艺术荣誉 Aesthetics Achievements.md
