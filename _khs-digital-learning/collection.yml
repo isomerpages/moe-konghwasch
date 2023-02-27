@@ -2,6 +2,5 @@ collections:
   khs-digital-learning:
     output: true
     order:
-      - 网络健康与防护 Cyber Wellness/Infocomm Technology.md
       - 网络健康与防护 Cyber Wellness/.keep
       - Student iCON.md
