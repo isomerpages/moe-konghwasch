@@ -2,6 +2,7 @@ collections:
   cognitive:
     output: true
     order:
+      - 资讯通信科技  Infocomm Technology.md
       - 英文 English Language.md
       - 华文 Chinese Language.md
       - 数学 Mathematics.md
