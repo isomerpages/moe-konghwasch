@@ -2,7 +2,6 @@ collections:
   cce:
     output: true
     order:
-      - Cyber Wellness/.keep
       - Character Education/Form Teacher's Guidance Period (FTGP).md
       - Character Education/Green Movement.md
       - Character Education/Kindness Movement.md
