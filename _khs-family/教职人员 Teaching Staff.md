@@ -3,8 +3,9 @@ title: 教职人员 Teaching Staff
 permalink: /khs-family/teaching-staff/
 description: ""
 ---
-
 ### Teaching Staff
+
+<center>
 
 | Class | Form Teacher |
 |:---:|:---:|
@@ -75,3 +76,5 @@ description: ""
 | P6-6 | Mdm Nurafida Bte Mohd Anis<br>[nurafida\_mohamed\_anis@schools.gov.sg](mailto:nurafida_mohamed_anis@schools.gov.sg)<br><br>Mr Kok Zui Hua Leonard<br>[kok\_zui\_hua@schools.gov.sg](mailto:kok_zui_hua@schools.gov.sg) |
 | P6-7 | Miss Yip Lai Ching Violet<br>[yip\_lai\_ching\_violet@schools.gov.sg](mailto:yip_lai_ching_violet@schools.gov.sg)<br><br>Mrs Kang-Hwang Yongxiang<br>[hwang\_yongxiang@schools.gov.sg](mailto:hwang_yongxiang@schools.gov.sg) |
 |  |  |
+
+</center>
