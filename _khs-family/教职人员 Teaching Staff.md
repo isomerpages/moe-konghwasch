@@ -5,10 +5,9 @@ description: ""
 ---
 ### Teaching Staff
 
-<center>
 
-| Class | Form Teacher |
-|:---:|:---:|
+|Class|Form Teacher|
+|:---:|:--:|
 | P1-1 | Ms Chan Jye Yin Jayne<br>[chan\_jye\_yin@schools.gov.sg](mailto:chan_jye_yin@schools.gov.sg)<br><br>Ms Liu Yali<br>[liu\_yali\_a@schools.gov.sg](mailto:Liu_Yali_A@schools.gov.sg) |
 | P1-2 | Mdm Siti Nazriana Bte Busari<br>[siti\_nazriana\_busari@schools.gov.sg](mailto:siti_nazriana_busari@schools.gov.sg)<br><br>Mdm Yip Yijie<br>[yip\_yijie@schools.gov.sg](mailto:yip_yijie@schools.gov.sg) |
 | P1-3 | Mrs Chong-Chan Seok Yin<br>[chan\_seok\_yin@schools.gov.sg](mailto:chan_seok_yin@schools.gov.sg)<br><br>Ms Su Yan<br>[su\_yan@schools.gov.sg](mailto:Su_Yan@schools.gov.sg) |
@@ -18,9 +17,11 @@ description: ""
 | P1-7 | Mrs Choong Wah Loy Shirley<br>[choong\_wah\_loy@schools.gov.sg](mailto:choong_wah_loy@schools.gov.sg)<br><br>Mdm Zhang Haiyan<br>[zhang\_haiyan@schools.gov.sg](mailto:zhang_haiyan@schools.gov.sg) |
 | P1-8 | Ms Siti Nurfadzillah Husni Thamrin<br>[siti\_nurfadzillah\_husni\_thamrin@schools.gov.sg](mailto:siti_nurfadzillah_husni_thamrin@schools.gov.sg)<br><br>Mrs Yeoh-Goh Jia Hui<br>[goh\_jia\_hui@schools.gov.sg](mailto:goh_jia_hui@schools.gov.sg) |
 | P1-9 | Ms Yap Peck Sze<br>[yap\_peck\_sze@schools.gov.sg](mailto:yap_peck_sze@schools.gov.sg)<br><br>Ms Chan Yin Ling<br>[chan\_yin\_ling\_a@schools.gov.sg](mailto:chan_yin_ling_a@schools.gov.sg) |
-| Learning Support Coordinator | Mrs Nor Ashikin Fadzil <br>[nor\_ashikin\_md\_daud@schools.gov.sg](mailto:nor_ashikin_md_daud@schools.gov.sg) |
+| Learning<br>Support<br> Coordinator | Mrs Nor Ashikin Fadzil <br>[nor\_ashikin\_md\_daud@schools.gov.sg](mailto:nor_ashikin_md_daud@schools.gov.sg) |
+| | |
 
-| Class | Form Teacher |
+
+|Class|Form Teacher|
 |:---:|:---:|
 | P2-1 | Mdm Nur Shida Bte Umar Ali<br>[nur\_shida\_umar\_ali@schools.gov.sg](mailto:nur_shida_umar_ali@schools.gov.sg)<br><br>Mr Tan Kian Boon<br>[tan\_kian\_boon@schools.gov.sg](mailto:tan_kian_boon@schools.gov.sg) |
 | P2-2 | Mrs Tan-Chang Zhi Jun<br>[chang\_zhi\_jun@schools.gov.sg](mailto:chang_zhi_jun@schools.gov.sg)<br><br>Mr Tan Tong Joo<br>[tan\_tong\_joo@schools.gov.sg](mailto:tan_tong_joo@schools.gov.sg)|
@@ -76,5 +77,3 @@ description: ""
 | P6-6 | Mdm Nurafida Bte Mohd Anis<br>[nurafida\_mohamed\_anis@schools.gov.sg](mailto:nurafida_mohamed_anis@schools.gov.sg)<br><br>Mr Kok Zui Hua Leonard<br>[kok\_zui\_hua@schools.gov.sg](mailto:kok_zui_hua@schools.gov.sg) |
 | P6-7 | Miss Yip Lai Ching Violet<br>[yip\_lai\_ching\_violet@schools.gov.sg](mailto:yip_lai_ching_violet@schools.gov.sg)<br><br>Mrs Kang-Hwang Yongxiang<br>[hwang\_yongxiang@schools.gov.sg](mailto:hwang_yongxiang@schools.gov.sg) |
 |  |  |
-
-</center>
