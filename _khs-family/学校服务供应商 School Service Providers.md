@@ -60,7 +60,7 @@ description: ""
   none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
   mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt;
   mso-border-alt:solid #AAAAAA .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt" valign="top" width="50%"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG">konghwa_scc@singaporeedusmart.com.sg</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:50.0%;border:solid #AAAAAA 1.0pt;
+	EN-SG"><a href="mailto:konghwa_scc@singaporeedusmart.com.sg">konghwa_scc@singaporeedusmart.com.sg</a></span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:50.0%;border:solid #AAAAAA 1.0pt;
   border-top:none;mso-border-top-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt;
   padding:1.5pt 1.5pt 1.5pt 1.5pt" valign="top" width="50%"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
   EN-SG">Tel:</span></p></td><td style="width:50.0%;border-top:none;border-left:
