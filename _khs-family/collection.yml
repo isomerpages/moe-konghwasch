@@ -2,6 +2,7 @@ collections:
   khs-family:
     output: true
     order:
+      - alumni test.md
       - 属校管理董事会 SMC/.keep
       - 属校管理董事会 SMC/Overview.md
       - 属校管理董事会 SMC/属校董事会会员 SMC Members.md
