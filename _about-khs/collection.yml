@@ -2,7 +2,7 @@ collections:
   about-khs:
     output: true
     order:
-      - 校长的话 Principal's Message.md
+      - 校长献词 Principal's Message.md
       - 学校的愿景与使命 School Vision & Mission.md
       - 校训与价值观 School Motto & Values.md
       - 校徽 School Crest.md
