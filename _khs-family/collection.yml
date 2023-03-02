@@ -2,7 +2,7 @@ collections:
   khs-family:
     output: true
     order:
-      - 属校董事会会员 SMC Members.md
+      - 属校董事会 School Management Committee Members.md
       - 属校董事会财务报告 SMC Financial Report.md
       - 管理团队 Key Personnel.md
       - 教职人员 Teaching Staff.md
