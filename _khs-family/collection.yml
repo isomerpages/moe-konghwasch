@@ -2,10 +2,8 @@ collections:
   khs-family:
     output: true
     order:
-      - 属校董事会财务报告 SMC Financial Report.md
       - 属校董事会会员 SMC Members.md
-      - 属校董事会 SMC/.keep
-      - 属校董事会 SMC/Overview.md
+      - 属校董事会财务报告 SMC Financial Report.md
       - 管理团队 Key Personnel.md
       - 教职人员 Teaching Staff.md
       - 辅助教育人员 Allied Educators.md
@@ -13,3 +11,5 @@ collections:
       - 家长 Parents.md
       - 校友 Alumni.md
       - 学校服务供应商 School Service Providers.md
+      - 属校董事会 SMC/.keep
+      - 属校董事会 SMC/Overview.md
