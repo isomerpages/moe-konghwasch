@@ -1,8 +1,9 @@
 ---
-title: 管理团队 Key Personnel
+title: 学校指导委员会 School Executive Committee
 permalink: /khs-family/key-personnel/
 description: ""
 ---
+
 ### KEY PERSONNEL
 
 #### School Leaders

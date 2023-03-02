@@ -1,8 +1,9 @@
 ---
-title: 学校历史 School History
+title: 校史 School History
 permalink: /about-khs/school-history/
 description: ""
 ---
+
 
 ### SCHOOL HISTORY
 

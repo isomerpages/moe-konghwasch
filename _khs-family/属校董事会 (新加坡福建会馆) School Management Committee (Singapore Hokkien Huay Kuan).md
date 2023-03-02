@@ -1,9 +1,13 @@
 ---
-title: 属校董事会会员 SMC Members
+title: 属校董事会 (新加坡福建会馆) School Management Committee (Singapore Hokkien Huay Kuan)
 permalink: /khs-family/School-Management-Committee/smc-members/
 description: ""
-third_nav_title: 属校管理董事会 SMC
 ---
+
+
+
+
+
 
 
 

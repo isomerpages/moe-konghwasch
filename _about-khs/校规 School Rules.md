@@ -1,8 +1,9 @@
 ---
-title: 校规 Student Discipline and School Rules
+title: 校规 School Rules
 permalink: /about-khs/student-discipline-and-school-rules/
 description: ""
 ---
+
 
 National Anthem / Pledge
 ------------------------

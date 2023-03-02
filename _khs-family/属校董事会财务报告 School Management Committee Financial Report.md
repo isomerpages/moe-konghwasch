@@ -1,9 +1,11 @@
 ---
-title: 属校董事会财务报告 SMC Financial Report
+title: 属校董事会财务报告 School Management Committee Financial Report
 permalink: /khs-family/School-Management-Committee/smc-financial-report/
 description: ""
-third_nav_title: 属校管理董事会 SMC
 ---
+
+
+
 
 
 ### SMC Financial Report

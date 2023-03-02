@@ -1,8 +1,9 @@
 ---
-title: 学校的愿景与使命 School Vision & Mission
+title: 愿景与使命 Vision & Mission
 permalink: /about-khs/school-vision-and-mission/
 description: ""
 ---
+
 
 ### SCHOOL VISION & MISSION
 
