@@ -3,9 +3,7 @@ title: 校长献词 Principal's Message
 permalink: /about-khs/principals-message/
 description: ""
 ---
-
-
-### PRINCIPAL'S MESSAGE 2023
+### 校长献词 2023
 
 2023年是光华建校70周年的华诞。70年的风雨兼程，光华没有被历史的洪流淹没，仍屹立不摇，坚守教育岗位；70载的春华秋实，光华培育了一代又一代的学子，为他们奠下“诚以待人，毅以处事”的人生基石。
 
@@ -36,7 +34,7 @@ description: ""
 方小龙校长
 
   
-
+### PRINCIPAL'S MESSAGE 2023
   
 
 2023 is a special year for Kong Hwa School as we will be celebrating our 70th anniversary milestone. Seventy years of growing from strength to strength and remaining steadfast in its mission as an education institution; Seventy years of nurturing generation after generation of students into upstanding members of society with “Sincerity and Perseverance”.
