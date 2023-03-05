@@ -69,3 +69,5 @@ Hardcopy application is to be submitted to General Office with supporting docume
 [MOE FAS Checklist 2023](/files/opam9.pdf)
 
 School Virtual Tour:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/txZRKSJqyXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
