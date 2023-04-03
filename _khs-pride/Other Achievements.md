@@ -9,3 +9,8 @@ description: ""
 |:---:|:---:|
 | Represented School and obtained 2nd Individual Placing at Local Event | SEAH SHIN RUI |
 
+| Award Name: Scouts Akela | Full Name |
+|:---:|:---:|
+| Akela Award | MOZES TAY QI HAO |
+| Akela Award | LIANG YINGJIE |
+| Akela Award | ONG YI KAI |
