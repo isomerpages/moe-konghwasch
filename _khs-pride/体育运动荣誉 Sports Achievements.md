@@ -3,7 +3,6 @@ title: 体育运动荣誉 Sports Achievements
 permalink: /khs-pride/sports-achievements/
 description: ""
 ---
-
 ### Sports Achievements
 
 | Award Name: SPSSC NSG Badminton | Full Name |
@@ -50,16 +49,6 @@ description: ""
 | NSG Wushu Junior Division Girls (Quanshu 3-Duan Changquan)<br>- 3rd Individual Placing | NG KER NING |
 | NSG Wushu Junior Division Girls (Short Weapon 42 Style Taijijian)<br>- 3rd Individual Placing | NG YU TING |
 
-| Award Name: 73rd National Schools Individual Chess Championships 2022 | Full Name |
-|:---:|:---:|
-| Represented School and obtained 2nd Individual Placing at Local Event | SEAH SHIN RUI |
-
 | Award Name: Crocodile Challenge Cup - Table Tennis CCA | Full Name |
 |:---:|:---:|
 | Represented School and obtained 2nd Individual Placing at Local Event | CHIANG RUI EN, JANELLE |
-
-| Award Name: Scouts Akela | Full Name |
-|:---:|:---:|
-| Akela Award | MOZES TAY QI HAO |
-| Akela Award | LIANG YINGJIE |
-| Akela Award | ONG YI KAI |
