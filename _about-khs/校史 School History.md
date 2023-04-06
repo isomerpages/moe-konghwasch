@@ -113,7 +113,7 @@ Mrs Pang Hong Tin retired from the education service in June 1998. She was succe
 
 Kong Hwa School’s Very Support Parents (VSP) was established in April 1999, fostering greater school-parent partnership.
 
-Ms Chong Li Lian completed her term as principal in December 2003, with Mr Ong Lye Whatt taking over the helm as the 7th principal of Kong Hwa School the following year.
+Ms Chong Lee Lian completed her term as principal in December 2003, with Mr Ong Lye Whatt taking over the helm as the 7th principal of Kong Hwa School the following year.
 
 In 2008, the school was awarded the MOE School Distinction Award (SDA).  It was also validated by Spring Singapore and conferred the Singapore Quality Class (SQC).  The awards were a testimony of the many processes and systems that the school had put in place to deliver quality education.
 
