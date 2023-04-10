@@ -1,14 +1,13 @@
 ---
-title: 校训与价值观 School Motto & Values
+title: 校训与价值观 School Motto &amp; Values
 permalink: /about-khs/school-motto-and-values/
 description: ""
 ---
-
-### SCHOOL MOTTO & VALUES
+### SCHOOL MOTTO &amp; VALUES
 
 #### School Motto
 
-<figure><img src="/images/smv1.png" style="width:35%"><figcaption><b> <i>Sincerity and Perseverance <br>以诚待人    以毅处事</i></b></figcaption></figure>
+<figure><img src="/images/smv1.png" style="width:35%"><figcaption><b> <i>Sincerity and Perseverance <br>诚以待人&nbsp;&nbsp; &nbsp;毅以处事</i></b></figcaption></figure>
 
 <img src="/images/sm100.png" style="width:60%">
 
