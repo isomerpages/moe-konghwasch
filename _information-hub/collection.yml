@@ -2,7 +2,6 @@ collections:
   information-hub:
     output: true
     order:
-      - School Canteen.md
       - Student iCON.md
       - New PSLE Scoring and Sec 1 Posting System.md
       - Edusave Character Award (ECHA).md
@@ -14,3 +13,4 @@ collections:
       - Student Insurance.md
       - MOE Financial Assistance Scheme.md
       - Parents Gateway Mobile App.md
+      - School Canteen.md
