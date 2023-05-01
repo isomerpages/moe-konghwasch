@@ -2,7 +2,6 @@ collections:
   information-hub:
     output: true
     order:
-      - School Bus Advertisement.md
       - Student iCON.md
       - New PSLE Scoring and Sec 1 Posting System.md
       - Edusave Character Award (ECHA).md
@@ -15,3 +14,4 @@ collections:
       - MOE Financial Assistance Scheme.md
       - Parents Gateway Mobile App.md
       - School Canteen.md
+      - School Bus Advertisement.md
