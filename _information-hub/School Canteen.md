@@ -12,4 +12,3 @@ Canteen Stalls
 |     |    |    |
 
 More information will be available soon.
-
