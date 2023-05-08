@@ -25,5 +25,5 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 
 **How to get there?**
-* Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance
-* Bus number: 900 - 3 minutes walking distance 
+* Nearest MRT: Dakota MRT (CC8) – 10 minutes walking distance
+* Bus number: 7, 197, 70 - Drop directly in front of school entrance
