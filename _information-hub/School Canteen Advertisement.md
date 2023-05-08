@@ -25,7 +25,7 @@ description: ""
 * Address: 350 Guillemard Road S399772
 * Contact No: 63421195
 * Email: konghwa_sch@moe.edu.sg
-* Contact Person:   
+* Contact Person: Ms Wendy Goh
 
 **How to get there?**
 * Nearest MRT: Dakota MRT (CC8) – 10 minutes walking distance
