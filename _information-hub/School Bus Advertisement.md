@@ -31,6 +31,4 @@ To apply, please refer to the Service Requirements and the Application Procedure
 #### School Bus Service
 
 **School Bus Services**<br>
-School Bus Operator and Bus Fare
-
-[School Bus Operator and NTE Price]
+[School Bus Operator and Bus Fare](/files/school%20bus%20operator%20and%20nte.pdf)
