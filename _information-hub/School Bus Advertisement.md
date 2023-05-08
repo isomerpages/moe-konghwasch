@@ -27,3 +27,10 @@ To apply, please refer to the Service Requirements and the Application Procedure
 **How to get there?**
 * Nearest MRT: Dakota MRT (CC8) – 10 minutes walking distance
 * Bus number: 7, 197, 70 - Drop directly in front of school entrance
+
+#### School Bus Service
+
+**School Bus Services**
+School Bus Operator and Bus Fare
+
+[School Bus Operator and NTE Price] 
