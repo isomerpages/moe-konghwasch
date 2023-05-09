@@ -23,7 +23,7 @@ description: ""
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
 * Address: 350 Guillemard Road S399772
-* Contact No: 63421195
+* Contact No: 6342 1195
 * Email: konghwa_sch@moe.edu.sg
 * Contact Person: Ms Wendy Goh
 
