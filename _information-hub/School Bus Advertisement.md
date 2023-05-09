@@ -3,6 +3,11 @@ title: School Bus Advertisement
 permalink: /information-hub/schoolbus/
 description: ""
 ---
+#### School Bus Service
+
+**School Bus Services**<br>
+[School Bus Operator and Bus Fare](/files/school%20bus%20operator%20and%20nte.pdf)
+
 #### School Bus Advertisement
 
 To apply, please refer to the Service Requirements and the Application Procedure below.
@@ -28,7 +33,3 @@ To apply, please refer to the Service Requirements and the Application Procedure
 * Nearest MRT: Dakota MRT (CC8) – 10 minutes walking distance
 * Bus number: 7, 197, 70 - Drop directly in front of school entrance
 
-#### School Bus Service
-
-**School Bus Services**<br>
-[School Bus Operator and Bus Fare](/files/school%20bus%20operator%20and%20nte.pdf)
