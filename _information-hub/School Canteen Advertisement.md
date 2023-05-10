@@ -29,7 +29,7 @@ description: ""
 
 **How to get there?**
 * Nearest MRT: Dakota MRT (CC8) – 10 minutes walking distance
-* Bus number: 7, 197, 70 - Drop directly in front of school entrance
+* Bus number: 7, 70, 197 - Drop directly in front of school entrance
 
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
