@@ -22,11 +22,10 @@ sections:
       image: /images/347632350_785711716398491_7843111317753658857_n.jpg
       alt: Image alt text
   - infopic:
-      title: P6 Graduation Ceremony
-      description: The squeals of our P6s filled the hall on 17 November 2022, coming
-        together to celebrate a milestone event – the P6 Graduation Ceremony.
-      url: https://www.facebook.com/508444454665371/posts/501621428681007
-      image: /images/infopic2.jpeg
+      title: Kong Hwa School 70th Anniversary
+      description: Staying Rooted . Soaring High!
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0hmfHZCMoDzLfnGE1bq8YUfCdbMMRveYNWnuh4TvoeYm5tFKFY4dPqtbdHgjuh2qYl&id=100064994620909
+      image: /images/346467438_3177763379189762_844768997221285433_n.jpg
       alt: Image alt text
       button: Find our more
   - infopic:
