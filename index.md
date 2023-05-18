@@ -14,12 +14,12 @@ sections:
       button: Click here
       url: /announcements
   - infopic:
-      title: Congratulations to all prize-recipients.
-      description: Ending the year on a high note!  Kudos to our talented performers.
-        Thank you to all our supportive partners in education
+      title: Congratulations to our Math Olympiad Participants
+      description: Today, we celebrated the achievements of our students who
+        participated in the Math Olympiads.
       button: Find out more
-      url: https://www.facebook.com/508444454665371/posts/502166918626458
-      image: /images/infopic1.jpeg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02Btw2WSqQHFSaAC8J4kHDmnae6Cgs3eWuRHPFxNh1HHvdz4tHobdUvFnwHnFFJUncl&id=100064994620909
+      image: /images/347632350_785711716398491_7843111317753658857_n.jpg
       alt: Image alt text
   - infopic:
       title: P6 Graduation Ceremony
