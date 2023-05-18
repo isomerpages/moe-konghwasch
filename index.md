@@ -31,7 +31,7 @@ sections:
   - infopic:
       title: " P6 BiCEP visit to NTU Chinese Medicine Clinic"
       description: Our P6 BiCEP students were introduced to various Traditional
-        Chinese Medicine practises.
+        Chinese Medicine practices.
       button: Find out more
       url: https://www.facebook.com/permalink.php?story_fbid=pfbid0232Z1Vt2ufDUXovAUmpcbuGrLMb1gwH3K8dTUpPHp1kpeAydJckeQsYKiR9akvFJil&id=100064994620909
       image: /images/343766655_561390779439917_6458370178371600634_n.jpg
