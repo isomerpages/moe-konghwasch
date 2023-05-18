@@ -29,11 +29,11 @@ sections:
       alt: Image alt text
       button: Find our more
   - infopic:
-      title: " P5 VIA Intergenerational Learning Programme (ILP)"
-      description: And it's a wrap! Kudos to our amazing P5 teachers and students for
-        a successful VIA programme.
+      title: " P6 BiCEP visit to NTU Chinese Medicine Clinic"
+      description: Our P6 BiCEP students were introduced to various Traditional
+        Chinese Medicine practises.
       button: Find out more
-      url: https://www.facebook.com/508444454665371/posts/500234392153044
-      image: /images/infopic3.jpeg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0232Z1Vt2ufDUXovAUmpcbuGrLMb1gwH3K8dTUpPHp1kpeAydJckeQsYKiR9akvFJil&id=100064994620909
+      image: /images/343766655_561390779439917_6458370178371600634_n.jpg
       alt: Image alt text
 ---
