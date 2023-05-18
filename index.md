@@ -19,7 +19,7 @@ sections:
         participated in the Math Olympiads.
       button: Find out more
       url: https://www.facebook.com/permalink.php?story_fbid=pfbid02Btw2WSqQHFSaAC8J4kHDmnae6Cgs3eWuRHPFxNh1HHvdz4tHobdUvFnwHnFFJUncl&id=100064994620909
-      image: /images/347632350_785711716398491_7843111317753658857_n.jpg
+      image: /images/math olympiad.jpg
       alt: Image alt text
   - infopic:
       title: Kong Hwa School 70th Anniversary
