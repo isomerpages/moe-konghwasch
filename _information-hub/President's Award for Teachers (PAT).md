@@ -3,16 +3,6 @@ title: President's Award for Teachers (PAT)
 permalink: /information-hub/pat/
 description: ""
 ---
-### President's Award for Teachers (PAT) 2022
+### President's Award for Teachers (PAT)
 
-1\.  The President’s Award for Teachers gives national recognition to experienced teachers for their dedication and hard work in developing our young. These teachers prepare students for life, as well as model commitment to continuous learning and enterprise. They inspire both their students and peers through their words and deeds.
-
-2\.  Nomination for PAT 2022 is now open and will close on Tuesday, 25 January 2022.
-
-3\.  You are strongly encouraged to submit your nominations online by clicking on the URLs or scanning the QR codes below.
-
-  
-
-Nomination link:&nbsp;[go.gov.sg/pat2022](http://go.gov.sg/pat2022)
-
-<img src="/images/pat100.png" style="width:70%">
+Please visit [this website](https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/presidents-award-for-teachers/overview/) for more information about President's Award for Teachers (PAT).
