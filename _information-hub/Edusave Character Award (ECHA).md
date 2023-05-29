@@ -27,7 +27,7 @@ description: ""
 
 ##### Nomination
 
-4)	Parents, students, teaching staff, non-teaching staff and other key stakeholders (VSP, Alumni, and parents who have had more than one interaction with the nominee) may nominate deserving students. All nominations have to be made using the [Nomination Form](/files/nomination%20form%20(khspr2ide).pdf) , available from the Kong Hwa School website and Parent Gateway from **1 June 2022**. 
+4)	Parents, students, teaching staff, non-teaching staff and other key stakeholders (VSP, Alumni, and parents who have had more than one interaction with the nominee) may nominate deserving students. All nominations have to be made using the [Nomination Form](/files/nomination%20form%20(khspr2ide).pdf) , available from the Kong Hwa School website and Parent Gateway from **1 June 2023**. 
 
 
 5)	Completed nomination forms with supporting evidence(s) must be submitted to the General Office or Form Teachers by 5 p.m., 7 July 2023. For queries and clarifications, please contact Mr Jerry Yang at yang_ziyi@moe.edu.sg. 
@@ -42,4 +42,4 @@ description: ""
 **b.**	Demonstrate a high level of civic responsibility: Students must demonstrate concerns about issues related to their community or issues faced by others. They could initiate simple action or play an active role to address these issues and demonstrate commitment to making a difference; and/or <br>
 **c.**	Qualities associated with resilience: Students who persevere despite facing difficult circumstances (e.g. financial problems, health issues, family issues, peer resistance etc.) and manage to overcome the odds and still do commendably well in academic and non-academic domains. <br>
 
-3.	Students may be nominated regardless of their academic results provided that their weak academic results are not due to negative character traits but are attributed to difficulties that go beyond the control of the student.
+3. Students may be nominated regardless of their academic results provided that their weak academic results are not due to negative character traits but are attributed to difficulties that go beyond the control of the student.
