@@ -3,71 +3,47 @@ title: P1 Orientation Package & Administrative Matters (2023)
 permalink: /information-hub/p1-orientation-2023/
 description: ""
 ---
-### P1 Orientation Package & Administrative Matters (2023)
+### P1 Orientation Package &amp; Administrative Matters (2023)
 
 ##### 1. P1 Orientation Package 2023
 
 
-[P1 Principal's Welcome Letter](/files/opam1.pdf)
+[P1 Principal's Welcome Letter](/files/2023%20p1%20welcome%20letter.pdf)
 
-[P1 Booklist for 2023](/files/opam2.pdf)  
+[P1 Booklist for 2024]<br>
+More information will me available soon.
 
-[Uniform List for 2023](/files/opam3.pdf)  
+[Uniform List for 2024]<br>
+More information will me available soon.
 
-[Information Sheet on School Bus Services for 2023](/files/opam4.pdf)  
+[Information Sheet on School Bus Services for 2024]<br>
+More information will me available soon.
 
-[Request for School Bus Services Form for 2023](/files/opam5.pdf)_(Optional - Application by 18 November 2022)_
+[Request for School Bus Services Form for 2024]<br>
+More information will me available soon.
 
-[Student Care Application Form for 2023](/files/opam6.pdf)_(Optional - Application of interest by 18 November 2022)_
+[Student Care Application Form for 2024]<br>
+More information will me available soon.
 
-[Invitation to join Kong Hwa Very Supportive Parents](/files/opam7.pdf)
+[Invitation to join Kong Hwa Very Supportive Parents]<br>
+More information will me available soon.
 
 ##### 2. Other Information and Forms
 
-Student Details Form:
+Student Details Form:<br>
+More information will me available soon.
 
-Please submit the information through the Student Details Form (SDF) online portal **from 10.00 am,**
+The portal can be accessed via the URL: <br>
+More information will me available soon.
 
-**28 November 2022 and complete the form by 03 December 2022**.
+GIRO Application:<br>
+More information will me available soon.
 
-The portal can be accessed via the URL: https://pg.moe.edu.sg/forms/sdf or the QR code below.
-
-  
-
-<img src="/images/opam1.png" style="width:20%">
-
-  
-
-GIRO Application:
-
-**To sign up online at:** [https://www.moe.gov.sg/financial-matters/fees?toggle-id=giro](https://www.moe.gov.sg/financial-matters/fees?toggle-id=giro)
-
-  
-
-Edusave Application:
-
-**To sign up online at:** [https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds?toggle-id=moe-funded-schools](https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds?toggle-id=moe-funded-schools)
-
-  
+Edusave Application:<br>
+More information will me available soon.
 
 **Application for MOE Financial Assistance**
 
-[Online Application for MOE Financial Assistance](https://form.gov.sg/#!/632432ba67747a0011d4a0cc)
+**School Virtual Tour:**
 
-  
-
-<img src="/images/opam2.png" style="width:20%">
-
-  
-
-[MOE FAS Application Form Oct 2022](/files/opam8.pdf)
-
-Hardcopy application is to be submitted to General Office with supporting documents.
-
-  
-
-[MOE FAS Checklist 2023](/files/opam9.pdf)
-
-School Virtual Tour:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/txZRKSJqyXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/txZRKSJqyXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
