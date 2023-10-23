@@ -42,7 +42,10 @@ More information will me available soon.
 Edusave Application:<br>
 More information will me available soon.
 
-**Application for MOE Financial Assistance**
+**Application for MOE Financial Assistance**<br>
+[Online Application for MOE Financial Assistance](https://go.gov.sg/moe-efas)
+
+
 
 **School Virtual Tour:**
 
