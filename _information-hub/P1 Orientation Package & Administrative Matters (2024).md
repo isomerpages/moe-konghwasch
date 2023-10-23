@@ -47,7 +47,7 @@ More information will me available soon.
 
 ![](/images/P1%20Orientation/efas%20qr%202024.jpg)<br>
 
-
+[MOE FAS Application Form OCT 2023](/files/P1%20Orientation/2024%20moe%20fas%20application%20form.pdf)
 
 **School Virtual Tour:**
 
