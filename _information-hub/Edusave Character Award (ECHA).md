@@ -35,8 +35,8 @@ description: ""
  
 ##### Eligibility Criteria
 
-1.	Student must be a Singapore citizen.
-2.	Student must demonstrate good character and values in a consistent manner, and would serve as a role model for others. Students may be identified for the following types of qualities: <br>
+1. Student must be a Singapore citizen.
+2. Student must demonstrate good character and values in a consistent manner, and would serve as a role model for others. Students may be identified for the following types of qualities: <br>
 
 **a.**	Qualities associated with any of the school values: Students should preferably be nominated for termly Model Student at least once; and/or <br>
 **b.**	Demonstrate a high level of civic responsibility: Students must demonstrate concerns about issues related to their community or issues faced by others. They could initiate simple action or play an active role to address these issues and demonstrate commitment to making a difference; and/or <br>
