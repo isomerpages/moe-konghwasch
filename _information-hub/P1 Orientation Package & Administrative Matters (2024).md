@@ -45,6 +45,8 @@ More information will me available soon.
 **Application for MOE Financial Assistance**<br>
 [Online Application for MOE Financial Assistance](https://go.gov.sg/moe-efas)
 
+![](/images/P1%20Orientation/efas%20qr%202024.jpg)<br>
+
 
 
 **School Virtual Tour:**
