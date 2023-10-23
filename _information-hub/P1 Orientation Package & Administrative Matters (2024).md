@@ -25,8 +25,8 @@ More information will me available soon.
 [Student Care Application Form for 2024]<br>
 More information will me available soon.
 
-[Invitation to join Kong Hwa Very Supportive Parents]<br>
-More information will me available soon.
+[Invitation to join Kong Hwa Very Supportive Parents](/files/P1%20Orientation/2023%20vsp%20p1%20orientation%20membership%20invitation%20letter.pdf)
+
 
 ##### 2. Other Information and Forms
 
