@@ -11,19 +11,19 @@ description: ""
 [P1 Principal's Welcome Letter](/files/2023%20p1%20welcome%20letter.pdf)
 
 [P1 Booklist for 2024]<br>
-More information will me available soon.
+More information will be available soon.
 
 [Uniform List for 2024]<br>
-More information will me available soon.
+More information will be available soon.
 
 [Information Sheet on School Bus Services for 2024]<br>
-More information will me available soon.
+More information will be available soon.
 
 [Request for School Bus Services Form for 2024]<br>
-More information will me available soon.
+More information will be available soon.
 
 [Student Care Application Form for 2024]<br>
-More information will me available soon.
+More information will be available soon.
 
 [Invitation to join Kong Hwa Very Supportive Parents](/files/P1%20Orientation/2023%20vsp%20p1%20orientation%20membership%20invitation%20letter.pdf)
 
@@ -31,16 +31,16 @@ More information will me available soon.
 ##### 2. Other Information and Forms
 
 Student Details Form:<br>
-More information will me available soon.
+More information will be available soon.
 
 The portal can be accessed via the URL: <br>
-More information will me available soon.
+More information will be available soon.
 
 GIRO Application:<br>
-More information will me available soon.
+More information will be available soon.
 
 Edusave Application:<br>
-More information will me available soon.
+More information will be available soon.
 
 **Application for MOE Financial Assistance**<br>
 [Online Application for MOE Financial Assistance](https://go.gov.sg/moe-efas)
