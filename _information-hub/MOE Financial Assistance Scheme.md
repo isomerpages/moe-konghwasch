@@ -7,7 +7,7 @@ description: ""
 
 **Application for MOE Financial Assistance**  
 
-[Online Application for MOE Financial Assistance](https://form.gov.sg/#!/632432ba67747a0011d4a0cc)
+[Online Application for MOE Financial Assistance](https://go.gov.sg/moe-efas)
 
 <img src="/images/moefas1.png" style="width:30%">
 
