@@ -9,7 +9,7 @@ description: ""
 
 [Online Application for MOE Financial Assistance](https://go.gov.sg/moe-efas)
 
-<img src="/images/moefas1.png" style="width:30%">
+<img src="/images/P1%20Orientation/efas%20qr%202024.jpg" style="width:30%">
 
 [MOE FAS Application Form Oct 2022](/files/MOE%20FAS%20Application%20Form%20Oct%202022.pdf)
 
