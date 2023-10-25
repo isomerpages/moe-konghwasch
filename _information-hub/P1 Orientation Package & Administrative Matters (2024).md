@@ -45,7 +45,7 @@ More information will be available soon.
 **Application for MOE Financial Assistance**<br>
 [Online Application for MOE Financial Assistance](https://go.gov.sg/moe-efas)
 
-![](/images/P1%20Orientation/efas%20qr%202024.jpg)<br>
+<img src="/images/P1%20Orientation/efas%20qr%202024.jpg" style="width:30%">
 
 [MOE FAS Application Form OCT 2023](/files/P1%20Orientation/2024%20moe%20fas%20application%20form.pdf)
 
