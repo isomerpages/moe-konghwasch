@@ -12,8 +12,7 @@ description: ""
 
 [P1 Booklist for 2024](/files/P1%20Orientation/booklist%20p1%202024.pdf)
 
-[Uniform List for 2024]<br>
-More information will be available soon.
+[Kong Hwa Sch Uniform sale schedule](/files/P1%20Orientation/kong%20hwa%20sch%20uniform%20sale%20schedule.pdf)
 
 [Information Sheet on School Bus Services for 2024]<br>
 More information will be available soon.
