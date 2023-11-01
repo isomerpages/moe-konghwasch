@@ -10,8 +10,7 @@ description: ""
 
 [P1 Principal's Welcome Letter](/files/2023%20p1%20welcome%20letter.pdf)
 
-[P1 Booklist for 2024]<br>
-More information will be available soon.
+[P1 Booklist for 2024](/files/P1%20Orientation/booklist%20p1%202024.pdf)
 
 [Uniform List for 2024]<br>
 More information will be available soon.
