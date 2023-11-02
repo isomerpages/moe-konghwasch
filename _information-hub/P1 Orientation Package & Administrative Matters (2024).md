@@ -21,16 +21,13 @@ description: ""
 
 ##### 2. Other Information and Forms
 
-Student Details Form:<br>
-https://pg.moe.edu.sg/forms/sdf
+[Student Details Form](https://pg.moe.edu.sg/forms/sdf)
 
 <img src="/images/P1%20Orientation/student%20detail%20form%20qr.jpg" style="width:30%">
 
-GIRO Application:<br>
-https://www.moe.gov.sg/financial-matters/fees/egiro
+[GIRO Application site](https://www.moe.gov.sg/financial-matters/fees/egiro)
 
-Edusave Application:<br>
-https://www.moe.gov.sg/financial-matters/edusave-account
+[Edusave Application site](https://www.moe.gov.sg/financial-matters/edusave-account)
 
 **Application for MOE Financial Assistance**<br>
 [Online Application for MOE Financial Assistance](https://go.gov.sg/moe-efas)
