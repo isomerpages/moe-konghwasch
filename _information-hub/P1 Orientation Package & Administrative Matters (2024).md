@@ -22,7 +22,9 @@ description: ""
 ##### 2. Other Information and Forms
 
 Student Details Form:<br>
-More information will be available soon.
+https://pg.moe.edu.sg/forms/sdf
+
+<img src="/images/P1%20Orientation/student%20detail%20form%20qr.jpg" style="width:30%">
 
 The portal can be accessed via the URL: <br>
 More information will be available soon.
