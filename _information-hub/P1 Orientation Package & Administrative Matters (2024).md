@@ -26,14 +26,11 @@ https://pg.moe.edu.sg/forms/sdf
 
 <img src="/images/P1%20Orientation/student%20detail%20form%20qr.jpg" style="width:30%">
 
-The portal can be accessed via the URL: <br>
-More information will be available soon.
-
 GIRO Application:<br>
-More information will be available soon.
+https://www.moe.gov.sg/financial-matters/fees/egiro
 
 Edusave Application:<br>
-More information will be available soon.
+https://www.moe.gov.sg/financial-matters/edusave-account
 
 **Application for MOE Financial Assistance**<br>
 [Online Application for MOE Financial Assistance](https://go.gov.sg/moe-efas)
