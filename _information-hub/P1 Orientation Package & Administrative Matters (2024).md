@@ -16,25 +16,21 @@ description: ""
 
 [Request for School Bus Services Form for 2024](/files/P1%20Orientation/khs%20request%20for%20school%20bus%20services%202024%20(rs%20transport).pdf)
 
-[Student Care Application Form for 2024]<br>
-More information will be available soon.
-
 [Invitation to join Kong Hwa Very Supportive Parents](/files/P1%20Orientation/2023%20vsp%20p1%20orientation%20membership%20invitation%20letter.pdf)
 
 
 ##### 2. Other Information and Forms
 
 Student Details Form:<br>
-More information will be available soon.
+https://pg.moe.edu.sg/forms/sdf
 
-The portal can be accessed via the URL: <br>
-More information will be available soon.
+<img src="/images/P1%20Orientation/student%20detail%20form%20qr.jpg" style="width:30%">
 
 GIRO Application:<br>
-More information will be available soon.
+https://www.moe.gov.sg/financial-matters/fees/egiro
 
 Edusave Application:<br>
-More information will be available soon.
+https://www.moe.gov.sg/financial-matters/edusave-account
 
 **Application for MOE Financial Assistance**<br>
 [Online Application for MOE Financial Assistance](https://go.gov.sg/moe-efas)
