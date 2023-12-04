@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### KEY PERSONNEL
 
-#### School Leaders
+### School Leaders
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -17,7 +17,7 @@ variant: markdown
 
 
 
-#### Chinese Language
+### Chinese Language
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -27,7 +27,7 @@ variant: markdown
 | Mdm Zhang Haiyan | Senior Teacher |[zhang\_haiyan@schools.gov.sg](mailto:zhang_haiyan@schools.gov.sg) |
 
 
-#### English Language
+### English Language
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -36,7 +36,7 @@ variant: markdown
 | Mrs Tang Kin Tuck Christabelle | Lead Teacher |[tang\_kin\_tuck@schools.gov.sg](mailto:tang_kin_tuck@schools.gov.sg) |
 | Ms Ng Ling Er | Senior Teacher |[ng\_ling\_er@schools.gov.sg](mailto:ng_ling_er@schools.gov.sg) |
 
-#### Mathematics
+### Mathematics
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -45,7 +45,7 @@ variant: markdown
 | Mrs Tan-Liang Kok Fen | Senior Teacher |[liang\_kok\_fen@schools.gov.sg](mailto:liang_kok_fen@schools.gov.sg) |
 
 
-#### Science
+### Science
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -54,7 +54,7 @@ variant: markdown
 | Mrs Chew-Wong Hui Ren | Senior Teacher |[wong\_hui\_ren@schools.gov.sg](mailto:wong_hui_ren@schools.gov.sg) |
 
 
-#### Special Assistance Plan
+### Special Assistance Plan
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -62,7 +62,7 @@ variant: markdown
 | Mr Tan Kian Boon | Subject Head |[tan\_kian\_boon@schools.gov.sg](mailto:tan_kian_boon@schools.gov.sg)|
 
 
-#### Physical Education &amp; Co-Curricular Activities
+### Physical Education &amp; Co-Curricular Activities
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -71,14 +71,14 @@ variant: markdown
 | Mrs Thio-Kooh Yong Tse | Senior Teacher |[kooh\_yong\_tse@schools.gov.sg](mailto:Kooh_Yong_Tse@schools.gov.sg) |
 
 
-#### Music
+### Music
 
 |  |  |  |
 | -------- | -------- | -------- |
 | Ms Chan Yin Ling | Senior Teacher |[chan\_yin\_ling\_a@schools.gov.sg](mailto:chan_yin_ling_a@schools.gov.sg)|
 
 
-#### Character and Citizenship Education
+### Character and Citizenship Education
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -87,14 +87,14 @@ variant: markdown
 | Miss Gan Ching Ching | Subject Head/Student Well-being |[gan\_ching\_ching@schools.gov.sg](mailto:gan_ching_ching@schools.gov.sg)|
 
 
-#### Student Management &amp; Leadership
+### Student Management &amp; Leadership
 
 |  |  |  |
 | -------- | -------- | -------- |
 | Mrs Chong-Goh Hwee Leng Wendi | Head of Department |[goh\_hwee\_leng@schools.gov.sg](mailto:goh_hwee_leng@schools.gov.sg)|
 
 
-#### Year Heads &amp; Assistant Year Head
+### Year Heads &amp; Assistant Year Head
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -104,40 +104,40 @@ variant: markdown
 | Miss Tan Yan Shan | Assistant Year Head |[tan\_yan\_shan@schools.gov.sg](mailto:tan_yan_shan@schools.gov.sg)|
 
 
-#### Lower Primary
+### Lower Primary
 
 |  |  |  |
 | -------- | -------- | -------- |
 | Mrs Kang-Lim Ching Chye Christine | Senior Teacher |[lim\_ching\_chye@schools.gov.sg](mailto:Lim_Ching_Chye@schools.gov.sg)|
 
 
-#### Educational Support
+### Educational Support
 
 |  |  |  |
 | -------- | -------- | -------- |
 | Mrs Sharon Maggie Seet | Senior Teacher |[sharon\_maggie\_seet@schools.gov.sg](mailto:sharon_maggie_seet@schools.gov.sg)|
 
 
-#### Special Educational Needs
+### Special Educational Needs
 
 |  |  |  |
 | -------- | -------- | -------- |
 | Mdm Tan Siew Sian | Senior Teacher |[tan\_siew\_sian@schools.gov.sg](mailto:tan_siew_sian@schools.gov.sg)|
 
-#### Information and Communication Technology
+### Information and Communication Technology
 
 |  |  |  |
 | -------- | -------- | -------- |
 | Mdm Mabel Liao Mei Bao | Head of Department |[mabel\_liao\_mei\_bao@schools.gov.sg](mailto:mabel_liao_mei_bao@schools.gov.sg)|
 | Mr Low Kok Leong | Subject Head |[low\_kok\_leong@schools.gov.sg](mailto:low_kok_leong@schools.gov.sg)|
 
-#### School Staff Developer
+### School Staff Developer
 
 |  |  |  |
 | -------- | -------- | -------- |
 | Mrs Tan-Lin Shiying Diana |  |[lin\_shiying\_diana@schools.gov.sg](mailto:lin_shiying_diana@schools.gov.sg)|
 
-#### Administration Manager
+### Administration Manager
 
 |  |  |  |
 | -------- | -------- | -------- |
