@@ -106,10 +106,16 @@ variant: markdown
 
 #### Lower Primary
 
+|  |  |  |
+| -------- | -------- | -------- |
+| Mrs Kang-Lim Ching Chye Christine | Senior Teacher |[lim\_ching\_chye@schools.gov.sg](mailto:Lim_Ching_Chye@schools.gov.sg)|
 
 
 #### Educational Support
 
+|  |  |  |
+| -------- | -------- | -------- |
+| Mrs Sharon Maggie Seet | Senior Teacher |[sharon\_maggie\_seet@schools.gov.sg](mailto:sharon_maggie_seet@schools.gov.sg)|
 
 
 #### Special Educational Needs
