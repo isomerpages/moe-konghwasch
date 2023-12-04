@@ -8,8 +8,6 @@ variant: markdown
 
 #### School Leaders
 
-
-
 |  |  |  |
 | -------- | -------- | -------- |
 | Mr Poon Siow Leng | Principal | [Raymond\_POON@schools.gov.sg](mailto:Raymond_POON@schools.gov.sg)|
@@ -21,6 +19,12 @@ variant: markdown
 
 #### Chinese Language
 
+|  |  |  |
+| -------- | -------- | -------- |
+| Mrs Teo-Zhang Juan Juan | Head of Department |[zhang\_juan\_juan@schools.gov.sg](mailto:zhang_juan_juan@schools.gov.sg)|
+| Mrs Goh-Wong Lee Ping | Level Head |[wong\_lee\_ping@schools.gov.sg](mailto:wong_lee_ping@schools.gov.sg) |
+| Mrs Wong-Lim Eng Tsing | Senior Teacher |[wong\_lim\_eng\_tsing@schools.gov.sg](mailto:wong_lim_eng_tsing@schools.gov.sg) |
+| Mdm Zhang Haiyan | Senior Teacher |[zhang\_haiyan@schools.gov.sg](mailto:zhang_haiyan@schools.gov.sg) |
 
 
 #### English Language
@@ -79,4 +83,3 @@ variant: markdown
 
 
 #### Administration Manager
-
