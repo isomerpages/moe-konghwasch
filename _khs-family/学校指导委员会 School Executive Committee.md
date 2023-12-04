@@ -8,8 +8,6 @@ variant: markdown
 
 <h2 style="font-size: 2rem; color: #e79f17">School Leaders</h2>
 
-### School Leaders
-
 |  |  |  |
 | -------- | -------- | -------- |
 | Mr Poon Siow Leng | Principal | [raymond\_poon@schools.gov.sg](mailto:Raymond_POON@schools.gov.sg)|
@@ -19,7 +17,7 @@ variant: markdown
 
 
 
-### Chinese Language
+<h2 style="font-size: 2rem; color: #e79f17">Chinese Language</h2>
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -29,7 +27,7 @@ variant: markdown
 | Mdm Zhang Haiyan | Senior Teacher |[zhang\_haiyan@schools.gov.sg](mailto:zhang_haiyan@schools.gov.sg) |
 
 
-### English Language
+<h2 style="font-size: 2rem; color: #e79f17">English Language</h2>
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -38,7 +36,7 @@ variant: markdown
 | Mrs Tang Kin Tuck Christabelle | Lead Teacher |[tang\_kin\_tuck@schools.gov.sg](mailto:tang_kin_tuck@schools.gov.sg) |
 | Ms Ng Ling Er | Senior Teacher |[ng\_ling\_er@schools.gov.sg](mailto:ng_ling_er@schools.gov.sg) |
 
-### Mathematics
+<h2 style="font-size: 2rem; color: #e79f17">Mathematics</h2>
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -47,7 +45,7 @@ variant: markdown
 | Mrs Tan-Liang Kok Fen | Senior Teacher |[liang\_kok\_fen@schools.gov.sg](mailto:liang_kok_fen@schools.gov.sg) |
 
 
-### Science
+<h2 style="font-size: 2rem; color: #e79f17">Science</h2>
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -56,7 +54,7 @@ variant: markdown
 | Mrs Chew-Wong Hui Ren | Senior Teacher |[wong\_hui\_ren@schools.gov.sg](mailto:wong_hui_ren@schools.gov.sg) |
 
 
-### Special Assistance Plan
+<h2 style="font-size: 2rem; color: #e79f17">Special Assistance Plan</h2>
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -64,7 +62,7 @@ variant: markdown
 | Mr Tan Kian Boon | Subject Head |[tan\_kian\_boon@schools.gov.sg](mailto:tan_kian_boon@schools.gov.sg)|
 
 
-### Physical Education &amp; Co-Curricular Activities
+<h2 style="font-size: 2rem; color: #e79f17">Physical Education &amp; Co-Curricular Activities</h2>
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -73,14 +71,14 @@ variant: markdown
 | Mrs Thio-Kooh Yong Tse | Senior Teacher |[kooh\_yong\_tse@schools.gov.sg](mailto:Kooh_Yong_Tse@schools.gov.sg) |
 
 
-### Music
+<h2 style="font-size: 2rem; color: #e79f17">Music</h2>
 
 |  |  |  |
 | -------- | -------- | -------- |
 | Ms Chan Yin Ling | Senior Teacher |[chan\_yin\_ling\_a@schools.gov.sg](mailto:chan_yin_ling_a@schools.gov.sg)|
 
 
-### Character and Citizenship Education
+<h2 style="font-size: 2rem; color: #e79f17">Character and Citizenship Education</h2>
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -89,14 +87,14 @@ variant: markdown
 | Miss Gan Ching Ching | Subject Head/Student Well-being |[gan\_ching\_ching@schools.gov.sg](mailto:gan_ching_ching@schools.gov.sg)|
 
 
-### Student Management &amp; Leadership
+<h2 style="font-size: 2rem; color: #e79f17">Student Management &amp; Leadership</h2>
 
 |  |  |  |
 | -------- | -------- | -------- |
 | Mrs Chong-Goh Hwee Leng Wendi | Head of Department |[goh\_hwee\_leng@schools.gov.sg](mailto:goh_hwee_leng@schools.gov.sg)|
 
 
-### Year Heads &amp; Assistant Year Head
+<h2 style="font-size: 2rem; color: #e79f17">Year Heads &amp; Assistant Year Head</h2>
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -106,40 +104,40 @@ variant: markdown
 | Miss Tan Yan Shan | Assistant Year Head |[tan\_yan\_shan@schools.gov.sg](mailto:tan_yan_shan@schools.gov.sg)|
 
 
-### Lower Primary
+<h2 style="font-size: 2rem; color: #e79f17">Lower Primary</h2>
 
 |  |  |  |
 | -------- | -------- | -------- |
 | Mrs Kang-Lim Ching Chye Christine | Senior Teacher |[lim\_ching\_chye@schools.gov.sg](mailto:Lim_Ching_Chye@schools.gov.sg)|
 
 
-### Educational Support
+<h2 style="font-size: 2rem; color: #e79f17">Educational Support</h2>
 
 |  |  |  |
 | -------- | -------- | -------- |
 | Mrs Sharon Maggie Seet | Senior Teacher |[sharon\_maggie\_seet@schools.gov.sg](mailto:sharon_maggie_seet@schools.gov.sg)|
 
 
-### Special Educational Needs
+<h2 style="font-size: 2rem; color: #e79f17">Special Educational Needs</h2>
 
 |  |  |  |
 | -------- | -------- | -------- |
 | Mdm Tan Siew Sian | Senior Teacher |[tan\_siew\_sian@schools.gov.sg](mailto:tan_siew_sian@schools.gov.sg)|
 
-### Information and Communication Technology
+<h2 style="font-size: 2rem; color: #e79f17">Information and Communication Technology</h2>
 
 |  |  |  |
 | -------- | -------- | -------- |
 | Mdm Mabel Liao Mei Bao | Head of Department |[mabel\_liao\_mei\_bao@schools.gov.sg](mailto:mabel_liao_mei_bao@schools.gov.sg)|
 | Mr Low Kok Leong | Subject Head |[low\_kok\_leong@schools.gov.sg](mailto:low_kok_leong@schools.gov.sg)|
 
-### School Staff Developer
+<h2 style="font-size: 2rem; color: #e79f17">School Staff Developer</h2>
 
 |  |  |  |
 | -------- | -------- | -------- |
 | Mrs Tan-Lin Shiying Diana |  |[lin\_shiying\_diana@schools.gov.sg](mailto:lin_shiying_diana@schools.gov.sg)|
 
-### Administration Manager
+<h2 style="font-size: 2rem; color: #e79f17">Administration Manager</h2>
 
 |  |  |  |
 | -------- | -------- | -------- |
