@@ -56,18 +56,35 @@ variant: markdown
 
 #### Special Assistance Plan
 
+|  |  |  |
+| -------- | -------- | -------- |
+| Mr Lee Chia Liang | Head of Department |[lee\_chia\_liang@schools.gov.sg](mailto:lee_chia_liang@schools.gov.sg)|
+| Mr Tan Kian Boon | Subject Head |[tan\_kian\_boon@schools.gov.sg](mailto:tan_kian_boon@schools.gov.sg)|
 
 
 #### Physical Education &amp; Co-Curricular Activities
 
+|  |  |  |
+| -------- | -------- | -------- |
+| Mr Kok Zui Hua Leonard | Head of Department |[kok\_zui\_hua@schools.gov.sg](mailto:kok_zui_hua@schools.gov.sg)|
+| Mr Muhammad Zulkifli Bin Mohd Idries | Subject Head |[muhammad\_zulkifli\_mohd\_idries@schools.gov.sg](mailto:muhammad_zulkifli_mohd_idries@schools.gov.sg)|
+| Mrs Thio-Kooh Yong Tse | Senior Teacher |[kooh\_yong\_tse@schools.gov.sg](mailto:Kooh_Yong_Tse@schools.gov.sg) |
 
 
 #### Music
 
+|  |  |  |
+| -------- | -------- | -------- |
+| Ms Chan Yin Ling | Senior Teacher |[chan\_yin\_ling\_a@schools.gov.sg](mailto:chan_yin_ling_a@schools.gov.sg)|
 
 
 #### Character and Citizenship Education
 
+|  |  |  |
+| -------- | -------- | -------- |
+| Mr Yang Ziyi Jerry | Head of Department |[yang\_ziyi@schools.gov.sg](mailto:yang_ziyi@schools.gov.sg)|
+| Mrs Seow-Ng Woon Shin Joelynn | Subject Head |[ng\_woon\_shin\_joelynn@schools.gov.sg](mailto:ng_woon_shin_joelynn@schools.gov.sg)|
+| Miss Gan Ching Ching | Subject Head/Student Well-being |[gan\_ching\_ching@schools.gov.sg](mailto:gan_ching_ching@schools.gov.sg)|
 
 
 #### Student Management &amp; Leadership
