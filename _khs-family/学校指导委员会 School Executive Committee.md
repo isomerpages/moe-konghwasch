@@ -120,14 +120,25 @@ variant: markdown
 
 #### Special Educational Needs
 
-
+|  |  |  |
+| -------- | -------- | -------- |
+| Mdm Tan Siew Sian | Senior Teacher |[tan\_siew\_sian@schools.gov.sg](mailto:tan_siew_sian@schools.gov.sg)|
 
 #### Information and Communication Technology
 
-
+|  |  |  |
+| -------- | -------- | -------- |
+| Mdm Mabel Liao Mei Bao | Head of Department |[mabel\_liao\_mei\_bao@schools.gov.sg](mailto:mabel_liao_mei_bao@schools.gov.sg)|
+| Mr Low Kok Leong | Subject Head |[low\_kok\_leong@schools.gov.sg](mailto:low_kok_leong@schools.gov.sg)|
 
 #### School Staff Developer
 
-
+|  |  |  |
+| -------- | -------- | -------- |
+| Mrs Tan-Lin Shiying Diana |  |[lin\_shiying\_diana@schools.gov.sg](mailto:lin_shiying_diana@schools.gov.sg)|
 
 #### Administration Manager
+
+|  |  |  |
+| -------- | -------- | -------- |
+| Ms Goh May Ling Wendy |  |[goh\_may\_ling@schools.gov.sg](mailto:goh_may_ling@schools.gov.sg)|
