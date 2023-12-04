@@ -89,9 +89,19 @@ variant: markdown
 
 #### Student Management &amp; Leadership
 
+|  |  |  |
+| -------- | -------- | -------- |
+| Mrs Chong-Goh Hwee Leng Wendi | Head of Department |[goh\_hwee\_leng@schools.gov.sg](mailto:goh_hwee_leng@schools.gov.sg)|
 
 
 #### Year Heads &amp; Assistant Year Head
+
+|  |  |  |
+| -------- | -------- | -------- |
+| Mdm Chong Chui Mei Penny | Year Head |[chong\_chui\_mei\_penny@schools.gov.sg](mailto:chong_chui_mei_penny@schools.gov.sg)|
+| Mdm Leow Sian Leng Sandra | Year Head |[leow\_sian\_leng@schools.gov.sg](mailto:leow_sian_leng@schools.gov.sg)|
+| Mrs Han-Yap Lay Hua | Year Head |[yap\_lay\_hua@schools.gov.sg](mailto:yap_lay_hua@schools.gov.sg)|
+| Miss Tan Yan Shan | Assistant Year Head |[tan\_yan\_shan@schools.gov.sg](mailto:tan_yan_shan@schools.gov.sg)|
 
 
 #### Lower Primary
