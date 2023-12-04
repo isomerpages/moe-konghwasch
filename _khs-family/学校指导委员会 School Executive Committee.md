@@ -47,6 +47,11 @@ variant: markdown
 
 #### Science
 
+|  |  |  |
+| -------- | -------- | -------- |
+| Mr Lin Jinlong Jimmy | Head of Department |[lin\_jinlong\_jimmy@schools.gov.sg](mailto:lin_jinlong_jimmy@schools.gov.sg)|
+| Mr Phoon Kong Meng Larry | Level Head |[phoon\_kong\_meng\_larry@schools.gov.sg](mailto:phoon_kong_meng_larry@schools.gov.sg)|
+| Mrs Chew-Wong Hui Ren | Senior Teacher |[wong\_hui\_ren@schools.gov.sg](mailto:wong_hui_ren@schools.gov.sg) |
 
 
 #### Special Assistance Plan
