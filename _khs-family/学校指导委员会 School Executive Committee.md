@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### KEY PERSONNEL
 
-<h1 style="font-size: 2rem; color: #f4b252">School Leaders</h1>
+<h2 style="font-size: 2rem; color: #f4b252">School Leaders</h2>
 
 ### School Leaders
 
