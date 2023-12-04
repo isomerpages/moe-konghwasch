@@ -29,7 +29,12 @@ variant: markdown
 
 #### English Language
 
-
+|  |  |  |
+| -------- | -------- | -------- |
+| Mdm Yeo Chin Choo Wendy | Head of Department |[yeo\_chin\_choo\_wendy@schools.gov.sg](mailto:yeo_chin_choo_wendy@schools.gov.sg)|
+| Mrs Wong-Ho Si Yi | Level Head |[ho\_si\_yi@schools.gov.sg](mailto:ho_si_yi@schools.gov.sg)|
+| Mrs Tang Kin Tuck Christabelle | Lead Teacher |[tang\_kin\_tuck@schools.gov.sg](mailto:tang_kin_tuck@schools.gov.sg) |
+| Ms Ng Ling Er | Senior Teacher |[ng\_ling\_er@schools.gov.sg](mailto:ng_ling_er@schools.gov.sg) |
 
 #### Mathematics
 
