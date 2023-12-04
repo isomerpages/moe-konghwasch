@@ -38,6 +38,11 @@ variant: markdown
 
 #### Mathematics
 
+|  |  |  |
+| -------- | -------- | -------- |
+| Mrs Yeoh-Leong Poh Lay Claire | Head of Department |[leong\_poh\_lay@schools.gov.sg](mailto:leong_poh_lay@schools.gov.sg)|
+| Mrs Kang-Hwang Yongxiang | Level Head |[hwang\_yongxiang@schools.gov.sg](mailto:hwang_yongxiang@schools.gov.sg)|
+| Mrs Tan-Liang Kok Fen | Senior Teacher |[liang\_kok\_fen@schools.gov.sg](mailto:liang_kok_fen@schools.gov.sg) |
 
 
 #### Science
