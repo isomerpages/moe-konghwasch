@@ -8,7 +8,7 @@ variant: markdown
 
 <h2 style="font-size: 2rem; color: #e79f17">School Leaders</h2>
 
-| <strong style="colour: #e79f17; font-size: 25px; font-family: Arial;"> School Leaders</strong>  |  | 
+| <strong style="colour: #e79f17; font-size: 25px;"> School Leaders</strong>  |  | 
 | :-------- | ----------------------------------------------------------------------------------- |
 | Mr Poon Siow Leng <br> [raymond\_poon@schools.gov.sg](mailto:Raymond_POON@schools.gov.sg)| Principal |
 | Mrs Gan-Foo Mei Ping <br> [foo\_mei\_ping@schools.gov.sg](mailto:foo_mei_ping@schools.gov.sg)| Vice-Principal | 
