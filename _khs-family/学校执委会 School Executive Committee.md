@@ -106,10 +106,10 @@ variant: markdown
 
 |   |   |
 | :-------- | :-------- |
-| <strong style="colour: orange; font-size: 25px; font-family: Arial;"> School Staff Developer</strong> | Mrs Tan-Lin Shiying Diana  <br>[lin\_shiying\_diana@schools.gov.sg](mailto:lin_shiying_diana@schools.gov.sg) |
+| <strong style="colour: orange; font-size: 20px; font-family: Arial;"> School Staff Developer</strong> | Mrs Tan-Lin Shiying Diana  <br>[lin\_shiying\_diana@schools.gov.sg](mailto:lin_shiying_diana@schools.gov.sg) |
 <br>
 
 |  |  |
 | :-------- | -------- |
-| <strong style="colour: orange; font-size: 25px; font-family: Arial;"> Administration Manager</strong> | Ms Goh May Ling Wendy <br> [goh\_may\_ling@schools.gov.sg](mailto:goh_may_ling@schools.gov.sg)| 
+| <strong style="colour: orange; font-size: 20px; font-family: Arial;"> Administration Manager</strong> | Ms Goh May Ling Wendy <br> [goh\_may\_ling@schools.gov.sg](mailto:goh_may_ling@schools.gov.sg)| 
 <br>
