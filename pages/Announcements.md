@@ -8,7 +8,7 @@ variant: markdown
 
 ##### 1\. P1 Orientation Package
 
-[Click here to access P1 E-Orientation Package page](https://www.konghwa.moe.edu.sg/information-hub/p1-orientation-2024//)
+[Click here to access P1 E-Orientation Package page](https://www.konghwa.moe.edu.sg/information-hub/p1-orientation-2024/)
 
 * * *
 
