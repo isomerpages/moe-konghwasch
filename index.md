@@ -29,11 +29,10 @@ sections:
       alt: Image alt text
       button: Find our more
   - infopic:
-      title: " P6 BiCEP visit to NTU Chinese Medicine Clinic"
-      description: Our P6 BiCEP students were introduced to various Traditional
-        Chinese Medicine practices.
+      title: Onward to new adventures - wherever they go
+      description: We are proud of our 2023 P6 graduands
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0232Z1Vt2ufDUXovAUmpcbuGrLMb1gwH3K8dTUpPHp1kpeAydJckeQsYKiR9akvFJil&id=100064994620909
-      image: /images/343766655_561390779439917_6458370178371600634_n.jpg
+      url: https://www.facebook.com/photo?fbid=714962357346912&set=pcb.714963867346761
+      image: /images/Screenshot_2023_12_06_103034.png
       alt: Image alt text
 ---
