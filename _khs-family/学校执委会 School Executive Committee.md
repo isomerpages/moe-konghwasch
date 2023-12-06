@@ -125,7 +125,7 @@ variant: markdown
 <br><br>
 
 |  |  |
-| :-------- | -------- |
+| :------- | -------- |
 | <strong style="colour: orange; font-size: 20px; font-family: Arial;"> Administration Manager</strong> | Ms Goh May Ling Wendy <br> [goh\_may\_ling@schools.gov.sg](mailto:goh_may_ling@schools.gov.sg)| 
 
 <br><br>
