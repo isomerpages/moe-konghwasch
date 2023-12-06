@@ -2,12 +2,13 @@
 title: Announcements
 permalink: /announcements/
 description: ""
+variant: markdown
 ---
 ### Announcements
 
 ##### 1\. P1 Orientation Package
 
-[Click here to access P1 E-Orientation Package page](https://staging.d1zbyh3gidoh8o.amplifyapp.com/information-hub/p1-orientation-2023/)
+[Click here to access P1 E-Orientation Package page](https://www.konghwa.moe.edu.sg/information-hub/p1-orientation-2024//)
 
 * * *
 
