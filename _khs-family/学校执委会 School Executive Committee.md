@@ -10,7 +10,7 @@ variant: markdown
 | :-------- | ----------------------------------------------------------------------------------- |
 | Principal | Mr Poon Siow Leng <br> [raymond\_poon@schools.gov.sg](mailto:Raymond_POON@schools.gov.sg) |
 | Vice-Principal | Mrs Gan-Foo Mei Ping <br> [foo\_mei\_ping@schools.gov.sg](mailto:foo_mei_ping@schools.gov.sg) |
-| Vice-Principal | Mdm Ue-Tay Sze Yih <br> [ue-tay_sze_yin@schools.gov.sg](mailto:Ue-Tay_Sze_Yin@schools.gov.sg) |
+| Vice-Principal | Mdm Ue-Tay Sze Yin <br> [ue-tay_sze_yin@schools.gov.sg](mailto:Ue-Tay_Sze_Yin@schools.gov.sg) |
 | Vice-Principal (Administration) | Mrs Syn-Ng Bee Hoon <br> [ng\_bee\_hoon@schools.gov.sg](mailto:ng_bee_hoon@schools.gov.sg) |
 
 <br><br>
