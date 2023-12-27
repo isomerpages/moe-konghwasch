@@ -52,14 +52,14 @@ variant: markdown
 | P4-3 | Mdm Quah Li Zhen<br>[quah\_li\_zhen@schools.gov.sg](mailto:Quah_Li_Zhen@schools.gov.sg)<br><br>Mdm Tang Ling Ling<br>[tang\_ling\_ling@schools.gov.sg](mailto:tang_ling_ling@schools.gov.sg) |
 | P4-4 | Mdm Goh Siew Huang<br>[goh\_siew\_huang@schools.gov.sg](mailto:goh_siew_huang@schools.gov.sg)<br><br>Mrs Wong-Lee Lay Hua Agnes<br>[lee\_lay\_hua@schools.gov.sg](mailto:lee_lay_hua@schools.gov.sg) |
 | P4-5 | Mrs Sharon Lynn Tan Chun Yin<br>[tan\_chun\_yin@schools.gov.sg](mailto:tan_chun_yin@schools.gov.sg)<br><br>Mr Khoo Wenzhong James<br>[khoo\_wenzhong\_james@schools.gov.sg](mailto:khoo_wenzhong_james@schools.gov.sg)|
-| P4-6 | Mdm Leow Sian Leng Sandra<br>[leow\_sian\_leng@schools.gov.sg](mailto:leow_sian_leng@schools.gov.sg)|
+| P4-6 | Mdm Leow Sian Leng Sandra<br>[leow\_sian\_leng@schools.gov.sg](mailto:leow_sian_leng@schools.gov.sg)<br><br> Mdm Sim Kim Noy Anilia<br>[Sim_Kim_Noy_Anilia@schools.gov.sg](mailto:Sim_Kim_Noy_Anilia@schools.gov.sg)|
 | P4-7 | Mrs Ng-Sim Li Juan Matilda<br>[matilda\_sim\_li\_juan@schools.gov.sg](mailto:matilda_sim_li_juan@schools.gov.sg)<br><br>Ms Seow Kheng Ling<br>[seow\_kheng\_ling@schools.gov.sg](mailto:seow_kheng_ling@schools.gov.sg) |
 |  |  |
 
 | Class | Form Teacher |
 |:---:|:---:|
 | P5-1 | Mrs Tang Kin Tuck Christabelle<br>[tang\_kin\_tuck@schools.gov.sg](mailto:tang_kin_tuck@schools.gov.sg)<br><br>Mrs Tan-Liang Kok Fen<br>[liang\_kok\_fen@schools.gov.sg](mailto:liang_kok_fen@schools.gov.sg)|
-| P5-2 | Mdm Nurafida Bte Mohd Anis<br>[nurafida\_mohamed\_anis@schools.gov.sg](mailto:nurafida_mohamed_anis@schools.gov.sg)<br><br>Mrs Chew-Wong Hui Ren<br>[wong\_hui\_ren@schools.gov.sg](mailto:wong_hui_ren@schools.gov.sg) |
+| P5-2 | Mdm Nurafida Bte Mohd Anis<br>[nurafida\_mohamed\_anis@schools.gov.sg](mailto:nurafida_mohamed_anis@schools.gov.sg)<br><br>Mrs Chew-Wong Hui Ren<br>[wong\_hui\_ren@schools.gov.sg](mailto:wong_hui_ren@schools.gov.sg)<br><br> Miss Seah Geok Choon<br>[seah_geok_choon@schools.gov.sg](mailto:seah_geok_choon@schools.gov.sg) |
 | P5-3 | Miss Pay Hui Ling<br>[pay\_hui\_ling@schools.gov.sg](mailto:pay_hui_ling@schools.gov.sg)<br><br>Mrs Wong-Ho Si Yi<br>[ho\_si\_yi@schools.gov.sg](mailto:ho_si_yi@schools.gov.sg) |
 | P5-4 | Mdm Sharifah Warda Bte Syed Mohd Alsagoff<br>[sharifah\_warda\_s\_m@schools.gov.sg](mailto:sharifah_warda_s_m@schools.gov.sg)<br><br> Mr Lee Chia Liang<br>[lee_chia_liang@schools.gov.sg](mailto:lee_chia_liang@schools.gov.sg)|
 | P5-5 | Miss Yip Lai Ching Violet<br>[yip\_lai\_ching\_violet@schools.gov.sg](mailto:yip_lai_ching_violet@schools.gov.sg)<br><br>Mr Lin Jinlong Jimmy<br>[lin\_jinlong\_jimmy@schools.gov.sg](mailto:lin_jinlong_jimmy@schools.gov.sg) |
@@ -74,6 +74,6 @@ variant: markdown
 | P6-3 | Miss Ong Huey Fern<br>[ong\_huey\_fern@schools.gov.sg](mailto:ong_huey_fern@schools.gov.sg)<br><br> Mdm Chien Chia Chun<br>[chien\_chia\_chun@schools.gov.sg](mailto:chien_chia_chun@schools.gov.sg) |
 | P6-4 | Mrs Kang-Hwang Yongxiang<br>[hwang\_yongxiang@schools.gov.sg](mailto:hwang_yongxiang@schools.gov.sg)<br><br>Mr Jerry Yang<br>[yang\_ziyi@schools.gov.sg](mailto:Yang_Ziyi@schools.gov.sg) |
 | P6-5 | Mdm Siti Aishah Bte Ismail<br>[siti\_aishah\_ismail@schools.gov.sg](mailto:siti_aishah_ismail@schools.gov.sg)<br><br>Miss Wong Luan Yin<br>[wong\_luan\_yin@schools.gov.sg](mailto:wong_luan_yin@schools.gov.sg) |
-| P6-6 | Mrs Han-Yap Lay Hua<br>[yap\_lay\_hua@schools.gov.sg](mailto:yap_lay_hua@schools.gov.sg) |
+| P6-6 | Mrs Han-Yap Lay Hua<br>[yap\_lay\_hua@schools.gov.sg](mailto:yap_lay_hua@schools.gov.sg)<br><br>Mdm Jessica Loo<br>[ loo_yin_wai@schools.gov.sg](mailto:loo_yin_wai@schools.gov.sg)|
 | P6-7 | Mdm Chong Chui Mei Penny<br>[chong\_chui\_mei\_penny@schools.gov.sg](mailto:chong_chui_mei_penny@schools.gov.sg)<br><br>Mrs Chong-Goh Hwee Leng Wendi<br>[goh\_hwee\_leng@schools.gov.sg](mailto:goh_hwee_leng@schools.gov.sg) |
 |  |  |
