@@ -19,6 +19,7 @@ variant: markdown
 | :-------- | -------- |
 | Head of Department |Mrs Teo-Zhang Juan Juan <br>[zhang\_juan\_juan@schools.gov.sg](mailto:zhang_juan_juan@schools.gov.sg)|
 | Level Head | Mrs Goh-Wong Lee Ping <br>[wong\_lee\_ping@schools.gov.sg](mailto:wong_lee_ping@schools.gov.sg) |
+| Level Head | Mr Tan Tong Joo<br>[tan_tong_joo@schools.gov.sg](mailto:tan_tong_joo@schools.gov.sg) |
 | Senior Teacher | Mrs Wong-Lim Eng Tsing <br>[wong\_lim\_eng\_tsing@schools.gov.sg](mailto:wong_lim_eng_tsing@schools.gov.sg) |
 | Senior Teacher | Mdm Zhang Haiyan <br>[zhang\_haiyan@schools.gov.sg](mailto:zhang_haiyan@schools.gov.sg) |
 
@@ -44,7 +45,6 @@ variant: markdown
 | <strong style="colour: #ba7e1b; font-size: 25px; font-family: Arial;"> Science</strong> |  |
 | :-------- | -------- |
 | Head of Department | Mr Lin Jinlong Jimmy <br>[lin\_jinlong\_jimmy@schools.gov.sg](mailto:lin_jinlong_jimmy@schools.gov.sg)|
-| Level Head | Mr Phoon Kong Meng Larry <br>[phoon\_kong\_meng\_larry@schools.gov.sg](mailto:phoon_kong_meng_larry@schools.gov.sg)|
 | Senior Teacher | Mrs Chew-Wong Hui Ren <br>[wong\_hui\_ren@schools.gov.sg](mailto:wong_hui_ren@schools.gov.sg) |
 
 <br><br>
@@ -58,7 +58,6 @@ variant: markdown
 
 | <strong style="colour: #ba7e1b; font-size: 25px; font-family: Arial;"> Physical Education &amp; Co-Curricular Activities</strong> |  |
 | :-------- | -------- |
-| Head of Department | Mr Kok Zui Hua Leonard <br>[kok\_zui\_hua@schools.gov.sg](mailto:kok_zui_hua@schools.gov.sg)|
 | Subject Head | Mr Muhammad Zulkifli Bin Mohd Idries <br>[muhammad\_zulkifli\_mohd\_idries@schools.gov.sg](mailto:muhammad_zulkifli_mohd_idries@schools.gov.sg)|
 | Senior Teacher | Mrs Thio-Kooh Yong Tse <br>[kooh\_yong\_tse@schools.gov.sg](mailto:Kooh_Yong_Tse@schools.gov.sg) |
 
@@ -113,7 +112,6 @@ variant: markdown
 
 | <strong style="colour: #ba7e1b; font-size: 25px; font-family: Arial;"> Information and Communication Technology</strong> |  |
 | :-------- | -------- |
-| Head of Department | Mdm Mabel Liao Mei Bao <br>[mabel\_liao\_mei\_bao@schools.gov.sg](mailto:mabel_liao_mei_bao@schools.gov.sg)|
 | Subject Head | Mr Low Kok Leong <br>[low\_kok\_leong@schools.gov.sg](mailto:low_kok_leong@schools.gov.sg)|
 
 <br><br>
