@@ -10,7 +10,7 @@ variant: markdown
 |Class|Form Teacher|
 |:---:|:--:|
 | P1-1 | Ms Yeo Hwee Gek Jeslin<br>[yeo\_hwee\_gek\_jeslin@schools.gov.sg](mailto:yeo_hwee_gek_jeslin@schools.gov.sg)<br><br> Ms Tan Yan Shan<br>[tan_yan_shan@schools.gov.sg](mailto:Tan_Yan_Shan@schools.gov.sg) |
-| P1-2 | Mrs Ng-Lee Sin Chieh<br>[lee\_sin\_chieh@schools.gov.sg](mailto:lee_sin_chieh@schools.gov.sg)<br><br> Ms Xu Jing |
+| P1-2 | Mrs Ng-Lee Sin Chieh<br>[lee\_sin\_chieh@schools.gov.sg](mailto:lee_sin_chieh@schools.gov.sg)<br><br> Ms Xu Jing<br>[xu_jing_b@schools.gov.sg](mailto:xu_jing_b@schools.gov.sg) |
 | P1-3 | Mdm Lim Ai Yi<br>[lim\_ai\_yi@schools.gov.sg](mailto:lim_ai_yi@schools.gov.sg)<br><br> Mr Lee Yew Cheong<br>[lee_yew_cheong@schools.gov.sg](mailto:lee_yew_cheong@schools.gov.sg)|
 | P1-4 | Mrs Tan-Chang Zhi Jun<br>[chang\_zhi\_jun@schools.gov.sg](mailto:chang_zhi_jun@schools.gov.sg)<br><br>Mrs Wong-Lim Eng Tsing<br>[wong\_lim\_eng\_tsing@schools.gov.sg](mailto:wong_lim_eng_tsing@schools.gov.sg) |
 | P1-5 | Miss Lim Jie Xi<br>[lim\_Jie\_xi@schools.gov.sg](mailto:lim_Jie_xi@schools.gov.sg)<br><br>Mdm Nuraisha Bte Mohd Anis<br>[nuraisha\_mohamed\_anis@schools.gov.sg](mailto:nuraisha_mohamed_anis@schools.gov.sg)|
@@ -37,7 +37,7 @@ variant: markdown
 | Class | Form Teacher |
 |:---:|:---:|
 | P3-1 | Mdm Zhang Haiyan<br>[zhang\_haiyan@schools.gov.sg](mailto:zhang_haiyan@schools.gov.sg)<br><br> Ms Wang Ai Pei<br><br> |
-| P3-2 | Mrs Hue-Tan Siew Hoon<br>[hue-tan\_siew\_hoon@schools.gov.sg](mailto:hue-tan_siew_hoon@schools.gov.sg)<br><br> Ms Shi Yuanna<br><br>|
+| P3-2 | Mrs Hue-Tan Siew Hoon<br>[hue-tan\_siew\_hoon@schools.gov.sg](mailto:hue-tan_siew_hoon@schools.gov.sg)<br><br> Ms Shi Yuanna<br><br>[shi_yuanna@schools.gov.sg](mailto:shi_yuanna@schools.gov.sg)|
 | P3-3 | Mr Low Kok Leong<br>[low_kok_leong@schools.gov.sg](mailto:low_kok_leong@schools.gov.sg)<br><br>Ms Tan Hui Ling Lynnette<br>[tan\_hui\_ling\_lynnette@schools.gov.sg](mailto:tan_hui_ling_lynnette@schools.gov.sg) |
 | P3-4 | Mdm Hafsah Bte Yasin<br>[hafsah\_yasin@schools.gov.sg](mailto:hafsah_yasin@schools.gov.sg)<br><br>Mr Tan Kian Boon<br>[tan\_kian\_boon@schools.gov.sg](mailto:tan_kian_boon@schools.gov.sg) |
 | P3-5 | Mrs Seow-Ng Woon Shin Joelynn<br>[ng\_woon\_shin\_joelynn@schools.gov.sg](mailto:ng_woon_shin_joelynn@schools.gov.sg)<br><br>Ms Han Xiaoru<br>[han\_xiaoru@schools.gov.sg](mailto:han_xiaoru@schools.gov.sg)<br><br> Ms Ng Chun Hui<br><br> |
