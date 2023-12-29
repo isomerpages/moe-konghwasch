@@ -2,7 +2,6 @@ collections:
   about-khs:
     output: true
     order:
-      - 光华70周年视频 KHS 70th Anniversary Video.md
       - 校长献词 Principal's Message.md
       - 愿景与使命 Vision & Mission.md
       - 校训与价值观 School Motto & Values.md
@@ -11,4 +10,5 @@ collections:
       - 校歌 School Song.md
       - 校史 School History.md
       - 校规 School Rules.md
+      - 光华70周年视频 KHS 70th Anniversary Video.md
       - 联系我们 Contact Us.md
