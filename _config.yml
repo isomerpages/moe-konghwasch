@@ -3,7 +3,7 @@ url: https://www.konghwa.moe.edu.sg
 favicon: /images/favlogoupdated.png
 colors:
   primary-color: "#e79f17"
-  secondary-color: "#4a4a4a"
+  secondary-color: "#ba7e1b"
   media-colors:
     - title: media-color-one
       color: "#49759a"

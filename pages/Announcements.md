@@ -2,12 +2,13 @@
 title: Announcements
 permalink: /announcements/
 description: ""
+variant: markdown
 ---
 ### Announcements
 
 ##### 1\. P1 Orientation Package
 
-[Click here to access P1 E-Orientation Package page](https://staging.d1zbyh3gidoh8o.amplifyapp.com/information-hub/p1-orientation-2023/)
+[Click here to access P1 E-Orientation Package page](https://www.konghwa.moe.edu.sg/information-hub/p1-orientation-2024/)
 
 * * *
 
@@ -15,9 +16,7 @@ description: ""
 
 The President’s Award for Teachers gives national recognition to experienced teachers for their dedication and hard work in developing our young. These teachers prepare students for life, as well as model commitment to continuous learning and enterprise. They inspire both their students and peers through their words and deeds.
   
-Nomination link: [http://go.gov.sg/pat2022](http://go.gov.sg/pat2022)
-
-[Read more](https://staging.d1zbyh3gidoh8o.amplifyapp.com/information-hub/pat/)
+Please visit [this website](https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/presidents-award-for-teachers/overview/) for more information about President’s Award for Teachers (PAT).
 	
 * * *
 
@@ -25,9 +24,7 @@ Nomination link: [http://go.gov.sg/pat2022](http://go.gov.sg/pat2022)
 
 The Outstanding Youth in Education Award seeks to recognise excellent young teachers for their youthful idealism, energy, enthusiasm and active involvement in the development of youths.
 
-Nomination link: [http://go.gov.sg/oyea2022](http://go.gov.sg/oyea2022)
-
-[Read more](https://staging.d1zbyh3gidoh8o.amplifyapp.com/information-hub/OYEA-2022/)
+Please visit [this website](https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/oyea/overview/) for more information about Outstanding Youth in Education Award (OYEA).
 
 * * *
 
