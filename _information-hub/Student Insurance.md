@@ -2,11 +2,6 @@
 title: Student Insurance
 permalink: /information-hub/student-insurance/
 description: ""
+variant: tiptap
 ---
-### Student Insurance
-**Insurance information:**
-
-All claims should be submitted as soon as possible subjected to a cap of 365 days from the date of accident.
-You may do an online submission at Income’s GPA portal at [https://studentgpa.incomegroupins.com.sg](https://studentgpa.incomegroupins.com.sg)
-
-[Product Fact Sheet Year 2022 Sep 2022](/files/Product%20Fact%20Sheet%20Year%202022%20Sep%202022.pdf)
+<h3>Student Insurance</h3><p><strong>Insurance information:</strong></p><p>All claims should be submitted as soon as possible subjected to a cap of 365 days from the date of accident. You may do an online submission at Income’s GPA portal at <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a></p><p><a href="/files/Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet 2024</a></p>
