@@ -36,7 +36,7 @@ variant: markdown
 
 | Class | Form Teacher |
 |:---:|:---:|
-| P3-1 | Mdm Zhang Haiyan<br>[zhang\_haiyan@schools.gov.sg](mailto:zhang_haiyan@schools.gov.sg)<br><br> Ms Wang Ai Pei<br><br> |
+| P3-1 | Mdm Zhang Haiyan<br>[zhang\_haiyan@schools.gov.sg](mailto:zhang_haiyan@schools.gov.sg)<br><br> Ms Wang Ai Pei<br>[wang_ai_pei_a@schools.gov.sg](mailto:wang_ai_pei_a@schools.gov.sg) |
 | P3-2 | Mrs Hue-Tan Siew Hoon<br>[hue-tan\_siew\_hoon@schools.gov.sg](mailto:hue-tan_siew_hoon@schools.gov.sg)<br><br> Ms Shi Yuanna<br>[shi_yuanna@schools.gov.sg](mailto:shi_yuanna@schools.gov.sg)|
 | P3-3 | Mr Low Kok Leong<br>[low_kok_leong@schools.gov.sg](mailto:low_kok_leong@schools.gov.sg)<br><br>Ms Tan Hui Ling Lynnette<br>[tan\_hui\_ling\_lynnette@schools.gov.sg](mailto:tan_hui_ling_lynnette@schools.gov.sg) |
 | P3-4 | Mdm Hafsah Bte Yasin<br>[hafsah\_yasin@schools.gov.sg](mailto:hafsah_yasin@schools.gov.sg)<br><br>Mr Tan Kian Boon<br>[tan\_kian\_boon@schools.gov.sg](mailto:tan_kian_boon@schools.gov.sg) |
