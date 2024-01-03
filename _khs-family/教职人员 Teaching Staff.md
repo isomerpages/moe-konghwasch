@@ -30,7 +30,7 @@ variant: markdown
 | P2-5 | Mdm Liew Hwee Cheng Lynn<br>[liew\_hwee\_cheng@schools.gov.sg](mailto:liew_hwee_cheng@schools.gov.sg)<br><br>Mr Ng Zi Jian<br>[zi\_jian\_ng@schools.gov.sg](mailto:Zi_Jian_NG@schools.gov.sg)|
 | P2-6 | Mdm Chew Siew Leng<br>[chew\_siew\_leng@schools.gov.sg](mailto:chew_siew_leng@schools.gov.sg)<br><br> Ms Chan Yin Ling<br>[chan\_yin\_ling\_a@schools.gov.sg](mailto:chan_yin_ling_a@schools.gov.sg)<br><br> Miss Han Simin Rachel<br>[han\_simin@schools.gov.sg](mailto:han_simin@schools.gov.sg) |
 | P2-7 | Mrs Choong Wah Loy Shirley<br>[choong\_wah\_loy@schools.gov.sg](mailto:choong_wah_loy@schools.gov.sg)<br><br>Mrs Nor Ashikin Fadzil <br>[nor\_ashikin\_md\_daud@schools.gov.sg](mailto:nor_ashikin_md_daud@schools.gov.sg) |
-| P2-8 | Ms Yvette Foo<br>[foo_wanru_yvette@schools.gov.sg](mailto:foo_wanru_yvette@schools.gov.sg)<br><br> Mrs Yeoh-Goh Jia Hui<br>[goh\_jia\_hui@schools.gov.sg](mailto:goh_jia_hui@schools.gov.sg) |
+| P2-8 | Mrs Yvette Lim<br>[foo_wanru_yvette@schools.gov.sg](mailto:foo_wanru_yvette@schools.gov.sg)<br><br> Mrs Yeoh-Goh Jia Hui<br>[goh\_jia\_hui@schools.gov.sg](mailto:goh_jia_hui@schools.gov.sg) |
 | P2-9 | Mrs Teng-Ho Yanlin<br>[ho\_yan\_lin@schools.gov.sg](mailto:ho_yan_lin@schools.gov.sg)<br><br> Mr Muhammad Zulkifli Bin Mohd Idries<br>[muhammad\_zulkifli\_mohd\_idries@schools.gov.sg](mailto:muhammad_zulkifli_mohd_idries@schools.gov.sg) |
 |  |  |
 
