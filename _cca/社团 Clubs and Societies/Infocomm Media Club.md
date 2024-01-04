@@ -5,34 +5,4 @@ description: ""
 third_nav_title: 社团 Clubs and Societies
 variant: tiptap
 ---
-### Infocomm Club
-
-Infocomm Club aims to broaden and deepen our members’ Information and Communication Technology (ICT) skills, by imparting them with the latest 21st century ICT tools.
-
-  
-
-Kong Hwa School Infocomm Club enthuses and empowers our members by engaging them in a meaningful hands-on journey through experiential learning. Members will have opportunities to use information technology to help them express their creativity whilst learning to cultivate leadership and entrepreneurship capabilities through school-based activities.
-
-  
-
-This year’s scope of learning for our members comprises,
-
-*   Coding
-*   Mobile App Development
-*   Cyber Security
-*   Photo Manipulation and Digital Illustration
-*   Photography / Videography
-
-#### Training Schedule
-
-Day: Fridays<br>
-Time: 2 pm to 3.30 pm<br>
-Venue: Computer Labs 2 and 3
-
-#### Teachers In-Charge
-
-Ms Foo Wanru Yvette&nbsp;[foo\_wanru\_yvette@moe.edu.sg](mailto:foo_wanru_yvette@moe.edu.sg)<br>
-Mr Low Kok Leong&nbsp;[low\_kok\_leong@moe.edu.sg](mailto:low_kok_leong@moe.edu.sg)<br>
-Ms Gauri Rai&nbsp;[gauri\_varsha\_rai@moe.edu.sg](mailto:gauri_varsha_rai@moe.edu.sg)<br>
-Mr Ng Zi Jian&nbsp;[ng\_zi\_jian@moe.edu.sg](mailto:ng_zi_jian@moe.edu.sg) <br>
-Mrs Carol Ng [ng-tay\_soh\_cheng@moe.edu.sg](mailto:ng-tay_soh_cheng@moe.edu.sg)
+<h3>Infocomm Club</h3><p>Infocomm Club aims to broaden and deepen our members’ Information and Communication Technology (ICT) skills, by imparting them with the latest 21st century ICT tools.</p><p>Kong Hwa School Infocomm Club enthuses and empowers our members by engaging them in a meaningful hands-on journey through experiential learning. Members will have opportunities to use information technology to help them express their creativity whilst learning to cultivate leadership and entrepreneurship capabilities through school-based activities.</p><p>This year’s scope of learning for our members comprises,</p><ul data-tight="true" class="tight"><li><p>Coding</p></li><li><p>Mobile App Development</p></li><li><p>Cyber Security</p></li><li><p>Photo Manipulation and Digital Illustration</p></li><li><p>Photography / Videography</p></li></ul><h4>Training Schedule</h4><p>Day: Fridays<br>Time: 2 pm to 3.30 pm<br>Venue: Computer Labs 2 and 3</p><h4>Teachers In-Charge</h4><p>Mr Ng Zi Jian&nbsp;<a href="mailto:ng_zi_jian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_zi_jian@moe.edu.sg</a> </p><p>Mdm Quah Li Zhen <a href="mailto:Quah_Li_Zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>quah_li_zhen@schools.gov.sg</u></a></p><p>Mr Low Kok Leong&nbsp;<a href="mailto:low_kok_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_kok_leong@moe.edu.sg</a></p>
