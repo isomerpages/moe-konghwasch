@@ -3,8 +3,8 @@ title: Show Choir
 permalink: /cca/Visual-and-Performing-Arts/show-choir/
 description: ""
 third_nav_title: 艺术团 Visual and Performing Arts
+variant: markdown
 ---
-
 ### Show Choir
 
 Do you have a love for singing and performance?
@@ -31,10 +31,11 @@ Venue: Music Room 2 (C302)
 
 #### Teachers In-Charge
 
-Ms Rachel Han [han\_simin@schools.gov.sg](mailto:han_simin@schools.gov.sg)  <br>
-Ms Tan Hui Ling Lynnette [tan\_hui\_ling\_lynnette@schools.gov.sg](mailto:tan_hui_ling_lynnette@schools.gov.sg)
+Ms Rachel Han&nbsp;[han\_simin@schools.gov.sg](mailto:han_simin@schools.gov.sg)  <br>
+Ms Tan Hui Ling Lynnette&nbsp;[tan\_hui\_ling\_lynnette@schools.gov.sg](mailto:tan_hui_ling_lynnette@schools.gov.sg)<br>
+Mdm Li Hongyu&nbsp;[li\_hongyu@schools.gov.sg](mailto:li_hongyu@schools.gov.sg)
 
-#### Our Achievements & Highlights for 2019
+#### Our Achievements &amp; Highlights for 2019
 
 *   Attained Platinum Award in BDazzled Festival 2019
 *   Performed at Singapore Youth Festival @ Community at Tampines Hub
