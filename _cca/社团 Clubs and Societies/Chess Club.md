@@ -36,5 +36,5 @@ Venue: A201, A202, A203 classroom
 #### Teachers In-Charge
 
 Ms Wong Luan Yin&nbsp;[wong\_luan\_yin@schools.gov.sg](mailto:wong_luan_yin@schools.gov.sg)<br> 
+Mrs Teng-Ho Yanlin  [ho\_yan\_lin@schools.gov.sg](mailto:ho_yan_lin@schools.gov.sg)<br>
 Ms Chin Wan Chen&nbsp;[chin\_wan\_chen@schools.gov.sg](mailto:chin_wan_chen@schools.gov.sg) <br>
-Mrs Teng-Ho Yanlin  [ho\_yan\_lin@schools.gov.sg](mailto:ho_yan_lin@schools.gov.sg)
