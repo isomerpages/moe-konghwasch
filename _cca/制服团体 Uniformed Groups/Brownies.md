@@ -54,7 +54,7 @@ Time: 2 pm to 3.30 pm
 
 Mdm Nurafida&nbsp;[nurafida\_mohamed\_anis@moe.edu.sg](mailto:nurafida_mohamed_anis@moe.edu.sg)  <br>
 Mdm Siti Aishah&nbsp;[siti\_aishah\_ismail@schools.gov.sg](mailto:siti_aishah_ismail@schools.gov.sg)<br>
-Ms Ivy Lee Pei Sze [
+Ms Lvy Lee Pei Sze [lee\_pei\_sze\_a@schools.gov.sg](mailto:lee_pei_sze_a@schools.gov.sg)
 
 #### Achievements and Highlights for 2021- 2022
 
