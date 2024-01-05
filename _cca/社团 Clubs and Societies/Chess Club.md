@@ -3,9 +3,9 @@ title: Chess Club
 permalink: /cca/Clubs-and-Societies/chess-club/
 description: ""
 third_nav_title: 社团 Clubs and Societies
+variant: markdown
 ---
-
-### Chess Club (International Chess, Xiangqi & Weiqi)
+### Chess Club (International Chess, Xiangqi &amp; Weiqi)
 
 It’s not about the Kings, Queens, and Rooks, but rather, quadrants and coordinates, thinking strategically and foreseeing consequences. It’s about lines and angles, weighing options and making decisions. Chess might just be the perfect teaching and learning tool.
 
@@ -35,6 +35,6 @@ Venue: A201, A202, A203 classroom
 
 #### Teachers In-Charge
 
-Ms Wong Luan Yin [wong\_luan\_yin@schools.gov.sg](mailto:wong_luan_yin@schools.gov.sg)   
-Ms Chin Wan Chen [chin\_wan\_chen@schools.gov.sg](mailto:chin_wan_chen@schools.gov.sg)  
-Mdm Goh Siew Huang [goh\_siew\_huang@schools.gov.sg](mailto:goh_siew_huang@schools.gov.sg)
+Ms Wong Luan Yin&nbsp;[wong\_luan\_yin@schools.gov.sg](mailto:wong_luan_yin@schools.gov.sg)<br> 
+Ms Chin Wan Chen&nbsp;[chin\_wan\_chen@schools.gov.sg](mailto:chin_wan_chen@schools.gov.sg) <br>
+Mrs Teng-Ho Yanlin  [ho\_yan\_lin@schools.gov.sg](mailto:ho_yan_lin@schools.gov.sg)
