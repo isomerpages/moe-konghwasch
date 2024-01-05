@@ -40,7 +40,7 @@ variant: markdown
 | P3-2 | Mrs Hue-Tan Siew Hoon<br>[hue-tan\_siew\_hoon@schools.gov.sg](mailto:hue-tan_siew_hoon@schools.gov.sg)<br><br> Ms Shi Yuanna<br>[shi_yuanna@schools.gov.sg](mailto:shi_yuanna@schools.gov.sg)|
 | P3-3 | Mr Low Kok Leong<br>[low_kok_leong@schools.gov.sg](mailto:low_kok_leong@schools.gov.sg)<br><br>Ms Tan Hui Ling Lynnette<br>[tan\_hui\_ling\_lynnette@schools.gov.sg](mailto:tan_hui_ling_lynnette@schools.gov.sg) |
 | P3-4 | Mdm Hafsah Bte Yasin<br>[hafsah\_yasin@schools.gov.sg](mailto:hafsah_yasin@schools.gov.sg)<br><br>Mr Tan Kian Boon<br>[tan\_kian\_boon@schools.gov.sg](mailto:tan_kian_boon@schools.gov.sg) |
-| P3-5 | Mrs Seow-Ng Woon Shin Joelynn<br>[ng\_woon\_shin\_joelynn@schools.gov.sg](mailto:ng_woon_shin_joelynn@schools.gov.sg)<br><br>Ms Han Xiaoru<br>[han\_xiaoru@schools.gov.sg](mailto:han_xiaoru@schools.gov.sg)<br><br> Ms Ng Chun Hui<br><br> |
+| P3-5 | Mrs Seow-Ng Woon Shin Joelynn<br>[ng\_woon\_shin\_joelynn@schools.gov.sg](mailto:ng_woon_shin_joelynn@schools.gov.sg)<br><br>Ms Han Xiaoru<br>[han\_xiaoru@schools.gov.sg](mailto:han_xiaoru@schools.gov.sg)<br><br> Ms Ng Chun Hui<br>[ng_chun_hui@schools.gov.sg](mailto:Ng_Chun_Hui@schools.gov.sg) |
 | P3-6 | Mdm Shao Linjuan<br>[shao\_linjuan@schools.gov.sg](mailto:Shao_Linjuan@schools.gov.sg)<br><br>Ms Evelyn Tan<br>[tan\_leng\_hwee\_evelyn@schools.gov.sg](mailto:tan_leng_hwee_evelyn@schools.gov.sg) |
 | P3-7 | Mdm Tay Soh Cheng Carol<br>[ng-tay\_soh\_cheng@schools.gov.sg](mailto:ng-tay_soh_cheng@schools.gov.sg)<br><br>Mrs Goh-Wong Lee Ping<br>[wong\_lee\_ping@schools.gov.sg](mailto:wong_lee_ping@schools.gov.sg) |
 |  |  |
