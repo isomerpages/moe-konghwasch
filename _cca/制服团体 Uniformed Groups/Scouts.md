@@ -49,7 +49,7 @@ Mr Jerry Yang&nbsp;[yang\_ziyi@moe.edu.sg](mailto:yang_ziyi@moe.edu.sg)<br>
 Mdm Anilia Sim&nbsp;[sim\_kim\_noy\_anilia@moe.edu.sg](mailto:sim_kim_noy_anilia@moe.edu.sg)  <br>
 Mr Tan Tong Joo&nbsp;[tan\_tong\_joo@moe.edu.sg](mailto:tan_tong_joo@moe.edu.sg)<br>
 Ms Shi Yuanna [shi\_yuanna@schools.gov.sg](mailto:shi_yuanna@schools.gov.sg)<br>
-Mr Koh Eng Huat 
+Mr Koh Eng Huat [koh_eng_huat_a@schools.gov.sg](mailto:koh_eng_huat_a@schools.gov.sg)
 
 #### Achievements &amp; Highlights of 2021-2022
 
