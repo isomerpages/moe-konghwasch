@@ -3,16 +3,15 @@ title: Badminton
 permalink: /cca/Physical-Sports/badminton/
 description: ""
 third_nav_title: 体育运动 Physical Sports
+variant: markdown
 ---
-
-
 ### Badminton
 
 There are two different categories of badminton teams in Kong Hwa School. They are the School Team and Recreational Team.
 
   
 
-For the school team, students are given the opportunity to play in the National School Games (NSG) competition. There are junior boys and girls team which comprises of students from P3 to P5 and senior boys and girls team which comprises of P5 & P6 students. These groups of students train three times a week. 
+For the school team, students are given the opportunity to play in the National School Games (NSG) competition. There are junior boys and girls team which comprises of students from P3 to P5 and senior boys and girls team which comprises of P5 &amp; P6 students. These groups of students train three times a week. 
 
   
 
@@ -37,19 +36,16 @@ Girls Team 2: Monday and Wednesday from 2 p.m. – 5 p.m.
 
 #### Teachers In-Charge
 
-Mr James Khoo [khoo\_wenzhong\_james@schools.gov.sg](mailto:khoo_wenzhong_james@schools.gov.sg)<br>
-Mrs Thio-Kooh Yong Tse [kooh\_yong\_tse@schools.gov.sg](mailto:kooh_yong_tse@schools.gov.sg)<br>
-Mdm Sim Qing Qing [sim\_qing\_qing@schools.gov.sg](mailto:sim_qing_qing@schools.gov.sg)<br>
-Ms Ong Huey Fern [ong\_huey\_fern@schools.gov.sg](mailto:ong_huey_fern@schools.gov.sg)<br>
-Mrs Wong-Ho Si Yi [ho\_si\_yi@schools.gov.sg](mailto:ho_si_yi@schools.gov.sg)<br>
-Ms Pay Hui Ling [pay\_hui\_ling@schools.gov.sg](mailto:pay_hui_ling@schools.gov.sg)<br>
-Mrs Sharon Lynn Tan [tan\_chun\_yin@schools.gov.sg](mailto:tan_chun_yin@schools.gov.sg)<br>
-Mdm Wendy Hoon [hoon\_siow\_hway@schools.gov.sg](mailto:hoon_siow_hway@schools.gov.sg)<br>
-Ms Siti Nurfadzillah [siti\_nurfadzillah\_husni\_thamrin@schools.gov.sg](mailto:siti_nurfadzillah_husni_thamrin@schools.gov.sg)<br>
-Ms Yap Peck Sze [yap\_peck\_sze@schools.gov.sg](mailto:yap_peck_sze@schools.gov.sg)
-<br>Ms Evelyn Tan [tan\_leng\_hwee\_evelyn@schools.gov.sg](mailto:tan_leng_hwee_evelyn@schools.gov.sg)
+Mrs Thio-Kooh Yong Tse&nbsp;[kooh\_yong\_tse@schools.gov.sg](mailto:kooh_yong_tse@schools.gov.sg)<br>
+Ms Ong Huey Fern&nbsp;[ong\_huey\_fern@schools.gov.sg](mailto:ong_huey_fern@schools.gov.sg)<br>
+Mrs Wong-Ho Si Yi&nbsp;[ho\_si\_yi@schools.gov.sg](mailto:ho_si_yi@schools.gov.sg)<br>
+Ms Pay Hui Ling&nbsp;[pay\_hui\_ling@schools.gov.sg](mailto:pay_hui_ling@schools.gov.sg)<br>
+Mrs Sharon Lynn Tan&nbsp;[tan\_chun\_yin@schools.gov.sg](mailto:tan_chun_yin@schools.gov.sg)<br>
+Mdm Tay Soh Cheng Carol [ng-tay\_soh\_cheng@schools.gov.sg](mailto:ng-tay_soh_cheng@schools.gov.sg)<br>
+Mdm Wendy Hoon&nbsp;[hoon\_siow\_hway@schools.gov.sg](mailto:hoon_siow_hway@schools.gov.sg)<br>
+Ms Evelyn Tan&nbsp;[tan\_leng\_hwee\_evelyn@schools.gov.sg](mailto:tan_leng_hwee_evelyn@schools.gov.sg)
 
-#### Achievements & Highlights of 2021 and 2022
+#### Achievements &amp; Highlights of 2021 and 2022
 
 **National School Games (NSG) East Zone Badminton Championships 2021**
 

@@ -3,9 +3,8 @@ title: Tchoukball
 permalink: /cca/Physical-Sports/tchoukball/
 description: ""
 third_nav_title: 体育运动 Physical Sports
+variant: markdown
 ---
-
-
 ### Tchoukball
 
 Tchoukball is a non-contact team sport that emphasizes on speed, teamwork and strategy. It involves a unique set of rules and elements of volleyball, basketball and handball. The sport can be played by anyone regardless of varying physical and sporting abilities.
@@ -24,6 +23,5 @@ Venue: Lecture Theatre (LT)
 
 #### Teachers In-Charge
 
-Mrs Christine Kang [lim\_ching\_chye@schools.gov.sg](mailto:lim_ching_chye@schools.gov.sg)<br>
-Miss Ng Ling Er  [ng\_ling\_er@schools.gov.sg](mailto:ng_ling_er@schools.gov.sg)  <br>
-Ms An Wei [an\_wei@schools.gov.sg](mailto:an_wei@schools.gov.sg)
+Miss Ng Ling Er &nbsp;[ng\_ling\_er@schools.gov.sg](mailto:ng_ling_er@schools.gov.sg)  <br>
+Ms An Wei&nbsp;[an\_wei@schools.gov.sg](mailto:an_wei@schools.gov.sg)

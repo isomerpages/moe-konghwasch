@@ -3,8 +3,8 @@ title: Scouts
 permalink: /cca/Uniformed-Groups/scouts/
 description: ""
 third_nav_title: 制服团体 Uniformed Groups
+variant: markdown
 ---
-
 ### Scouts
 
 Scouting is about having fun, but to a Cub Scout, “fun” means a lot more than just having a good time. "Fun" is a cub scout’s code word for the satisfaction he gets from meeting challenges, having friends, feeling good about himself, and feeling he is important to other people.
@@ -45,16 +45,17 @@ Venue:B4-05
 
 #### Teacher In-Charge
 
-Larry Phoon [phoon\_kong\_meng\_larry@moe.edu.sg](mailto:phoon_kong_meng_larry@moe.edu.sg)<br>
-Jerry Yang [yang\_ziyi@moe.edu.sg](mailto:yang_ziyi@moe.edu.sg)<br>
-Anilia Sim [sim\_kim\_noy\_anilia@moe.edu.sg](mailto:sim_kim_noy_anilia@moe.edu.sg)  <br>
-Tan Tong Joo [tan\_tong\_joo@moe.edu.sg](mailto:tan_tong_joo@moe.edu.sg)
+Mr Jerry Yang&nbsp;[yang\_ziyi@moe.edu.sg](mailto:yang_ziyi@moe.edu.sg)<br>
+Mdm Anilia Sim&nbsp;[sim\_kim\_noy\_anilia@moe.edu.sg](mailto:sim_kim_noy_anilia@moe.edu.sg)  <br>
+Mr Tan Tong Joo&nbsp;[tan\_tong\_joo@moe.edu.sg](mailto:tan_tong_joo@moe.edu.sg)<br>
+Ms Shi Yuanna [shi\_yuanna@schools.gov.sg](mailto:shi_yuanna@schools.gov.sg)<br>
+Mr Koh Eng Huat [koh_eng_huat_a@schools.gov.sg](mailto:koh_eng_huat_a@schools.gov.sg)
 
-#### Achievements & Highlights of 2021-2022
+#### Achievements &amp; Highlights of 2021-2022
 
 Achievements:
 
-\-Total of 3 Akelas from the Primary 5 Cub Scouts and 10 Akelas from the Primary 6 Cub Scouts. 
+\-Total of 3 Akelas from the Primary 5 Cub Scouts and 10 Akelas from the Primary 6 Cub Scouts.&nbsp;
 
   
 Highlights:  

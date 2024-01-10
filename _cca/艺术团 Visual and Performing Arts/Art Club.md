@@ -3,8 +3,8 @@ title: Art Club
 permalink: /cca/Visual-and-Performing-Arts/art-club/
 description: ""
 third_nav_title: 艺术团 Visual and Performing Arts
+variant: markdown
 ---
-
 ### Art Club
 
 Art Club provides different avenues and platforms for the holistic development of the pupils in Art. Pupils are engaged through the different art forms to achieve the overarching objectives of lifelong learning and character building.
@@ -32,11 +32,11 @@ Venue: Art Rooms
 
 #### Teachers In-Charge
 
-Mdm Julie Tay: [tay\_lee\_joo\_julie@moe.edu.sg](mailto:tay_lee_joo_julie@moe.edu.sg)<br>
-Miss Ann Pei: [pei\_qianru@moe.edu.sg](mailto:pei_qianru@moe.edu.sg)<br>
-Mdm Zheng Huier : [zheng\_huier@schools.gov.sg](mailto:zheng_huier@schools.gov.sg)
+Mdm Julie Tay:&nbsp;[tay\_lee\_joo\_julie@schools.gov.sg](mailto:tay_lee_joo_julie@schools.gov.sg)<br>
+Miss Ann Pei:&nbsp;[pei\_qianru@schools.gov.sg](mailto:pei_qianru@schools.gov.sg)<br>
+Ms Xu Jing  [xu\_jing\_b@schools.gov.sg](mailto:xu_jing_b@schools.gov.sg)
 
-#### Achievements & Highlights of 2023
+#### Achievements &amp; Highlights of 2023
 
 Students will be taking part in the SYF Art.
 

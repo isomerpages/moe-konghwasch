@@ -3,8 +3,8 @@ title: Brownies
 permalink: /cca/Uniformed-Groups/brownies/
 description: ""
 third_nav_title: 制服团体 Uniformed Groups
+variant: markdown
 ---
-
 ### Brownies
 
 **Guiding Vision**
@@ -33,8 +33,8 @@ Brownies learn to work and play independently and also in teams. On special occa
 
 Brownies are guided by a comprehensive 5-Point Programme, which develops them in 5 areas:
 
-*   Personal & Social Development – Healthy Me, Courteous Me, Cultured Me
-*   Home – Home Safety & Duties
+*   Personal &amp; Social Development – Healthy Me, Courteous Me, Cultured Me
+*   Home – Home Safety &amp; Duties
 *   Outdoor – Discovering Nature, A Green World
 *   Community – My Country, My Neighbourhood, Helper
 *   International – My Brownie Friend, My World
@@ -47,15 +47,14 @@ Brownies enjoy working for interest badges and awards that will help them develo
 
 #### Training Schedule
 
-Day: Friday<Br>
+Day: Friday<br>
 Time: 2 pm to 3.30 pm
 
 #### Teacher In-Charge
 
-Mdm Nurafida [nurafida\_mohamed\_anis@moe.edu.sg](mailto:nurafida_mohamed_anis@moe.edu.sg)  <br>
-Ms Quah Li Zhen [quah\_li\_zhen@schools.gov.sg](mailto:quah_li_zhen@schools.gov.sg)  <br>
-Mdm Siti Aishah [siti\_aishah\_ismail@schools.gov.sg](mailto:siti_aishah_ismail@schools.gov.sg)<br>
-Ms Tan Yan Shan [tan\_yan\_shan@schools.gov.sg](mailto:tan_yan_shan@schools.gov.sg)
+Mdm Nurafida&nbsp;[nurafida\_mohamed\_anis@moe.edu.sg](mailto:nurafida_mohamed_anis@moe.edu.sg)  <br>
+Mdm Siti Aishah&nbsp;[siti\_aishah\_ismail@schools.gov.sg](mailto:siti_aishah_ismail@schools.gov.sg)<br>
+Ms Lvy Lee Pei Sze [lee\_pei\_sze\_a@schools.gov.sg](mailto:lee_pei_sze_a@schools.gov.sg)
 
 #### Achievements and Highlights for 2021- 2022
 

@@ -3,8 +3,8 @@ title: Chinese Calligraphy Club
 permalink: /cca/Visual-and-Performing-Arts/chinese-calligraphy-club/
 description: ""
 third_nav_title: 艺术团 Visual and Performing Arts
+variant: markdown
 ---
-
 ### Chinese Calligraphy Club
 
 The Chinese Calligraphy Club provides different platforms for the holistic development of the students in Chinese calligraphy and brush painting. To foster greater awareness in Chinese calligraphy, students were given opportunities to take part in national calligraphy competitions and SYF Art Exhibition.
@@ -28,18 +28,17 @@ Competition Season: National Primary School Chinese Calligraphy Competition
 
 #### Teachers In-Charge
 
-Mdm Yip Yijie [yip\_yijie@schools.gov.sg](mailto:yip_yijie@schools.gov.sg)<br>
-Mdm Zhang Haiyan [zhang\_haiyan@schools.gov.sg](mailto:zhang_haiyan@schools.gov.sg)<br>
-Mdm Shao Linjuan [shao\_linjuan@schools.gov.sg](mailto:shao_linjuan@schools.gov.sg)<br>
-Mdm Li Hongyu [li\_hongyu@schools.gov.sg](mailto:li_hongyu@schools.gov.sg)
+Mdm Zhang Haiyan&nbsp;[zhang\_haiyan@schools.gov.sg](mailto:zhang_haiyan@schools.gov.sg)<br>
+Mdm Shao Linjuan&nbsp;[shao\_linjuan@schools.gov.sg](mailto:shao_linjuan@schools.gov.sg)<br>
 
-#### Achievements & Highlights of 2021
+
+#### Achievements &amp; Highlights of 2021
 
 **Ong Jing Yu, Hoo Yu Xin, Lee Yi Xin, Tham Shi Xuan, Ng Qian Hui**
 
 2021 Singapore Youth Festival (SYF): Certificate of Recognition - modern Chinese painting
 
-#### Achievements & Highlights of 2022
+#### Achievements &amp; Highlights of 2022
 
 **Ong Jing Yu**<br>
 2022 National Primary School Chinese Calligraphy Competition Consolation (Hong Wen School)

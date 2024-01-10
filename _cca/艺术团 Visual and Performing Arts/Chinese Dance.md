@@ -3,8 +3,8 @@ title: Chinese Dance
 permalink: /cca/Visual-and-Performing-Arts/chinese-dance/
 description: ""
 third_nav_title: 艺术团 Visual and Performing Arts
+variant: markdown
 ---
-
 ### Chinese Dance
 
 *   Able to learn the basic steps in Chinese Dance
@@ -20,17 +20,16 @@ Venue: Dance Room
 
 #### Teachers In-Charge
 
-Mdm Chien Chia Chun [chien\_chia\_chun@schools.gov.sg](mailto:chien_chia_chun@schools.gov.sg)<br>
-Mrs Teng-Ho Yanlin [ho\_yan\_lin@schools.gov.sg](mailto:ho_yan_lin@schools.gov.sg)<br>
-Mrs Tang Kin Tuck Christabelle [tang\_kin\_tuck@schools.gov.sg](mailto:tang_kin_tuck@schools.gov.sg)<br>
-Mdm Liu Yali [liu\_yali\_a@schools.gov.sg](mailto:liu_yali_a@schools.gov.sg)
+Mdm Chien Chia Chun&nbsp;[chien\_chia\_chun@schools.gov.sg](mailto:chien_chia_chun@schools.gov.sg)<br>
+Mrs Tang Kin Tuck Christabelle&nbsp;[tang\_kin\_tuck@schools.gov.sg](mailto:tang_kin_tuck@schools.gov.sg)<br>
+Mdm Liu Yali&nbsp;[liu\_yali\_a@schools.gov.sg](mailto:liu_yali_a@schools.gov.sg)
 
-#### Achievements & Highlights  
+#### Achievements &amp; Highlights  
 
 *   CNY celebration (20 January 2023)
 *   Aesthetic Showcase 2022 performance
 *   SYF Art Presentation Dance (July 2022)
 *   Aesthetic Showcase 2019 performance
 *   SYF Art Presentation Dance (2018): Certificate of Distinction
-*   Aesthetic Showcase 2017 performance  
+*   Aesthetic Showcase 2017 performance&nbsp;&nbsp;
 *   SYF Art Presentation Dance (2016): Certificate of Distinction
