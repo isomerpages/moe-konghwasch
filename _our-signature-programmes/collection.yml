@@ -1,0 +1,8 @@
+collections:
+  our-signature-programmes:
+    output: true
+    order:
+      - 特选旗舰项目 Special Assistance Plan (SAP).md
+      - 双文化优选课程 Bicultural Chinese Elective Programme (BiCEP).md
+      - 应用学习计划 Applied Learning Programme (ALP).md
+      - 终身学习计划 Learning for Life Programme (LLP).md

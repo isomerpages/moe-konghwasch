@@ -1,0 +1,11 @@
+collections:
+  cognitive:
+    output: true
+    order:
+      - 英文 English Language.md
+      - 华文 Chinese Language.md
+      - 数学 Mathematics.md
+      - 科学 Science.md
+      - 专题作业 Project Work.md
+      - 资讯通信科技  Infocomm Technology.md
+      - Thinkers' Programme.md
