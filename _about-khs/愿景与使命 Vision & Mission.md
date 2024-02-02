@@ -17,7 +17,7 @@ enable them to become self-directed learners; empowering them to navigate
 in a wide range of learning experiences.</p>
 <p><strong><u>学会共处 Learning to Live</u></strong>
 </p>
-<p>光华学子通过掌握社交和情绪管理技能，学会与他人和谐相处，建立积极的人际关系；并在实践中做出明智的选择，为自身、他人以及整个社会做出积极贡献。</p>
+<p>光华学子通过掌握社交和情绪管理技能，学会与他人和谐相处，建立积极的人际关系；并在实践中做出明智的选择，为自身、他人以及社会做出贡献。</p>
 <p>Kong Hwaians developed social-emotional competencies essential for them
 to build positive relationships; and act for the good of self, others and
 society.</p>
@@ -57,7 +57,7 @@ versions of themselves.</p>
 and empower all to experience the synergy of teamwork and collective success.</p>
 <p><strong><u>引领服务 Leading to Serve</u></strong>
 </p>
-<p>光华学子旨在服务人群，通过实际行动，承担起为社会做出中正面贡献的责任。</p>
+<p>光华学子旨在服务人群，通过实际行动，承担起为社会做出正面贡献的责任。</p>
 <p>Kong Hwaians able to embrace the mindset of leading self and others with
 the primary goal of serving; and a sense of responsibility in making a
 positive impact on others and society through actions.</p>
