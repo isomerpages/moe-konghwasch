@@ -8,8 +8,8 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/smv1.png">
 </div>
-<p><strong><em>Sincerity in Being and Perseverance in Doing<br>诚以待人&nbsp;&nbsp; &nbsp;毅以处事</em></strong>
-</p>
+<p>&nbsp;</p><center><strong><em>Sincerity in Being and Perseverance in Doing<br>诚以待人&nbsp;&nbsp; &nbsp;毅以处事</em></strong>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/sm100.png">
 </div>
@@ -66,4 +66,4 @@ my parents and teachers.
 <p>我能理解并体谅他人的感受。
 <br><em>I can understand and share the feelings of another.</em> 
 <br>
-</p>
+</p></center>
