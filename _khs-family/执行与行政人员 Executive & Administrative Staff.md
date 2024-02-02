@@ -2,18 +2,112 @@
 title: 执行与行政人员 Executive & Administrative Staff
 permalink: /khs-family/executive-and-administrative-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Executive &amp; Administrative Staff
-
-|  |  | 
-| -------- | -------- | 
-| <strong style="colour: orange; font-size: 18px; font-family: Arial;"> Administration Manager</strong> | Ms Goh May Ling Wendy | 
-|<strong style="colour: orange; font-size: 18px; font-family: Arial;"> Administration Executive</strong> | Ms Ng Sok See Sandy |
-|<strong style="colour: orange; font-size: 18px; font-family: Arial;"> Corporate Support Officer</strong> | Ms Lee Chor Hoon Esther May <br><br> Ms Tan Khar Luan Stephanie <br><br> Ms Ng Siew Hong |
-|<strong style="colour: orange; font-size: 18px; font-family: Arial;"> Reception &amp; Administration Assistant</strong> | Mdm Tng Chor Cher Doris <br><br> Mdm Lily Tham |
-|<strong style="colour: orange; font-size: 18px; font-family: Arial;"> Information and Communication Technology</strong> | ICT Associate <br> Mr Chia Zhao Yan <br><br> Desktop Engineer <br> Nasrul Bin Saiful <br><br> Desktop Engineer <br> Tay Wei Qi
-|<strong style="colour: orange; font-size: 18px; font-family: Arial;"> Library Assistant</strong> | Mdm Karen Tan Geok Kim |
-|<strong style="colour: orange; font-size: 18px; font-family: Arial;"> Dental Therapist</strong> | Miss Tan Hwee Yi |
-|<strong style="colour: orange; font-size: 18px; font-family: Arial;"> Operations Support Officer</strong> | Mdm Chiu Yong Cheng <br><br> Mdm Kamah Bte Shariff <br><br> Mdm Kamariah Bte Suri <br><br> Mr Abdul Hamid Bin Ahmad <br><br> Mr Lee Lian Cheow Ricky
-
+<h3>Executive &amp; Administrative Staff</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Administration Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Goh May Ling Wendy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Administration Executive</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Sok See Sandy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Corporate Support Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Chor Hoon Esther May
+<br>
+<br>Ms Tan Khar Luan Stephanie
+<br>
+<br>Ms Ng Siew Hong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Reception &amp; Administration Assistant</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tng Chor Cher Doris
+<br>
+<br>Mdm Lily Tham</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Information and Communication Technology</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Associate
+<br>Mr Chia Zhao Yan
+<br>
+<br>Desktop Engineer
+<br>Nasrul Bin Saiful
+<br>
+<br>Desktop Engineer
+<br>Tay Wei Qi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Library Assistant</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Bernard</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dental Therapist</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Tan Hwee Yi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chiu Yong Cheng
+<br>
+<br>Mdm Kamah Bte Shariff
+<br>
+<br>Mdm Kamariah Bte Suri
+<br>
+<br>Mr Abdul Hamid Bin Ahmad
+<br>
+<br>Mr Lee Lian Cheow Ricky</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
