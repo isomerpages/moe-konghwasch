@@ -80,26 +80,29 @@ positive impact on others and society through actions.</p>
 KHS PR2IDE values.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;<em>Realising Potentials</em>
+<p><strong>激发潜能 <em>Realising Potentials</em></strong>
 </p>
 </li>
 </ul>
+<p>引导光华学子发现并培养个人兴趣和潜能。全方位促进个人成长和自我发现，以及在各个领域的技能和才能培养，而非局限于学术科目。</p>
 <p>Enabling Kong Hwaians to discover and develop their interests and abilities.
 A holistic approach to foster personal growth, self-discovery, and development
 of skills and talents in various areas, not just limited to academic subjects.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;<em>Nurturing Bilingualism</em>
+<p><strong>双语兼优 <em>Nurturing Bilingualism</em></strong>
 </p>
 </li>
 </ul>
+<p>培养光华学子具备双语双文化的语言技能和跨文化欣赏能力。</p>
 <p>Empowering Kong Hwaians with language skills and cross-cultural appreciation
 that come with bilingualism in English and Chinese languages.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;<em>Serving Communities</em>
+<p><strong>回馈社会&nbsp;<em>Serving Communities</em></strong>
 </p>
 </li>
 </ul>
+<p>通过积极参与社区服务和互动，培养光华学子的公民责任感和社会意识。</p>
 <p>Inculcating in Kong Hwaians a sense of civic responsibility and social
 awareness through community outreach and engagements.</p>
