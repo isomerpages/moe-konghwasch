@@ -66,7 +66,9 @@ positive impact on others and society through actions.</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/svm2.png">
 </div>
-<h4><strong>Mission</strong><br>We are committed to the holistic development of our students by:</h4>
+<h3><strong>使命 Mission</strong></h3>
+<p>我们注重学生的全面发展，并致力于：
+<br>We are committed to the holistic development of our students by:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>&nbsp;<em>Building Character</em>
