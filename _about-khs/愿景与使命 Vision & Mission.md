@@ -10,14 +10,15 @@ variant: tiptap
 </div>
 <h3><strong>愿景 Vision</strong></h3>
 <h4><strong>好学敏思 </strong><em>Learners with Thinking Minds</em></h4>
-<p><strong><u>学会学习    Learning to Learn</u></strong>
+<p><strong><u>学会学习 Learning to Learn</u></strong>
 </p>
 <p>光华学子掌握必要的技能和学习态度，使他们能够成为自主学习者；赋予他们在各种学习经历中游刃有余的能力。</p>
 <p>Kong Hwaians acquired essential skills and learning dispositions that
 enable them to become self-directed learners; empowering them to navigate
 in a wide range of learning experiences.</p>
-<p><u>Learning to Live</u>
+<p><strong><u>学会共处 Learning to Live</u></strong>
 </p>
+<p>&nbsp;光华学子通过掌握社交和情绪管理技能，学会与他人和谐相处，建立积极的人际关系；并在实践中做出明智的选择，为自身、他人以及整个社会做出积极贡献。</p>
 <p>Kong Hwaians developed social-emotional competencies essential for them
 to build positive relationships; and act for the good of self, others and
 society.</p>
