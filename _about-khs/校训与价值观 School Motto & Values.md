@@ -17,8 +17,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/smv2.png">
 </div>
-<p>
-<br><strong>善心善行 Kindness</strong>
+<p><strong><br>善心善行 Kindness</strong>
 </p>
 <p>我知善行善而怡然自得。
 <br><em>I know good, do good, and feel good</em> 
@@ -27,9 +26,9 @@ variant: tiptap
 <p><strong>谦虚有礼 Humility</strong>
 </p>
 <p>我了解自己的天赋但不自负。
-<br><em>I see my strengths and talents but do not seek to be the centre of attention.</em> 
-<br>
-<br><strong>诚以待人 Sincerity</strong>
+<br><em>I see my strengths and talents but do not seek to be the centre of attention.</em><strong> </strong>
+</p>
+<p><strong>诚以待人 Sincerity</strong>
 </p>
 <p>我言行一致而不口是心非。
 <br><em>I mean what I say and do as I say.</em> 
