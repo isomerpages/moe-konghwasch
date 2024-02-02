@@ -2,13 +2,15 @@
 title: 校训与价值观 School Motto & Values
 permalink: /about-khs/school-motto-and-values/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h2><strong>光华校训 School Motto</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/smv1.png">
 </div>
-<p>&nbsp;</p><strong><em>Sincerity in Being and Perseverance in Doing<br>诚以待人&nbsp;&nbsp; &nbsp;毅以处事</em></strong>
+<p>&nbsp;</p>
+<p><strong><em>Sincerity in Being and Perseverance in Doing<br>诚以待人&nbsp;&nbsp; &nbsp;毅以处事</em></strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/sm100.png">
