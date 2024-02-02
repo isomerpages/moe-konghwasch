@@ -34,12 +34,14 @@ and responsible citizens.</p>
 <p>Kong Hwaians able to analyze, evaluate, and synthesize information; enabling
 them to question assumptions, consider multiple perspectives and exercise
 discernment.</p>
-<p><u>Inventive Thinking</u>
+<p><strong><u>创造性思维 Inventive Thinking</u></strong>
 </p>
+<p>光华学子能够探索新思路、提出新构想和解决问题的方案；并以独创性应对各种挑战。</p>
 <p>Kong Hwaians able to explore possibilities, generate ideas and solutions
 to problems; empowering them to tackle challenges with originality.</p>
-<p><u>Adaptive Thinking</u>
+<p><strong><u>适应性思维 Adaptive Thinking</u></strong>
 </p>
+<p>光华学子不仅能灵活应变、坚韧不拔，还善于敏锐地应对环境和情势的变迁，通过调整视角获取新的洞见。</p>
 <p>Kong Hwaians able to be flexible, resilient, and responsive to changing
 context and circumstances, by adjusting perspectives and drawing new insights.</p>
 <h4><em>Leaders with Serving Hearts</em></h4>
