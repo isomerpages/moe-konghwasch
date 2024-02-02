@@ -13,7 +13,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/sm100.png">
 </div>
-<h3><strong>光华价值观 Values (KHS PR2IDE) </strong></h3>
+<h3><strong>光华价值观 Values (KHS PR²IDE)</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/smv2.png">
 </div>
