@@ -4,7 +4,6 @@ permalink: /about-khs/school-vision-and-mission/
 description: ""
 variant: tiptap
 ---
-<h3>SCHOOL VISION &amp; MISSION</h3>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/svm1.png">
 </div>
