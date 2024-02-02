@@ -8,10 +8,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/svm1.png">
 </div>
-<h4><strong>愿景 Vision </strong></h4>
-<p><strong>好学敏思   </strong><em>Learners with Thinking Minds</em>
-</p>
-<p><strong><u>学会学习   </u></strong><u>Learning to Learn</u>
+<h3><strong>愿景 Vision</strong></h3>
+<h4><strong>好学敏思 </strong><em>Learners with Thinking Minds</em></h4>
+<p><strong><u>学会学习    Learning to Learn</u></strong>
 </p>
 <p>光华学子掌握必要的技能和学习态度，使他们能够成为自主学习者；赋予他们在各种学习经历中游刃有余的能力。</p>
 <p>Kong Hwaians acquired essential skills and learning dispositions that
