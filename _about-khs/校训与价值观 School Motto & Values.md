@@ -9,9 +9,18 @@ variant: tiptap
 <img style="width:35%" height="auto" width="100%" src="/images/smv1.png">
 </div>
 <p>&nbsp;</p>
-<p><strong><em>Sincerity in Being and Perseverance in Doing<br>诚以待人&nbsp;&nbsp; &nbsp;毅以处事</em></strong>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><em>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Sincerity in Being and Perseverance in Doing</em></strong>
 </p>
-<p></p>
+<p><strong><em>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 诚以待人&nbsp;&nbsp; &nbsp;毅以处事</em></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/sm100.png">
 </div>
