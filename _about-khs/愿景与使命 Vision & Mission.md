@@ -4,10 +4,10 @@ permalink: /about-khs/school-vision-and-mission/
 description: ""
 variant: tiptap
 ---
+<h3><strong>愿景 Vision</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/svm1.png">
 </div>
-<h3><strong>愿景 Vision</strong></h3>
 <h4><strong>好学敏思 <em>Learners with Thinking Minds</em></strong></h4>
 <p><strong><u>学会学习 Learning to Learn</u></strong>
 </p>
