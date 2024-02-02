@@ -4,7 +4,7 @@ permalink: /about-khs/school-motto-and-values/
 description: ""
 variant: tiptap
 ---
-<h2><strong>校训 School Motto</strong></h2>
+<h2><strong>光华校训 School Motto</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/smv1.png">
 </div>
@@ -13,10 +13,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/sm100.png">
 </div>
+<h3><strong>光华价值观 Values (KHS PR2IDE) </strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/smv2.png">
 </div>
-<p><strong><u>光华价值观 Values (KHS PR2IDE) </u></strong>
+<p>
 <br><strong>善心善行 Kindness</strong>
 </p>
 <p>我知善行善而怡然自得。
