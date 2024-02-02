@@ -71,10 +71,11 @@ positive impact on others and society through actions.</p>
 <br>We are committed to the holistic development of our students by:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;<em>Building Character</em>
+<p><strong>明德正己 Building Character</strong>
 </p>
 </li>
 </ul>
+<p>培养光华学子成为品格优良，深植于KHS PR2IDE价值观基石的学生。</p>
 <p>Nurturing Kong Hwaians to be individuals of good character, anchored on
 KHS PR2IDE values.</p>
 <ul data-tight="true" class="tight">
