@@ -26,7 +26,7 @@ variant: tiptap
 <p><strong>谦虚有礼 Humility</strong>
 </p>
 <p>我了解自己的天赋但不自负。
-<br><em>I see my strengths and talents but do not seek to be the centre of attention.</em><strong> </strong>
+<br><em>I see my strengths and talents but do not seek to be the centre of attention.</em>
 </p>
 <p><strong>诚以待人 Sincerity</strong>
 </p>
