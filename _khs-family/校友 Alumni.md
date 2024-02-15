@@ -55,7 +55,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>柯顺耀&nbsp;</p>
 <p>KWA SOON YAU</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副会长</p>
@@ -68,7 +67,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>陈佳燕&nbsp;</p>
 <p>TAN KIAH YEE</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副会长</p>
@@ -81,7 +79,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>林宇伶</p>
 <p>LIM EILEEN</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>秘书</p>
@@ -94,7 +91,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>杨晶晶&nbsp;</p>
 <p>JUMIATY NURAWAN</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副秘书</p>
@@ -119,7 +115,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>李彦</p>
 <p>IAN LEE</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副财政</p>
@@ -132,7 +127,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>黄金妹&nbsp;</p>
 <p>NG KIM MOOI</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>康乐</p>
@@ -145,7 +139,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>梁美馨</p>
 <p>LEONG BEE HIONG</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副康乐</p>
@@ -158,7 +151,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>郭永和</p>
 <p>QUEK ING HOE</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副康乐</p>
@@ -171,7 +163,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>陈映芝</p>
 <p>TAN YANG CHER</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>福利</p>
@@ -184,7 +175,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>许丕忠</p>
 <p>KOH PEI TIONG</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副福利</p>
@@ -197,7 +187,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>林竞适</p>
 <p>LIM KHENG SIT</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副福利</p>
@@ -222,7 +211,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>黄伟生&nbsp;</p>
 <p>NG WEE SENG</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副交际</p>
@@ -235,7 +223,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>陈光荣</p>
 <p>TAN KWANG YONG, JAMES</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副交际</p>
@@ -273,7 +260,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>龙国芬&nbsp;</p>
 <p>LIANG KOK FEN</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>文教</p>
@@ -286,7 +272,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>吕建宏</p>
 <p>LOO KIANG HONG</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副文教</p>
@@ -299,7 +284,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>庞君民</p>
 <p>PANG CHIUN MIN</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>青年团</p>
@@ -312,7 +296,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>胡昌辉</p>
 <p>HOO CHONG HOOI</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副青年团</p>
@@ -325,7 +308,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>陈慧玲</p>
 <p>TAN HWEE LIN</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副青年团</p>
@@ -338,7 +320,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>王沁滢&nbsp;</p>
 <p>ONG CHIN YIN</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副青年团</p>
@@ -351,7 +332,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>王沁茹&nbsp;</p>
 <p>ONG CHIN RHU</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>委员</p>
@@ -364,7 +344,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>郑琳娜 &nbsp;</p>
 <p>TEE LINDA</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>委员</p>
