@@ -57,7 +57,7 @@ and their opponent, and the pieces on the chessboard are.</p>
 <p>Ms Chin Wan Chen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chin_wan_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_wan_chen@schools.gov.sg</a> 
+<p><a href="mailto:chin_wan_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_wan_chen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
