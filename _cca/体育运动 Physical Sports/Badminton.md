@@ -35,74 +35,74 @@ sportsmanship.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Thio-Kooh Yong Tse&nbsp;<a href="mailto:kooh_yong_tse@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kooh_yong_tse@schools.gov.sg</a>
-</p>
+<p>Mrs Thio-Kooh Yong Tse</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kooh_yong_tse@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kooh_yong_tse@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Huey Fern&nbsp;<a href="mailto:ong_huey_fern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_huey_fern@schools.gov.sg</a>
-</p>
+<p>Ms Ong Huey Fern</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ong_huey_fern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_huey_fern@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Wong-Ho Si Yi&nbsp;<a href="mailto:ho_si_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_si_yi@schools.gov.sg</a>
-</p>
+<p>Mrs Wong-Ho Si Yi&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ho_si_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_si_yi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pay Hui Ling&nbsp;<a href="mailto:pay_hui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pay_hui_ling@schools.gov.sg</a>
-</p>
+<p>Ms Pay Hui Ling&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:pay_hui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pay_hui_ling@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Sharon Lynn Tan&nbsp;<a href="mailto:tan_chun_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chun_yin@schools.gov.sg</a>
-</p>
+<p>Mrs Sharon Lynn Tan&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_chun_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chun_yin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tay Soh Cheng Carol <a href="mailto:ng-tay_soh_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng-tay_soh_cheng@schools.gov.sg</a>
-</p>
+<p>Mdm Tay Soh Cheng Carol</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng-tay_soh_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng-tay_soh_cheng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wendy Hoon&nbsp;<a href="mailto:hoon_siow_hway@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoon_siow_hway@schools.gov.sg</a>
-</p>
+<p>Mdm Wendy Hoon&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:hoon_siow_hway@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoon_siow_hway@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Evelyn Tan&nbsp;<a href="mailto:tan_leng_hwee_evelyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_leng_hwee_evelyn@schools.gov.sg</a>
-</p>
+<p>Ms Evelyn Tan&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_leng_hwee_evelyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_leng_hwee_evelyn@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
