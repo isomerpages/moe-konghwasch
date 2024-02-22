@@ -60,9 +60,9 @@ Art Exhibition.</p>
 <p>2021 Singapore Youth Festival (SYF): Certificate of Recognition - modern
 Chinese painting</p>
 <h4>Achievements &amp; Highlights of 2022</h4>
-<p><strong>Ong Jing Yu</strong>
+<p><strong>Ong Jing Yu</strong> 
 <br>2022 National Primary School Chinese Calligraphy Competition Consolation
 (Hong Wen School)</p>
-<p><strong>Lee Yi Xin</strong>
+<p><strong>Lee Yi Xin</strong> 
 <br>2022 National Primary School Chinese Calligraphy Competition Consolation
 (Hong Wen School)</p>
