@@ -3,30 +3,62 @@ title: Guzheng
 permalink: /cca/Visual-and-Performing-Arts/guzheng/
 description: ""
 third_nav_title: 艺术团 Visual and Performing Arts
-variant: markdown
+variant: tiptap
 ---
-### Guzheng
-
-You will learn how to play the instrument and learn to perform as an ensemble. You will interact with students from other levels and have the opportunity to perform in school and public events as well as involved in immersion programmes with other schools.  
-  
-
-#### Training Schedule
-
-
-Date: Every Monday (Juniors) <br>
-Every Friday (Seniors) <br>
-Time: 2 pm to 4 pm <br>
-Venue: Guzheng Room 
-
-#### Teachers In-Charge
-
-Ms Koh Lee Ling&nbsp;[koh\_lee\_ling\_a@schools.gov.sg](mailto:koh_lee_ling_a@schools.gov.sg)&nbsp;<br>
-Ms Yeo Hwee Gek Jeslin&nbsp;[yeo\_hwee\_gek\_jeslin@schools.gov.sg](mailto:yeo_hwee_gek_jeslin@schools.gov.sg)&nbsp;<br>
-Ms Su Yan&nbsp;[su\_yan@schools.gov.sg](mailto:su_yan@schools.gov.sg)&nbsp;
-
-#### Our Achievements &amp; Highlights
-
-*   SYF Art Presentation Guzheng (June 2022)
-*   Aesthetic Showcase 2019 performance
-*   SYF Art Presentation Guzheng (April 2018): Certificate of Distinction
-*   SYF Art Presentation Guzheng (April 2016): Certificate of Distinction
+<h3>Guzheng</h3>
+<p>You will learn how to play the instrument and learn to perform as an ensemble.
+You will interact with students from other levels and have the opportunity
+to perform in school and public events as well as involved in immersion
+programmes with other schools.</p>
+<h4>Training Schedule</h4>
+<p>Date: Every Monday (Juniors)
+<br>Every Friday (Seniors)
+<br>Time: 2 pm to 4 pm
+<br>Venue: Guzheng Room</p>
+<h4>Teachers In-Charge</h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Koh Lee Ling&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_lee_ling_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_lee_ling_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yeo Hwee Gek Jeslin&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_hwee_gek_jeslin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_hwee_gek_jeslin@schools.gov.sg</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Su Yan&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:su_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">su_yan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Our Achievements &amp; Highlights</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF Art Presentation Guzheng (June 2022)</p>
+</li>
+<li>
+<p>Aesthetic Showcase 2019 performance</p>
+</li>
+<li>
+<p>SYF Art Presentation Guzheng (April 2018): Certificate of Distinction</p>
+</li>
+<li>
+<p>SYF Art Presentation Guzheng (April 2016): Certificate of Distinction</p>
+</li>
+</ul>
+<p></p>
