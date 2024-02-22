@@ -82,7 +82,7 @@ develop new skills.</p>
 </tr>
 </tbody>
 </table>
-<h4> Achievements and Highlights for 2021- 2022</h4>
+<h4>Achievements and Highlights for 2021- 2022</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Participate in World Thinking Day</p>
