@@ -63,7 +63,7 @@ well as develop a bond with the sport and their fellow CCA peers.</p>
 <p>Mdm Sharifah&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sharifah_warda_s_m@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharifah_warda_s_m@schools.gov.sg</a> 
+<p><a href="mailto:sharifah_warda_s_m@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharifah_warda_s_m@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -90,7 +90,7 @@ well as develop a bond with the sport and their fellow CCA peers.</p>
 <p>Mdm Jessica Loo&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loo_yin_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_yin_wai@schools.gov.sg</a> 
+<p><a href="mailto:loo_yin_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_yin_wai@schools.gov.sg</a>
 </p>
 </td>
 </tr>
