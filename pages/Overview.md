@@ -1,11 +1,10 @@
 ---
 title: Overview
-permalink: /social/Co-Curricular-Activities/overview/
+permalink: /co-curricular-activities/overview/
 description: ""
+variant: tiptap
 third_nav_title: 课程辅助活动 CCA
 ---
-
-
 ### Co-Curricular Activities
 
 *   [Clubs and Societies](https://staging.d1zbyh3gidoh8o.amplifyapp.com/cca/Clubs-and-Societies/chess-club/)
