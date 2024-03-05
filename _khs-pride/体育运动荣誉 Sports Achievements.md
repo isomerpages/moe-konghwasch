@@ -541,11 +541,10 @@ variant: tiptap
 <p><strong><u>Senior Division Boys (Nationals) 32-Style 5-Duan Sword - 2nd</u></strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>CHIAM ZHI XIANG</p>
@@ -554,20 +553,15 @@ variant: tiptap
 <p>P6-06</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Junior Division Girls (Nationals) 32-Style 5-Duan Cudgel - 2nd</u></strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>CHIA EE HSUEN &nbsp;</p>
@@ -576,20 +570,15 @@ variant: tiptap
 <p>P4-01</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</u></strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>CHNG SZE HAN</p>
@@ -598,20 +587,15 @@ variant: tiptap
 <p>P4-03</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</u></strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>CLAIRE HOO YAN TING</p>
@@ -620,20 +604,15 @@ variant: tiptap
 <p>P4-06</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Junior Division Girls (Nationals) 42-Style Taijiquan - 3rd, 1st International Spear - 3rd &amp; Group Quanshu - 2nd&nbsp;</u></strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>NG YU TING</p>
@@ -642,20 +621,15 @@ variant: tiptap
 <p>P5-01</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Junior Division Girls (Nationals) 3-Duan Changquan - 4th, 5-Duan Sword -1st, 4 -Duan cudgel - 2nd &amp; Group Quanshu - 2nd</u></strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>NG KER NING</p>
@@ -664,20 +638,15 @@ variant: tiptap
 <p>P5-05</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Junior Division Girls (Nationals) 24-Style Taijiquan - 3rd &amp; 32-Style Taijijian - 4th</u></strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>ADELE TAY YU XUAN</p>
@@ -686,20 +655,15 @@ variant: tiptap
 <p>P5-06</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</u></strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>ISABELLE TAN WEN LIN</p>
@@ -708,20 +672,15 @@ variant: tiptap
 <p>P5-06</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</u></strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>CHEONG RUI XUAN ADIA</p>
