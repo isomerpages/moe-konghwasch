@@ -810,11 +810,10 @@ variant: tiptap
 <p><strong><u>Junior Division Boys - Green Ball (Tier 1 Singles) - 1st</u></strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>JIANG NUOLIN</p>
@@ -823,20 +822,15 @@ variant: tiptap
 <p>P4-02</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Junior Division Boys - Green Ball (Tier 2 Singles) - 1st</u></strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>CHOW YANN AN</p>
