@@ -1072,7 +1072,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <blockquote>
-<p>National Cyberwellness Advocacy Challenge 2023</p>
+<h4>National Cyberwellness Advocacy Challenge 2023</h4>
 </blockquote>
 </td>
 <td rowspan="1" colspan="1">
