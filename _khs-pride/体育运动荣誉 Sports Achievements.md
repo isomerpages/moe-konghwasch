@@ -440,10 +440,6 @@ variant: tiptap
 <p>P4-06</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="2" colspan="2">
 <p><strong>Junior Division Girls (Tier 1 Doubles) - 1st</strong>
@@ -467,10 +463,6 @@ variant: tiptap
 <p>P4-07</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Junior Division Boys (Tier 1 Singles) - 1st</strong>
@@ -488,10 +480,6 @@ variant: tiptap
 <p>P4-01</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Junior Division Boys (Tier 1 Singles) - 1st</strong>
@@ -509,10 +497,6 @@ variant: tiptap
 <p>P4-03</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="2" colspan="2">
 <p><strong>Junior Division Boys (Tier 1 Doubles) - 1st</strong>
