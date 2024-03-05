@@ -550,6 +550,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<hr>
 <blockquote>
 <p>National School Games (NSG) Wushu 2023</p>
 </blockquote>
