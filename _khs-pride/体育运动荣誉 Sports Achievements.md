@@ -268,10 +268,6 @@ variant: tiptap
 <p>P5-07</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="2" colspan="2">
 <p><strong>Junior Division Girls (Tier 3 Doubles) - 1st</strong>
@@ -295,10 +291,6 @@ variant: tiptap
 <p>P4-07</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="2" colspan="2">
 <p><strong>Junior Division Boys (Tier 3 Doubles) - 1st</strong>
