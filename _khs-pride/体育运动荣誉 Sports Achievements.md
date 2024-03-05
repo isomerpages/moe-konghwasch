@@ -135,7 +135,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="12" colspan="1">
-<p><strong>Senior Division Girls (East Zone) - 1st </strong>
+<p><strong>Senior Division Girls (East Zone) - 1st</strong>
 </p>
 </td>
 </tr>
