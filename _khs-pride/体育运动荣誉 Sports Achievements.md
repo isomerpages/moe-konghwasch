@@ -605,7 +605,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</strong>
+<p><strong><u>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</u></strong>
 </p>
 </td>
 </tr>
@@ -627,7 +627,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</strong>
+<p><strong><u>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</u></strong>
 </p>
 </td>
 </tr>
@@ -649,7 +649,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Junior Division Girls (Nationals) 42-Style Taijiquan - 3rd, 1st International Spear - 3rd &amp; Group Quanshu - 2nd&nbsp;</strong>
+<p><strong><u>Junior Division Girls (Nationals) 42-Style Taijiquan - 3rd, 1st International Spear - 3rd &amp; Group Quanshu - 2nd&nbsp;</u></strong>
 </p>
 </td>
 </tr>
@@ -671,7 +671,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Junior Division Girls (Nationals) 3-Duan Changquan - 4th, 5-Duan Sword -1st, 4 -Duan cudgel - 2nd &amp; Group Quanshu - 2nd</strong>
+<p><strong><u>Junior Division Girls (Nationals) 3-Duan Changquan - 4th, 5-Duan Sword -1st, 4 -Duan cudgel - 2nd &amp; Group Quanshu - 2nd</u></strong>
 </p>
 </td>
 </tr>
@@ -693,7 +693,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Junior Division Girls (Nationals) 24-Style Taijiquan - 3rd &amp; 32-Style Taijijian - 4th</strong>
+<p><strong><u>Junior Division Girls (Nationals) 24-Style Taijiquan - 3rd &amp; 32-Style Taijijian - 4th</u></strong>
 </p>
 </td>
 </tr>
@@ -715,7 +715,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</strong>
+<p><strong><u>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</u></strong>
 </p>
 </td>
 </tr>
@@ -737,7 +737,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</strong>
+<p><strong><u>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</u></strong>
 </p>
 </td>
 </tr>
