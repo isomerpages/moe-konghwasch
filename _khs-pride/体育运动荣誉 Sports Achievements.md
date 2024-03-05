@@ -856,15 +856,11 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="2">
 <p><strong><u>Senior 1 Boys (120m) - 2nd</u></strong>
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>DARIUS LOW WEI LE</p>
@@ -873,20 +869,12 @@ variant: tiptap
 <p>P6-01</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="2">
 <p><strong><u>Junior 2 Boys (Vertical Jump) - 2nd</u></strong>
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>REX NG JING HENG</p>
@@ -895,10 +883,6 @@ variant: tiptap
 <p>P6-01</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="4" colspan="2">
 <p><strong><u>Junior 2 Boys (4 x 50m relay) - 4th</u></strong>
