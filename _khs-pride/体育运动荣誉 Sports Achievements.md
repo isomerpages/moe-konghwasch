@@ -594,7 +594,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CHIA EE HSUEN&nbsp;</p>
+<p>CHIA EE HSUEN &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4-01</p>
