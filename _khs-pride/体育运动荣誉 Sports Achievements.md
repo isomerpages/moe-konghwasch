@@ -561,7 +561,9 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Division Boys (Nationals) 32-Style 5-Duan Sword - 2nd</strong>
+<p><strong>Senior Division Boys (Nationals) </strong>
+</p>
+<p><strong>32-Style 5-Duan Sword - 2nd</strong>
 </p>
 </td>
 </tr>
@@ -583,7 +585,9 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Junior Division Girls (Nationals) 32-Style 5-Duan Cudgel - 2nd</strong>
+<p><strong>Junior Division Girls (Nationals) </strong>
+</p>
+<p><strong>32-Style 5-Duan Cudgel - 2nd</strong>
 </p>
 </td>
 </tr>
@@ -605,7 +609,9 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</strong>
+<p><strong>Junior Division Girls (Nationals) </strong>
+</p>
+<p><strong>Group Quanshu - 2nd&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -627,7 +633,9 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</strong>
+<p><strong>Junior Division Girls (Nationals) </strong>
+</p>
+<p><strong>Group Quanshu - 2nd&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -649,7 +657,9 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Junior Division Girls (Nationals) 42-Style Taijiquan - 3rd, 1st International Spear - 3rd &amp; Group Quanshu - 2nd&nbsp;</strong>
+<p><strong>Junior Division Girls (Nationals) </strong>
+</p>
+<p><strong>42-Style Taijiquan - 3rd, 1st International Spear - 3rd &amp; Group Quanshu - 2nd&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -671,7 +681,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Junior Division Girls (Nationals) 3-Duan Changquan - 4th, 5-Duan Sword -1st, 4 -Duan cudgel - 2nd &amp; Group Quanshu - 2nd</strong>
+<p><strong>Junior Division Girls (Nationals) </strong>
+</p>
+<p><strong>3-Duan Changquan - 4th, 5-Duan Sword -1st, </strong>
+</p>
+<p><strong>4 -Duan cudgel - 2nd &amp; Group Quanshu - 2nd</strong>
 </p>
 </td>
 </tr>
@@ -693,7 +707,9 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Junior Division Girls (Nationals) 24-Style Taijiquan - 3rd &amp; 32-Style Taijijian - 4th</strong>
+<p><strong>Junior Division Girls (Nationals) </strong>
+</p>
+<p><strong>24-Style Taijiquan - 3rd &amp; 32-Style Taijijian - 4th</strong>
 </p>
 </td>
 </tr>
@@ -715,7 +731,9 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</strong>
+<p><strong>Junior Division Girls (Nationals) </strong>
+</p>
+<p><strong>Group Quanshu - 2nd&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -737,7 +755,9 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</strong>
+<p><strong>Junior Division Girls (Nationals) </strong>
+</p>
+<p><strong>Group Quanshu - 2nd&nbsp;</strong>
 </p>
 </td>
 </tr>
