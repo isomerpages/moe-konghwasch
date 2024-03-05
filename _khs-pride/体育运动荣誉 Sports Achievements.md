@@ -781,7 +781,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Senior Division Girls Poomsae/Blue 4 - 4th</u>
+<p><strong><u>Senior Division Girls Poomsae/Blue 4 - 4th</u></strong>
 </p>
 </td>
 </tr>
@@ -803,7 +803,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Junior Division Girls Poomsae/Black 1 - 1st</u>
+<p><strong><u>Junior Division Girls Poomsae/Black 1 - 1st</u></strong>
 </p>
 </td>
 </tr>
@@ -837,7 +837,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Junior 1 Girls (25m backstroke &amp; 25m Backstroke + 25m Freestyle) - 2nd</u>
+<p><strong><u>Junior 1 Girls (25m backstroke &amp; 25m Backstroke + 25m Freestyle) - 2nd</u></strong>
 </p>
 </td>
 </tr>
@@ -859,7 +859,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Junior 2 Girls ( 100m butterfly and freestyle &amp; 50m Fly+50m Back) - 4th</u>
+<p><strong><u>Junior 2 Girls ( 100m butterfly and freestyle &amp; 50m Fly+50m Back) - 4th</u></strong>
 </p>
 </td>
 </tr>
@@ -893,7 +893,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Junior Division Boys - Green Ball (Tier 1 Singles) - 1st</u>
+<p><strong><u>Junior Division Boys - Green Ball (Tier 1 Singles) - 1st</u></strong>
 </p>
 </td>
 </tr>
@@ -915,7 +915,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Junior Division Boys - Green Ball (Tier 2 Singles) - 1st</u>
+<p><strong><u>Junior Division Boys - Green Ball (Tier 2 Singles) - 1st</u></strong>
 </p>
 </td>
 </tr>
@@ -949,7 +949,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<p><u>Senior 1 Boys (120m) - 2nd</u>
+<p><strong><u>Senior 1 Boys (120m) - 2nd</u></strong>
 </p>
 </td>
 </tr>
@@ -971,7 +971,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<p><u>Junior 2 Boys (Vertical Jump) - 2nd</u>
+<p><strong><u>Junior 2 Boys (Vertical Jump) - 2nd</u></strong>
 </p>
 </td>
 </tr>
@@ -993,7 +993,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="4" colspan="2">
-<p><u>Junior 2 Boys (4 x 50m relay) - 4th</u>
+<p><strong><u>Junior 2 Boys (4 x 50m relay) - 4th</u></strong>
 </p>
 </td>
 </tr>
@@ -1050,7 +1050,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Singles - 1st</u>
+<p><strong><u>Singles - 1st</u></strong>
 </p>
 </td>
 </tr>
@@ -1072,7 +1072,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Singles - 2nd</u>
+<p><strong><u>Singles - 2nd</u></strong>
 </p>
 </td>
 </tr>
@@ -1094,7 +1094,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Singles - 3rd</u>
+<p><strong><u>Singles - 3rd</u></strong>
 </p>
 </td>
 </tr>
