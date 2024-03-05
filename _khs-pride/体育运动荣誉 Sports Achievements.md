@@ -1033,4 +1033,82 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<blockquote>
+<p>Crocodile Challenge Cup 2023</p>
+</blockquote>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Singles - 1st</u>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Jun Ning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P2-01</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Singles - 2nd</u>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jayden Han Jie Geng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P2-02</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Singles - 3rd</u>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Neo Cheng Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-03</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
