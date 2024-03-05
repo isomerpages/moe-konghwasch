@@ -691,15 +691,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National School Games (NSG) Taekwondo 2023</p>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
 <table>
 <tbody>
@@ -719,11 +710,10 @@ variant: tiptap
 <p><strong><u>Senior Division Girls Poomsae/Blue 4 - 4th</u></strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>CHEVELLE SEE (SHI YU'EN)</p>
@@ -732,20 +722,15 @@ variant: tiptap
 <p>P6-06</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Junior Division Girls Poomsae/Black 1 - 1st</u></strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>TAY XIN YI, ARYEL</p>
@@ -775,11 +760,10 @@ variant: tiptap
 <p><strong><u>Junior 1 Girls (25m backstroke &amp; 25m Backstroke + 25m Freestyle) - 2nd</u></strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>EH EN XIN, RUTH ISABEL</p>
@@ -788,20 +772,15 @@ variant: tiptap
 <p>P4-02</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Junior 2 Girls ( 100m butterfly and freestyle &amp; 50m Fly+50m Back) - 4th</u></strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>LOW KA YEN</p>
