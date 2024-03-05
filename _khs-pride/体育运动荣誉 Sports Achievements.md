@@ -538,7 +538,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Senior Division Boys (Nationals) 32-Style 5-Duan Sword - 2nd</u></strong>
+<p><strong>Senior Division Boys (Nationals) 32-Style 5-Duan Sword - 2nd</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -555,7 +555,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Junior Division Girls (Nationals) 32-Style 5-Duan Cudgel - 2nd</u></strong>
+<p><strong>Junior Division Girls (Nationals) 32-Style 5-Duan Cudgel - 2nd</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -572,7 +572,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</u></strong>
+<p><strong>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -589,7 +589,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</u></strong>
+<p><strong>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -606,7 +606,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Junior Division Girls (Nationals) 42-Style Taijiquan - 3rd</u></strong>
+<p><strong>Junior Division Girls (Nationals) 42-Style Taijiquan - 3rd</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -615,7 +615,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>1st International Spear - 3rd &amp; Group Quanshu - 2nd&nbsp;</u></strong>
+<p><strong>1st International Spear - 3rd &amp; Group Quanshu - 2nd&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -632,7 +632,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Junior Division Girls (Nationals) 3-Duan Changquan - 4th</u></strong>
+<p><strong>Junior Division Girls (Nationals) 3-Duan Changquan - 4th</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -641,7 +641,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>5-Duan Sword -1st</u></strong>
+<p><strong>5-Duan Sword -1st</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -650,7 +650,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>4 -Duan cudgel - 2nd &amp; Group Quanshu - 2nd</u></strong>
+<p><strong>4 -Duan cudgel - 2nd &amp; Group Quanshu - 2nd</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -667,7 +667,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Junior Division Girls (Nationals) 24-Style Taijiquan - 3rd</u></strong>
+<p><strong>Junior Division Girls (Nationals) 24-Style Taijiquan - 3rd</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -676,7 +676,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>32-Style Taijijian - 4th</u></strong>
+<p><strong>32-Style Taijijian - 4th</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -693,7 +693,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</u></strong>
+<p><strong>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -710,7 +710,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</u></strong>
+<p><strong>Junior Division Girls (Nationals) Group Quanshu - 2nd&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -743,7 +743,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Senior Division Girls Poomsae/Blue 4 - 4th</u></strong>
+<p><strong>Senior Division Girls Poomsae/Blue 4 - 4th</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -760,7 +760,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Junior Division Girls Poomsae/Black 1 - 1st</u></strong>
+<p><strong>Junior Division Girls Poomsae/Black 1 - 1st</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -793,7 +793,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Junior 1 Girls (25m backstroke &amp; 25m Backstroke + 25m Freestyle) - 2nd</u></strong>
+<p><strong>Junior 1 Girls (25m backstroke &amp; 25m Backstroke + 25m Freestyle) - 2nd</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -810,7 +810,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Junior 2 Girls ( 100m butterfly and freestyle &amp; 50m Fly+50m Back) - 4th</u></strong>
+<p><strong>Junior 2 Girls ( 100m butterfly and freestyle &amp; 50m Fly+50m Back) - 4th</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -843,7 +843,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Junior Division Boys - Green Ball (Tier 1 Singles) - 1st</u></strong>
+<p><strong>Junior Division Boys - Green Ball (Tier 1 Singles) - 1st</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -860,7 +860,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Junior Division Boys - Green Ball (Tier 2 Singles) - 1st</u></strong>
+<p><strong>Junior Division Boys - Green Ball (Tier 2 Singles) - 1st</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -893,7 +893,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong><u>Senior 1 Boys (120m) - 2nd</u></strong>
+<p><strong>Senior 1 Boys (120m) - 2nd</strong>
 </p>
 </td>
 </tr>
@@ -907,7 +907,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong><u>Junior 2 Boys (Vertical Jump) - 2nd</u></strong>
+<p><strong>Junior 2 Boys (Vertical Jump) - 2nd</strong>
 </p>
 </td>
 </tr>
@@ -921,7 +921,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="4" colspan="2">
-<p><strong><u>Junior 2 Boys (4 x 50m relay) - 4th</u></strong>
+<p><strong>Junior 2 Boys (4 x 50m relay) - 4th</strong>
 </p>
 </td>
 </tr>
@@ -978,7 +978,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Singles - 1st</u></strong>
+<p><strong>Singles - 1st</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -995,7 +995,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Singles - 2nd</u></strong>
+<p><strong>Singles - 2nd</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1012,7 +1012,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Singles - 3rd</u></strong>
+<p><strong>Singles - 3rd</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
