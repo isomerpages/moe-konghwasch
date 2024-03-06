@@ -2,7 +2,7 @@
 title: 其他荣誉 Other Achievements
 permalink: /khs-pride/other-achievements/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>Other Achievements</h3>
 <table>
