@@ -92,5 +92,5 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p>No Awards give for SYF since 2018 due to Covid. Please look out for our
+<p>No awards given for SYF since 2018 due to Covid. Please look out for our
 achievements in 2024!</p>
