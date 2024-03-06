@@ -2,6 +2,7 @@ collections:
   khs-pride:
     output: true
     order:
+      - 其他荣誉 Other Achievements/2021.md
       - 其他荣誉 Other Achievements/.keep
       - 其他荣誉 Other Achievements/2023.md
       - 其他荣誉 Other Achievements/2022.md
