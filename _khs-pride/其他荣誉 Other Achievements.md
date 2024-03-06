@@ -16,6 +16,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gold</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -27,9 +33,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P5-6</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -37,9 +40,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P5-7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
 </td>
 </tr>
 <tr>
@@ -49,9 +49,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P5-7</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -59,9 +56,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P5-7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
 </td>
 </tr>
 <tr>
@@ -71,8 +65,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P6-3</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Gold</p>
+<p><strong>Silver</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -82,9 +82,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P4-1</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -92,9 +89,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P5-5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
 </td>
 </tr>
 <tr>
@@ -104,9 +98,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P5-6</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -114,9 +105,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P5-6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
 </td>
 </tr>
 <tr>
@@ -126,9 +114,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P5-6</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -136,9 +121,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P5-6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
 </td>
 </tr>
 <tr>
@@ -148,9 +130,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P5-7</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -158,9 +137,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P5-7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
 </td>
 </tr>
 <tr>
@@ -170,9 +146,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P6-3</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -180,9 +153,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P6-5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
 </td>
 </tr>
 <tr>
@@ -192,9 +162,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P6-5</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -202,9 +169,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P6-5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
 </td>
 </tr>
 <tr>
@@ -214,9 +178,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P6-5</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -225,9 +186,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P6-6</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -235,9 +193,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P6-7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
 </td>
 </tr>
 </tbody>
@@ -254,6 +209,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Comic Speech - Champion</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -265,8 +226,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P5/7</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Comic Speech - Champion</p>
+<p><strong>Comic Speech - 1st Runner Up</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -276,8 +243,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P5/6</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Comic Speech - 1st Runner Up</p>
+<p><strong>Comic Monologue - 1st Runner Up</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -287,8 +260,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P5/7</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Comic Monologue - 1st Runner Up</p>
+<p><strong>Comic Monologue - 2nd Runner Up</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -298,8 +277,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P5/7</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Comic Monologue - 2nd Runner Up</p>
+<p><strong>Comic Duologue - Champions</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -308,9 +293,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P5/6</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Comic Duologue - Champions</p>
 </td>
 </tr>
 <tr>
@@ -335,6 +317,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2nd Place</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -346,9 +334,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P4-01</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>2nd</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -356,9 +341,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P4-01</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd</p>
 </td>
 </tr>
 <tr>
@@ -368,9 +350,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P4-01</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>2nd</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -378,9 +357,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P4-02</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd</p>
 </td>
 </tr>
 <tr>
@@ -390,9 +366,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P4-02</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>2nd</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -400,9 +373,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P4-03</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd</p>
 </td>
 </tr>
 </tbody>
@@ -419,6 +389,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>3rd Place</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -429,9 +405,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P3-06</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd</p>
 </td>
 </tr>
 </tbody>
@@ -448,6 +421,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1st Place</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -459,8 +438,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P3-6</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>1st</p>
+<p><strong>2nd Place</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -469,9 +454,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P5-5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd</p>
 </td>
 </tr>
 </tbody>
@@ -488,6 +470,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gold &amp; Champion</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -499,8 +487,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P3-1</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Gold &amp; Champion</p>
+<p><strong>Silver</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -509,9 +503,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P5-7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
 </td>
 </tr>
 </tbody>
@@ -528,6 +519,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Best Performance Award</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -538,9 +535,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P5-6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Best Performance Award</p>
 </td>
 </tr>
 </tbody>
@@ -557,6 +551,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Silver</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -567,9 +567,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P6-06</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
 </td>
 </tr>
 </tbody>
@@ -586,6 +583,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>High Distinction</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -597,8 +600,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P4-05</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>High Distinction</p>
+<p><strong>Distinction</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -608,9 +617,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P4-01</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -618,9 +624,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P4-01</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -630,9 +633,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P4-02</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -640,9 +640,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P4-02</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -652,9 +649,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P4-03</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -662,9 +656,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P4-03</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -674,9 +665,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P4-03</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -684,9 +672,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P4-03</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -696,9 +681,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P4-03</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -706,9 +688,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P4-03</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -718,9 +697,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P4-06</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -728,9 +704,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P4-07</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -740,9 +713,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P5-01</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -750,9 +720,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P5-02</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -762,9 +729,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P5-04</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -772,9 +736,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P5-05</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -784,9 +745,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P5-06</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -794,9 +752,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P5-06</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -806,9 +761,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P5-07</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -816,9 +768,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P6-05</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -828,9 +777,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P6-05</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -838,9 +784,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P6-06</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -850,9 +793,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P6-06</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -860,9 +800,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P6-06</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -872,9 +809,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P6-06</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -882,9 +816,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P6-06</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -894,9 +825,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P6-07</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -904,9 +832,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P6-07</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -916,9 +841,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P6-07</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -926,9 +848,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P6-07</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -945,6 +864,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Silver</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -956,9 +881,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P4-03</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -966,9 +888,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P5-07</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
 </td>
 </tr>
 </tbody>
@@ -985,6 +904,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Silver</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -996,9 +921,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P5-07</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1006,9 +928,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P5-07</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
 </td>
 </tr>
 </tbody>
@@ -1025,6 +944,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Most Feasible and Sustainable Idea Award</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1035,9 +960,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P4/2</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>Most Feasible and Sustainable Idea Award</p>
 </td>
 </tr>
 <tr>
@@ -1078,6 +1000,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Silver</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -1089,9 +1017,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P5-06</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1099,9 +1024,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P5-06</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
 </td>
 </tr>
 <tr>
@@ -1111,9 +1033,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P5-05</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1121,9 +1040,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P5-01</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
 </td>
 </tr>
 </tbody>
