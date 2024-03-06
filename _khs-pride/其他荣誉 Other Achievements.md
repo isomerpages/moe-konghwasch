@@ -514,7 +514,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <blockquote>
-<p>14th National Inter-Primary Chinese Poetry Writing Competition</p>
+<p>14th National Inter-Primary</p>
+<p>Chinese Poetry Writing Competition</p>
 </blockquote>
 </td>
 <td rowspan="1" colspan="1">
