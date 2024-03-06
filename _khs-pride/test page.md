@@ -69,3 +69,13 @@ description: ""
 </tbody>
 </table>
 <p></p>
+
+|The Queen's Commonwealth<br> Essay Competition 2023  |  ||
+|--|--|--|
+| ADELE TAY YU XUAN |P5-6|Gold|
+|CHEONG RUI XUAN ADIA|P5-7|Gold|
+
+|Raffles Institution Primary Mathematics World Contest 2023  |  ||
+|--|--|--|
+|ALEXANDER JAVIER GOH WEI HAN| P4-05 |High Distinction|
+|CHIA EE HSUEN|P4-01|Distinction|
