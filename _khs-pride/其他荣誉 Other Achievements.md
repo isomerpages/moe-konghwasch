@@ -383,7 +383,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <blockquote>
-<p>National Primary Schools Chinese Calligraphy Competition 2023</p>
+<p>National Primary Schools</p>
+<p>Chinese Calligraphy Competition 2023</p>
 </blockquote>
 </td>
 <td rowspan="1" colspan="1">
