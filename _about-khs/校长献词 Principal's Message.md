@@ -49,7 +49,7 @@ foundation of knowledge, but also fosters their creativity and enhances
 problem-solving skills. Thus, students are not passive recipients of knowledge
 but rather active learners who think, explore and innovate.</p>
 <p><strong>"Leaders with Serving Hearts"</strong> embodies the essence of
-a maxim from the Analects of Confucius: If one wishes to establish himself,
+a maxim from the Analects of Confucius: "If one wishes to establish himself,
 seeks also to establish others; If one wishes to enlarge himself, seeks
 also to enlarge others." It expounds that a person should influence and
 help others with their own growth and achievements. The school emphasizes
