@@ -71,8 +71,7 @@ profound and far-reaching influence in their developmental growth. To that
 end, we will continue to maintain a positive and conducive learning environment
 for our Kong Hwaians. Watching our children grow and learn with health,
 joy, character, and drive is our greatest motivation and fulfillment.</p>
-<p>&nbsp;</p>
-<p>Mr Poon Siow Leng</p>
+<p>&nbsp;Mr Poon Siow Leng</p>
 <p>Principal, Kong Hwa School</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
