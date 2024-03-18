@@ -16,9 +16,9 @@ variant: markdown
 <p><strong>“立己达人”</strong>与《论语·雍也》中“己欲立而立人，己欲达而达人” 的理念相契合，阐述了一个人应当以自身的成长与成就来影响和帮助他人的道理。学校强调学生不仅要不断提升自我，力求成为最优秀的自己；还必须以身作则，以积极的态度和行动去影响身边的人，传递正能量。我们教导学生怀有感恩之心，珍惜所拥有的一切，并学会与他人分享和关爱。通过社区服务，我们要学生回馈社会，培养他们成为具有爱心和社会责任感的公民。</p>
 <p>父母皆盼子女成龙成凤，希望孩子能出人头地。身为校长，我不仅仅是希望我们光华的孩子学业有成，更要求他们品行端正。因为一个人的人生观、价值观正确了，才不会在人生的道路上走错方向。</p>
 <p>建校至今，光华培育了不计其数品学兼优的光华学子，为他们的启蒙教育奠下了重要固基，其影响至深至远。光华团队会持续为孩子营造一个良好的学习环境。看着孩子们健康快乐地成长，成为拥有良好品格，积极向上向善的学生，是我们最大的动力和慰籍。</p>
-<p>光华学校校长</p>
-<p>方小龙</p>
-<p>&nbsp;</p>
+光华学校校长<br>
+方小龙
+
 <h4>Principal’s Message</h4>
 <p>Rooted in the belief of <strong>"Character First"</strong>, the school
 motto <strong>"Sincerity in Being, Perseverance in Doing"</strong> lays the
@@ -71,7 +71,5 @@ profound and far-reaching influence in their developmental growth. To that
 end, we will continue to maintain a positive and conducive learning environment
 for our Kong Hwaians. Watching our children grow and learn with health,
 joy, character, and drive is our greatest motivation and fulfillment.</p>
-<p>&nbsp;Mr Poon Siow Leng</p>
-<p>Principal, Kong Hwa School</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+Mr Poon Siow Leng<br>
+Principal, Kong Hwa School
