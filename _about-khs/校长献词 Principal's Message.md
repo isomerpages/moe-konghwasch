@@ -4,7 +4,21 @@ permalink: /about-khs/principals-message/
 description: ""
 variant: tiptap
 ---
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Raymond_Poon_Siow_Leng.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>校长献词</h4>
 <p>秉承着 <strong>“育人为本，立德为先” </strong>的信念，光华校训“诚毅” 为每届的光华学子奠下 <strong>“诚以待人，毅以处事” </strong>的人生基石，培养他们学会待人处事的传统美德以及精益求精的坚韧精神。我们坚信，只有在育人的道路上扎根立足，方能在人生的航程中展翅高飞。</p>
 <p>学校依然保留传统华校的优良校风和价值观。因为在这个全球化、多元化和快速变化的时代，孩子越是需要深厚的文化底蕴和价值观。我们希望光华学子在传统文化的熏陶和优良价值观的引领下，扎实本身文化和价值观的根基，能更有自信、能力和底气去面对未来的挑战。</p>
