@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/bannertest5.gif
+      background: /images/bannertest6dare.gif
   - infobar:
       title: Announcements
       description: For the latest news and updates
