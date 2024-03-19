@@ -8,8 +8,9 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/smv1.png">
 </div>
-<p style="text-align: center;"><strong>诚以待人&nbsp;&nbsp; &nbsp;毅以处事&nbsp;</strong><br style="text-align: center;"><strong> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎Sincerity in Being‎ ‎ ‎  ‎ ‎ Perseverance in Doing</strong>
-</p>
+<p style="text-align: center;font-size:25px;"><strong>诚以待人&nbsp;&nbsp; &nbsp;毅以处事&nbsp;</strong><br>
+<b style="text-align: center;"><strong> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎Sincerity in Being‎ ‎ ‎  ‎ ‎ Perseverance in Doing</strong>
+</b></p><b style="text-align: center;">
 <p></p>
 <h3><strong>光华价值观 School Values (KHS PR²IDE)</strong></h3>
 <p><strong><br>善心善行 Kindness</strong>
@@ -61,4 +62,4 @@ my parents and teachers.
 <p>我能理解并体谅他人的感受。
 <br><em>I can understand and share the feelings of another.</em> 
 <br>
-</p>
+</p></b>
