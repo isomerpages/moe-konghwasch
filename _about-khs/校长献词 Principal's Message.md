@@ -39,7 +39,7 @@ thinking, continuously surpassing themselves, and humbly embracing grace
 and gratitude in service of the community and nation.</p>
 <p><strong>"Learners with Thinking Minds" </strong>exemplifies the intricate
 relationship between learning and thinking, echoing an adage from the Analects
-of Confucius: " Learning without thinking is useless, thinking without
+of Confucius: " Learning without thinking is futile, thinking without
 learning is dangerous." Learning extends beyond mere acquisition of knowledge
 to encompass deep thinking process. The school fosters an environment where
 Kong Hwaians are not only encouraged to engage actively in learning but
@@ -49,9 +49,9 @@ foundation of knowledge, but also fosters their creativity and enhances
 problem-solving skills. Thus, students are not passive recipients of knowledge
 but rather active learners who think, explore and innovate.</p>
 <p><strong>"Leaders with Serving Hearts"</strong> embodies the essence of
-a maxim from the Analects of Confucius: "If one wishes to establish himself,
-seeks also to establish others; If one wishes to enlarge himself, seeks
-also to enlarge others." It expounds that a person should influence and
+a maxim from the Analects of Confucius: "One who wishes to be established himself,
+seeks also to establish others; one who wishes himself to succeed, seeks
+also to help others succeed." It expounds that a person should influence and
 help others with their own growth and achievements. The school emphasizes
 that Kong Hwaians should not only strive to improve and become the best
 version of themselves, but also lead by example, positively influencing
@@ -72,4 +72,5 @@ end, we will continue to maintain a positive and conducive learning environment
 for our Kong Hwaians. Watching our children grow and learn with health,
 joy, character, and drive is our greatest motivation and fulfillment.</p>
 Mr Poon Siow Leng<br>
-Principal, Kong Hwa School
+Principal<br>
+Kong Hwa School

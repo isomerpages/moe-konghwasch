@@ -2,23 +2,20 @@
 title: 校训与价值观 School Motto & Values
 permalink: /about-khs/school-motto-and-values/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h2><strong>光华校训 School Motto</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/smv1.png">
 </div>
-<p>&nbsp;<strong><em>Sincerity in Being and Perseverance in Doing</em></strong>
-</p>
-<p><strong><em>诚以待人&nbsp;&nbsp; &nbsp;毅以处事</em></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/sm100.png">
-</div>
-<h3><strong>光华价值观 Values (KHS PR²IDE)</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/smv2.png">
-</div>
+<p style="text-align: center;font-size:25px;"><strong>诚以待人&nbsp;&nbsp; &nbsp;毅以处事&nbsp;</strong><br>
+<b style="text-align: center;"><strong> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎Sincerity in Being‎ ‎ ‎  ‎ ‎ Perseverance in Doing</strong>
+</b></p><b style="text-align: center;">
+<p></p>
+<h3><strong>光华价值观 School Values (KHS PR²IDE)</strong></h3><br>
+![](/images/Canteen_Swivel_Panels_Design_Page_1.jpg) <br><br>
+![](/images/Canteen_Swivel_Panels_Design_Page_2.jpg)	
+
 <p><strong><br>善心善行 Kindness</strong>
 </p>
 <p>我知善行善而怡然自得。
@@ -67,5 +64,4 @@ my parents and teachers.
 </p>
 <p>我能理解并体谅他人的感受。
 <br><em>I can understand and share the feelings of another.</em> 
-<br>
-</p>
+________________________________________________________________________________________</p>_</b>
