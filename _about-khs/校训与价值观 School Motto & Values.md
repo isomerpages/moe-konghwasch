@@ -63,8 +63,4 @@ my parents and teachers.
 <br><strong>同理共情 Empathy</strong>
 </p>
 <p>我能理解并体谅他人的感受。
-<br><em>I can understand and share the feelings of another.</em> 
-  
-```
-
-```</p></b>
+<br><em>I can understand and share the feelings of another.</em> <br></p></b>
