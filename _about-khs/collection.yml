@@ -2,6 +2,7 @@ collections:
   about-khs:
     output: true
     order:
+      - 光华70周年纪念特刊 KHS 70th Anniversary Commemorative Magazine.md
       - 校长献词 Principal's Message.md
       - 愿景与使命 Vision & Mission.md
       - 校训与价值观 School Motto & Values.md
