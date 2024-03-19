@@ -8,8 +8,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/smv1.png">
 </div>
-<h4><strong><em>诚以待人&nbsp;&nbsp; &nbsp;毅以处事</em></strong>&nbsp;</h4>
-<h4><strong><em>Sincerity in Being‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Perseverance in Doing</em></strong></h4>
+<p><strong>诚以待人&nbsp;&nbsp; &nbsp;毅以处事&nbsp;</strong>
+</p>
+<p><strong>Sincerity in Being‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Perseverance in Doing</strong>
+</p>
 <p></p>
 <h3><strong>光华价值观 Values (KHS PR²IDE)</strong></h3>
 <div class="isomer-image-wrapper">
