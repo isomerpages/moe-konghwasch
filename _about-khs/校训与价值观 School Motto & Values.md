@@ -13,8 +13,9 @@ variant: markdown
 </b></p><b style="text-align: center;">
 <p></p>
 <h3><strong>光华价值观 School Values (KHS PR²IDE)</strong></h3><br>
-![](/images/Canteen_Swivel_Panels_Design_Page_2.jpg)	<br><br>
-![](/images/Canteen_Swivel_Panels_Design_Page_1.jpg)
+![](/images/Canteen_Swivel_Panels_Design_Page_1.jpg) <br><br>
+![](/images/Canteen_Swivel_Panels_Design_Page_2.jpg)	
+
 <p><strong><br>善心善行 Kindness</strong>
 </p>
 <p>我知善行善而怡然自得。
