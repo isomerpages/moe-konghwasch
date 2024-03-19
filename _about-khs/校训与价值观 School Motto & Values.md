@@ -8,7 +8,7 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/smv1.png">
 </div>
-<p style="text-align: center;"><strong>诚以待人&nbsp;&nbsp; &nbsp;毅以处事&nbsp;</strong><br style="text-align: center;"><strong>Sincerity in Being‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Perseverance in Doing</strong>
+<p style="text-align: center;"><strong>诚以待人&nbsp;&nbsp; &nbsp;毅以处事&nbsp;</strong><br style="text-align: center;"><strong> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎Sincerity in Being‎ ‎ ‎  ‎ ‎ Perseverance in Doing</strong>
 </p>
 <p></p>
 <h3><strong>光华价值观 School Values (KHS PR²IDE)</strong></h3>
