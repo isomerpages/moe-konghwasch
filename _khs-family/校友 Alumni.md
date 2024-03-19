@@ -4,7 +4,11 @@ permalink: /khs-family/alumni/
 description: ""
 variant: tiptap
 ---
-<h3>Alumni</h3>
+<h3>KHS Alumni Association</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7f424470_4a4b_485c_ac7d_7933cfe369a4.jpg">
+</div>
 <p>光华学校校友会
 <br>
 </p>
