@@ -49,9 +49,9 @@ foundation of knowledge, but also fosters their creativity and enhances
 problem-solving skills. Thus, students are not passive recipients of knowledge
 but rather active learners who think, explore and innovate.</p>
 <p><strong>"Leaders with Serving Hearts"</strong> embodies the essence of
-a maxim from the Analects of Confucius: "If one wishes to establish himself,
-seeks also to establish others; If one wishes to accomplish himself, seeks
-also to accomplish others." It expounds that a person should influence and
+a maxim from the Analects of Confucius: "One who wishes to be established himself,
+seeks also to establish others; one who wishes himself to succeed, seeks
+also to help others succeed." It expounds that a person should influence and
 help others with their own growth and achievements. The school emphasizes
 that Kong Hwaians should not only strive to improve and become the best
 version of themselves, but also lead by example, positively influencing
