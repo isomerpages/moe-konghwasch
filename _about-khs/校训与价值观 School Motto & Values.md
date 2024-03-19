@@ -64,4 +64,4 @@ my parents and teachers.
 </p>
 <p>我能理解并体谅他人的感受。
 <br><em>I can understand and share the feelings of another.</em> 
-</p><br>‎</b>
+</p></b>
