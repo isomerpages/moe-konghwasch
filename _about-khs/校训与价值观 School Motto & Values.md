@@ -11,10 +11,7 @@ variant: markdown
 <p style="text-align: center;"><strong>诚以待人&nbsp;&nbsp; &nbsp;毅以处事&nbsp;</strong><br style="text-align: center;"><strong>Sincerity in Being‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Perseverance in Doing</strong>
 </p>
 <p></p>
-<h3><strong>光华价值观 Values (KHS PR²IDE)</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/smv2.png">
-</div>
+<h3><strong>光华价值观 School Values (KHS PR²IDE)</strong></h3>
 <p><strong><br>善心善行 Kindness</strong>
 </p>
 <p>我知善行善而怡然自得。
