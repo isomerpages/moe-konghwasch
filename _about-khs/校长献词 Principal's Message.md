@@ -39,7 +39,7 @@ thinking, continuously surpassing themselves, and humbly embracing grace
 and gratitude in service of the community and nation.</p>
 <p><strong>"Learners with Thinking Minds" </strong>exemplifies the intricate
 relationship between learning and thinking, echoing an adage from the Analects
-of Confucius: " Learning without thinking is useless, thinking without
+of Confucius: " Learning without thinking is futile, thinking without
 learning is dangerous." Learning extends beyond mere acquisition of knowledge
 to encompass deep thinking process. The school fosters an environment where
 Kong Hwaians are not only encouraged to engage actively in learning but
