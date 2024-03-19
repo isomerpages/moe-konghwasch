@@ -72,4 +72,5 @@ end, we will continue to maintain a positive and conducive learning environment
 for our Kong Hwaians. Watching our children grow and learn with health,
 joy, character, and drive is our greatest motivation and fulfillment.</p>
 Mr Poon Siow Leng<br>
-Principal, Kong Hwa School
+Principal<br>
+Kong Hwa School
