@@ -61,8 +61,7 @@ community service, we want Kong Hwaians to give back and contribute to
 the well-being of others and the community, nurturing them to become compassionate
 and socially responsible citizens.</p>
 <p>All parents want the best for their children, and for them to be successful.
-As principal, I believe true success lies not just in moulding exceptional
-students, but in moulding exceptional people. Character is key in enabling
+As principal, I believe true success lies not just in producing students with good academic results, but in nurturing individuals with good character. Character is key in enabling
 Kong Hwaians to navigate life's journey in the right direction.</p>
 <p>Kong Hwa has stood the test of time and remains steadfast in its mission
 to nurture generation after generation of students; laying the important
