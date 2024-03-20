@@ -6,6 +6,27 @@ third_nav_title: 体育运动 Physical Sports
 variant: tiptap
 ---
 <h3>Wushu</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/w1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/w2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/w3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/w4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/w5.jpg">
+</div>
+<p></p>
 <p>In Wushu, the students will develop an understanding of the fundamental
 skills of Wushu, Quanshu and various weapons. Wushu serves more as a medium
 in the teaching of Chinese culture and tradition. By combining physical
