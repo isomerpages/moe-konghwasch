@@ -6,6 +6,11 @@ third_nav_title: 制服团体 Uniformed Groups
 variant: tiptap
 ---
 <h3>Scouts</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s1.jpg">
+</div>
+<p></p>
 <p>Scouting is about having fun, but to a Cub Scout, “fun” means a lot more
 than just having a good time. "Fun" is a cub scout’s code word for the
 satisfaction he gets from meeting challenges, having friends, feeling good
