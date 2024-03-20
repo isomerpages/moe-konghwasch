@@ -4,7 +4,7 @@ permalink: /about-khs/school-motto-and-values/
 description: ""
 variant: markdown
 ---
-<h2><strong>光华校训 School Motto</strong></h2>
+<h3><strong>光华校训 School Motto</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/smv1.png">
 </div>
@@ -13,7 +13,7 @@ variant: markdown
 </b></p><b style="text-align: center;">
 <p></p>
 <h3><strong>光华价值观 School Values (KHS PR²IDE)</strong></h3><br>
-![](/images/Canteen_Swivel_Panels_Design_Page_1.jpg) <br><br>
+![](/images/Canteen_Swivel_Panels_Design_Page_1.jpg) <br>
 ![](/images/Canteen_Swivel_Panels_Design_Page_2.jpg)	
 
 <p><strong><br>善心善行 Kindness</strong>
@@ -63,5 +63,4 @@ my parents and teachers.
 <br><strong>同理共情 Empathy</strong>
 </p>
 <p>我能理解并体谅他人的感受。
-<br><em>I can understand and share the feelings of another.</em> 
-________________________________________________________________________________________</p>_</b>
+<br><em>I can understand and share the feelings of another.</em></p></b>

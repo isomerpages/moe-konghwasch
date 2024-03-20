@@ -6,6 +6,23 @@ third_nav_title: 艺术团 Visual and Performing Arts
 variant: tiptap
 ---
 <h3>Guzheng</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/g1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/g2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/g3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/g4.jpg">
+</div>
+<p></p>
 <p>You will learn how to play the instrument and learn to perform as an ensemble.
 You will interact with students from other levels and have the opportunity
 to perform in school and public events as well as involved in immersion

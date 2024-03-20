@@ -6,6 +6,23 @@ third_nav_title: 社团 Clubs and Societies
 variant: tiptap
 ---
 <h3>Chess Club (International Chess, Xiangqi &amp; Weiqi)</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.jpg">
+</div>
+<p></p>
 <p>It’s not about the Kings, Queens, and Rooks, but rather, quadrants and
 coordinates, thinking strategically and foreseeing consequences. It’s about
 lines and angles, weighing options and making decisions. Chess might just

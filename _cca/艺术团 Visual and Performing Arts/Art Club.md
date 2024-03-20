@@ -6,6 +6,23 @@ third_nav_title: 艺术团 Visual and Performing Arts
 variant: tiptap
 ---
 <h3>Art Club</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a4.jpg">
+</div>
+<p></p>
 <p>Art Club provides different avenues and platforms for the holistic development
 of the pupils in Art. Pupils are engaged through the different art forms
 to achieve the overarching objectives of lifelong learning and character
