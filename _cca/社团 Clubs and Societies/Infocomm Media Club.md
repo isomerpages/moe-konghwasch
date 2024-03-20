@@ -6,6 +6,19 @@ third_nav_title: 社团 Clubs and Societies
 variant: tiptap
 ---
 <h3>Infocomm Media Club</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict4.jpg">
+</div>
+<p></p>
 <p>Infocomm Media Club aims to broaden and deepen our members’ Information
 and Communication Technology (ICT) skills, by imparting them with the latest
 21st century ICT tools.</p>
