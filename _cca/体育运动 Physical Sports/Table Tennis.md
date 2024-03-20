@@ -6,6 +6,23 @@ third_nav_title: 体育运动 Physical Sports
 variant: tiptap
 ---
 <h3>Table Tennis</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tt1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tt2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tt3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tt4b.jpg">
+</div>
+<p></p>
 <p>The Kong Hwa School Table tennis CCA comprises of 2 groups which are School
 Team and the Recreational Team. The activities conducted for each group
 are pitched according to the pupils’ abilities and readiness so that they
