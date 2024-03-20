@@ -6,6 +6,23 @@ third_nav_title: 艺术团 Visual and Performing Arts
 variant: tiptap
 ---
 <h3>Show Choir</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir4.jpg">
+</div>
+<p></p>
 <p>Do you have a love for singing and performance?</p>
 <p>The Kong Hwa Show Choir welcomes you to join our fun, energetic and dynamic
 team!</p>
