@@ -6,6 +6,23 @@ third_nav_title: 体育运动 Physical Sports
 variant: tiptap
 ---
 <h3>Badminton</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bd1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bd2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bd3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bd4_2.jpg">
+</div>
+<p></p>
 <p>There are two different categories of badminton teams in Kong Hwa School.
 They are the School Team and Recreational Team.</p>
 <p>For the school team, students are given the opportunity to play in the
