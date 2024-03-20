@@ -6,6 +6,23 @@ third_nav_title: 体育运动 Physical Sports
 variant: tiptap
 ---
 <h3>Netball</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nt1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nt2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nt3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nt4.jpg">
+</div>
+<p></p>
 <p>Netball is a Co-Curricular Activity for girls. It is a ball game played
 by two teams of seven players. In this CCA, the girls will learn how to
 send and receive a ball through various passes like the Chest pass, the
