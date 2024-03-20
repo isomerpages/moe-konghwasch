@@ -6,6 +6,23 @@ third_nav_title: 艺术团 Visual and Performing Arts
 variant: tiptap
 ---
 <h3>Chinese Dance</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cd1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cd2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cd3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cd4.jpg">
+</div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Able to learn the basic steps in Chinese Dance</p>
