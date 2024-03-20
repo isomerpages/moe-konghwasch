@@ -217,7 +217,7 @@ Hokkien Huay Kuan and other venues.</p>
 <br>Ms Liu Tese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hue-tan_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hue-tan_siew_hoon@schools.gov.sg <br><br></a>
+<p><a href="mailto:hue-tan_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hue-tan_siew_hoon@schools.gov.sg <br><br></a> 
 <a href="mailto:liu_tese@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_tese@schools.gov.sg</a>
 </p>
 </td>
