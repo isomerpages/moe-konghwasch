@@ -6,6 +6,23 @@ third_nav_title: 艺术团 Visual and Performing Arts
 variant: tiptap
 ---
 <h3>Chinese Calligraphy Club</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cc4.jpg">
+</div>
+<p></p>
 <p>The Chinese Calligraphy Club provides different platforms for the holistic
 development of the students in Chinese calligraphy and brush painting.
 To foster greater awareness in Chinese calligraphy, students were given
