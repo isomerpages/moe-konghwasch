@@ -16,9 +16,16 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/br3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/br5.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/br6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/br4.jpg">
+</div>
 <p><strong>Guiding Vision</strong>
 </p>
 <p><strong>The voice of girls who influence issues they care about and strive to build a better world.</strong>

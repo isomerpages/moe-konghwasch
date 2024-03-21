@@ -4,8 +4,7 @@ permalink: /social/student-management/
 description: ""
 variant: tiptap
 ---
-<h3>Student Management</h3>
-<h4><strong>Student Leadership</strong></h4>
+<h3><strong>Student Leadership</strong></h3>
 <p><em>Leaders with Serving Hearts:</em>
 </p>
 <p><em>Leading to Grow-Influence-Serve</em>
@@ -19,7 +18,7 @@ variant: tiptap
 and a passion to learn and serve</p>
 <p>KHS holds the belief that every student has the potential to become a
 leader. Essential leadership qualities are cultivated through learning
-and development. The school has established a structured leadership program
+and development. The school has established a structured leadership programme
 comprising three tiers of Student Leadership Progression: Personal Leadership,
 Peer Leadership, and Service Leadership.</p>
 <p><strong>&nbsp;&nbsp;</strong>

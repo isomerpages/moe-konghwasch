@@ -12,13 +12,16 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s5.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s4.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s6.jpg">
+</div>
 <p>Scouting is about having fun, but to a Cub Scout, “fun” means a lot more
 than just having a good time. "Fun" is a cub scout’s code word for the
 satisfaction he gets from meeting challenges, having friends, feeling good
