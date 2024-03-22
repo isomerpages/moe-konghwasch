@@ -23,18 +23,19 @@ sections:
       alt: Image alt text
   - infopic:
       title: Math Fun Week 2024
-      description: "Kong Hwaians ended the term on a high note with Math Fun Week
+      description: Kong Hwaians ended the term on a high note with Math Fun Week
         recess activities, held in conjunction with World Pi Day which falls on
-        14 March every year.  "
+        14 March every year.
       url: https://www.facebook.com/permalink.php?story_fbid=pfbid0B69Uto3KG3iZS674TpHFHQtE886fQfte4U2MH94LDUF2pmMoSYvHhpmPFUGGpVKPl&id=100064994620909
       image: /images/math_fun_week.jpg
       alt: Image alt text
       button: Find out more
   - infopic:
-      title: Onward to new adventures - wherever they go
-      description: We are proud of our 2023 P6 graduands
+      title: KHS · Kang Chiau International School Pen Pal Exchange
+      description: On the morning of March 5th, KHS warmly welcomed the teachers and
+        students of Kang Chiau International School (Taiwan).
       button: Find out more
-      url: https://www.facebook.com/photo?fbid=714962357346912&set=pcb.714963867346761
-      image: /images/Screenshot_2023_12_06_103034.png
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02iGSrU7QKvxkQP6wxQykW3NM8kKRfWmee6eHdoJ7XkLEfYdMRL7fLbFbsKauZEJkul&id=100064994620909
+      image: /images/penpal_exchange.jpg
       alt: Image alt text
 ---
