@@ -2,9 +2,8 @@
 title: 校规 School Rules
 permalink: /about-khs/student-discipline-and-school-rules/
 description: ""
+variant: markdown
 ---
-
-
 National Anthem / Pledge
 ------------------------
 
@@ -55,10 +54,10 @@ Attire
 |---|---|---|
 | All Students | Full School Uniform<br>Boy: Shirt and Khaki Shorts<br>Girls: Blouse and White Skirt | PE Attire<br>PE T-shirt and PE shorts can be worn throughout the day |
 
-Appearance & Hairstyle
+Appearance &amp; Hairstyle
 ----------------------
 
-1.  Students should not sport fanciful or outlandish hairstyles. Undercut and cropping of sides and back are not allowed. 
+1.  Students should not sport fanciful or outlandish hairstyles. Undercut and cropping of sides and back are not allowed.&nbsp;
 
 2.  Hair should not be dyed or highlighted.
 
@@ -203,11 +202,11 @@ The school strongly discourages students from bringing communication devices (su
 
   
 
-1.  Use of communication devices in school is **strictly for communication purposes only**. No form of video/ audio recording and photography is allowed at all times within the school compound.
+1.  Use of communication devices in school is&nbsp;**strictly for communication purposes only**. No form of video/ audio recording and photography is allowed at all times within the school compound.
 
-2.  The communication devices must be **switched off at all times and be kept in the school bag** during school hours and remained so during all after-school activities. For example, during remedial lessons, CCA and student care.
+2.  The communication devices must be&nbsp;**switched off at all times and be kept in the school bag**&nbsp;during school hours and remained so during all after-school activities. For example, during remedial lessons, CCA and student care.
 
-3.  Use of communication devices **is prohibited** in all parts of the school except within the call zones: the Canteen, at Gate 3 and Gate 6.
+3.  Use of communication devices&nbsp;**is prohibited**&nbsp;in all parts of the school except within the call zones: the Canteen, at Gate 3 and Gate 6.
 
 4.  Students who need to contact their parents urgently during school hours are advised to seek their teacher’s permission or approach the General Office for assistance.
 
@@ -237,7 +236,7 @@ Road Safety
 Pedestrian Crossing
 -------------------
 
-1.  There are school personnel on duty at Gate 3 and Gate 8 during arrival and dismissal times of the school hours.
+1.  There are school personnel on duty at Gate 3 and Gate 6 during arrival and dismissal times of the school hours.
 
 2.  When crossing at traffic junction or pedestrian crossing, students should practise the following:
 
