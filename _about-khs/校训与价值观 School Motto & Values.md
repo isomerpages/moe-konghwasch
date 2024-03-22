@@ -6,7 +6,7 @@ variant: markdown
 ---
 <h3><strong>光华校训 School Motto</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/smv1.png">
+<img style="width:55%" height="auto" width="100%" src="/images/smv1.png">
 </div>
 <p style="text-align: center;font-size:25px;"><strong>诚以待人&nbsp;&nbsp; &nbsp;毅以处事&nbsp;</strong><br>
 <b style="text-align: center;"><strong> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎Sincerity in Being‎ ‎ ‎  ‎ ‎ Perseverance in Doing</strong>
