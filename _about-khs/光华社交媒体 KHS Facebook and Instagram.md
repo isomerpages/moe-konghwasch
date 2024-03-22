@@ -6,4 +6,4 @@ description: ""
 ---
 [![](/images/Presentation1c.jpg)](https://www.facebook.com/profile.php?id=100064994620909)
 
-[![](/images/Presentation2.jpg)](https://www.instagram.com/konghwasch/)
+[![](/images/Presentation2b.jpg)](https://www.instagram.com/konghwasch/)
