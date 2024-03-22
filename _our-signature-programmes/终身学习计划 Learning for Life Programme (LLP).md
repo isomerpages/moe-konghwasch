@@ -2,61 +2,43 @@
 title: 终身学习计划 Learning for Life Programme (LLP)
 permalink: /our-signature-programmes/llp/
 description: ""
+variant: tiptap
 ---
-### Learning for Life Programme (LLP)
-
-Our LLP programme aims to enrich our students’ experience with physical activities which further develops their fundamental movement skills and lifelong learning for sports. Collaborating with ActiveSG through Schools Sports Partnership Programme (SSP), students develop their physical movement skills ranging from individual work to collaboration with groups in team games.
-
-#### P1 & P2 - Gymnastics
-![](/images/School%20Sports%20Partnership%20-%20Gym%202.jpg)
-
-#### P3 - Frisbee
-
-![](/images/School%20Sports%20Partnership%20-%20Frisbee%201.jpg)
-
-![](/images/School%20Sports%20Partnership%20-%20Frisbee%203.jpg)
-
-#### P4 - Floorball
-
-#### P5 - Volleyball
-
-![](/images/School%20Sports%20Partnership%20-%20Volleyball%202.jpg)
-
-#### P6 - Football
-
-![](/images/School%20Sports%20Partnership%20-%20Football%202.jpg)
-
-#### P5 Camp
-
-Through the camp, we seek to provide a platform for our students to learn through incorporating adventure learning and character development in an authentic outdoor setting. Another main focal point was to impart the values of teamwork, cooperation and confidence building through various challenges conducted by trained instructors in the camp. The activities required students to gain experiences beyond their comfort zones and come together to explore solutions for complex situations.
-
-![](/images/P5%20Adventure%20Camp%201.jpg)
-
-![](/images/P5%20Adventure%20Camp%202.jpg)
-
-![](/images/P5%20Adventure%20Camp%203.jpg)
-
-![](/images/P5%20Adventure%20Camp%205.jpg)
-
-![](/images/P5%20Adventure%20Camp%206.jpg)
-
-![](/images/P5%20Adventure%20Camp%207.jpg)
-
-![](/images/P5%20Adventure%20Camp%208.jpg)
-
-![](/images/P5%20Adventure%20Camp%209.jpg)
-
-![](/images/P5%20Adventure%20Camp%2010.jpg)
-
-![](/images/P5%20Adventure%20Camp%2011.jpg)
-
-![](/images/P5%20Adventure%20Camp%2012.jpg)
-
-#### Annual SHHK Combined School Sports Meet
-
-Due to the COVID-19 pandemic, no Sports Meet was conducted from 2020 – 2022. However, with the improvement of the situation, the Sports Meet will be held this year on 19 May 2023 at Bishan Stadium.
-This is one of the events our students and staff were looking forward to. Held annually, our student athletes pitted their skills and talents against fellow competitors from various SHHK Schools, they were also enthusiastically cheered by their fellow Kong Hwaians who were seated at the spectators gallery. Through the competition, our student athletes also build on friendship and comradery with fellow competitors from other SHHK schools.
- 
-![](/images/SHHK%20Combined%20Sports%20Meet%201.jpg)
-
-![](/images/SHHK%20Combined%20Sports%20Meet%202.jpg)
+<h4><u>KHS Learning for Life Programme</u></h4>
+<p>The KHS Learning for Life Programme (LLP) –<strong> Triple Ex @ KHS</strong> adopts
+a holistic approach in promoting active participation in physical activities
+and inculcating a lifelong love for sports and the outdoors.&nbsp; The
+programme is made up of three components, <strong><em>Exposure, Experience and Excel</em></strong>,
+and is anchored in values. It is a value-based programme that allows students
+to build character, team spirit and responsibility. Through the participation,
+we aim to inculcate a lifelong learning for physical activities and promote
+a healthy and active lifestyle in our students.</p>
+<p>The lessons are conducted with modified rules and equipment to allow students
+to experience success and learn in a non-threatening environment. Students
+are encouraged to persevere in their learning. Gradually they will be prepared
+to play the actual games.</p>
+<p>&nbsp;</p>
+<h4><u>KHS Play@Recess</u></h4>
+<p>Play is key to children's learning, development, confidence, and wellbeing.
+KHS Play@Recess allows students to play in a supportive and inclusive environment.
+Students are taught basic etiquette such as sharing, taking turns, being
+mindful of the surroundings, respecting school property, and keeping the
+school clean. Through the teachable moments during recess play, students
+learn to understand themselves better, develop social skills and practise
+values.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
+</div>
+<p>&nbsp;Primary 5 students engaging in a volleyball lesson</p>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
+</div>
+<p>&nbsp;A P6 student practicing dribbling a ball with a hockey stick</p>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.png">
+</div>
+<p>&nbsp;Primary 2 class attending a gymnastics lesson</p>
+<p></p>
