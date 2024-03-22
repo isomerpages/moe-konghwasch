@@ -14,12 +14,12 @@ sections:
       button: Click here
       url: /announcements
   - infopic:
-      title: Congratulations to our Math Olympiad Participants
-      description: Today, we celebrated the achievements of our students who
-        participated in the Math Olympiads.
+      title: KHS Guzheng Troupe at《战台风》
+      description: KHS Guzheng Troupe was honored to be invited to participate in
+        《战台风》 guzheng concert
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02Btw2WSqQHFSaAC8J4kHDmnae6Cgs3eWuRHPFxNh1HHvdz4tHobdUvFnwHnFFJUncl&id=100064994620909
-      image: /images/math olympiad.jpg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid04gcabKS2wrCEMMixeykXCkjfNenHQADCz2WVq8QjTqvbPDJVNAZ7E668b8tsYTQpl&id=100064994620909
+      image: /images/guzheng_announcment1.jpg
       alt: Image alt text
   - infopic:
       title: Kong Hwa School 70th Anniversary
