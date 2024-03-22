@@ -4,4 +4,5 @@ permalink: /about-khs/khsfb/
 variant: markdown
 description: ""
 ---
-[![](/images/Presentation1.jpg)](https://www.facebook.com/profile.php?id=100064994620909)
+[![](/images/Presentation1b.jpg)](https://www.facebook.com/profile.php?id=100064994620909)
+
