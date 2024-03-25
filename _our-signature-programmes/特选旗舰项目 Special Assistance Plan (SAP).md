@@ -2,34 +2,58 @@
 title: 特选旗舰项目 Special Assistance Plan (SAP)
 permalink: /our-signature-programmes/sap/
 description: ""
+variant: tiptap
 ---
-
-
-### Special Assistance Plan (SAP)
-
-#### 华文特选课程 (Special Programme, Chinese)
-
-光华学校于1992年获选成为全国15 所特选小学（SAP）之一 。在全体董事、历任校长、教职员工、校友、家长的共同努力下，这三十年来本校培养了一批又一批热爱华族文化、双语兼优的学生。
-
-  
-
-本校的特选课程立志于完成以下使命：
-
-*   加强校内华文学习，使学生掌握中英两种语文。
-*   推广华族传统文化，培养富有文化底蕴的人才。
-
-#### 旗舰课程 – 光华旗舰万花筒
-
-校方推出此课程的目的是为了培养学生对中华文化的了解与热爱，发扬华人优良传统美德，并把东西方文化的精华与传统融会贯通。
-
-  
-
-此课程的内容既充实又精彩，让学生有机会学习并欣赏中华音乐和乐器（节令鼓、华族乐器）、上文化课（书法、水墨画、演艺、围棋、武术）、了解中华文化（节庆传说、历代王朝、帝王将相、古代制度等）、学习成语典故及唐诗。与此同时，在中高年级会配合学习之旅及戏剧演出欣赏，使课程更加生动有趣。
-
-<figure><img src="/images/sap1.png" style="width:75%"><figcaption>聚精会神地上书法及水墨画课程</figcaption></figure>
-
-<figure><img src="/images/sap2.png" style="width:75%"><figcaption>熟记武术招式</figcaption></figure>
-
-<figure><img src="/images/sap3.png" style="width:75%"><figcaption>以震感的鼓声来欢迎贵宾</figcaption></figure>
-
-<figure><img src="/images/sap4.png" style="width:75%"><figcaption>为观众表演一出精彩的话剧</figcaption></figure>
+<h3>Special Assistance Plan (SAP)</h3>
+<h4>华文特选课程 (Chinese Special Programme)</h4>
+<p>我校致力于培养双语兼优，具有文化底蕴的莘莘学子。作为一所特选学校，我们不仅要创造优良的学习环境，更要让学生通过参与丰富多彩的活动学习并掌握华文华语，对华族文化有更深入的了解。</p>
+<p>我校特选课程旨在完成以下使命：</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 加强校内华文学习，使学生掌握中英两种语文。</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 推广华族传统文化，培养富有文化底蕴的人才。</p>
+<h4>旗舰课程 – 光华旗舰万花筒</h4>
+<p>作为一所特选学校，我校推出了“光华旗舰万花筒”这一旗舰课程，旨在让学生对华族文化有深入的认识与了解，发扬华族优良传统美德，并把东西方文化的传统与精华融为一体。学生不但有机会学习华族乐器（节令鼓）、上文化课（书法、水墨画、演艺、围棋、武术等），他们还有机会参加学习之旅、海外浸儒活动，通过丰富多彩的活动感受华族文化的魅力，使之在学生们的心中生根发芽。</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sap1b.png">
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/sap2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/sap3.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/sap4.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="to be updated" src="/images/sap5.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="to be updated" src="/images/sap6.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="to be updated" src="/images/sap7.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
+<p></p>
