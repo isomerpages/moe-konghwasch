@@ -33,21 +33,15 @@ to problems; empowering them to tackle challenges with originality.</p>
 <br>光华学子不仅能灵活应变、坚韧不拔，还善于敏锐地应对环境和情势的变迁，通过调整视角获取新的洞见。<br>Kong Hwaians able to be flexible, resilient, and responsive to changing
 context and circumstances, by adjusting perspectives and drawing new insights.</p>
 <h4><strong><em>立己达人 Leaders with Serving Hearts</em></strong></h4>
-<p><strong><u>引领成长 Leading to Grow</u></strong>
-</p>
-<p>光华学子具有自我领导的思维，持续不断地提升自我，努力成为最优秀的自己。</p>
-<p>Kong Hwaians able to embrace a mindset of self-leadership that focuses
+<p><strong>⦿<u>引领成长 Leading to Grow</u></strong>
+<br>光华学子具有自我领导的思维，持续不断地提升自我，努力成为最优秀的自己。<br>Kong Hwaians able to embrace a mindset of self-leadership that focuses
 on continuous self-improvement; ultimately helping them become best possible
 versions of themselves.</p>
-<p><strong><u>引领正能量 Leading to Influence</u></strong>
-</p>
-<p>光华学子怀揣同理心、善于沟通、群策群力，共创团队精神和分享集体成功。</p>
-<p>Kong Hwaians able to communicate effectively and engage empathetically;
+<p><strong>⦿<u>引领正能量 Leading to Influence</u></strong>
+<br>光华学子怀揣同理心、善于沟通、群策群力，共创团队精神和分享集体成功。<br>Kong Hwaians able to communicate effectively and engage empathetically;
 and empower all to experience the synergy of teamwork and collective success.</p>
-<p><strong><u>引领服务 Leading to Serve</u></strong>
-</p>
-<p>光华学子旨在服务人群，通过实际行动，承担起为社会做出正面贡献的责任。</p>
-<p>Kong Hwaians able to embrace the mindset of leading self and others with
+<p><strong>⦿<u>引领服务 Leading to Serve</u></strong>
+<br>光华学子旨在服务人群，通过实际行动，承担起为社会做出正面贡献的责任。<br>Kong Hwaians able to embrace the mindset of leading self and others with
 the primary goal of serving; and a sense of responsibility in making a
 positive impact on others and society through actions.</p>
 <p></p>
