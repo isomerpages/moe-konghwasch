@@ -6,12 +6,12 @@ variant: markdown
 ---
 <h3>Physical Education</h3>
 <h4><u>Our Vision:</u></h4>
-<p>Every Kong Hwaian an advocate for a lifetime of active &amp; healthy living.</p>
+Every Kong Hwaian an advocate for a lifetime of active &amp; healthy living.
 <h4><u>Our Mission:</u></h4>
-<p>Empowering students with knowledge, skills and values.&nbsp;</p>
-<p>Creating positive experiences.</p>
-<p>Promoting active and healthy living.</p>
-<p>&nbsp;Committed to sportsmanship.</p>
+⦿ Empowering students with knowledge, skills and values.
+<br>⦿ Creating positive experiences.
+<br>⦿ Promoting active and healthy living.
+<br>⦿ Committed to sportsmanship.
 <p></p>
 <p>Our Physical Education (PE) programme aims to develop students in both
 physical skills and social emotional competencies.&nbsp; The physical skills
