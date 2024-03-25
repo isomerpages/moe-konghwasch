@@ -5,9 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h3>Physical Education</h3>
-<h4><u>Our Vision: </u></h4>
+<h4><u>Our Vision:</u></h4>
 <p>Every Kong Hwaian an advocate for a lifetime of active &amp; healthy living.</p>
-<h4><u>Our Mission: </u></h4>
+<h4><u>Our Mission:</u></h4>
 <p>Empowering students with knowledge, skills and values.&nbsp;</p>
 <p>Creating positive experiences.</p>
 <p>Promoting active and healthy living.</p>
@@ -36,19 +36,4 @@ learn to understand themselves better, develop social skills and practise
 values.</p>
 <p></p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
-</div>
-<p>&nbsp;Primary 5 students engaging in a volleyball lesson</p>
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
-</div>
-<p>&nbsp;A P6 student practicing dribbling a ball with a hockey stick</p>
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.png">
-</div>
-<p>&nbsp;Primary 2 class attending a gymnastics lesson</p>
 <p></p>
