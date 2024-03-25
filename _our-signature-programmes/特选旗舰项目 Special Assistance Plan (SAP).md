@@ -15,7 +15,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sap1b.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Website_Update___SAP_20240325_Page_2.jpg">
 </div>
 <p></p>
 <table>
