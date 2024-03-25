@@ -17,8 +17,7 @@ variant: markdown
 ![](/images/Canteen_Swivel_Panels_Design_Page_2.jpg)	
 
 <p><strong><br>善心善行 Kindness</strong>
-</p>
-<p>我知善行善而怡然自得。
+<br>我知善行善而怡然自得。
 <br><em>I know good, do good, and feel good</em> 
 <br>
 </p>
