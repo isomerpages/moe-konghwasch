@@ -9,10 +9,9 @@ variant: markdown
 <img style="width:80%" height="auto" width="100%" src="/images/svm1.png">
 </div>
 <h4><strong>好学敏思 <em>Learners with Thinking Minds</em></strong></h4>
-<p><strong><u>学会学习 Learning to Learn</u></strong>
-</p>
-<p>光华学子掌握必要的技能和学习态度，使他们能够成为自主学习者；赋予他们在各种学习经历中游刃有余的能力。</p>
-<p>Kong Hwaians acquired essential skills and learning dispositions that
+<p><strong>⦿ <u>学会学习 Learning to Learn</u></strong><br>
+光华学子掌握必要的技能和学习态度，使他们能够成为自主学习者；赋予他们在各种学习经历中游刃有余的能力。<br>
+Kong Hwaians acquired essential skills and learning dispositions that
 enable them to become self-directed learners; empowering them to navigate
 in a wide range of learning experiences.</p>
 <p><strong><u>学会共处 Learning to Live</u></strong>
