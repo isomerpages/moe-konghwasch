@@ -14,7 +14,7 @@ variant: markdown
 <p>学校愿景 <strong>“好学敏思，立己达人” </strong>，冀望每个光华学子积极学习，不断思考，超越自我，并饮水思源，以奉献社会为己任。</p>
 <p><strong>"好学敏思"</strong> 涵盖了学习与思考的双重内涵，体现了《论语·为政》“学而不思则罔，思而不学则殆”的精髓。学习并非仅限于知识的获取，而是包括了深入思考的过程。学校在鼓励学生积极学习的同时，也引导他们不断反思，培养他们分析、辨别和创新的能力。这不仅能够帮助学生建立坚实的知识基础，还能够激发他们的创造力和解决问题的能力。因此学生在学习中不仅仅是被动接受知识，也必须能够主动地去思考、去探索、去创新。</p>
 <p><strong>“立己达人”</strong>与《论语·雍也》中“己欲立而立人，己欲达而达人” 的理念相契合，阐述了一个人应当以自身的成长与成就来影响和帮助他人的道理。学校强调学生不仅要不断提升自我，力求成为最优秀的自己；还必须以身作则，以积极的态度和行动去影响身边的人，传递正能量。我们教导学生怀有感恩之心，珍惜所拥有的一切，并学会与他人分享和关爱。通过社区服务，我们要学生回馈社会，培养他们成为具有爱心和社会责任感的公民。</p>
-<p>父母皆盼子女成龙成凤，希望孩子能出人头地。身为校长，我不仅仅是希望我们光华的孩子学业有成，更要求他们品行端正。因为一个人的人生观、价值观正确了，才不会在人生的道路上走错方向。</p>
+<p>父母皆盼子女成龙成凤，希望孩子能出人头地。身为校长，我不仅仅是希望我们光华的孩子学业有成，更要求他们品行端正。因为孩子的学业成就是暂时的，他的品格、为人才是永恒的。品格决定命运，只有人生观、价值观正确了，才不会在人生的道路上走错方向。</p>
 <p>建校至今，光华培育了不计其数品学兼优的光华学子，为他们的启蒙教育奠下了重要固基，其影响至深至远。光华团队会持续为孩子营造一个良好的学习环境。看着孩子们健康快乐地成长，成为拥有良好品格，积极向上向善的学生，是我们最大的动力和慰籍。</p>
 光华学校校长<br>
 方小龙
@@ -60,9 +60,7 @@ cherish what they have, and learn to share and care for others. Through
 community service, we want Kong Hwaians to give back and contribute to
 the well-being of others and the community, nurturing them to become compassionate
 and socially responsible citizens.</p>
-<p>All parents want the best for their children, and for them to be successful.
-As principal, I believe true success lies not just in producing students with good academic results, but in nurturing individuals with good character. Character is key in enabling
-Kong Hwaians to navigate life's journey in the right direction.</p>
+<p>All parents aspire for the best for their children, desiring their success. As a principal, I believe that true success extends beyond mere academic accomplishments to encompass the development of strong character. Academic success is only temporary, but a child’s character, the type of person he is, endures indefinitely. Character shapes destiny and serves as the compass guiding Kong Hwaians along life's path in the correct direction.</p>
 <p>Kong Hwa has stood the test of time and remains steadfast in its mission
 to nurture generation after generation of students; laying the important
 foundation for Kong Hwaians during their formative years - a bedrock with
