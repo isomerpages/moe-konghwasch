@@ -14,33 +14,23 @@ variant: markdown
 Kong Hwaians acquired essential skills and learning dispositions that
 enable them to become self-directed learners; empowering them to navigate
 in a wide range of learning experiences.</p>
-<p><strong><u>学会共处 Learning to Live</u></strong>
-</p>
-<p>光华学子通过掌握社交和情绪管理技能，学会与他人和谐相处，建立积极的人际关系；并在实践中做出明智的选择，为自身、他人以及社会做出贡献。</p>
-<p>Kong Hwaians developed social-emotional competencies essential for them
+<p><strong>⦿<u>学会共处 Learning to Live</u></strong>
+<br>光华学子通过掌握社交和情绪管理技能，学会与他人和谐相处，建立积极的人际关系；并在实践中做出明智的选择，为自身、他人以及社会做出贡献。<br>Kong Hwaians developed social-emotional competencies essential for them
 to build positive relationships; and act for the good of self, others and
 society.</p>
-<p><strong><u>学会做人 Learning to Be</u></strong>
-</p>
-<p>光华学子秉持良好的价值观和健康的身份认同（个人、社区、国家），成为品格优良和尽责的好公民。</p>
-<p>Kong Hwaians possessed sound values and sense of healthy identities (personal,
+<p><strong>⦿<u>学会做人 Learning to Be</u></strong>
+<br>光华学子秉持良好的价值观和健康的身份认同（个人、社区、国家），成为品格优良和尽责的好公民。<br>Kong Hwaians possessed sound values and sense of healthy identities (personal,
 community, national) that enable them to be individuals of good character
 and responsible citizens.</p>
-<p><strong><u>批判性思维 Critical Thinking</u></strong>
-</p>
-<p>光华学子不仅能客观地分析、评估和综合信息，还能质疑假设、考虑多元视角，并行使明智的判断力。</p>
-<p>Kong Hwaians able to analyze, evaluate, and synthesize information; enabling
+<p><strong>⦿<u>批判性思维 Critical Thinking</u></strong>
+<br>光华学子不仅能客观地分析、评估和综合信息，还能质疑假设、考虑多元视角，并行使明智的判断力。<br>Kong Hwaians able to analyze, evaluate, and synthesize information; enabling
 them to question assumptions, consider multiple perspectives and exercise
 discernment.</p>
-<p><strong><u>创造性思维 Inventive Thinking</u></strong>
-</p>
-<p>光华学子能够探索新思路、提出新构想和解决问题的方案；并以独创性应对各种挑战。</p>
-<p>Kong Hwaians able to explore possibilities, generate ideas and solutions
+<p><strong>⦿<u>创造性思维 Inventive Thinking</u></strong>
+<br>光华学子能够探索新思路、提出新构想和解决问题的方案；并以独创性应对各种挑战。<br>Kong Hwaians able to explore possibilities, generate ideas and solutions
 to problems; empowering them to tackle challenges with originality.</p>
-<p><strong><u>适应性思维 Adaptive Thinking</u></strong>
-</p>
-<p>光华学子不仅能灵活应变、坚韧不拔，还善于敏锐地应对环境和情势的变迁，通过调整视角获取新的洞见。</p>
-<p>Kong Hwaians able to be flexible, resilient, and responsive to changing
+<p><strong>⦿<u>适应性思维 Adaptive Thinking</u></strong>
+<br>光华学子不仅能灵活应变、坚韧不拔，还善于敏锐地应对环境和情势的变迁，通过调整视角获取新的洞见。<br>Kong Hwaians able to be flexible, resilient, and responsive to changing
 context and circumstances, by adjusting perspectives and drawing new insights.</p>
 <h4><strong><em>立己达人 Leaders with Serving Hearts</em></strong></h4>
 <p><strong><u>引领成长 Leading to Grow</u></strong>
