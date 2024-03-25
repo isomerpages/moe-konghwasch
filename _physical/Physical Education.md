@@ -5,6 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h3>Physical Education</h3>
+<h4><u>Our Vision: </u></h4>
+<p>Every Kong Hwaian an advocate for a lifetime of active &amp; healthy living.</p>
+<h4><u>Our Mission: </u></h4>
+<p>Empowering students with knowledge, skills and values.&nbsp;</p>
+<p>Creating positive experiences.</p>
+<p>Promoting active and healthy living.</p>
+<p>&nbsp;Committed to sportsmanship.</p>
+<p></p>
 <p>Our Physical Education (PE) programme aims to develop students in both
 physical skills and social emotional competencies.&nbsp; The physical skills
 comprise of fundamental movement skills in lower primary and games skills
@@ -26,6 +34,8 @@ mindful of the surroundings, respecting school property, and keeping the
 school clean. Through the teachable moments during recess play, students
 learn to understand themselves better, develop social skills and practise
 values.</p>
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
