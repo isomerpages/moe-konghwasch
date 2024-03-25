@@ -19,3 +19,18 @@ are encouraged to persevere in their learning. Gradually they will be prepared
 to play the actual games.</p>
 <p>&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
+</div>
+<p>&nbsp;Primary 5 students engaging in a volleyball lesson</p>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
+</div>
+<p>&nbsp;A P6 student practicing dribbling a ball with a hockey stick</p>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.png">
+</div>
+<p>&nbsp;Primary 2 class attending a gymnastics lesson</p>
+<p></p>
