@@ -13,9 +13,9 @@ variant: markdown
 </p>
 <p></p>
 <h3><strong>光华价值观 School Values (KHS PR²IDE)</strong></h3>
-<p><strong><br>![](/images/Canteen_Swivel_Panels_Design_Page_1.jpg) 
-<br>![](/images/Canteen_Swivel_Panels_Design_Page_2.jpg)</strong>
-</p>
+![](/images/Canteen_Swivel_Panels_Design_Page_1.jpg) 
+<br>![](/images/Canteen_Swivel_Panels_Design_Page_2.jpg)
+
 <p style="text-align: center;"><strong><br>善心善行 Kindness <br>我知善行善而怡然自得。 <br><em>I know good, do good, and feel good</em> <br></strong>
 </p>
 <p style="text-align: center;"><strong>谦虚有礼 Humility <br>我了解自己的天赋但不自负。 <br><em>I see my strengths and talents but do not seek to be the centre of attention.</em></strong>
