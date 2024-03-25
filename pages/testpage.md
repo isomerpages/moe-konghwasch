@@ -12,7 +12,7 @@ variant: markdown
 <br><strong> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎Sincerity in Being‎ ‎ ‎ ‎ ‎ Perseverance in Doing</strong>
 </p>
 <p></p>
-<h3><strong>光华价值观 School Values (KHS PR²IDE)</strong></h3>
+<h3 align="center"><strong>光华价值观 School Values (KHS PR²IDE)</strong></h3>
 ![](/images/Canteen_Swivel_Panels_Design_Page_1.jpg) 
 <br>![](/images/Canteen_Swivel_Panels_Design_Page_2.jpg)
 
