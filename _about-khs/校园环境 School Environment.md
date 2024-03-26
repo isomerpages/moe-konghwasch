@@ -123,7 +123,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5923_photo.jpg">
 </div>
-<p><strong>学校跑道与健身角落 School Track and Fitness Corner</strong>
+<p><strong>学校跑道与健身角落 School Running Track and Fitness Corner</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6009_photo.jpg">
@@ -274,5 +274,9 @@ description: ""
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6016_photo.jpg">
+</div>
+<p>室内体育馆 Indoor Sports Hall</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6027_photo.jpg">
 </div>
 <p></p>
