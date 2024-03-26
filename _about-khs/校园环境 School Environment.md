@@ -195,4 +195,23 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5900_photo.jpg">
 </div>
+<p><strong>校史长廊 School History Corridor</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5998_photo.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5999_photo.jpg">
+</div>
+<p><strong>六使堂 Tan Lark Sye Multi-Purpose Hall</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3744_photo.jpg">
+</div>
+<p><strong>李光前讲堂 Lee Kong Chian Lecture Theatre</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6024_photo.jpg">
+</div>
 <p></p>
