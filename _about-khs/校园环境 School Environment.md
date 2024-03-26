@@ -22,6 +22,10 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6011_photo.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3648_photo.jpg">
+</div>
 <p><strong>文化长廊 Cultural Corridor</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -90,11 +94,25 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5908_photo.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5910_photo.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5933_photo.jpg">
+</div>
+<p><strong>食堂表演舞台 Performance Platform @ Canteen</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5911_photo.jpg">
+</div>
+<p><strong>美术与音乐角落 Art and Music Corners @ Canteen</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5912_photo.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5913_photo.jpg">
 </div>
 <p></p>
