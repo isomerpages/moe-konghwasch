@@ -130,4 +130,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5923_photo.jpg">
 </div>
+<p><strong>学校跑道与健身角落 School Track and Fitness Corner</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6009_photo.jpg">
+</div>
 <p></p>
