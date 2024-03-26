@@ -142,23 +142,32 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bicep13.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bicep14.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bicep15.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>海外浸濡—台湾学校交流合照</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>海外浸濡—台湾投城农场手工活动</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>海外浸濡—台湾参观野柳风景</p>
 </td>
 </tr>
 <tr>
@@ -185,4 +194,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
