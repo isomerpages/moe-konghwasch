@@ -275,7 +275,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6016_photo.jpg">
 </div>
-<p>室内体育馆 Indoor Sports Hall</p>
+<p><strong>室内体育馆 Indoor Sports Hall</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6027_photo.jpg">
 </div>
