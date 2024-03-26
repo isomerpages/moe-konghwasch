@@ -141,6 +141,12 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6025_photo.jpg">
 </div>
+<p></p>
+<p><strong>室内体育馆 Indoor Sports Hall</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6027_photo.jpg">
+</div>
 <p><strong>文秀馆 School Library</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -274,10 +280,5 @@ description: ""
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6016_photo.jpg">
-</div>
-<p><strong>室内体育馆 Indoor Sports Hall</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6027_photo.jpg">
 </div>
 <p></p>
