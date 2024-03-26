@@ -18,72 +18,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Website_Update___SAP_20240325_Page_2.jpg">
 </div>
 <p></p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sap2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pics_caption.jpg">
 </div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sap3.jpg">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sap4.jpg">
-</div>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018年台湾浸濡游学</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>初次与台湾小伙伴见面</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2019北京浸濡游学</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sap5.jpg">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sap6.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/sap7.jpg">
-</div>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>浸濡游学：传统曲艺</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>浸濡游学：传统曲艺</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>浸濡游学：与小伙伴练习书法</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
