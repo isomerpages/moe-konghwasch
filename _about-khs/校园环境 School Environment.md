@@ -214,4 +214,12 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6024_photo.jpg">
 </div>
+<p><strong>科学实验室与花园 Science Laboratory and Garden</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6005_photo.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6001_photo.jpg">
+</div>
 <p></p>
