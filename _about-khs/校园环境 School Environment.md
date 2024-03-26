@@ -13,6 +13,12 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6014_photo.jpg">
 </div>
+<p></p>
+<p><strong>陈六使先生铜像 Statue of Mr Tan Lark Sye</strong> 
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5916_photo.jpg">
+</div>
 <p><strong>学校广场 Parade Square</strong>
 </p>
 <div class="isomer-image-wrapper">
