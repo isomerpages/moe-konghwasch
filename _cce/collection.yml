@@ -2,6 +2,5 @@ collections:
   cce:
     output: true
     order:
-      - Citizenship Education/Social Studies.md
       - Citizenship Education/Learning Journeys.md
       - Citizenship Education/.keep
