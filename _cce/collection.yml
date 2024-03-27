@@ -2,7 +2,6 @@ collections:
   cce:
     output: true
     order:
-      - Character Education/.keep
       - Citizenship Education/Social Studies.md
       - Citizenship Education/Learning Journeys.md
       - Citizenship Education/.keep
