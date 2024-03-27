@@ -1,6 +1,6 @@
 ---
 title: Tchoukball
-permalink: /cca/Physical-Sports/tchoukball/
+permalink: /cca/physical-sports/tchoukball/
 description: ""
 third_nav_title: 体育运动 Physical Sports
 variant: tiptap

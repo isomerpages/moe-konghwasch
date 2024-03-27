@@ -1,6 +1,6 @@
 ---
 title: Brownies
-permalink: /cca/Uniformed-Groups/brownies/
+permalink: /cca/uniformed-groups/brownies/
 description: ""
 third_nav_title: 制服团体 Uniformed Groups
 variant: tiptap

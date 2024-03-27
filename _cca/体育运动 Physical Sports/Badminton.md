@@ -1,6 +1,6 @@
 ---
 title: Badminton
-permalink: /cca/Physical-Sports/badminton/
+permalink: /cca/physical-sports/badminton/
 description: ""
 third_nav_title: 体育运动 Physical Sports
 variant: tiptap

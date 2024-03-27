@@ -1,6 +1,6 @@
 ---
 title: Art Club
-permalink: /cca/Visual-and-Performing-Arts/art-club/
+permalink: /cca/visual-and-performing-arts/art-club/
 description: ""
 third_nav_title: 艺术团 Visual and Performing Arts
 variant: tiptap

@@ -1,6 +1,6 @@
 ---
 title: Netball
-permalink: /cca/Physical-Sports/netball/
+permalink: /cca/physical-sports/netball/
 description: ""
 third_nav_title: 体育运动 Physical Sports
 variant: tiptap

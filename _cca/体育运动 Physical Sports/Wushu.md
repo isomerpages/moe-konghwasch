@@ -1,6 +1,6 @@
 ---
 title: Wushu
-permalink: /cca/Physical-Sports/wushu/
+permalink: /cca/physical-sports/wushu/
 description: ""
 third_nav_title: 体育运动 Physical Sports
 variant: tiptap

@@ -1,6 +1,6 @@
 ---
 title: Chinese Calligraphy Club
-permalink: /cca/Visual-and-Performing-Arts/chinese-calligraphy-club/
+permalink: /cca/visual-and-performing-arts/chinese-calligraphy-club/
 description: ""
 third_nav_title: 艺术团 Visual and Performing Arts
 variant: tiptap

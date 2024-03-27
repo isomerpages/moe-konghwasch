@@ -1,6 +1,6 @@
 ---
 title: Chinese Orchestra
-permalink: /cca/Visual-and-Performing-Arts/chinese-orchestra/
+permalink: /cca/visual-and-performing-arts/chinese-orchestra/
 description: ""
 third_nav_title: 艺术团 Visual and Performing Arts
 variant: tiptap

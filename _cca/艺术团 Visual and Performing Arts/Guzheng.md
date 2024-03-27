@@ -1,6 +1,6 @@
 ---
 title: Guzheng
-permalink: /cca/Visual-and-Performing-Arts/guzheng/
+permalink: /cca/visual-and-performing-arts/guzheng/
 description: ""
 third_nav_title: 艺术团 Visual and Performing Arts
 variant: tiptap

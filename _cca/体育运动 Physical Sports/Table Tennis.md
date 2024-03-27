@@ -1,6 +1,6 @@
 ---
 title: Table Tennis
-permalink: /cca/Physical-Sports/table-tennis/
+permalink: /cca/physical-sports/table-tennis/
 description: ""
 third_nav_title: 体育运动 Physical Sports
 variant: tiptap
