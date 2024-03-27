@@ -5,9 +5,23 @@ description: ""
 variant: tiptap
 third_nav_title: 课程辅助活动 CCA
 ---
-### Co-Curricular Activities
-
-*   [Clubs and Societies](https://staging.d1zbyh3gidoh8o.amplifyapp.com/cca/Clubs-and-Societies/chess-club/)
-*   [Physical Sports](https://staging.d1zbyh3gidoh8o.amplifyapp.com/cca/Physical-Sports/badminton/)
-*   [Uniformed Groups](https://staging.d1zbyh3gidoh8o.amplifyapp.com/cca/Uniformed-Groups/brownies/)
-*   [Visual and Performing Arts](https://staging.d1zbyh3gidoh8o.amplifyapp.com/cca/Visual-and-Performing-Arts/art-club/)
+<h3>Co-Curricular Activities</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.konghwa.moe.edu.sg/cca/clubs-and-societies/chess-club/" rel="noopener noreferrer nofollow" target="_blank">Clubs and Societies</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.konghwa.moe.edu.sg/cca/physical-sports/badminton/" rel="noopener noreferrer nofollow" target="_blank">Physical Sports</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.konghwa.moe.edu.sg/cca/uniformed-groups/brownies/" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.konghwa.moe.edu.sg/cca/visual-and-performing-arts/art-club/" rel="noopener noreferrer nofollow" target="_blank">Visual and Performing Arts</a>
+</p>
+</li>
+</ul>
+<p></p>
