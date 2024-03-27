@@ -2,6 +2,7 @@ collections:
   moral:
     output: true
     order:
+      - 品格与公民教育 CCE/Learning Journeys.md
       - 品格与公民教育 CCE/Social Studies.md
       - 品格与公民教育 CCE/.keep
       - 品格与公民教育 CCE/品格与公民教育 Character and Citizenship Education.md
