@@ -25,3 +25,17 @@ third_nav_title: 课程辅助活动 CCA
 </li>
 </ul>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/clubs-and-societies/chess-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chess Club (International Chess, Xiangqi &amp; Weiqi)</div><div class="isomer-card-link">Click here for more information!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/clubs-and-societies/infocomm-club/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Infocomm Media Club</div>
+<div class="isomer-card-link">Click here for more information!</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p></p>
