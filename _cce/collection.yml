@@ -2,7 +2,6 @@ collections:
   cce:
     output: true
     order:
-      - Character Education/Green Movement.md
       - Character Education/Kindness Movement.md
       - Character Education/.keep
       - Citizenship Education/Social Studies.md
