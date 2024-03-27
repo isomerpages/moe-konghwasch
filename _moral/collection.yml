@@ -2,7 +2,6 @@ collections:
   moral:
     output: true
     order:
-      - 品格与公民教育 CCE/网络健康教育 Cyber Wellness.md
       - 品格与公民教育 CCE/品格与公民教育 Character and Citizenship Education.md
       - 品格与公民教育 CCE/品格教育 Character Education.md
       - 品格与公民教育 CCE/公民教育 Citizenship Education.md
