@@ -60,11 +60,11 @@ third_nav_title: 课程辅助活动 CCA
 <p></p>
 <h4>Uniformed Groups</h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/uniformed-groups/brownies/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Brownies</div><div class="isomer-card-link">Click here for more information!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/uniformed-groups/brownies/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/br1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Brownies</div><div class="isomer-card-link">Click here for more information!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/uniformed-groups/scouts/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/s1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -76,33 +76,33 @@ third_nav_title: 课程辅助活动 CCA
 <p></p>
 <h4>Visual and Performing Arts</h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/visual-and-performing-arts/art-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Art Club</div><div class="isomer-card-link">Click here for more information!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/visual-and-performing-arts/art-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/a3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Art Club</div><div class="isomer-card-link">Click here for more information!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/visual-and-performing-arts/chinese-calligraphy-club/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/cc4.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Chinese Calligraphy Club</div>
 <div class="isomer-card-link">Click here for more information!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/visual-and-performing-arts/chinese-dance/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chinese Dance</div><div class="isomer-card-link">Click here for more information!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/visual-and-performing-arts/chinese-dance/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/cd1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chinese Dance</div><div class="isomer-card-link">Click here for more information!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/visual-and-performing-arts/chinese-orchestra/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="nil" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="nil" src="/images/co1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Chinese Orchestra</div>
 <div class="isomer-card-link">Click here for more information!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/visual-and-performing-arts/guzheng/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="nil" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Guzheng</div><div class="isomer-card-link">Click here for more information!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/visual-and-performing-arts/guzheng/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="nil" src="/images/g2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Guzheng</div><div class="isomer-card-link">Click here for more information!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/visual-and-performing-arts/show-choir/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="nil" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="nil" src="/images/choir1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
