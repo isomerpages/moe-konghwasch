@@ -1,5 +1,4 @@
 collections:
   cce:
     output: true
-    order:
-      - Citizenship Education/.keep
+    order: []
