@@ -11,7 +11,7 @@ third_nav_title: 课程辅助活动 CCA
 <a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/clubs-and-societies/infocomm-club/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/bd1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ict2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
