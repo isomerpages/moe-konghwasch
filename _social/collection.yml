@@ -2,6 +2,7 @@ collections:
   social:
     output: true
     order:
+      - Student Advocacy.md
       - Value–in–Action (VIA).md
       - 正面教育 Positive Education.md
       - 学生领袖 Student Leadership.md
