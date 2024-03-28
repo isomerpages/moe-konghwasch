@@ -4,8 +4,6 @@ permalink: /aesthetics/
 description: ""
 variant: markdown
 ---
-### Aesthetics
-
 <img src="/images/aes7.png" style="width:30%">
 
 ### 光华学校 美术部简介
