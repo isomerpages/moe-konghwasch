@@ -44,7 +44,7 @@ third_nav_title: 课程辅助活动 CCA
 <div class="isomer-card-title">Table Tennis</div>
 <div class="isomer-card-link">Click here for more information!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/tchoukball/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="nil" src="/images/c4.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tchoukball</div><div class="isomer-card-link">Click here for more information!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/tchoukball/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="nil" src="/images/c1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tchoukball</div><div class="isomer-card-link">Click here for more information!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/physical-sports/wushu/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
