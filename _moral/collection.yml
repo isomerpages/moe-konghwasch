@@ -2,6 +2,7 @@ collections:
   moral:
     output: true
     order:
+      - 行善运动 Kindness Movement.md
       - 绿化运动 Green Movement.md
       - 社会科学 Social Studies.md
       - 国民教育演出（国庆预演）NE Show.md
