@@ -2,6 +2,10 @@ collections:
   social:
     output: true
     order:
-      - 活跃学习计划 Programme for Active Learning (PAL).md
+      - 正面教育 Positive Education.md
+      - 级任老师辅导课 Form Teacher's Guidance Period (FTGP).md
       - 学生领袖 Student Leadership.md
+      - 学生倡导 Student Advocacy.md
+      - 德育在于行动 Value–in–Action (VIA).md
+      - 艺体陶冶计划 Programme for Active Learning (PAL).md
       - 课程辅助活动 CCA/.keep

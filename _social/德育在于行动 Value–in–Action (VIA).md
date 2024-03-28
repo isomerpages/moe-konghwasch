@@ -1,8 +1,8 @@
 ---
-title: Value–in–Action (VIA)
-permalink: /cce/Citizenship-Education/via/
+title: 德育在于行动 Value–in–Action (VIA)
+permalink: /social/via/
 description: ""
-third_nav_title: Citizenship Education
+variant: tiptap
 ---
 ### Value–in–Action (VIA)
 

@@ -1,11 +1,9 @@
 ---
 title: 品格与公民教育 Character and Citizenship Education
-permalink: /moral/CCE/overview/
+permalink: /moral/cce/
 description: ""
-third_nav_title: 品格与公民教育 CCE
+variant: tiptap
 ---
-
-
 ### Character and Citizenship Education
 
 #### Introduction
@@ -14,7 +12,7 @@ Character and Citizenship Education (CCE) is about learning, growth, and change.
 
   
 
-Our Department Vision is “A Culture of Positivity.” With the motto of _Knowing Good, Doing Good, and Being Good_, we develop in our students
+Our Department Vision is “A Culture of Positivity.” With the motto of&nbsp;_Knowing Good, Doing Good, and Being Good_, we develop in our students
 
 *   Knowing Good through values education in the CCE curriculum frame
 
@@ -30,19 +28,19 @@ In the context of our school motto, “Sincerity and Perseverance (诚毅)”, o
 
 #### Goals of CCE
 
-**a) Good character:** Have a sound moral compass and a strong sense of right and wrong, think critically and ethically, be discerning in judgment, take responsibility for choices and actions, be caring towards others and strive for excellence;
+**a) Good character:**&nbsp;Have a sound moral compass and a strong sense of right and wrong, think critically and ethically, be discerning in judgment, take responsibility for choices and actions, be caring towards others and strive for excellence;
 
   
 
-**b) Resilience and social-emotional well-being:** Have a balanced sense of self, form healthy relationships, be resilient when faced with challenges, find meaning in life, and have a sense of gratitude and appreciation;
+**b) Resilience and social-emotional well-being:**&nbsp;Have a balanced sense of self, form healthy relationships, be resilient when faced with challenges, find meaning in life, and have a sense of gratitude and appreciation;
 
   
 
-**c) Future readiness:** Have a sense of purpose in life, develop the dispositions of adaptability and lifelong learning so as to be able to navigate education and career pathways purposefully and take on the challenges of the future, including the world of work and life; and
+**c) Future readiness:**&nbsp;Have a sense of purpose in life, develop the dispositions of adaptability and lifelong learning so as to be able to navigate education and career pathways purposefully and take on the challenges of the future, including the world of work and life; and
 
   
 
-**d) Active citizenship:** Develop a strong national identity based on a sense of belonging to the nation, a sense of hope in themselves and the future, an awareness of the reality of Singapore’s vulnerabilities and constraints, and the will to act on improving the lives of others, and building a future for our nation.
+**d) Active citizenship:**&nbsp;Develop a strong national identity based on a sense of belonging to the nation, a sense of hope in themselves and the future, an awareness of the reality of Singapore’s vulnerabilities and constraints, and the will to act on improving the lives of others, and building a future for our nation.
 
 #### CCE Curriculum Frame
 

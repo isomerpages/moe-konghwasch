@@ -1,8 +1,8 @@
 ---
-title: Green Movement
-permalink: /cce/Character-Education/green-movement/
+title: 绿化运动 Green Movement
+permalink: /moral/green-movement/
 description: ""
-third_nav_title: Character Education
+variant: tiptap
 ---
 ### Green Movement
 

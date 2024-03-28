@@ -1,8 +1,8 @@
 ---
-title: Social Studies
-permalink: /cce/Citizenship-Education/social-studies/
+title: 社会科学 Social Studies
+permalink: /moral/social-studies/
 description: ""
-third_nav_title: Citizenship Education
+variant: tiptap
 ---
 ### Social Studies
 

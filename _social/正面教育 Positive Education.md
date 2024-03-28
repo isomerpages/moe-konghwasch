@@ -1,9 +1,9 @@
 ---
 title: 正面教育 Positive Education
-permalink: /moral/positive-education/
+permalink: /social/positive-education/
 description: ""
+variant: tiptap
 ---
-
 ### POSITIVE EDUCATION
 
 **Caring and Enabling School Environment**

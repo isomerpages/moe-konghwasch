@@ -1,5 +1,5 @@
 ---
-title: 教育部性教育 MOE Sexuality Education
+title: 教育部性教育课程 MOE Sexuality Education
 permalink: /moral/moe-sexuality-education/
 description: ""
 variant: tiptap

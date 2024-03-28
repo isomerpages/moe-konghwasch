@@ -1,8 +1,8 @@
 ---
-title: Kindness Movement
-permalink: /cce/Character-Education/kindness-movement/
+title: 行善运动 Kindness Movement
+permalink: /moral/kindness-movement/
 description: ""
-third_nav_title: Character Education
+variant: tiptap
 ---
 ### Kindness Movement
 

@@ -1,8 +1,8 @@
 ---
-title: Learning Journeys
-permalink: /cce/Citizenship-Education/learning-journeys/
+title: 国民教育演出（国庆预演）NE Show
+permalink: /moral/ne-shows/
 description: ""
-third_nav_title: Citizenship Education
+variant: tiptap
 ---
 ### Learning Journeys
 

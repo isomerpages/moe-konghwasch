@@ -1,11 +1,10 @@
 ---
-title: 特选旗舰项目 Special Assistance Plan (SAP)
+title: 特选旗舰课程 SAP Flagship Programme
 permalink: /our-signature-programmes/sap/
 description: ""
 variant: tiptap
 ---
-<h3>Special Assistance Plan (SAP)</h3>
-<h4>华文特选课程 (Chinese Special Programme)</h4>
+<h4>华文特选课程</h4>
 <p>我校致力于培养双语兼优，具有文化底蕴的莘莘学子。作为一所特选学校，我们不仅要创造优良的学习环境，更要让学生通过参与丰富多彩的活动学习并掌握华文华语，对华族文化有更深入的了解。</p>
 <p>我校特选课程旨在完成以下使命：</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 加强校内华文学习，使学生掌握中英两种语文。</p>

@@ -67,10 +67,10 @@ variant: tiptap
 <br>Mr Chia Zhao Yan
 <br>
 <br>Desktop Engineer
-<br>Nasrul Bin Saiful
+<br>Mr Nasrul Bin Saiful
 <br>
 <br>Desktop Engineer
-<br>Tay Wei Qi</p>
+<br>Mr Tay Wei Qi</p>
 </td>
 </tr>
 <tr>

@@ -1,8 +1,8 @@
 ---
-title: Student Advocacy
-permalink: /cce/Citizenship-Education/student-advocacy/
+title: 学生倡导 Student Advocacy
+permalink: /social/student-advocacy/
 description: ""
-third_nav_title: Citizenship Education
+variant: tiptap
 ---
 ### Student Advocacy of Meaningful Causes
  

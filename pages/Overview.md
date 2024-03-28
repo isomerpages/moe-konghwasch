@@ -7,8 +7,8 @@ third_nav_title: 课程辅助活动 CCA
 ---
 <h3>Co-Curricular Activities</h3>
 <h4>Clubs and Societies</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/clubs-and-societies/chess-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chess Club (International Chess, Xiangqi &amp; Weiqi)</div><div class="isomer-card-link">Click here for more information!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/clubs-and-societies/infocomm-club/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/chess-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chess Club (International Chess, Xiangqi &amp; Weiqi)</div><div class="isomer-card-link">Click here for more information!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/infocomm-club/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ict2.jpg">
@@ -22,8 +22,8 @@ third_nav_title: 课程辅助活动 CCA
 </div>
 <h4>Physical Sports</h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/physical-sports/badminton/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/bd1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Badminton</div><div class="isomer-card-link">Click here for more information!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/physical-sports/basketball/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/badminton/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/bd1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Badminton</div><div class="isomer-card-link">Click here for more information!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/cca/physical-sports/basketball/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/bb3.jpg">
@@ -33,8 +33,8 @@ third_nav_title: 课程辅助活动 CCA
 <div class="isomer-card-title">Basketball</div>
 <div class="isomer-card-link">Click here for more information!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/physical-sports/netball/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/nt3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Netball</div><div class="isomer-card-link">Click here for more information!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/physical-sports/table-tennis/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/netball/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/nt3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Netball</div><div class="isomer-card-link">Click here for more information!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/cca/physical-sports/table-tennis/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="nil" src="/images/tt4b.jpg">
@@ -44,8 +44,8 @@ third_nav_title: 课程辅助活动 CCA
 <div class="isomer-card-title">Table Tennis</div>
 <div class="isomer-card-link">Click here for more information!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/physical-sports/tchoukball/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="nil" src="/images/c4.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tchoukball</div><div class="isomer-card-link">Click here for more information!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/physical-sports/wushu/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/tchoukball/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="nil" src="/images/c1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tchoukball</div><div class="isomer-card-link">Click here for more information!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/cca/physical-sports/wushu/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="nil" src="/images/w2.jpg">

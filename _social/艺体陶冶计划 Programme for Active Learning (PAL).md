@@ -1,9 +1,9 @@
 ---
-title: 活跃学习计划 Programme for Active Learning (PAL)
+title: 艺体陶冶计划 Programme for Active Learning (PAL)
 permalink: /social/programme-for-active-learning/
 description: ""
+variant: tiptap
 ---
-
 ### Programme for Active Learning (PAL)
 
 At Primary 1 and 2 levels, PAL offers hands-on and experiential learning through the domains of Sports and Games, Outdoor Education, and Visual and Performing Arts. It provides opportunities for students to discover new interests, develop character and enable them to cultivate social-emotional competencies.

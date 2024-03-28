@@ -1,9 +1,9 @@
 ---
-title: Thinkers' Programme
+title: 思维挑战课程 Thinkers' Programme
 permalink: /cognitive/thinkers-programme/
 description: ""
+variant: tiptap
 ---
-
 ### Thinkers' Programme
 
 SHHK Thinkers Programme is organised by Singapore Hokkien Huay Kuan for selected Primary 4 students.

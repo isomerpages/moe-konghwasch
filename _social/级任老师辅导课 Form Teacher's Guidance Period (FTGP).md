@@ -1,8 +1,8 @@
 ---
-title: Form Teacher's Guidance Period (FTGP)
-permalink: /cce/Character-Education/ftgp/
+title: 级任老师辅导课 Form Teacher's Guidance Period (FTGP)
+permalink: /social/ftgp/
 description: ""
-third_nav_title: Character Education
+variant: tiptap
 ---
 ### Form Teacher's Guidance Period (FTGP)
 
@@ -22,7 +22,7 @@ Form Teachers also take the time to have one-to-one chats with students. Through
 <img src="/images/ftgp2.png" style="width:80%">
   
 
-Sexuality Education (SEd) lessons are taught in CCE (FTGP) at Primary 5 and 6. Students learn about developing healthy and rewarding relationships, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. For more information on the MOE Growing Years SEd programme, please click [here](https://staging.d1zbyh3gidoh8o.amplifyapp.com/moral/moe-sexuality-education/).
+Sexuality Education (SEd) lessons are taught in CCE (FTGP) at Primary 5 and 6. Students learn about developing healthy and rewarding relationships, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. For more information on the MOE Growing Years SEd programme, please click&nbsp;[here](https://staging.d1zbyh3gidoh8o.amplifyapp.com/moral/moe-sexuality-education/).
 
   
 
