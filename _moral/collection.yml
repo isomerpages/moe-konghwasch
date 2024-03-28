@@ -2,6 +2,7 @@ collections:
   moral:
     output: true
     order:
+      - 社会科学 Social Studies.md
       - 国民教育演出（国庆预演）NE Show.md
       - 网络健康教育 Cyber Wellness Education.md
       - 品格与公民教育 CCE/.keep
