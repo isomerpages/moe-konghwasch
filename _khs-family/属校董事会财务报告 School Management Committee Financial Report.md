@@ -4,7 +4,7 @@ permalink: /khs-family/School-Management-Committee/smc-financial-report/
 description: ""
 variant: markdown
 ---
-### SMC Financial Report
+### School Management Committee Financial Report
 
 #### Financial &amp; Non-Financial Information
 
