@@ -1,5 +1,5 @@
 ---
-title: 正面教育 Positive Education
+title: 正向教育 Positive Education
 permalink: /social/positive-education/
 description: ""
 variant: tiptap

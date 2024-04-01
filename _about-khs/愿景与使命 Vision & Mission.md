@@ -52,8 +52,8 @@ positive impact on others and society through actions.</p>
 <p>我们注重学生的全面发展，并致力于：
 <br>We are committed to the holistic development of our students by:</p>
 <h4><strong>明德正己 Building Character</strong></h4>
-<p>培养光华学子成为品格优良，深植于KHS PR2IDE价值观基石的学生。<br>Nurturing Kong Hwaians to be individuals of good character, anchored on
-KHS PR2IDE values.</p>
+<p>培养光华学子成为品格优良，深植于KHS PR²IDE价值观基石的学生。<br>Nurturing Kong Hwaians to be individuals of good character, anchored on
+KHS PR²IDE values.</p>
 <h4><strong>激发潜能 <em>Realising Potentials</em></strong></h4>
 <p>引导光华学子发现并培养个人兴趣和潜能。全方位促进个人成长和自我发现，以及在各个领域的技能和才能培养，而非局限于学术科目。<br>Enabling Kong Hwaians to discover and develop their interests and abilities.
 A holistic approach to foster personal growth, self-discovery, and development
