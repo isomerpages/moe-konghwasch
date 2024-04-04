@@ -63,7 +63,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Associate
+<p>ICT Manager
 <br>Mr Chia Zhao Yan
 <br>
 <br>Desktop Engineer
@@ -79,7 +79,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Bernard</p>
+<p>Mr Bernard Tang</p>
 </td>
 </tr>
 <tr>
