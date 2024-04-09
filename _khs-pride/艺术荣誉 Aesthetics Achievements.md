@@ -5,8 +5,27 @@ description: ""
 variant: tiptap
 ---
 <h3>Aesthetics Achievements</h3>
-<p>No awards given for SYF since 2018 due to COVID-19. Please look out for
-our achievements in 2024!</p>
+<h4>2024</h4>
+<p>Chinese Dance CCA</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Achievements &amp; Highlights for 2024</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF - Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>2018</h4>
 <p><strong>Chinese Dance CCA</strong>
 </p>
