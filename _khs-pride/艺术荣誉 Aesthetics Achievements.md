@@ -16,7 +16,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF - Certificate of Distinction</p>
+<p>SYF Art Presentation - Certificate of Distinction</p>
 </td>
 </tr>
 <tr>
