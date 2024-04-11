@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The_KHS_Way.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Design_5__s_road_vertical_words__01.png">
 </div>
 <p>The KHS Way Framework offers a concise overview of the school's core principles
 and strategic trajectory, all of which are aligned to the realization of
