@@ -72,13 +72,14 @@ award quanta are as follows:</p>
 <p>Parents, students, teaching staff, non-teaching staff and other key stakeholders
 (VSP, Alumni, and parents who have had more than one interaction with the
 nominee) may nominate deserving students. All nominations have to be made
-using the <a href="/files/nomination%20form%20(khspr2ide).pdf" rel="noopener noreferrer nofollow" target="_blank">Nomination Form</a> ,
-available from the Kong Hwa School website and Parent Gateway from <strong>1 June 2023</strong>.</p>
+using the <a href="/files/nomination%20form%20(khspr2ide).pdf" rel="noopener noreferrer nofollow" target="_blank">Nomination</a>
+<a href="/files/ECHA/Nomination_Form__KHSPR2IDE_.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/nomination%20form%20(khspr2ide).pdf" rel="noopener noreferrer nofollow" target="_blank"> Form</a> ,
+available from the Kong Hwa School website and Parent Gateway from <strong>1 June 2024</strong>.</p>
 </li>
 <li>
-<p>Completed nomination forms with supporting evidence(s) must be submitted
-to the General Office or Form Teachers by 5 p.m., 7 July 2023. For queries
-and clarifications, please contact Mr Jerry Yang at yang_ziyi@moe.edu.sg.</p>
+<p>Completed nomination forms with supporting evidence(s) (if any) must be
+submitted to the General Office or Form Teachers by <u>5 p.m., 5 July 2024</u>.
+For queries and clarifications, please contact Mr Jerry Yang at <a href="mailto:yang_ziyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_ziyi@moe.edu.sg</a>.</p>
 </li>
 </ol>
 <p></p>
