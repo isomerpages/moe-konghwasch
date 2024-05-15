@@ -282,6 +282,388 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<p><strong>Chinese Orchestra CCA</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Art Presentation - Certificate of Distinction</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sabrina Su Ruilin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P2-09</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Emilia Moss Xiaoxiao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aeolia Tan Hsuan Ing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zeng Xinya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lau Luo Yan Alexis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Beng Chit, George</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan You Ann, Ryan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ho Sze Yut</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hendrick Tan Jing Yang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wong Kai Le</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chiong Ying Han Sarah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chua Ding Heng Yeriel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chuan Ding Shao Owain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lau Luo Xi Olivia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cheang Jing Xuan Annette</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teo En Shin, Ashlyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aiken Liang Wei Bin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Jia En, Denicia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kayly Yeo Ke Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zhang Jinghan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mok Qi Long Theodore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Evan Goh Yu Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Jing Ning Kate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Kai Ze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Yan Xuan Ranie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rachel Goh Xuan Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Jun Ying, Jayden</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-04</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Rei Qiao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Yun Xuan, Chloe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miranda Chong Min En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Raena Lim Xuan Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Leow Jing Xiang Reyes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Grace Fei Chen Rui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bella Faith Oon Shi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kher Swee Boon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fae Chua Qi Fei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Charlotte Tan Yi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Jia Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Su Yixuan Stephanie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-04</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lauren Faye Taslim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fu Qing Yang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Adelia Tan Li Ing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Rou Ann, Richelle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chng Kai Yan Canyon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Jialin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-07</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
 <h4>2018</h4>
 <p><strong>Chinese Dance CCA</strong>
 </p>
