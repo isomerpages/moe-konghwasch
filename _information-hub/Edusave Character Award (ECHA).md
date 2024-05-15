@@ -72,7 +72,7 @@ award quanta are as follows:</p>
 <p>Parents, students, teaching staff, non-teaching staff and other key stakeholders
 (VSP, Alumni, and parents who have had more than one interaction with the
 nominee) may nominate deserving students. All nominations have to be made
-using the <a href="/files/nomination%20form%20(khspr2ide).pdf" rel="noopener noreferrer nofollow" target="_blank">Nomination</a>
+using the <a href="/files/nomination%20form%20(khspr2ide).pdf" rel="noopener noreferrer nofollow" target="_blank">Nomination</a> 
 <a href="/files/ECHA/Nomination_Form__KHSPR2IDE_.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/nomination%20form%20(khspr2ide).pdf" rel="noopener noreferrer nofollow" target="_blank"> Form</a> ,
 available from the Kong Hwa School website and Parent Gateway from <strong>1 June 2024</strong>.</p>
 </li>
@@ -89,23 +89,22 @@ For queries and clarifications, please contact Mr Jerry Yang at <a href="mailto:
 <p>Student must be a Singapore citizen.</p>
 </li>
 <li>
-<p>Student must demonstrate good character and values in a consistent manner,
-and would serve as a role model for others. Students may be identified
-for the following types of qualities:
+<p>Student must demonstrate <u>good character and values</u> in a <u>consistent manner, and would serve as a role model for others</u>.
+Students may be identified for the following types of qualities:
 <br>
 </p>
 </li>
 </ol>
-<p><strong>a.</strong> Qualities associated with any of the school values:
+<p><strong>a.</strong> Qualities associated with <u>any of the school values</u>:
 Students should preferably be nominated for termly Model Student at least
 once; and/or
-<br><strong>b.</strong> Demonstrate a high level of civic responsibility: Students
-must demonstrate concerns about issues related to their community or issues
-faced by others. They could initiate simple action or play an active role
-to address these issues and demonstrate commitment to making a difference;
-and/or
-<br><strong>c.</strong> Qualities associated with resilience: Students who
-persevere despite facing difficult circumstances (e.g. financial problems,
+<br><strong>b.</strong> Demonstrate a high level of <u>civic responsibility</u>:
+Students must demonstrate concerns about issues related to their community
+or issues faced by others. They could initiate simple action or play an
+active role to address these issues and demonstrate commitment to making
+a difference; and/or
+<br><strong>c.</strong> Qualities associated with <u>resilience</u>: Students
+who persevere despite facing difficult circumstances (e.g. financial problems,
 health issues, family issues, peer resistance etc.) and manage to overcome
 the odds and still do commendably well in academic and non-academic domains.
 <br>
