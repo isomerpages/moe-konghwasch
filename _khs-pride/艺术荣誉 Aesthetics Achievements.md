@@ -826,7 +826,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p></p>
 <h4>2018</h4>
 <p><strong>Chinese Dance CCA</strong>
 </p>
