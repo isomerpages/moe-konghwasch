@@ -662,6 +662,169 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<p><strong>Guzheng CCA</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SYF Art Presentation - Certificate of Accomplishment</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wee Si Tong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Xin Ci</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Woo Jia Yi Skyla</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Emily Tan Jing Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hong Le Kai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Caylenne</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Joo Theng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Ying Xuan Chevelle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Toh Xin Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gan Yi Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lin Xin Tong, Velda</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Soh Xin Tong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Qin Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rae Ann Yeo Rui En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chloe Chng Shi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Zhen Zhen Agrata</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teo Tze Yu Bevlyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Jing Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-07</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <h4>2018</h4>
