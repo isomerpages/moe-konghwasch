@@ -6,8 +6,7 @@ variant: tiptap
 <h3><strong>Privacy Statement</strong></h3>
 <p><strong>Kong Hwa School PRIVACY STATEMENT</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p>1.&nbsp; This is a Kong Hwa School website. Thank you for examining our
 privacy statement.</p>
 <p>2&nbsp;&nbsp; If you are only browsing this website, we do not capture
