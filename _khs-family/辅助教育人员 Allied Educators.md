@@ -58,10 +58,10 @@ variant: markdown
 <br>
 <br>Miss Raden Siti Norafifah Binte Raden Amran
 <br><a href="mailto:raden_siti_norafifah_amran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">raden_siti_norafifah_amran@schools.gov.sg</a>
-</p>
-<p></p>
-<p>Mr Cornelius Joshua Lee Jin</p>
-<p><a href="mailto:cornelius_joshua_lee_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cornelius_joshua_lee_jin@schools.gov.sg</a>
+
+<br>
+<br>Mr Cornelius Joshua Lee Jin
+<br><a href="mailto:cornelius_joshua_lee_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cornelius_joshua_lee_jin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
