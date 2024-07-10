@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3>Executive &amp; Administrative Staff</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -79,7 +83,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Bernard Tang</p>
+<p>Ms Ng Sian Ngoh</p>
 </td>
 </tr>
 <tr>
