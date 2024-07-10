@@ -92,7 +92,7 @@ variant: tiptap
 <p>Mdm Hoon Siow Hway Wendy
 <br><a href="mailto:hoon_siow_hway@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoon_siow_hway@schools.gov.sg</a>
 <br>
-<br>Ms Lvy Lee Pei Sze
+<br>Ms Ivy Lee Pei Sze
 <br><a href="mailto:lee_pei_sze_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_pei_sze_a@schools.gov.sg</a>
 </p>
 </td>
