@@ -357,6 +357,9 @@ variant: tiptap
 <p>Mr Muhammad Zulkifli Bin Mohd Idries
 <br><a href="mailto:muhammad_zulkifli_mohd_idries@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_zulkifli_mohd_idries@schools.gov.sg</a>
 </p>
+<p></p>
+<p>Mr Khoo Wenzhong James<a href="mailto:khoo_wenzhong_james@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>khoo_wenzhong_james@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
