@@ -4,11 +4,67 @@ permalink: /khs-family/allied-educators/
 description: ""
 variant: markdown
 ---
-### Allied Educators
+<h3>Allied Educators</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Counsellor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Jo Ee
+<br><a href="mailto:wong_jo_ee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_jo_ee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Allied Educator (Teaching &amp; Learning)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Loo Yin Wai Jessica
+<br><a href="mailto:loo_yin_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_yin_wai@schools.gov.sg</a> 
+<br>
+<br>Mrs Zhang-Sim Kim Noy Anilia
+<br><a href="mailto:sim_kim_noy_anilia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_kim_noy_anilia@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Special Educational Needs Officer (SENO)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nuradilla Bte Aini
+<br><a href="mailto:nuradilla_aini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nuradilla_aini@schools.gov.sg</a> 
+<br>
+<br>Ms Nur Farhana Mohamed Noor
+<br><a href="mailto:nur_farhana_mohamed_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_farhana_mohamed_noor@schools.gov.sg</a> 
+<br>
+<br>Miss Raden Siti Norafifah Binte Raden Amran
+<br><a href="mailto:raden_siti_norafifah_amran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">raden_siti_norafifah_amran@schools.gov.sg</a>
 
-|  |  | 
-| :-------- | -------- | 
-| <strong style="colour: orange; font-size: 18px; font-family: Arial;"> School Counsellor</strong>     |  Ms Wong Jo Ee <br> [wong\_jo\_ee@schools.gov.sg](mailto:wong_jo_ee@schools.gov.sg)  |
-| <strong style="colour: orange; font-size: 18px; font-family: Arial;"> Allied Educator (Teaching &amp; Learning)</strong>     |  Mdm Loo Yin Wai Jessica <br> [loo\_yin\_wai@schools.gov.sg](mailto:loo_yin_wai@schools.gov.sg) <br><br> Mrs Zhang-Sim Kim Noy Anilia <br> [sim\_kim\_noy\_anilia@schools.gov.sg](mailto:sim_kim_noy_anilia@schools.gov.sg) |
-| <strong style="colour: orange; font-size: 18px; font-family: Arial;"> Special Educational Needs Officer (SENO)</strong>     |  Ms Nuradilla Bte Aini <br> [nuradilla\_aini@schools.gov.sg](mailto:nuradilla_aini@schools.gov.sg) <br><br> Ms Nur Farhana Mohamed Noor <br> [nur\_farhana\_mohamed\_noor@schools.gov.sg](mailto:nur_farhana_mohamed_noor@schools.gov.sg) <br><br> Miss Raden Siti Norafifah Binte Raden Amran <br> [raden\_siti\_norafifah\_amran@schools.gov.sg](mailto:raden_siti_norafifah_amran@schools.gov.sg)|
-
+<br>
+<br>Mr Cornelius Joshua Lee Jin
+<br><a href="mailto:cornelius_joshua_lee_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cornelius_joshua_lee_jin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
