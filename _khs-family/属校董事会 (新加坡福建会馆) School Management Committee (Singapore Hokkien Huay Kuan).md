@@ -12,14 +12,15 @@ variant: markdown
 |---|---|
 | Chairman: | Mr Chua Kee Seng Thomas 蔡其生 |
 | Hon Secretary: | Mr Lee Cheng Chye William 李清财 |
-| Hon Treasurer: | Mr Ang Bock Cheng Derrick 洪木清 |
+| Hon Treasurer: | Mr Lim Beng Beng 林铭铭 |
 | Supervisor: | Mr Tan Kang Uei Anthony 陈康威 |
-| Deputy Supervisor: | Mr Ong Chuon Yi 王忠毅 |
-| Members: | Mr Chan Hock Keng 曾福庆 |
-|  | Mr Loo Lip Giam 吕立岩 |
+| Deputy Supervisor: | Mr Ang Jian Kai 洪健凯 |
+| Members: | Mr Loo Lip Giam 吕立岩 |
 |  | Mr Lee Sze Leong 李思亮 |
+|  | Mr Neo Kah Kiat 梁佳吉
 |  | Ms Ng Hsueh Ling 黄雪铃 |
 |  | Mr Lim Eng Koo Nelson 林永车 |
-|  | Mr Neo Kah Kiat 梁佳吉 |
-|  | Mr Lee Swee Keng 李瑞庆 |
-|  | Mr Teo Chin Meng Jimmy 张振铭 |
+|  | Mr Kenneth Goi   魏国铭 |
+|  | Mr Lawrence Tan 陈汉栋 |
+|  | Mr Yap Kok Cheng 叶国清|
+|  | Ms Tan Ee Li Joyce 陈意莉|
