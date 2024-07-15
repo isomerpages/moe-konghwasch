@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### School Management Committee Members
 
-![](/images/SHHK_44th_Executive_Council_1536x523.jpg)
+
 
 |  |  |
 |---|---|
