@@ -22,11 +22,9 @@ sections:
       image: /images/guzheng_announcment1.jpg
       alt: Image alt text
   - infopic:
-      title: Math Fun Week 2024
-      description: Kong Hwaians ended the term on a high note with Math Fun Week
-        recess activities, held in conjunction with World Pi Day which falls on
-        14 March every year.
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0B69Uto3KG3iZS674TpHFHQtE886fQfte4U2MH94LDUF2pmMoSYvHhpmPFUGGpVKPl&id=100064994620909
+      title: KHS Overseas Immersion - Penang
+      description: 通过丰富多彩的旅程，学生们不仅了解了怡保和槟城的历史文化，还受到当地学校师生们的热情款待。通过交流活动，我校学生也与当地学校的学生建立了友谊。
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0XTSFH9rZS9ZfNG5URTb1oYwewS9n3JM9PAcStAaKXLycFNGL8h2iVf3SavJrFAQtl&id=100064994620909
       image: /images/math_fun_week.jpg
       alt: Image alt text
       button: Find out more
