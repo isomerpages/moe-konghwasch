@@ -14,28 +14,27 @@ sections:
       button: Click here
       url: /announcements
   - infopic:
-      title: KHS Guzheng Troupe at《战台风》
-      description: KHS Guzheng Troupe was honored to be invited to participate in
-        《战台风》 guzheng concert.
+      title: SHHK Combined Schools Sports Meet 2024
+      description: SHHK Combined Schools Sports Meet is one of Kong Hwa School's
+        signature events where all 5 SHHK schools come together to participate
+        in a mega sporting event.
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid04gcabKS2wrCEMMixeykXCkjfNenHQADCz2WVq8QjTqvbPDJVNAZ7E668b8tsYTQpl&id=100064994620909
-      image: /images/guzheng_announcment1.jpg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0Fif7oFnE7ybUuL7SwGGrFsRFBe7MiSeMv7JEictrWgPtvPpmxo3JyZA57JcmgsN7l&id=100064994620909
+      image: /images/shhk_sports_meet_2024.jpg
       alt: Image alt text
   - infopic:
-      title: Math Fun Week 2024
-      description: Kong Hwaians ended the term on a high note with Math Fun Week
-        recess activities, held in conjunction with World Pi Day which falls on
-        14 March every year.
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0B69Uto3KG3iZS674TpHFHQtE886fQfte4U2MH94LDUF2pmMoSYvHhpmPFUGGpVKPl&id=100064994620909
-      image: /images/math_fun_week.jpg
+      title: KHS Overseas Immersion - Penang
+      description: 通过丰富多彩的旅程，学生们不仅了解了怡保和槟城的历史文化，还受到当地学校师生们的热情款待。通过交流活动，我校学生也与当地学校的学生建立了友谊。
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0XTSFH9rZS9ZfNG5URTb1oYwewS9n3JM9PAcStAaKXLycFNGL8h2iVf3SavJrFAQtl&id=100064994620909
+      image: /images/penang_immersion_2024.jpg
       alt: Image alt text
       button: Find out more
   - infopic:
-      title: KHS · Kang Chiau International School Pen Pal Exchange
-      description: On the morning of March 5th, KHS warmly welcomed the teachers and
-        students of Kang Chiau International School (Taiwan).
+      title: Hair for Hope 2024
+      description: Here are our brave Kong Hwaians who boldly shaved their heads today
+        for the Children's Cancer Foundation.
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02iGSrU7QKvxkQP6wxQykW3NM8kKRfWmee6eHdoJ7XkLEfYdMRL7fLbFbsKauZEJkul&id=100064994620909
-      image: /images/penpal_exchange.jpg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0bac7czizZXcFgeam4vJhXKiCresT8T6mJ1E7MmZDaZaPEG3dVkrTZhaGyCitgQQwl&id=100064994620909
+      image: /images/hairforhope2024.jpg
       alt: Image alt text
 ---
