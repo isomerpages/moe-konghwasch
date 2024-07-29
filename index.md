@@ -31,11 +31,11 @@ sections:
       alt: Image alt text
       button: Find out more
   - infopic:
-      title: KHS · Kang Chiau International School Pen Pal Exchange
-      description: On the morning of March 5th, KHS warmly welcomed the teachers and
-        students of Kang Chiau International School (Taiwan).
+      title: Hair for Hope 2024
+      description: Here are our brave Kong Hwaians who boldly shaved their heads today
+        for the Children's Cancer Foundation.
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02iGSrU7QKvxkQP6wxQykW3NM8kKRfWmee6eHdoJ7XkLEfYdMRL7fLbFbsKauZEJkul&id=100064994620909
-      image: /images/penpal_exchange.jpg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0bac7czizZXcFgeam4vJhXKiCresT8T6mJ1E7MmZDaZaPEG3dVkrTZhaGyCitgQQwl&id=100064994620909
+      image: /images/hairforhope2024.jpg
       alt: Image alt text
 ---
