@@ -14,12 +14,13 @@ sections:
       button: Click here
       url: /announcements
   - infopic:
-      title: KHS Guzheng Troupe at《战台风》
-      description: KHS Guzheng Troupe was honored to be invited to participate in
-        《战台风》 guzheng concert.
+      title: SHHK Combined Schools Sports Meet 2024
+      description: SHHK Combined Schools Sports Meet is one of Kong Hwa School's
+        signature events where all 5 SHHK schools come together to participate
+        in a mega sporting event.
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid04gcabKS2wrCEMMixeykXCkjfNenHQADCz2WVq8QjTqvbPDJVNAZ7E668b8tsYTQpl&id=100064994620909
-      image: /images/guzheng_announcment1.jpg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0Fif7oFnE7ybUuL7SwGGrFsRFBe7MiSeMv7JEictrWgPtvPpmxo3JyZA57JcmgsN7l&id=100064994620909
+      image: /images/shhk_sports_meet_2024.jpg
       alt: Image alt text
   - infopic:
       title: KHS Overseas Immersion - Penang
