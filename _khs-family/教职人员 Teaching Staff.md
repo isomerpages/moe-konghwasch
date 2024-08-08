@@ -500,8 +500,8 @@ variant: tiptap
 <br><a href="mailto:Sim_Kim_Noy_Anilia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sim_Kim_Noy_Anilia@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Miss Azirah Jamal</p>
-<p><a href="mailto:azirah_jamal@school.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azirah_jamal@school.gov.sg</a>
+<p>Miss Azirah Jamal
+<br><a href="mailto:azirah_jamal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azirah_jamal@schools.gov.sg</a>
 </p>
 </td>
 </tr>
