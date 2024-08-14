@@ -10,7 +10,7 @@ sections:
       background: /images/bannertest6dare.gif
   - infobar:
       title: Announcements
-      description: For the latest news and updates
+      description: For the more news and updates
       button: Click here
       url: /announcements
   - infopic:
