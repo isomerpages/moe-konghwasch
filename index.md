@@ -10,8 +10,10 @@ sections:
       background: /images/bannertest6dare.gif
   - infobar:
       title: Announcements
-      description: For the latest news and updates
-      button: Click here
+      description: P1 (2025) Orientation Day, P1 Orientation will take place on
+        Friday, 1 November 2024, from 3p.m. to 5p.m. More details will be
+        provided closer to the date.
+      button: For more news and updates
       url: /announcements
   - infopic:
       title: SHHK Combined Schools Sports Meet 2024
