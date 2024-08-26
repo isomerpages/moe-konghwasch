@@ -1,0 +1,7 @@
+---
+title: Test accordion
+permalink: /test-accordion/
+variant: tiptap
+description: ""
+third_nav_title: 体育运动荣誉 Sports Achievements
+---
