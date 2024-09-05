@@ -1005,7 +1005,8 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 </tbody>
 </table>
 <p></p>
-<p>Junior Division Competition</p>
+<p><strong>Junior Division Competition</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1014,7 +1015,8 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tier 1, Doubles</p>
+<p><strong>Tier 1, Doubles</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1054,7 +1056,8 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Tier 1, Singles</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1062,7 +1065,24 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sie Cai Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nathaniel Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tier 2, Doubles</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1070,7 +1090,24 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan Rui Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kyra Seah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tier 3, Singles</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1078,18 +1115,10 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Alanis Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>P5-04</p>
 </td>
 </tr>
 </tbody>
