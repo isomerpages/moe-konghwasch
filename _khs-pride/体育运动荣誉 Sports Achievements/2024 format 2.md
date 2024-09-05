@@ -13,6 +13,8 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 <summary><strong>National School Games Badminton Competition</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Senior Girls League 1 </strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -21,7 +23,7 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Girls League 1 - Top 8</strong>
+<p><strong>Top 8</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,7 +164,8 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Tier 2, Doubles</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -170,10 +173,94 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tzen Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Luther Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tier 2, Singles</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xander Yap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tier 3, Doubles</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>James Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Max Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tier 3, Singles</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silvia Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tier 4, Singles</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brianne Liang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-07</p>
 </td>
 </tr>
 </tbody>
