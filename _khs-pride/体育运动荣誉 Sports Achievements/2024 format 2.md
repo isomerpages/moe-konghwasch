@@ -130,7 +130,7 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>National School Games Tennis </strong>
+<summary><strong>National School Games Tennis</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -1132,9 +1132,73 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Inter-Schools Tchoukball Championship 2024 Junior Boys Plate</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lai Yu En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kyan Tan Kai Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-04</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Long Zheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-04</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Daven Goh Min Xu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Kai Le Max</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-04</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choong Caleb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kee Quan Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-07</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
