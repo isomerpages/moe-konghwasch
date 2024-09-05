@@ -126,6 +126,58 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 </tr>
 </tbody>
 </table>
+<p></p>
+<p><strong>Junior Division Competition</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tier 1, Doubles</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lisa Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Laurel Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
