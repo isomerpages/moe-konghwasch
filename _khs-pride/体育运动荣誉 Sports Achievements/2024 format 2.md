@@ -13,7 +13,7 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 <summary><strong>National School Games Badminton Competition</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Senior Girls League 1 </strong>
+<p><strong>Senior Girls League 1</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -776,6 +776,8 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 <summary><strong>National School Games Table Tennis Competition</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Senior Girls League 1</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -784,7 +786,7 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Girls League 1 - Top 6</strong>
+<p><strong>Top 6</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -873,6 +875,9 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 </tr>
 </tbody>
 </table>
+<p></p>
+<p><strong>Senior Boys League 1</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -881,7 +886,7 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Senior Boys League 1 - 2nd</strong>
+<p><strong>2nd</strong>
 </p>
 </td>
 </tr>
@@ -999,6 +1004,97 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 </tr>
 </tbody>
 </table>
+<p></p>
+<p>Junior Division Competition</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tier 1, Doubles</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gareth Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Emmalyn Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Toh Zhen Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jayden Zhao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
