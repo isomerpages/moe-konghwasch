@@ -130,7 +130,7 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>National School Games (NSG) Tennis 2024</strong>
+<summary><strong>National School Games Tennis </strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -635,7 +635,7 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>National School Games (NSG) Table Tennis Competition</strong>
+<summary><strong>National School Games Table Tennis Competition</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -864,7 +864,7 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>National School Games Track &amp; Field Competition 2024</strong>
+<summary><strong>National School Games Track &amp; Field Competition</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -1011,7 +1011,7 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>National School Games Taekwondo Competition 2024</strong>
+<summary><strong>National School Games Taekwondo Competition</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
