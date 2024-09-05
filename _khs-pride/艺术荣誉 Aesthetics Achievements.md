@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Aesthetics Achievements</h3>
-<p></p>
+<h4>2024</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Chinese Dance CCA</strong>
@@ -911,11 +911,6 @@ variant: tiptap
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <h4>2018</h4>
 <p><strong>Chinese Dance CCA</strong>
