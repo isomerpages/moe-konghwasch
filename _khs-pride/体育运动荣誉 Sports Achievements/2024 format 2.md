@@ -13,7 +13,6 @@ third_nav_title: 体育运动荣誉 Sports Achievements
 <summary><strong>National School Games Badminton Competition</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h3></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
