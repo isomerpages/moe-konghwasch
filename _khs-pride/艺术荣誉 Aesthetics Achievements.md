@@ -5,10 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h3>Aesthetics Achievements</h3>
-<h4>2024</h4>
-<p><strong>Chinese Dance CCA</strong>
-</p>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Chinese Dance CCA</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -302,9 +304,12 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong>Chinese Orchestra CCA</strong>
-</p>
-<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Chinese Orchestra CCA</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -713,8 +718,12 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong>Guzheng CCA</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Guzheng CCA</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -898,6 +907,15 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <h4>2018</h4>
 <p><strong>Chinese Dance CCA</strong>
