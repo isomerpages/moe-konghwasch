@@ -6,9 +6,11 @@ variant: tiptap
 ---
 <h3>Aesthetics Achievements</h3>
 <h4>2024</h4>
-<p><strong>Chinese Dance CCA</strong>
-</p>
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Chinese Dance CCA</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -302,9 +304,12 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong>Chinese Orchestra CCA</strong>
-</p>
-<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Chinese Orchestra CCA</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -713,8 +718,12 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong>Guzheng CCA</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Guzheng CCA</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -898,6 +907,185 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Kong Hwa Idol Finals</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>GOLD 冠军</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aurora Seah Xin Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Meagan Koh Xin Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yu Hsin Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Elaine Chen Shuyao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xu Mengjia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>SILVER 亚军</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Raeanne Yeoh Rui Ernn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chen Yi Xiao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Oon Eng, Sarah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Candice Zhang Simiao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jordan Tay Jing Kai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Leow Jing Xiang Reyes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xayne Tan Zi Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>BRONZE 季军</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zheng Youyou</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Caden Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teo Cheng Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zeng Xinya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Hannah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <h4>2018</h4>
 <p><strong>Chinese Dance CCA</strong>
