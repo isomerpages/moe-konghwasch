@@ -2,6 +2,7 @@
 title: MOE Financial Assistance Scheme
 permalink: /information-hub/moe-fas/
 description: ""
+variant: markdown
 ---
 ### MOE Financial Assistance Scheme
 
@@ -11,7 +12,7 @@ description: ""
 
 <img src="/images/P1%20Orientation/efas%20qr%202024.jpg" style="width:30%">
 
-[MOE FAS Application Form Oct 2023](/files/P1%20Orientation/2024%20moe%20fas%20application%20form.pdf)
+[MOE FAS Application Form Sept 2024](/files/MOE%20FAS%20Form/MOE_FAS_Application_Form_2025.pdf)
 
 Hardcopy application is to be submitted to General Office with supporting documents.
 
