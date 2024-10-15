@@ -9,7 +9,7 @@ variant: markdown
 ##### 1. P1 Orientation Package 2025
 
 
-[P1 Principal's Welcome Letter](/files/2023%20p1%20welcome%20letter.pdf)
+[P1 Principal's Welcome Letter](/files/P1%20Orientation%202025/Principal_s_Welcome_Letter_for_2025_P1_Parents.pdf)
 
 [P1 Booklist for 2024](/files/P1%20Orientation/booklist%20p1%202024.pdf)
 
