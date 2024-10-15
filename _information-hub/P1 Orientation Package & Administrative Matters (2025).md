@@ -4,9 +4,9 @@ permalink: /information-hub/p1-orientation-2025/
 description: ""
 variant: markdown
 ---
-### P1 Orientation Package &amp; Administrative Matters (2024)
+### P1 Orientation Package &amp; Administrative Matters (2025)
 
-##### 1. P1 Orientation Package 2024
+##### 1. P1 Orientation Package 2025
 
 
 [P1 Principal's Welcome Letter](/files/2023%20p1%20welcome%20letter.pdf)
