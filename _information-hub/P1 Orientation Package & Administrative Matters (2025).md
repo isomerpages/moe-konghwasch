@@ -13,7 +13,7 @@ variant: markdown
 
 [P1 Booklist for 2024](/files/P1%20Orientation/booklist%20p1%202024.pdf)
 
-[Kong Hwa Sch Uniform sale schedule](/files/P1%20Orientation/kong%20hwa%20sch%20uniform%20sale%20schedule.pdf)
+[Kong Hwa Sch Uniform sale schedule](/files/P1%20Orientation%202025/Kong_Hwa_Sch_uniform_sale_schedule_EY24.pdf)
 
 [Request for School Bus Services Form for 2025](/files/School%20bus%20service/KHS_Request_for_School_Bus_Services_2025__RS_Transport_.pdf)
 
