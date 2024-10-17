@@ -12,12 +12,9 @@ variant: markdown
 [P1 Principal's Welcome Letter](/files/P1%20Orientation%202025/Principal_s_Welcome_Letter_for_2025_P1_Parents.pdf)
 
 
-
 [Kong Hwa Sch Uniform sale schedule](/files/P1%20Orientation%202025/Kong_Hwa_Sch_uniform_sale_schedule_EY24.pdf)
 
 [Request for School Bus Services Form for 2025](/files/School%20bus%20service/KHS_Request_for_School_Bus_Services_2025__RS_Transport_.pdf)
-
-[Invitation to join Kong Hwa Very Supportive Parents](/files/P1%20Orientation/2023%20vsp%20p1%20orientation%20membership%20invitation%20letter.pdf)
 
 
 ##### 2. Other Information and Forms
