@@ -2,16 +2,16 @@ collections:
   information-hub:
     output: true
     order:
-      - Student iCON.md
-      - New PSLE Scoring and Sec 1 Posting System.md
-      - Edusave Character Award (ECHA).md
-      - President's Award for Teachers (PAT).md
-      - Outstanding Youth in Education Award (OYEA).md
       - Application for Leave of Absence (LOA).md
-      - P1 Registration (Statistics).md
-      - P1 Orientation Package & Administrative Matters (2024).md
-      - Student Insurance.md
+      - Edusave Character Award (ECHA).md
       - MOE Financial Assistance Scheme.md
+      - New PSLE Scoring and Sec 1 Posting System.md
+      - Outstanding Youth in Education Award (OYEA).md
+      - President's Award for Teachers (PAT).md
+      - P1 Orientation Package & Administrative Matters (2025).md
+      - P1 Registration (Statistics).md
       - Parents Gateway Mobile App.md
-      - School Canteen Advertisement.md
       - School Bus Services.md
+      - School Canteen Advertisement.md
+      - Student iCON.md
+      - Student Insurance.md

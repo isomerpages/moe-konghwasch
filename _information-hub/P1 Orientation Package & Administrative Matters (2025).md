@@ -1,23 +1,20 @@
 ---
-title: P1 Orientation Package & Administrative Matters (2024)
-permalink: /information-hub/p1-orientation-2024/
+title: P1 Orientation Package & Administrative Matters (2025)
+permalink: /information-hub/p1-orientation-2025/
 description: ""
 variant: markdown
 ---
-### P1 Orientation Package &amp; Administrative Matters (2024)
+### P1 Orientation Package &amp; Administrative Matters (2025)
 
-##### 1. P1 Orientation Package 2024
+##### 1. P1 Orientation Package 2025
 
 
-[P1 Principal's Welcome Letter](/files/2023%20p1%20welcome%20letter.pdf)
+[P1 Principal's Welcome Letter](/files/P1%20Orientation%202025/Principal_s_Welcome_Letter_for_2025_P1_Parents.pdf)
 
-[P1 Booklist for 2024](/files/P1%20Orientation/booklist%20p1%202024.pdf)
 
-[Kong Hwa Sch Uniform sale schedule](/files/P1%20Orientation/kong%20hwa%20sch%20uniform%20sale%20schedule.pdf)
+[Kong Hwa Sch Uniform sale schedule](/files/P1%20Orientation%202025/Kong_Hwa_Sch_uniform_sale_schedule_EY24.pdf)
 
 [Request for School Bus Services Form for 2025](/files/School%20bus%20service/KHS_Request_for_School_Bus_Services_2025__RS_Transport_.pdf)
-
-[Invitation to join Kong Hwa Very Supportive Parents](/files/P1%20Orientation/2023%20vsp%20p1%20orientation%20membership%20invitation%20letter.pdf)
 
 
 ##### 2. Other Information and Forms
