@@ -11,7 +11,7 @@ variant: markdown
 
 [P1 Principal's Welcome Letter](/files/P1%20Orientation%202025/Principal_s_Welcome_Letter_for_2025_P1_Parents.pdf)
 
-[P1 Booklist for 2024](/files/P1%20Orientation/booklist%20p1%202024.pdf)
+
 
 [Kong Hwa Sch Uniform sale schedule](/files/P1%20Orientation%202025/Kong_Hwa_Sch_uniform_sale_schedule_EY24.pdf)
 
