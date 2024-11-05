@@ -39,17 +39,11 @@ them to take on the role of their favourite characters in the stories.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/Samsui_Girl.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/NewALP1.jpg">
-</div>
 <p><em>Literary Appreciation: P3 students with their handmade Samsui headdress after reading ‘Adventures of Samsui Girl’</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/Screenshot__4_.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/NewALP2.png">
 </div>
 <p><em>P4 students using Newsmaker to record ‘Charlotte’s Web’ reading</em>
 </p>
@@ -76,9 +70,6 @@ communicators.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/Astar_scientists.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/NewALP3.png">
 </div>
 <p><em>P5 students interviewing an A*Star scientist to better understand her role</em>
 </p>
