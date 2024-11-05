@@ -36,6 +36,17 @@ of texts and engage with literature in meaningful ways. Students' learning
 is then culminated in video recordings created with Newsmaker, allowing
 them to take on the role of their favourite characters in the stories.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/NewALP1.jpg">
+</div>
+<p><em>Literary Appreciation: P3 students with their handmade Samsui headdress after reading ‘Adventures of Samsui Girl’</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/NewALP2.png">
+</div>
+<p><em>P4 students using Newsmaker to record ‘Charlotte’s Web’ reading</em>
+</p>
 <p></p>
 <blockquote>
 <p>Broadcast Journalism</p>
@@ -56,4 +67,16 @@ in Primary 6 with interdisciplinary Project Work presentations. As we instil
 joy and nurture a love for learning in students, we aim to sharpen their
 critical and adaptive thinking skills while developing them to be effective
 communicators.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/NewALP3.png">
+</div>
+<p><em>P5 students interviewing an A*Star scientist to better understand her role</em>
+</p>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/NewALP4.png">
+</div>
+<p>&nbsp;<em>Connecting with migrant workers through better understanding of their roles and challenges they face in their work</em>
+</p>
 <p></p>
