@@ -37,4 +37,23 @@ is then culminated in video recordings created with Newsmaker, allowing
 them to take on the role of their favourite characters in the stories.</p>
 <p></p>
 <p></p>
+<blockquote>
+<p>Broadcast Journalism</p>
+</blockquote>
+<p>KHS Live! In Primary 5, students are exposed to a two-tier broadcast journalism
+programme. The first tier equips all students with basic journalistic skills,
+such as researching, interviewing, and presenting. Students create video
+news, aligned to themes in STELLAR, where they step into the roles of a
+<a href="http://journalist.In" rel="noopener noreferrer nofollow" target="_blank">journalist.In</a>the second tier, a selected group of students further
+hone their skills by producing newsworthy videos for KHS Live! This year,
+KHS Live! has been extended to the learning of Chinese Language in support
+of our school’s mission to empower Kong Hwaians with language skills and
+cross-cultural appreciation that come with bilingualism in English and
+Chinese languages. Students get a taste of the life of a journalist through
+hands-on experiences such as reading up on current affairs, crafting interview
+questions, conducting interviews, and video production. The programme concludes
+in Primary 6 with interdisciplinary Project Work presentations. As we instil
+joy and nurture a love for learning in students, we aim to sharpen their
+critical and adaptive thinking skills while developing them to be effective
+communicators.</p>
 <p></p>
