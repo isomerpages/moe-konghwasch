@@ -37,11 +37,17 @@ is then culminated in video recordings created with Newsmaker, allowing
 them to take on the role of their favourite characters in the stories.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/Samsui_Girl.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/NewALP1.jpg">
 </div>
 <p><em>Literary Appreciation: P3 students with their handmade Samsui headdress after reading ‘Adventures of Samsui Girl’</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/Screenshot__4_.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/NewALP2.png">
 </div>
@@ -68,6 +74,9 @@ joy and nurture a love for learning in students, we aim to sharpen their
 critical and adaptive thinking skills while developing them to be effective
 communicators.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/Astar_scientists.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/NewALP3.png">
 </div>
