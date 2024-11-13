@@ -68,3 +68,12 @@ variant: markdown
 <img src="/images/aes19.png" style="width:40%">
 
 <img src="/images/aes20.png" style="width:40%">
+
+### Art Magazine
+
+![](/images/Art%20Magazine%202024/1_2_.jpg)
+![](/images/Art%20Magazine%202024/page2_3.jpg)
+![](/images/Art%20Magazine%202024/page4_5.jpg)
+![](/images/Art%20Magazine%202024/page6_7.jpg)
+![](/images/Art%20Magazine%202024/page8_9.jpg)
+![](/images/Art%20Magazine%202024/10.png)
