@@ -92,3 +92,66 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art%20Magazine%202024/10.png">
 </div>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Page 1" src="/images/Art Magazine 2024/1_2_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Page 1</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Page 2-3" src="/images/Art Magazine 2024/page2_3.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Page 2-3</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Page 4-5" src="/images/Art Magazine 2024/page4_5.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Page 4-5</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Page 6-7" src="/images/Art Magazine 2024/page6_7.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Page 6-7</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Page 8-9" src="/images/Art Magazine 2024/page8_9.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Page 8-9</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Page 10" src="/images/Art Magazine 2024/10.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Page 10</div>
+</div>
+</div>
+</div>
+<p></p>
