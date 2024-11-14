@@ -9,34 +9,32 @@ sections:
   - hero:
       background: /images/bannertest6dare.gif
   - infobar:
-      title: Announcements
-      description: P1 (2025) Orientation Day, P1 Orientation will take place on
-        Friday, 1 November 2024, from 3p.m. to 5p.m. More details will be
-        provided closer to the date.
-      button: For more news and updates
-      url: /announcements
+      title: KHS Highlights
+      id: infobar
   - infopic:
-      title: SHHK Combined Schools Sports Meet 2024
-      description: SHHK Combined Schools Sports Meet is one of Kong Hwa School's
-        signature events where all 5 SHHK schools come together to participate
-        in a mega sporting event.
+      title: KHS Art Magazine
+      description: We are thrilled to present to you our very own KHS Art Magazine!
+        This magazine is a wonderful way to explore the vibrant art scene at our
+        school.
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0Fif7oFnE7ybUuL7SwGGrFsRFBe7MiSeMv7JEictrWgPtvPpmxo3JyZA57JcmgsN7l&id=100064994620909
-      image: /images/shhk_sports_meet_2024.jpg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid023qAYXLpEDw2QJiW8bi5uUs1ejqZ6n4UGrC3FrPdHWc6jDGwkgG5J62BaZ7LJNVArl&id=100064994620909
+      image: /images/KHS Highlights/1.jpg
       alt: Image alt text
   - infopic:
-      title: KHS Overseas Immersion - Penang
-      description: 通过丰富多彩的旅程，学生们不仅了解了怡保和槟城的历史文化，还受到当地学校师生们的热情款待。通过交流活动，我校学生也与当地学校的学生建立了友谊。
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0XTSFH9rZS9ZfNG5URTb1oYwewS9n3JM9PAcStAaKXLycFNGL8h2iVf3SavJrFAQtl&id=100064994620909
-      image: /images/penang_immersion_2024.jpg
+      title: P1 Orientation 2024
+      description: Newest members of the Kong Hwa Family came visiting for a preview
+        of their home away from home...
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0RrbZDwD6xHrxvttm8FQ36N1vJpAPR6MYSdNwsVidUni5G5KAGDT91hMhkvbXweVul&id=100064994620909
+      image: /images/KHS Highlights/2.jpg
       alt: Image alt text
       button: Find out more
   - infopic:
-      title: Hair for Hope 2024
-      description: Here are our brave Kong Hwaians who boldly shaved their heads today
-        for the Children's Cancer Foundation.
+      title: Head Prefect Handover Ceremony
+      description: We thank all our P6 prefects and welcome our new batch of P5
+        prefects to take the reins, as they lead and show the way for our KHS
+        family.
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0bac7czizZXcFgeam4vJhXKiCresT8T6mJ1E7MmZDaZaPEG3dVkrTZhaGyCitgQQwl&id=100064994620909
-      image: /images/hairforhope2024.jpg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0qLLYrEe2dotgRoTHXNBSEw8naDFHDrqEiC5W7Jhs8FGqzcpUfx2w31EgBnaVAhLzl&id=100064994620909
+      image: /images/KHS Highlights/3.jpg
       alt: Image alt text
 ---
