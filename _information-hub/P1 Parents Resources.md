@@ -59,3 +59,17 @@ to prepare for primary school? What do they really need for Primary 1?
 Click on the image below to check out these tips.</p>
 <p></p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---supporting-your-child-through-the-primary-1-journey"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Parents resources/Parent_Kit___Supporting_Your_Child_Through_the_Primary_1_Journey_Page_1.jpg"></a>
 <p></p>
+<blockquote>
+<p>Parent-Child Activity Book (Digital)</p>
+</blockquote>
+<p>10 TIPS FOR PARENTS to help you navigate your child’s first year in primary
+school.</p>
+<p>Click on the image below and scroll down to view the information.</p>
+<a class="isomer-image-wrapper" href="https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship#:~:text=18%20Nov%202022-,Parent%2DChild%20Activity%20Book,-The%20Parent%2DChild">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Parents resources/PCAB___Tip_3___New_Places_New_Faces_Page_4.jpg">
+</a>
+<p></p>
+<blockquote>
+<p>School-Home Partnership</p>
+</blockquote>
+<p></p>
