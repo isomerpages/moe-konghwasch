@@ -95,3 +95,7 @@ school.</p>
 <p>
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Parents resources/Primary_1_Parents_Briefing_on_Cyber_Wellness_Page_01.jpg">
+</div>
+<p></p>
