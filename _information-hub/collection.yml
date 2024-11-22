@@ -2,7 +2,6 @@ collections:
   information-hub:
     output: true
     order:
-      - P1 Parent Resources.md
       - Application for Leave of Absence (LOA).md
       - Edusave Character Award (ECHA).md
       - MOE Financial Assistance Scheme.md
@@ -10,6 +9,7 @@ collections:
       - Outstanding Youth in Education Award (OYEA).md
       - President's Award for Teachers (PAT).md
       - P1 Orientation Package & Administrative Matters (2025).md
+      - P1 Parent Resources.md
       - P1 Registration (Statistics).md
       - Parents Gateway Mobile App.md
       - School Bus Services.md
