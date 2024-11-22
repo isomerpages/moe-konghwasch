@@ -91,8 +91,9 @@ school.</p>
 <blockquote>
 <h3>Cyberwellness</h3>
 </blockquote>
+<p></p><a class="isomer-image-wrapper" href="/Primary_1_Parents_Briefing_on_Cyber_Wellness"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Parents resources/Primary_1_Parents_Briefing_on_Cyber_Wellness_Page_01.jpg"></a>
 <p></p>
-<p>
-<br>
-</p><a class="isomer-image-wrapper" href="/Primary_1_Parents_Briefing_on_Cyber_Wellness"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Parents resources/Primary_1_Parents_Briefing_on_Cyber_Wellness_Page_01.jpg"></a>
-<p></p>
+<blockquote>
+<h3>NLB Sign up</h3>
+</blockquote>
+<p>You may sign up for a NLB account <a href="https://account.nlb.gov.sg/" rel="noopener nofollow" target="_blank">here</a>.</p>
