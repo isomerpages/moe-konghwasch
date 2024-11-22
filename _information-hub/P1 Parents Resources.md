@@ -76,6 +76,22 @@ school.</p>
 <blockquote>
 <h3>Keeping Children Healthy - A Guide For Parents</h3>
 </blockquote>
+<p>Please click the links below to view more information.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Parents resources/Parents_Newsletter_Edition_1_Page_01.jpg">
+</div>
+<p>Edition 1: <a href="https://go.gov.sg/hpb-parent-guide-1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hpb-parent-guide-1</a>
+</p>
+<p>Edition 2: <a href="https://go.gov.sg/hpb-parent-guide-2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hpb-parent-guide-2</a>
+</p>
+<p>Edition 3: <a href="https://go.gov.sg/hpb-parent-guide-3" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hpb-parent-guide-3</a>
+</p>
+<p></p>
+<blockquote>
+<h3>Cyberwellness</h3>
+</blockquote>
+<p></p>
 <p>
 <br>
 </p>
