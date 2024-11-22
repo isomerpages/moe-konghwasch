@@ -72,4 +72,11 @@ school.</p>
 <blockquote>
 <p>School-Home Partnership</p>
 </blockquote>
+<p>Click on the image below for more information.</p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/-/media/files/parent-kit/school-home-partnership.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Parents resources/school_home_partnership_Page_1.jpg"></a>
 <p></p>
+<blockquote>
+<p>Keeping Children Healthy - A Guide For Parents</p>
+</blockquote>
+<p>
+<br>
+</p>
