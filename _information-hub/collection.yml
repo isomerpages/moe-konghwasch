@@ -2,6 +2,7 @@ collections:
   information-hub:
     output: true
     order:
+      - P1 Parent Resources.md
       - Application for Leave of Absence (LOA).md
       - Edusave Character Award (ECHA).md
       - MOE Financial Assistance Scheme.md
