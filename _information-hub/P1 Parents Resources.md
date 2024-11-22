@@ -94,8 +94,5 @@ school.</p>
 <p></p>
 <p>
 <br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Parents resources/Primary_1_Parents_Briefing_on_Cyber_Wellness_Page_01.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/Primary_1_Parents_Briefing_on_Cyber_Wellness"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Parents resources/Primary_1_Parents_Briefing_on_Cyber_Wellness_Page_01.jpg"></a>
 <p></p>
