@@ -22,7 +22,7 @@ description: ""
 </div>
 <p></p>
 <blockquote>
-<p>How can I prepare my child for Primary 1?</p>
+<h3>How can I prepare my child for Primary 1?</h3>
 </blockquote>
 <p>In primary school, your child will be equipped with skills to:</p>
 <ul>
@@ -42,9 +42,8 @@ description: ""
 </div>
 </li>
 </ul>
-<p></p>
 <blockquote>
-<p>How can I support my child through the transition?</p>
+<h3>How can I support my child through the transition?</h3>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -52,7 +51,7 @@ description: ""
 </div>
 <p></p>
 <blockquote>
-<p>Supporting your child through the Primary 1 journey</p>
+<h3>Supporting your child through the Primary 1 journey</h3>
 </blockquote>
 <p>Every child develops at a different pace. How can we support our children
 to prepare for primary school? What do they really need for Primary 1?
@@ -60,7 +59,7 @@ Click on the image below to check out these tips.</p>
 <p></p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---supporting-your-child-through-the-primary-1-journey"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Parents resources/Parent_Kit___Supporting_Your_Child_Through_the_Primary_1_Journey_Page_1.jpg"></a>
 <p></p>
 <blockquote>
-<p>Parent-Child Activity Book (Digital)</p>
+<h3>Parent-Child Activity Book (Digital)</h3>
 </blockquote>
 <p>10 TIPS FOR PARENTS to help you navigate your child’s first year in primary
 school.</p>
@@ -70,12 +69,12 @@ school.</p>
 </a>
 <p></p>
 <blockquote>
-<p>School-Home Partnership</p>
+<h3>School-Home Partnership</h3>
 </blockquote>
 <p>Click on the image below for more information.</p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/-/media/files/parent-kit/school-home-partnership.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Parents resources/school_home_partnership_Page_1.jpg"></a>
 <p></p>
 <blockquote>
-<p>Keeping Children Healthy - A Guide For Parents</p>
+<h3>Keeping Children Healthy - A Guide For Parents</h3>
 </blockquote>
 <p>
 <br>
