@@ -92,7 +92,10 @@ school.</p>
 <h3>Cyberwellness</h3>
 </blockquote>
 <p>Click <a href="/files/P1 Parents resources files/Primary_1_Parents_Briefing_on_Cyber_Wellness.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view more information regarding cyberwellness.</p><a class="isomer-image-wrapper" href="/Primary_1_Parents_Briefing_on_Cyber_Wellness"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Parents resources/Primary_1_Parents_Briefing_on_Cyber_Wellness_Page_01.jpg"></a>
+view more information regarding cyberwellness.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Parents resources/Primary_1_Parents_Briefing_on_Cyber_Wellness_Page_01.jpg">
+</div>
 <p></p>
 <blockquote>
 <h3>NLB Sign up</h3>
