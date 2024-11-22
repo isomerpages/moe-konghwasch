@@ -47,3 +47,15 @@ description: ""
 <p>How can I support my child through the transition?</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Parents resources/gb_transitions_Page_1.jpg">
+</div>
+<p></p>
+<blockquote>
+<p>Supporting your child through the Primary 1 journey</p>
+</blockquote>
+<p>Every child develops at a different pace. How can we support our children
+to prepare for primary school? What do they really need for Primary 1?
+Click on the image below to check out these tips.</p>
+<p></p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---supporting-your-child-through-the-primary-1-journey"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Parents resources/Parent_Kit___Supporting_Your_Child_Through_the_Primary_1_Journey_Page_1.jpg"></a>
+<p></p>
