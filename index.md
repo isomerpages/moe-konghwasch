@@ -12,6 +12,14 @@ sections:
       title: KHS Highlights
       id: infobar
   - infopic:
+      title: Kong Hwa School OPAC
+      id: infopic
+      description: To access KHS Library services please click the link below
+      button: FIND OUT MORE
+      url: https://schoolibrary.moe.edu.sg/konghwa/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+      image: /images/library1.png
+      alt: Image alt text
+  - infopic:
       title: KHS Art Magazine
       description: We are thrilled to present to you our very own KHS Art Magazine!
         This magazine is a wonderful way to explore the vibrant art scene at our
