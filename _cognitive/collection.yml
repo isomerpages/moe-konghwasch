@@ -2,6 +2,7 @@ collections:
   cognitive:
     output: true
     order:
+      - Media Resource Library.md
       - 英文 English Language.md
       - 华文 Chinese Language.md
       - 数学 Mathematics.md
