@@ -9,6 +9,12 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Parents resources/Questions_You_May_Have____Page_1.jpg">
 </div>
 <p></p>
+<blockquote>
+<h3>NLB Sign up</h3>
+</blockquote>
+<p>You may sign up for a NLB account <a href="https://account.nlb.gov.sg/" rel="noopener nofollow" target="_blank">here.</a>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Parents resources/Questions_You_May_Have____Page_2.jpg">
 </div>
@@ -98,6 +104,6 @@ view more information regarding cyberwellness.</p>
 </div>
 <p></p>
 <blockquote>
-<h3>NLB Sign up</h3>
+<h3></h3>
 </blockquote>
-<p>You may sign up for a NLB account <a href="https://account.nlb.gov.sg/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
