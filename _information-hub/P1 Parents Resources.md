@@ -12,7 +12,7 @@ description: ""
 <blockquote>
 <h3>NLB Sign up</h3>
 </blockquote>
-<p>You may sign up for a NLB account <a href="https://account.nlb.gov.sg/" rel="noopener nofollow" target="_blank">here.</a>
+<p><strong>You may sign up for a NLB account <a href="https://account.nlb.gov.sg/" rel="noopener nofollow" target="_blank">here.</a></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
