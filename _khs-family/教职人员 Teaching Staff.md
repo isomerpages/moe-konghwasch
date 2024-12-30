@@ -156,14 +156,6 @@ variant: tiptap
 <br><a href="mailto:chan_yin_ling_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_yin_ling_a@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mr Tan Tong Joo
-<br><a href="mailto:tan_tong_joo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_tong_joo@schools.gov.sg</a>
-<br>
-<br>Mdm Nur Shida Bte Umar Ali
-<br><a href="mailto:nur_shida_umar_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shida_umar_ali@schools.gov.sg</a>
-<br>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -328,10 +320,13 @@ variant: tiptap
 <p>P2-9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p>Mdm Nur Shida Bte Umar Ali
+<br><a href="mailto:nur_shida_umar_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shida_umar_ali@schools.gov.sg</a>
 <br>
-<br>
+<br>Ms Pei Qianru Ann
+<br><a href="mailto:pei_qianru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pei_qianru@schools.gov.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -483,8 +478,7 @@ variant: tiptap
 <p>Ms Ng Ling Er
 <br><a href="mailto:ng_ling_er@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ling_er@schools.gov.sg</a>
 <br>
-<br>Ms Pei Qianru Ann
-<br><a href="mailto:pei_qianru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pei_qianru@schools.gov.sg</a>
+<br>
 </p>
 </td>
 </tr>
