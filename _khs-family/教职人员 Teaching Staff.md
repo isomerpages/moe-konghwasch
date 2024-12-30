@@ -360,8 +360,7 @@ variant: tiptap
 <br><a href="mailto:chien_chia_chun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chien_chia_chun@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mdm Zhang Haiyan
-<br><a href="mailto:zhang_haiyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_haiyan@schools.gov.sg</a>
+<p>
 <br>
 <br>Ms Wang Ai Pei
 <br><a href="mailto:wang_ai_pei_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_ai_pei_a@schools.gov.sg</a>
@@ -525,6 +524,14 @@ variant: tiptap
 <p>P4-1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Quah Li Zhen
+<br><a href="mailto:Quah_Li_Zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quah_li_zhen@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mdm Zhang Haiyan
+<br><a href="mailto:zhang_haiyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_haiyan@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Ms Ng Ling Er
 <br><a href="mailto:ng_ling_er@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ling_er@schools.gov.sg</a>
 <br>
@@ -549,8 +556,7 @@ variant: tiptap
 <p>P4-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Quah Li Zhen
-<br><a href="mailto:Quah_Li_Zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quah_li_zhen@schools.gov.sg</a>
+<p>
 <br>
 <br>
 </p>
