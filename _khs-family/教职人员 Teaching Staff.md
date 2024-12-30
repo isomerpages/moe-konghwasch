@@ -459,6 +459,14 @@ variant: tiptap
 <p>P3-6</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Gan Ching Ching</p>
+<p><a href="mailto:gan_ching_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gan_ching_ching@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mdm Leow Sian Leng Sandra
+<br><a href="mailto:leow_sian_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leow_sian_leng@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Mdm Shao Linjuan
 <br><a href="mailto:Shao_Linjuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shao_linjuan@schools.gov.sg</a>
 <br>
@@ -571,8 +579,7 @@ variant: tiptap
 <p>P4-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Leow Sian Leng Sandra
-<br><a href="mailto:leow_sian_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leow_sian_leng@schools.gov.sg</a>
+<p>
 <br>
 <br>
 </p>
