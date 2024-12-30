@@ -358,6 +358,14 @@ variant: tiptap
 <p>P3-1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Ng-Sim Li Juan Matilda
+<br><a href="mailto:matilda_sim_li_juan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">matilda_sim_li_juan@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mdm Chien Chia Chun
+<br><a href="mailto:chien_chia_chun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chien_chia_chun@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Mdm Zhang Haiyan
 <br><a href="mailto:zhang_haiyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_haiyan@schools.gov.sg</a>
 <br>
@@ -371,6 +379,16 @@ variant: tiptap
 <p>P3-2</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Miss Chin Wan Chen Vivienne
+<br><a href="mailto:chin_wan_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_wan_chen@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mrs Kang-Hwang Yongxiang
+<br><a href="mailto:hwang_yongxiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hwang_yongxiang@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mr Perry Chan</p>
+<p></p>
 <p>Mrs Hue-Tan Siew Hoon
 <br><a href="mailto:hue-tan_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hue-tan_siew_hoon@schools.gov.sg</a>
 <br>
@@ -487,8 +505,7 @@ variant: tiptap
 <p>P4-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chin Wan Chen Vivienne
-<br><a href="mailto:chin_wan_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_wan_chen@schools.gov.sg</a>
+<p>
 <br>
 <br>Mdm Li Hongyu
 <br><a href="mailto:Li_Hongyu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_hongyu@schools.gov.sg</a>
@@ -553,8 +570,7 @@ variant: tiptap
 <p>P4-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ng-Sim Li Juan Matilda
-<br><a href="mailto:matilda_sim_li_juan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">matilda_sim_li_juan@schools.gov.sg</a>
+<p>
 <br>
 <br>Ms Seow Kheng Ling
 <br><a href="mailto:seow_kheng_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seow_kheng_ling@schools.gov.sg</a>
@@ -736,8 +752,7 @@ variant: tiptap
 <p>Miss Ong Huey Fern
 <br><a href="mailto:ong_huey_fern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_huey_fern@schools.gov.sg</a>
 <br>
-<br>Mdm Chien Chia Chun
-<br><a href="mailto:chien_chia_chun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chien_chia_chun@schools.gov.sg</a>
+<br>
 </p>
 </td>
 </tr>
@@ -746,8 +761,7 @@ variant: tiptap
 <p>P6-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kang-Hwang Yongxiang
-<br><a href="mailto:hwang_yongxiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hwang_yongxiang@schools.gov.sg</a>
+<p>
 <br>
 <br>Mr Jerry Yang
 <br><a href="mailto:Yang_Ziyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yang_ziyi@schools.gov.sg</a>
