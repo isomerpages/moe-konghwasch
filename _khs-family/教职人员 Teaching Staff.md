@@ -263,7 +263,7 @@ variant: tiptap
 <br><a href="mailto:chang_zhi_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_zhi_jun@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mdm Amanda Ng</p>
+<p>Mrs Amanda Tan</p>
 <p><a href="mailto:amanda_tan_bee_keng@schools.gov.sg" rel="noopener nofollow" target="_blank">Amanda_Tan_Bee_Keng@schools.gov.sg</a>
 <br>
 <br>Mrs Wong-Lim Eng Tsing
