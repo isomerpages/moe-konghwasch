@@ -829,6 +829,13 @@ variant: tiptap
 <p>P6-7</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Sim Qing Qing
+<br><a href="mailto:sim_qing_qing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_qing_qing@schools.gov.sg</a>
+<br>
+<br>Mdm Tay Lee Joo Julie
+<br><a href="mailto:tay_lee_joo_julie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_lee_joo_julie@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Mdm Chong Chui Mei Penny
 <br><a href="mailto:chong_chui_mei_penny@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_chui_mei_penny@schools.gov.sg</a>
 <br>
