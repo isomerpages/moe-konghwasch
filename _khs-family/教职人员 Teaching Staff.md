@@ -87,6 +87,14 @@ variant: tiptap
 <p>P1-4</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Tan Kok Wei James
+<br><a href="mailto:james_tan_kok_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">james_tan_kok_wei@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Ms Chan Jye Yin Jayne
+<br><a href="mailto:chan_jye_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_jye_yin@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Mrs Tan-Chang Zhi Jun
 <br><a href="mailto:chang_zhi_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_zhi_jun@schools.gov.sg</a>
 <br>
@@ -195,8 +203,7 @@ variant: tiptap
 <p>Ms Liu Yali
 <br><a href="mailto:Liu_Yali_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yali_a@schools.gov.sg</a> 
 <br>
-<br>Ms Chan Jye Yin Jayne
-<br><a href="mailto:chan_jye_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_jye_yin@schools.gov.sg</a>
+<br>
 </p>
 </td>
 </tr>
@@ -229,8 +236,7 @@ variant: tiptap
 <p>P2-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Kok Wei James
-<br><a href="mailto:james_tan_kok_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">james_tan_kok_wei@schools.gov.sg</a>
+<p>
 <br>
 <br>Ms Koh Lee Ling
 <br><a href="mailto:koh_lee_ling_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_lee_ling_a@schools.gov.sg</a>
