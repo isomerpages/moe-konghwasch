@@ -103,8 +103,9 @@ variant: tiptap
 <br><a href="mailto:nor_ashikin_md_daud@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nor_ashikin_md_daud@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mrs Christine Kang</p>
-<p><a href="mailto:lim_ching_chye@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_ching_chye@schools.gov.sg</a>
+<p>Mrs Christine Kang
+<br><a href="mailto:lim_ching_chye@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_ching_chye</a>
+<a href="mailto:lim_ching_chye@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
