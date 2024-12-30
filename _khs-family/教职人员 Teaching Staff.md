@@ -651,12 +651,7 @@ variant: tiptap
 <p>P5-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Pay Hui Ling
-<br><a href="mailto:pay_hui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pay_hui_ling@schools.gov.sg</a>
-<br>
-<br>Mrs Wong-Ho Si Yi
-<br><a href="mailto:ho_si_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_si_yi@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -782,6 +777,13 @@ variant: tiptap
 <p>P6-3</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Miss Pay Hui Ling
+<br><a href="mailto:pay_hui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pay_hui_ling@schools.gov.sg</a>
+<br>
+<br>Mrs Wong-Ho Si Yi
+<br><a href="mailto:ho_si_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_si_yi@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Miss Ong Huey Fern
 <br><a href="mailto:ong_huey_fern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_huey_fern@schools.gov.sg</a>
 <br>
