@@ -502,8 +502,6 @@ variant: tiptap
 <br>Ms Shi Yuanna
 <br><a href="mailto:shi_yuanna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shi_yuanna@schools.gov.sg</a>
 <br>
-<br>Mdm Li Hongyu
-<br><a href="mailto:Li_Hongyu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_hongyu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -698,12 +696,14 @@ variant: tiptap
 <p>P5-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sim Qing Qing
-<br><a href="mailto:sim_qing_qing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_qing_qing@schools.gov.sg</a>
-<br>
-<br>Mdm Tay Lee Joo Julie
-<br><a href="mailto:tay_lee_joo_julie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_lee_joo_julie@schools.gov.sg</a>
+<p>Mdm Chong Chui Mei Penny
+<br><a href="mailto:chong_chui_mei_penny@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_chui_mei_penny@schools.gov.sg</a>
 </p>
+<p></p>
+<p>Mdm Li Hongyu
+<br><a href="mailto:Li_Hongyu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_hongyu@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -834,10 +834,6 @@ variant: tiptap
 <br><a href="mailto:tay_lee_joo_julie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_lee_joo_julie@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mdm Chong Chui Mei Penny
-<br><a href="mailto:chong_chui_mei_penny@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_chui_mei_penny@schools.gov.sg</a>
-<br>
-</p>
 </td>
 </tr>
 <tr>
