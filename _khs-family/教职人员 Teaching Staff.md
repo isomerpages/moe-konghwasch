@@ -92,12 +92,6 @@ variant: tiptap
 <br><a href="mailto:Su_Yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">su_yan@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Miss Lim Jie Xi
-<br><a href="mailto:lim_Jie_xi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_Jie_xi@schools.gov.sg</a>
-<br>
-<br>Mdm Nuraisha Bte Mohd Anis
-<br><a href="mailto:nuraisha_mohamed_anis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nuraisha_mohamed_anis@schools.gov.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -286,8 +280,11 @@ variant: tiptap
 <p>P2-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p>Miss Lim Jie Xi
+<br><a href="mailto:lim_Jie_xi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_Jie_xi@schools.gov.sg</a>
 <br>
+<br>Mdm Nuraisha Bte Mohd Anis
+<br><a href="mailto:nuraisha_mohamed_anis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nuraisha_mohamed_anis@schools.gov.sg</a>
 <br>
 </p>
 </td>
