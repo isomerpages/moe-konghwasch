@@ -171,6 +171,18 @@ variant: tiptap
 <p>P1-8</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Jaysern Lee Teck Chuang
+<br><a href="mailto:Jaysern_Lee_Teck_Chuang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jaysern_lee_teck_chuang@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mdm Sim Kim Noy Anilia
+<br><a href="mailto:Sim_Kim_Noy_Anilia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sim_Kim_Noy_Anilia@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mrs Tham Kok Wing</p>
+<p><a href="mailto:tham_kok_wing@schools.gov.sg" rel="noopener nofollow" target="_blank">tham_kok_wing@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Mdm Chua Hsiao Sze
 <br><a href="mailto:chua_hsiao_sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_hsiao_sze@schools.gov.sg</a>
 <br>
@@ -540,8 +552,7 @@ variant: tiptap
 <p>Mdm Leow Sian Leng Sandra
 <br><a href="mailto:leow_sian_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leow_sian_leng@schools.gov.sg</a>
 <br>
-<br>Mdm Sim Kim Noy Anilia
-<br><a href="mailto:Sim_Kim_Noy_Anilia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sim_Kim_Noy_Anilia@schools.gov.sg</a>
+<br>
 </p>
 <p></p>
 <p>Miss Azirah Jamal
@@ -725,8 +736,7 @@ variant: tiptap
 <p>Mdm Tan Siew Sian
 <br><a href="mailto:tan_siew_sian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siew_sian@schools.gov.sg</a>
 <br>
-<br>Mr Jaysern Lee Teck Chuang
-<br><a href="mailto:Jaysern_Lee_Teck_Chuang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jaysern_lee_teck_chuang@schools.gov.sg</a>
+<br>
 </p>
 </td>
 </tr>
