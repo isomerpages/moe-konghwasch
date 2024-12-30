@@ -480,6 +480,14 @@ variant: tiptap
 <p>P3-7</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Seow Kheng Ling
+<br><a href="mailto:seow_kheng_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seow_kheng_ling@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mdm Siti Aishah Bte Ismail
+<br><a href="mailto:siti_aishah_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_aishah_ismail@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Mdm Tay Soh Cheng Carol
 <br><a href="mailto:ng-tay_soh_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng-tay_soh_cheng@schools.gov.sg</a>
 <br>
@@ -594,8 +602,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>
 <br>
-<br>Ms Seow Kheng Ling
-<br><a href="mailto:seow_kheng_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seow_kheng_ling@schools.gov.sg</a>
+<br>
 </p>
 </td>
 </tr>
@@ -793,8 +800,7 @@ variant: tiptap
 <p>P6-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Aishah Bte Ismail
-<br><a href="mailto:siti_aishah_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_aishah_ismail@schools.gov.sg</a>
+<p>
 <br>
 <br>Miss Wong Luan Yin
 <br><a href="mailto:wong_luan_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_luan_yin@schools.gov.sg</a>
