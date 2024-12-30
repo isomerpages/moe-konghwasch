@@ -32,12 +32,6 @@ variant: tiptap
 <p><a href="mailto:lee_bih_ye@schools.gov.sg" rel="noopener nofollow" target="_blank">lee_bih_ye@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Ms Yeo Hwee Gek Jeslin
-<br><a href="mailto:yeo_hwee_gek_jeslin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_hwee_gek_jeslin@schools.gov.sg</a>
-<br>
-<br>Ms Tan Yan Shan
-<br><a href="mailto:Tan_Yan_Shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yan_shan@schools.gov.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -243,9 +237,15 @@ variant: tiptap
 <p>P2-1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Yeo Hwee Gek Jeslin
+<br><a href="mailto:yeo_hwee_gek_jeslin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_hwee_gek_jeslin@schools.gov.sg</a>
+<br>
+<br>Ms Tan Yan Shan
+<br><a href="mailto:Tan_Yan_Shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yan_shan@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Ms Liu Yali
 <br><a href="mailto:Liu_Yali_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yali_a@schools.gov.sg</a> 
-<br>
 <br>
 </p>
 </td>
