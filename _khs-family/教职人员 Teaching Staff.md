@@ -639,11 +639,7 @@ variant: tiptap
 <p>P5-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurafida Bte Mohd Anis
-<br><a href="mailto:nurafida_mohamed_anis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurafida_mohamed_anis@schools.gov.sg</a>
-<br>
-<br>Mrs Chew-Wong Hui Ren
-<br><a href="mailto:wong_hui_ren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_hui_ren@schools.gov.sg</a>
+<p>
 <br>
 <br>Miss Seah Geok Choon
 <br><a href="mailto:seah_geok_choon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_geok_choon@schools.gov.sg</a>
@@ -767,6 +763,13 @@ variant: tiptap
 <p>P6-2</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Nurafida Bte Mohd Anis
+<br><a href="mailto:nurafida_mohamed_anis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurafida_mohamed_anis@schools.gov.sg</a>
+<br>
+<br>Mrs Chew-Wong Hui Ren
+<br><a href="mailto:wong_hui_ren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_hui_ren@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Mdm Tan Siew Sian
 <br><a href="mailto:tan_siew_sian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siew_sian@schools.gov.sg</a>
 <br>
