@@ -310,8 +310,6 @@ variant: tiptap
 <p>Mrs Lim-Foo Wanru Yvette
 <br><a href="mailto:foo_wanru_yvette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_wanru_yvette@schools.gov.sg</a>
 <br>
-<br>Mrs Yeoh-Goh Jia Hui
-<br><a href="mailto:goh_jia_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_jia_hui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -421,6 +419,13 @@ variant: tiptap
 <p>P3-4</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Yeoh-Goh Jia Hui
+<br><a href="mailto:goh_jia_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_jia_hui@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mdm Yeo Chin Choo Wendy<a href="mailto:yeo_chin_choo_wendy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>yeo_chin_choo_wendy@schools.gov.sg</u></a>
+</p>
+<p></p>
 <p>Mdm Hafsah Bte Yasin
 <br><a href="mailto:hafsah_yasin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hafsah_yasin@schools.gov.sg</a>
 <br>
