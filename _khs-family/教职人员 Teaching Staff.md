@@ -627,8 +627,6 @@ variant: tiptap
 <p>Mrs Goh-Wong Lee Ping
 <br><a href="mailto:wong_lee_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lee_ping@schools.gov.sg</a>
 <br>
-<br>Miss Seah Geok Choon
-<br><a href="mailto:seah_geok_choon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_geok_choon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
