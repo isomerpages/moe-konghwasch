@@ -28,8 +28,8 @@ variant: tiptap
 <br><a href="mailto:chew_siew_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_siew_leng@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mrs Serena Chong</p>
-<p><a href="mailto:lee_bih_ye@schools.gov.sg" rel="noopener nofollow" target="_blank">lee_bih_ye@schools.gov.sg</a>
+<p>Mrs Serena Chong
+<br><a href="mailto:lee_bih_ye@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_bih_ye@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
