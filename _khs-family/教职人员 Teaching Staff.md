@@ -122,12 +122,6 @@ variant: tiptap
 <br><a href="mailto:koh_lee_ling_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_lee_ling_a@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mdm Khusniah Liza Bte Zainal
-<br><a href="mailto:khusniah_liza_zainal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khusniah_liza_zainal@schools.gov.sg</a>
-<br>
-<br>Mdm An Wei
-<br><a href="mailto:an_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">an_wei@schools.gov.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -301,9 +295,16 @@ variant: tiptap
 <p>P2-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Choong Wah Loy Shirley
-<br><a href="mailto:choong_wah_loy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choong_wah_loy@schools.gov.sg</a>
+<p>Mdm Khusniah Liza Bte Zainal
+<br><a href="mailto:khusniah_liza_zainal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khusniah_liza_zainal@schools.gov.sg</a>
 <br>
+</p>
+<p>Miss Azirah Jamal
+<br><a href="mailto:azirah_jamal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azirah_jamal@schools.gov.sg</a>
+</p>
+<p>
+<br>Mdm An Wei
+<br><a href="mailto:an_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">an_wei@schools.gov.sg</a>
 <br>
 </p>
 </td>
@@ -549,9 +550,7 @@ variant: tiptap
 <br>
 </p>
 <p></p>
-<p>Miss Azirah Jamal
-<br><a href="mailto:azirah_jamal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azirah_jamal@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
