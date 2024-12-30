@@ -107,12 +107,6 @@ variant: tiptap
 <p><a href="mailto:lim_ching_chye@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_ching_chye@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mdm Hoon Siow Hway Wendy
-<br><a href="mailto:hoon_siow_hway@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoon_siow_hway@schools.gov.sg</a>
-<br>
-<br>Ms Ivy Lee Pei Sze
-<br><a href="mailto:lee_pei_sze_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_pei_sze_a@schools.gov.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -294,9 +288,10 @@ variant: tiptap
 <p>P2-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p>Ms Seet Qiu Yiong
 <br>
-<br>
+<br>Ms Ivy Lee Pei Sze
+<br><a href="mailto:lee_pei_sze_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_pei_sze_a@schools.gov.sg</a>
 <br>
 </p>
 </td>
