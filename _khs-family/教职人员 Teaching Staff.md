@@ -631,6 +631,13 @@ variant: tiptap
 <p>P5-1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Sharon Maggie Seet
+<br><a href="mailto:sharon_maggie_seet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharon_maggie_seet@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mrs Chong-Goh Hwee Leng Wendi
+<br><a href="mailto:goh_hwee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_hwee_leng@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -731,11 +738,6 @@ variant: tiptap
 <br><a href="mailto:loo_yin_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"> loo_yin_wai@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mrs Sharon Maggie Seet
-<br><a href="mailto:sharon_maggie_seet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharon_maggie_seet@schools.gov.sg</a>
-<br>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -839,8 +841,6 @@ variant: tiptap
 <p>Mdm Chong Chui Mei Penny
 <br><a href="mailto:chong_chui_mei_penny@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_chui_mei_penny@schools.gov.sg</a>
 <br>
-<br>Mrs Chong-Goh Hwee Leng Wendi
-<br><a href="mailto:goh_hwee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_hwee_leng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
