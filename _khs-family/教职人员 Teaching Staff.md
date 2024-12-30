@@ -24,6 +24,14 @@ variant: tiptap
 <p>P1-1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Chew Siew Leng
+<br><a href="mailto:chew_siew_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_siew_leng@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mrs Serena Chong</p>
+<p><a href="mailto:lee_bih_ye@schools.gov.sg" rel="noopener nofollow" target="_blank">lee_bih_ye@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Ms Yeo Hwee Gek Jeslin
 <br><a href="mailto:yeo_hwee_gek_jeslin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_hwee_gek_jeslin@schools.gov.sg</a>
 <br>
@@ -233,8 +241,7 @@ variant: tiptap
 <p>P2-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chew Siew Leng
-<br><a href="mailto:chew_siew_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_siew_leng@schools.gov.sg</a>
+<p>
 <br>
 <br>Ms Chan Yin Ling
 <br><a href="mailto:chan_yin_ling_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_yin_ling_a@schools.gov.sg</a>
