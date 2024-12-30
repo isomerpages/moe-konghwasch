@@ -675,12 +675,7 @@ variant: tiptap
 <p>P5-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan-Lin Shiying Diana
-<br><a href="mailto:lin_shiying_diana@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_shiying_diana@schools.gov.sg</a>
-<br>
-<br>Mrs Teo-Zhang Juan Juan
-<br><a href="mailto:zhang_juan_juan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_juan_juan@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -816,9 +811,15 @@ variant: tiptap
 <p>P6-6</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Tan-Lin Shiying Diana
+<br><a href="mailto:lin_shiying_diana@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_shiying_diana@schools.gov.sg</a>
+<br>
+<br>Mrs Teo-Zhang Juan Juan
+<br><a href="mailto:zhang_juan_juan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_juan_juan@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Mrs Han-Yap Lay Hua
 <br><a href="mailto:yap_lay_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_lay_hua@schools.gov.sg</a>
-<br>
 <br>
 </p>
 </td>
