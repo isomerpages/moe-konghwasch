@@ -561,8 +561,7 @@ variant: tiptap
 <br><a href="mailto:Ng_Chun_Hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chun_hui@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mrs Sharon Lynn Tan Chun Yin
-<br><a href="mailto:tan_chun_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chun_yin@schools.gov.sg</a>
+<p>
 <br>
 <br>Mr Khoo Wenzhong James
 <br><a href="mailto:khoo_wenzhong_james@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_wenzhong_james@schools.gov.sg</a>
@@ -659,6 +658,13 @@ variant: tiptap
 <p>P5-3</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Miss Ong Huey Fern
+<br><a href="mailto:ong_huey_fern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_huey_fern@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mrs Sharon Lynn Tan Chun Yin
+<br><a href="mailto:tan_chun_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chun_yin@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -767,11 +773,6 @@ variant: tiptap
 <br><a href="mailto:ho_si_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_si_yi@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Miss Ong Huey Fern
-<br><a href="mailto:ong_huey_fern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_huey_fern@schools.gov.sg</a>
-<br>
-<br>
-</p>
 </td>
 </tr>
 <tr>
