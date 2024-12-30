@@ -47,12 +47,6 @@ variant: tiptap
 <br><a href="mailto:tan_kian_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kian_boon@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mrs Ng-Lee Sin Chieh
-<br><a href="mailto:lee_sin_chieh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sin_chieh@schools.gov.sg</a>
-<br>
-<br>Ms Xu Jing
-<br><a href="mailto:xu_jing_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xu_jing_b@schools.gov.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -255,10 +249,12 @@ variant: tiptap
 <p>P2-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p>Mrs Ng-Lee Sin Chieh
+<br><a href="mailto:lee_sin_chieh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sin_chieh@schools.gov.sg</a>
 <br>
-<br>Ms Liu Te Se
-<br><a href="mailto:liu_tese@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_tese@schools.gov.sg</a>
+<br>Ms Xu Jing
+<br><a href="mailto:xu_jing_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xu_jing_b@schools.gov.sg</a>
+<br>
 </p>
 </td>
 </tr>
