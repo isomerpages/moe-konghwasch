@@ -150,6 +150,14 @@ variant: tiptap
 <p>P1-7</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Seah-Tan Hui Xian
+<br><a href="mailto:tan_hui_xian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_xian@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Ms Koh Lee Ling
+<br><a href="mailto:koh_lee_ling_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_lee_ling_a@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Mdm Khusniah Liza Bte Zainal
 <br><a href="mailto:khusniah_liza_zainal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khusniah_liza_zainal@schools.gov.sg</a>
 <br>
@@ -182,8 +190,7 @@ variant: tiptap
 <br>Mdm Nur Shida Bte Umar Ali
 <br><a href="mailto:nur_shida_umar_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shida_umar_ali@schools.gov.sg</a>
 <br>
-<br>Mrs Seah-Tan Hui Xian
-<br><a href="mailto:tan_hui_xian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_xian@schools.gov.sg</a>
+<br>
 </p>
 </td>
 </tr>
@@ -253,8 +260,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>
 <br>
-<br>Ms Koh Lee Ling
-<br><a href="mailto:koh_lee_ling_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_lee_ling_a@schools.gov.sg</a>
+<br>
 </p>
 </td>
 </tr>
