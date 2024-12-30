@@ -597,7 +597,7 @@ variant: tiptap
 </p>
 <p></p>
 <p>Ms Liu Yali
-<br><a href="mailto:Liu_Yali_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yali_a@schools.gov.sg</a> 
+<br><a href="mailto:Liu_Yali_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yali_a@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
@@ -631,12 +631,7 @@ variant: tiptap
 <p>P5-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tang Kin Tuck Christabelle
-<br><a href="mailto:tang_kin_tuck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_kin_tuck@schools.gov.sg</a>
-<br>
-<br>Mrs Tan-Liang Kok Fen
-<br><a href="mailto:liang_kok_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liang_kok_fen@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -749,6 +744,17 @@ variant: tiptap
 <p>P6-1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Tang Kin Tuck Christabelle
+<br><a href="mailto:tang_kin_tuck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_kin_tuck@schools.gov.sg</a>
+<br>
+<br>Mrs Tan-Liang Kok Fen
+<br><a href="mailto:liang_kok_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liang_kok_fen@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mdm Jessica Loo
+<br><a href="mailto:loo_yin_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"> loo_yin_wai@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Mrs Sharon Maggie Seet
 <br><a href="mailto:sharon_maggie_seet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharon_maggie_seet@schools.gov.sg</a>
 <br>
@@ -811,8 +817,7 @@ variant: tiptap
 <p>Mrs Han-Yap Lay Hua
 <br><a href="mailto:yap_lay_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_lay_hua@schools.gov.sg</a>
 <br>
-<br>Mdm Jessica Loo
-<br><a href="mailto:loo_yin_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"> loo_yin_wai@schools.gov.sg</a>
+<br>
 </p>
 </td>
 </tr>
