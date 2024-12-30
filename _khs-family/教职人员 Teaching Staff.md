@@ -659,12 +659,7 @@ variant: tiptap
 <p>P5-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharifah Warda Bte Syed Mohd Alsagoff
-<br><a href="mailto:sharifah_warda_s_m@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharifah_warda_s_m@schools.gov.sg</a>
-<br>
-<br>Mr Lee Chia Liang
-<br><a href="mailto:lee_chia_liang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chia_liang@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -796,8 +791,11 @@ variant: tiptap
 <p>P6-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p>Mdm Sharifah Warda Bte Syed Mohd Alsagoff
+<br><a href="mailto:sharifah_warda_s_m@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharifah_warda_s_m@schools.gov.sg</a>
 <br>
+<br>Mr Lee Chia Liang
+<br><a href="mailto:lee_chia_liang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chia_liang@schools.gov.sg</a>
 <br>
 </p>
 </td>
