@@ -236,7 +236,7 @@ variant: tiptap
 </p>
 <p></p>
 <p>Mrs Amanda Tan
-<br><a href="mailto:amanda_tan_bee_keng@schools.gov.sg" rel="noopener nofollow" target="_blank">Amanda_Tan_Bee_Keng</a>
+<br><a href="mailto:amanda_tan_bee_keng@schools.gov.sg" rel="noopener nofollow" target="_blank">amanda_tan_bee_keng</a>
 <a href="mailto:Amanda_Tan_Bee_Keng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
 </p>
 <p></p>
