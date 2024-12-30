@@ -129,6 +129,14 @@ variant: tiptap
 <p>P1-6</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Nor Ashikin Fadzil
+<br><a href="mailto:nor_ashikin_md_daud@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nor_ashikin_md_daud@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mrs Christine Kang</p>
+<p><a href="mailto:lim_ching_chye@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_ching_chye@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Mdm Hoon Siow Hway Wendy
 <br><a href="mailto:hoon_siow_hway@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoon_siow_hway@schools.gov.sg</a>
 <br>
@@ -282,8 +290,7 @@ variant: tiptap
 <p>Mrs Choong Wah Loy Shirley
 <br><a href="mailto:choong_wah_loy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choong_wah_loy@schools.gov.sg</a>
 <br>
-<br>Mrs Nor Ashikin Fadzil
-<br><a href="mailto:nor_ashikin_md_daud@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nor_ashikin_md_daud@schools.gov.sg</a>
+<br>
 </p>
 </td>
 </tr>
