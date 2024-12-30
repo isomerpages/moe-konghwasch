@@ -527,8 +527,8 @@ variant: tiptap
 <br><a href="mailto:hafsah_yasin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hafsah_yasin@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mdm Zheng Huier</p>
-<p><a href="mailto:zheng_huier@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Zheng_Huier@schools.gov.sg</a>
+<p>Mdm Zheng Huier
+<br><a href="mailto:zheng_huier@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_huier@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
