@@ -489,11 +489,6 @@ variant: tiptap
 <br><a href="mailto:zhang_haiyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_haiyan@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Ms Ng Ling Er
-<br><a href="mailto:ng_ling_er@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ling_er@schools.gov.sg</a>
-<br>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -553,11 +548,6 @@ variant: tiptap
 <br><a href="mailto:Ng_Chun_Hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chun_hui@schools.gov.sg</a>
 </p>
 <p></p>
-<p>
-<br>
-<br>Mr Khoo Wenzhong James
-<br><a href="mailto:khoo_wenzhong_james@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_wenzhong_james@schools.gov.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -680,6 +670,13 @@ variant: tiptap
 <p>P5-5</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Ng Ling Er
+<br><a href="mailto:ng_ling_er@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ling_er@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mr Khoo Wenzhong James
+<br><a href="mailto:khoo_wenzhong_james@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_wenzhong_james@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
