@@ -667,12 +667,7 @@ variant: tiptap
 <p>P5-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Yip Lai Ching Violet
-<br><a href="mailto:yip_lai_ching_violet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yip_lai_ching_violet@schools.gov.sg</a>
-<br>
-<br>Mr Lin Jinlong Jimmy
-<br><a href="mailto:lin_jinlong_jimmy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_jinlong_jimmy@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -805,7 +800,11 @@ variant: tiptap
 <p>P6-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p>Miss Yip Lai Ching Violet
+<br><a href="mailto:yip_lai_ching_violet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yip_lai_ching_violet@schools.gov.sg</a>
+<br>
+<br>Mr Lin Jinlong Jimmy
+<br><a href="mailto:lin_jinlong_jimmy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_jinlong_jimmy@schools.gov.sg</a>
 <br>
 <br>Miss Wong Luan Yin
 <br><a href="mailto:wong_luan_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_luan_yin@schools.gov.sg</a>
