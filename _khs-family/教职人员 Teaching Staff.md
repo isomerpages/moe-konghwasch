@@ -66,6 +66,14 @@ variant: tiptap
 <p>P1-3</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Chong-Chan Seok Yin
+<br><a href="mailto:chan_seok_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_seok_yin@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mr Ng Zi Jian
+<br><a href="mailto:Zi_Jian_NG@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zi_jian_ng@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Mdm Lim Ai Yi
 <br><a href="mailto:lim_ai_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ai_yi@schools.gov.sg</a>
 <br>
@@ -209,8 +217,7 @@ variant: tiptap
 <p>P2-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chong-Chan Seok Yin
-<br><a href="mailto:chan_seok_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_seok_yin@schools.gov.sg</a>
+<p>
 <br>
 <br>Ms Su Yan
 <br><a href="mailto:Su_Yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">su_yan@schools.gov.sg</a>
@@ -238,8 +245,7 @@ variant: tiptap
 <p>Mdm Liew Hwee Cheng Lynn
 <br><a href="mailto:liew_hwee_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liew_hwee_cheng@schools.gov.sg</a>
 <br>
-<br>Mr Ng Zi Jian
-<br><a href="mailto:Zi_Jian_NG@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zi_jian_ng@schools.gov.sg</a>
+<br>
 </p>
 </td>
 </tr>
