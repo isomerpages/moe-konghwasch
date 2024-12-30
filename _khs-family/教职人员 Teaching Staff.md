@@ -45,6 +45,14 @@ variant: tiptap
 <p>P1-2</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Siti Nazriana Bte Busari
+<br><a href="mailto:siti_nazriana_busari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nazriana_busari@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mr Tan Kian Boon
+<br><a href="mailto:tan_kian_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kian_boon@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Mrs Ng-Lee Sin Chieh
 <br><a href="mailto:lee_sin_chieh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sin_chieh@schools.gov.sg</a>
 <br>
@@ -189,8 +197,7 @@ variant: tiptap
 <p>P2-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Nazriana Bte Busari
-<br><a href="mailto:siti_nazriana_busari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nazriana_busari@schools.gov.sg</a>
+<p>
 <br>
 <br>Ms Liu Te Se
 <br><a href="mailto:liu_tese@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_tese@schools.gov.sg</a>
@@ -359,8 +366,7 @@ variant: tiptap
 <p>Mdm Hafsah Bte Yasin
 <br><a href="mailto:hafsah_yasin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hafsah_yasin@schools.gov.sg</a>
 <br>
-<br>Mr Tan Kian Boon
-<br><a href="mailto:tan_kian_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kian_boon@schools.gov.sg</a>
+<br>
 </p>
 </td>
 </tr>
