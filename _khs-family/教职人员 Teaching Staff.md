@@ -443,12 +443,6 @@ variant: tiptap
 <br><a href="mailto:leow_sian_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leow_sian_leng@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mdm Shao Linjuan
-<br><a href="mailto:Shao_Linjuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shao_linjuan@schools.gov.sg</a>
-<br>
-<br>Ms Evelyn Tan
-<br><a href="mailto:tan_leng_hwee_evelyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_leng_hwee_evelyn@schools.gov.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -590,12 +584,13 @@ variant: tiptap
 <p>P4-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p>Mdm Shao Linjuan
+<br><a href="mailto:Shao_Linjuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shao_linjuan@schools.gov.sg</a>
 <br>
+<br>Ms Evelyn Tan
+<br><a href="mailto:tan_leng_hwee_evelyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_leng_hwee_evelyn@schools.gov.sg</a>
 <br>
 </p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
