@@ -382,12 +382,6 @@ variant: tiptap
 <p></p>
 <p>Mr Perry Chan</p>
 <p></p>
-<p>Mrs Hue-Tan Siew Hoon
-<br><a href="mailto:hue-tan_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hue-tan_siew_hoon@schools.gov.sg</a>
-<br>
-<br>Ms Shi Yuanna
-<br><a href="mailto:shi_yuanna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shi_yuanna@schools.gov.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -401,12 +395,6 @@ variant: tiptap
 <br><a href="mailto:tang_ling_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_ling_ling@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mr Low Kok Leong
-<br><a href="mailto:low_kok_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_kok_leong@schools.gov.sg</a>
-<br>
-<br>Ms Tan Hui Ling Lynnette
-<br><a href="mailto:tan_hui_ling_lynnette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_ling_lynnette@schools.gov.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -544,7 +532,11 @@ variant: tiptap
 <p>P4-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p>Mrs Hue-Tan Siew Hoon
+<br><a href="mailto:hue-tan_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hue-tan_siew_hoon@schools.gov.sg</a>
+<br>
+<br>Ms Shi Yuanna
+<br><a href="mailto:shi_yuanna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shi_yuanna@schools.gov.sg</a>
 <br>
 <br>Mdm Li Hongyu
 <br><a href="mailto:Li_Hongyu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_hongyu@schools.gov.sg</a>
@@ -556,8 +548,11 @@ variant: tiptap
 <p>P4-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p>Mr Low Kok Leong
+<br><a href="mailto:low_kok_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_kok_leong@schools.gov.sg</a>
 <br>
+<br>Ms Tan Hui Ling Lynnette
+<br><a href="mailto:tan_hui_ling_lynnette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_ling_lynnette@schools.gov.sg</a>
 <br>
 </p>
 </td>
