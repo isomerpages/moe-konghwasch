@@ -141,12 +141,6 @@ variant: tiptap
 <p><a href="mailto:tham_kok_wing@schools.gov.sg" rel="noopener nofollow" target="_blank">tham_kok_wing@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mdm Chua Hsiao Sze
-<br><a href="mailto:chua_hsiao_sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_hsiao_sze@schools.gov.sg</a>
-<br>
-<br>Mrs Thio-Kooh Yong Tse
-<br><a href="mailto:Kooh_Yong_Tse@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kooh_yong_tse@schools.gov.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -314,6 +308,13 @@ variant: tiptap
 <p>P2-8</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Chua Hsiao Sze
+<br><a href="mailto:chua_hsiao_sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_hsiao_sze@schools.gov.sg</a>
+<br>
+<br>Mrs Thio-Kooh Yong Tse
+<br><a href="mailto:Kooh_Yong_Tse@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kooh_yong_tse@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Mrs Lim-Foo Wanru Yvette
 <br><a href="mailto:foo_wanru_yvette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_wanru_yvette@schools.gov.sg</a>
 <br>
