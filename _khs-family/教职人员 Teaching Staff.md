@@ -427,13 +427,7 @@ variant: tiptap
 <p>Mrs Yeoh-Leong Poh Lay Claire
 <br><a href="mailto:leong_poh_lay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_poh_lay@schools.gov.sg</a>
 </p>
-<p>
-<br>Ms Han Xiaoru
-<br><a href="mailto:han_xiaoru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_xiaoru@schools.gov.sg</a>
-<br>
-<br>Ms Ng Chun Hui
-<br><a href="mailto:Ng_Chun_Hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chun_hui@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -576,6 +570,13 @@ variant: tiptap
 <p>P4-5</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Han Xiaoru
+<br><a href="mailto:han_xiaoru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_xiaoru@schools.gov.sg</a>
+<br>
+<br>Ms Ng Chun Hui
+<br><a href="mailto:Ng_Chun_Hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chun_hui@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Mrs Sharon Lynn Tan Chun Yin
 <br><a href="mailto:tan_chun_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chun_yin@schools.gov.sg</a>
 <br>
