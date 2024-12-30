@@ -103,11 +103,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Tong Joo
-<br><a href="mailto:tan_tong_joo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_tong_joo@schools.gov.sg</a>
+<p>Mdm Li Hongyu<a href="mailto:Li_Hongyu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>li_hongyu@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -451,8 +450,7 @@ variant: tiptap
 <p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Seow-Ng Woon Shin Joelynn
-<br><a href="mailto:ng_woon_shin_joelynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_woon_shin_joelynn@schools.gov.sg</a>
+<p>Mdm Nurafida Bte Mohd Anis<a href="mailto:nurafida_mohamed_anis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>nurafida_mohamed_anis@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -664,7 +662,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head</p>
+<p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Low Kok Leong
