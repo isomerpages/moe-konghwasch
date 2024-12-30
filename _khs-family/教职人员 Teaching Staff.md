@@ -284,11 +284,7 @@ variant: tiptap
 <p>Miss Azirah Jamal
 <br><a href="mailto:azirah_jamal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azirah_jamal@schools.gov.sg</a>
 </p>
-<p>
-<br>Mdm An Wei
-<br><a href="mailto:an_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">an_wei@schools.gov.sg</a>
-<br>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -542,11 +538,7 @@ variant: tiptap
 <p>Mdm Zheng Huier</p>
 <p><a href="mailto:zheng_huier@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Zheng_Huier@schools.gov.sg</a>
 </p>
-<p>
-<br>
-<br>Mrs Wong-Lee Lay Hua Agnes
-<br><a href="mailto:lee_lay_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lay_hua@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -673,6 +665,13 @@ variant: tiptap
 <p>P5-4</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Wong-Lee Lay Hua Agnes
+<br><a href="mailto:lee_lay_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lay_hua@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mdm An Wei
+<br><a href="mailto:an_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">an_wei@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
