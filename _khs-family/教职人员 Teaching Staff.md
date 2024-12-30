@@ -307,10 +307,6 @@ variant: tiptap
 <br><a href="mailto:Kooh_Yong_Tse@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kooh_yong_tse@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mrs Lim-Foo Wanru Yvette
-<br><a href="mailto:foo_wanru_yvette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_wanru_yvette@schools.gov.sg</a>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -438,9 +434,18 @@ variant: tiptap
 <p>P3-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Seow-Ng Woon Shin Joelynn
-<br><a href="mailto:ng_woon_shin_joelynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_woon_shin_joelynn@schools.gov.sg</a>
-<br>
+<p>Mr Jerry Yang
+<br><a href="mailto:Yang_Ziyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yang_ziyi@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mrs Lim-Foo Wanru Yvette
+<br><a href="mailto:foo_wanru_yvette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_wanru_yvette@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mrs Yeoh-Leong Poh Lay Claire
+<br><a href="mailto:leong_poh_lay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_poh_lay@schools.gov.sg</a>
+</p>
+<p>
 <br>Ms Han Xiaoru
 <br><a href="mailto:han_xiaoru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_xiaoru@schools.gov.sg</a>
 <br>
@@ -737,8 +742,7 @@ variant: tiptap
 <p>Mrs Sharon Maggie Seet
 <br><a href="mailto:sharon_maggie_seet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharon_maggie_seet@schools.gov.sg</a>
 <br>
-<br>Mrs Yeoh-Leong Poh Lay Claire
-<br><a href="mailto:leong_poh_lay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_poh_lay@schools.gov.sg</a>
+<br>
 </p>
 </td>
 </tr>
@@ -773,8 +777,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>
 <br>
-<br>Mr Jerry Yang
-<br><a href="mailto:Yang_Ziyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yang_ziyi@schools.gov.sg</a>
+<br>
 </p>
 </td>
 </tr>
