@@ -62,12 +62,6 @@ variant: tiptap
 <br><a href="mailto:Zi_Jian_NG@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zi_jian_ng@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mdm Lim Ai Yi
-<br><a href="mailto:lim_ai_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ai_yi@schools.gov.sg</a>
-<br>
-<br>Mr Lee Yew Cheong
-<br><a href="mailto:lee_yew_cheong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yew_cheong@schools.gov.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -83,12 +77,6 @@ variant: tiptap
 <br><a href="mailto:chan_jye_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_jye_yin@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mrs Tan-Chang Zhi Jun
-<br><a href="mailto:chang_zhi_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_zhi_jun@schools.gov.sg</a>
-<br>
-<br>Mrs Wong-Lim Eng Tsing
-<br><a href="mailto:wong_lim_eng_tsing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lim_eng_tsing@schools.gov.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -263,8 +251,11 @@ variant: tiptap
 <p>P2-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p>Mdm Lim Ai Yi
+<br><a href="mailto:lim_ai_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ai_yi@schools.gov.sg</a>
 <br>
+<br>Mr Lee Yew Cheong
+<br><a href="mailto:lee_yew_cheong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yew_cheong@schools.gov.sg</a>
 <br>
 </p>
 </td>
@@ -274,7 +265,14 @@ variant: tiptap
 <p>P2-4</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Tan-Chang Zhi Jun
+<br><a href="mailto:chang_zhi_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_zhi_jun@schools.gov.sg</a>
+</p>
+<p></p>
 <p>
+<br>
+<br>Mrs Wong-Lim Eng Tsing
+<br><a href="mailto:wong_lim_eng_tsing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lim_eng_tsing@schools.gov.sg</a>
 <br>
 <br>
 </p>
