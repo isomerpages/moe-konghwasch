@@ -402,6 +402,12 @@ variant: tiptap
 <p>P3-3</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Ng Ying Hui</p>
+<p></p>
+<p>Mdm Tang Ling Ling
+<br><a href="mailto:tang_ling_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_ling_ling@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Mr Low Kok Leong
 <br><a href="mailto:low_kok_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_kok_leong@schools.gov.sg</a>
 <br>
@@ -520,8 +526,7 @@ variant: tiptap
 <p>Mdm Quah Li Zhen
 <br><a href="mailto:Quah_Li_Zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quah_li_zhen@schools.gov.sg</a>
 <br>
-<br>Mdm Tang Ling Ling
-<br><a href="mailto:tang_ling_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_ling_ling@schools.gov.sg</a>
+<br>
 </p>
 </td>
 </tr>
