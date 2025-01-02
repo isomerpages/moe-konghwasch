@@ -240,13 +240,6 @@ variant: tiptap
 <a href="mailto:Amanda_Tan_Bee_Keng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mrs Wong-Lim Eng Tsing
-<br><a href="mailto:wong_lim_eng_tsing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lim_eng_tsing@schools.gov.sg</a>
-<br>
-<br>Mr Muhammad Zulkifli Bin Mohd Idries
-<br><a href="mailto:muhammad_zulkifli_mohd_idries@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_zulkifli_mohd_idries@schools.gov.sg</a>
-</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -363,10 +356,6 @@ variant: tiptap
 <p>P3-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chin Wan Chen Vivienne
-<br><a href="mailto:chin_wan_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_wan_chen@schools.gov.sg</a>
-</p>
-<p></p>
 <p>Mrs Kang-Hwang Yongxiang
 <br><a href="mailto:hwang_yongxiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hwang_yongxiang@schools.gov.sg</a>
 </p>
@@ -409,10 +398,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Jerry Yang
 <br><a href="mailto:Yang_Ziyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yang_ziyi@schools.gov.sg</a>
-</p>
-<p></p>
-<p>Mrs Lim-Foo Wanru Yvette
-<br><a href="mailto:foo_wanru_yvette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_wanru_yvette@schools.gov.sg</a>
 </p>
 <p></p>
 <p>Mrs Yeoh-Leong Poh Lay Claire
