@@ -53,17 +53,12 @@ and entrepreneurship capabilities through school-based activities.</p>
 <br>Time: 2 pm to 3.30 pm
 <br>Venue: Computer Labs 2 and 3</p>
 <h4>Teachers In-Charge</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Zi Jian&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_zi_jian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_zi_jian@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Quah Li Zhen</p>
@@ -75,10 +70,10 @@ and entrepreneurship capabilities through school-based activities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Low Kok Leong&nbsp;</p>
+<p>Mr Ng Zi Jian&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_kok_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_kok_leong@moe.edu.sg</a>
+<p><a href="mailto:ng_zi_jian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_zi_jian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
