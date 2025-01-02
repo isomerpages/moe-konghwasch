@@ -33,7 +33,11 @@ programmes with other schools.</p>
 <br>Time: 2 pm to 4 pm
 <br>Venue: Guzheng Room</p>
 <h4>Teachers In-Charge</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -41,6 +45,15 @@ programmes with other schools.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_lee_ling_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_lee_ling_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Su Yan&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:su_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">su_yan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -54,10 +67,10 @@ programmes with other schools.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Su Yan&nbsp;</p>
+<p>Mdm Sim Kim Noy Anilia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:su_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">su_yan@schools.gov.sg</a>
+<p><a href="mailto:Sim_Kim_Noy_Anilia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Sim_Kim_Noy_Anilia@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
