@@ -45,7 +45,11 @@ thoughts and feeling</p>
 <br>Time: 2 pm to 4 pm
 <br>Venue: Dance Room</p>
 <h4>Teachers In-Charge</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -71,6 +75,15 @@ thoughts and feeling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liu_yali_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yali_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Teng-Ho Yanlin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_yan_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ho_yan_lin@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
