@@ -50,17 +50,12 @@ and also took part in the annual National Inter-Primary School Wushu Championshi
 <br>Time: 2 pm to 3.30 pm
 <br>Venue: ISH Level 1</p>
 <h4>Teachers In-Charge</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Han Xiaoru&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:han_xiaoru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_xiaoru@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Miss Lim Jie Xi</p>
@@ -81,10 +76,10 @@ and also took part in the annual National Inter-Primary School Wushu Championshi
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Siew Huang&nbsp;</p>
+<p>Miss Pay Hui Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_siew_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_siew_huang@schools.gov.sg</a>
+<p><a href="mailto:pay_hui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pay_hui_ling@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
