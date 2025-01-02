@@ -33,7 +33,11 @@ perseverance, teamwork and the spirit of sportsmanship.</p>
 <p>Tuesday and Thursday: 4.15 p.m. – 5.45 p.m.
 <br>Venue: ISH1</p>
 <h4>Teachers In-Charge</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -41,15 +45,6 @@ perseverance, teamwork and the spirit of sportsmanship.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jaysern_lee_teck_chuang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jaysern_lee_teck_chuang@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Matilda Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:matilda_sim_li_juan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">matilda_sim_li_juan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -64,11 +59,10 @@ perseverance, teamwork and the spirit of sportsmanship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Liew Hwee Cheng&nbsp;</p>
+<p>Mr Chen Zhirong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liew_hwee_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liew_hwee_cheng@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
