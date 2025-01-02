@@ -49,7 +49,11 @@ and their opponent, and the pieces on the chessboard are.</p>
 <br>Time: 2 PM – 3.30 PM
 <br>Venue: A201, A202, A203 classroom</p>
 <h4>Teachers In-Charge</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -62,19 +66,19 @@ and their opponent, and the pieces on the chessboard are.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Teng-Ho Yanlin</p>
+<p>Ms Chin Wan Chen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_yan_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yan_lin@schools.gov.sg</a>
+<p><a href="mailto:chin_wan_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_wan_chen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chin Wan Chen</p>
+<p>Mdm Li Hongyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chin_wan_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_wan_chen@schools.gov.sg</a>
+<p><a href="mailto:Li_Hongyu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>li_hongyu@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
