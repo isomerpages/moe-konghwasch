@@ -35,16 +35,6 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Gan-Foo Mei Ping
-<br><a href="mailto:foo_mei_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_mei_ping@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Ue-Tay Sze Yin
 <br><a href="mailto:Ue-Tay_Sze_Yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ue-tay_sze_yin@schools.gov.sg</a>
 </p>

@@ -71,7 +71,11 @@ develop new skills.</p>
 <p>Day: Friday
 <br>Time: 2 pm to 3.30 pm</p>
 <h4>Teacher In-Charge</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">

@@ -55,7 +55,11 @@ participate in Art Competitions.</p>
 <br>Time: 2 pm to 3.30 pm
 <br>Venue: Art Rooms</p>
 <h4>Teachers In-Charge</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -72,15 +76,6 @@ participate in Art Competitions.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pei_qianru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pei_qianru@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Xu Jing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:xu_jing_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xu_jing_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>

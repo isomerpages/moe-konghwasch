@@ -76,35 +76,12 @@ pinnacle award in Cub Scouting – the Akela.</p>
 <br>Time: 3 pm to 3.30 pm
 <br>Venue:B4-05</p>
 <h4>Teacher In-Charge</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Jerry Yang&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yang_ziyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_ziyi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Anilia Sim&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sim_kim_noy_anilia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_kim_noy_anilia@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Tong Joo&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_tong_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_tong_joo@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Shi Yuanna</p>
@@ -116,10 +93,27 @@ pinnacle award in Cub Scouting – the Akela.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Eng Huat</p>
+<p>Mr Perry Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_eng_huat_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_eng_huat_a@schools.gov.sg</a>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jerry Yang&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yang_ziyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_ziyi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zheng Huier</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zheng_huier@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zheng_huier@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

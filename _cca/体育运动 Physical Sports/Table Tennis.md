@@ -55,7 +55,11 @@ well as develop a bond with the sport and their fellow CCA peers.</p>
 <br>Time: 2 pm to 5 pm
 <br>Venue: ISH 3</p>
 <h4>Teachers In-Charge</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -63,15 +67,6 @@ well as develop a bond with the sport and their fellow CCA peers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:khoo_wenzhong_james@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_wenzhong_james@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Zulkifli&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_zulkifli_mohd_idries@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_zulkifli_mohd_idries@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -95,28 +90,10 @@ well as develop a bond with the sport and their fellow CCA peers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Joelynn Seow&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_woon_shin_joelynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_woon_shin_joelynn@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Jessica Loo&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loo_yin_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_yin_wai@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Nazriana&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siti_nazriana_busari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nazriana_busari@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -147,8 +124,17 @@ well as develop a bond with the sport and their fellow CCA peers.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Seet Qiu Yiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
 <p>Achievements &amp; Highlights</p>
 <p><strong>National School Games East Zone Table Tennis 2021 (Senior)</strong>
 </p>

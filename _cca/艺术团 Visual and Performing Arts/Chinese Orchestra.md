@@ -47,7 +47,13 @@ showcasing opportunities for our members within schools through events
 like Chinese New Year, KHS Aesthetic Showcase and beyond schools at Singapore
 Hokkien Huay Kuan and other venues.</p>
 <h4>Training Schedule</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -115,180 +121,87 @@ Hokkien Huay Kuan and other venues.</p>
 </tbody>
 </table>
 <h4>Teachers In-Charge</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="3" colspan="1">
-<p>Overall In Charge
-<br>
-</p>
-</th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Ms Chan Yin Ling</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:chan_yin_ling_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_yin_ling_a@schools.gov.sg</a>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_yin_ling_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chan_yin_ling_a@schools.gov.sg</u></a>
 </p>
-</th>
+</td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mdm Tan Siew Sian</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:tan_siew_sian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siew_sian@schools.gov.sg</a>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_siew_sian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_siew_sian@schools.gov.sg</u></a>
 </p>
-</th>
+</td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mdm Chua Hsiao Sze</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:chua_hsiao_sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_hsiao_sze@schools.gov.sg</a>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>大组练习Combined Practice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Goh-Wong Lee Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_lee_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lee_ping@schools.gov.sg</a>
+<p><a href="mailto:chua_hsiao_sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_hsiao_sze@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sectionals Teachers-In-Charge:</p>
+<p>Ms Xu Jing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>唢呐Suona &amp;
-<br>笙Sheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chan Yin Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chan_yin_ling_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_yin_ling_a@schools.gov.sg</a>
+<p><a href="mailto:xu_jing_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>xu_jing_b@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>笛子Dizi</p>
+<p>Mrs Sharon Maggie Seet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Shirley Choong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:choong_wah_loy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choong_wah_loy@schools.gov.sg</a>
+<p><a href="mailto:sharon_maggie_seet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sharon_maggie_seet@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>二胡Erhu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs. Hue-Tan Siew Hoon
-<br>Ms Liu Tese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hue-tan_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hue-tan_siew_hoon@schools.gov.sg <br><br></a> 
-<a href="mailto:liu_tese@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_tese@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>大提琴Cello
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>阮Ruan
-<br>柳琴Liuqin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Sharon Seet</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sharon_maggie_seet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharon_maggie_seet@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>琵琶Pipa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Violet Yip</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yip_lai_ching_violet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yip_lai_ching_violet@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>打击乐Percussion</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mrs Seah-Tan Hui Xian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hui_xian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_xian@schools.gov.sg</a>
+<p><a href="mailto:tan_hui_xian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_hui_xian@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>扬琴Liuqin</p>
+<p>Miss Yip Lai Ching Violet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Hsiao Sze</p>
+<p><a href="mailto:yip_lai_ching_violet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yip_lai_ching_violet@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Goh-Wong Lee Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_hsiao_sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_hsiao_sze@schools.gov.sg</a>
+<p><a href="mailto:wong_lee_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_lee_ping@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <h4>Achievements and Highlights</h4>
 <p><strong>Singapore Youth Festival (SYF) Central Judging</strong>
 </p>
