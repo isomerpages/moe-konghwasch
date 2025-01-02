@@ -48,14 +48,18 @@ sportsmanship.</p>
 <br>Girls Team 1: Monday, Wednesday and Friday from 2 p.m. – 5 p.m.
 <br>Girls Team 2: Monday and Wednesday from 2 p.m. – 5 p.m.</p>
 <h4>Teachers In-Charge</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Thio-Kooh Yong Tse</p>
+<p>Mr Muhammad Zulkifli Bin Mohd Idries</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kooh_yong_tse@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kooh_yong_tse@schools.gov.sg</a>
+<p><a href="mailto:muhammad_zulkifli_mohd_idries@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>muhammad_zulkifli_mohd_idries@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -70,28 +74,28 @@ sportsmanship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Wong-Ho Si Yi&nbsp;</p>
+<p>Mrs Thio-Kooh Yong Tse</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_si_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_si_yi@schools.gov.sg</a>
+<p><a href="mailto:kooh_yong_tse@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kooh_yong_tse@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pay Hui Ling&nbsp;</p>
+<p>Mdm Nuraisha Bte Mohd Anis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pay_hui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pay_hui_ling@schools.gov.sg</a>
+<p><a href="mailto:nuraisha_mohamed_anis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nuraisha_mohamed_anis@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Sharon Lynn Tan&nbsp;</p>
+<p>Mdm Siti Nazriana Bte Busari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chun_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chun_yin@schools.gov.sg</a>
+<p><a href="mailto:siti_nazriana_busari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_nazriana_busari@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -106,19 +110,28 @@ sportsmanship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wendy Hoon&nbsp;</p>
+<p>Mrs Wong-Ho Si Yi&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hoon_siow_hway@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoon_siow_hway@schools.gov.sg</a>
+<p><a href="mailto:ho_si_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_si_yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Evelyn Tan&nbsp;</p>
+<p>Mrs Tan-Chang Zhi Jun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_leng_hwee_evelyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_leng_hwee_evelyn@schools.gov.sg</a>
+<p><a href="mailto:chang_zhi_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chang_zhi_jun@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Sharon Lynn Tan&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_chun_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chun_yin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
