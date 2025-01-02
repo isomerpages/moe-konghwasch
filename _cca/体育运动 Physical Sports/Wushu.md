@@ -67,19 +67,19 @@ and also took part in the annual National Inter-Primary School Wushu Championshi
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Gan Ching Ching &nbsp;</p>
+<p>Miss Pay Hui Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gan_ching_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gan_ching_ching@schools.gov.sg</a>
+<p><a href="mailto:pay_hui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pay_hui_ling@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Pay Hui Ling</p>
+<p>Ms Gan Ching Ching &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pay_hui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pay_hui_ling@schools.gov.sg</u></a>
+<p><a href="mailto:gan_ching_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gan_ching_ching@schools.gov.sg</a>
 </p>
 </td>
 </tr>
