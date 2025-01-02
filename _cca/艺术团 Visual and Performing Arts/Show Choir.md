@@ -37,17 +37,12 @@ definitely greatly enhance your social and cooperative skills too!</p>
 <br>Time: 2 pm to 4 pm
 <br>Venue: Music Room 2 (C302)</p>
 <h4>Teachers In-Charge</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Rachel Han&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:han_simin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_simin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Hui Ling Lynnette&nbsp;</p>
@@ -59,10 +54,19 @@ definitely greatly enhance your social and cooperative skills too!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Li Hongyu&nbsp;</p>
+<p>Mdm Liew Hwee Cheng Lynn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:li_hongyu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_hongyu@schools.gov.sg</a>
+<p><a href="mailto:liew_hwee_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>liew_hwee_cheng@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Azirah Jamal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:azirah_jamal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>azirah_jamal@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
