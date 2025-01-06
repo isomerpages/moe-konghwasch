@@ -489,7 +489,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Year Heads &amp; Assistant Year Head</strong>
+<p><strong>Student Development Team</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -528,7 +528,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Subject Head - Student Wellbeing | Special Educational Needs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Tan Yan Shan
@@ -600,41 +600,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Special Educational Needs</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Siew Sian
-<br><a href="mailto:tan_siew_sian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siew_sian@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-<br>
-</p>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
