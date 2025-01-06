@@ -600,7 +600,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>
+<br>
+</p>
 <p></p>
 <p></p>
 <table style="minWidth: 50px">
