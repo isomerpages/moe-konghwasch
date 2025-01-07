@@ -4,7 +4,7 @@ permalink: /moral/moe-sexuality-education/
 description: ""
 variant: tiptap
 ---
-<h3><strong>MOE Sexuality Education in Schools</strong></h3>
+<h3><strong>Moe Sexuality Education in Schools</strong></h3>
 <p>&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 (SEd) in schools aims to enable students to understand the physiological,
 social and emotional changes they experience as they mature, develop healthy
@@ -15,21 +15,20 @@ basic unit of society. This means encouraging healthy, heterosexual marriages
 and stable nuclear family units with extended family support. The teaching
 and learning of SEd is based on respect for the values and beliefs of the
 different ethnic and religious communities in Singapore on sexuality issues.</p>
-<p></p>
-<p>&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
+<p>&nbsp;</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
 Sexuality Education are:</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support students
-in managing their physiological, social and emotional changes as they grow
-up and develop safe and healthy relationships.</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide students
-to make wise, informed and responsible decisions on sexuality matters.</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students
-develop a moral compass and respect for themselves and others by having
-positive mainstream values and attitudes about sexuality that are premised
-on the family as the basic unit of society.</p>
+<p>(a) Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.</p>
+<p>(b) Guide students to make wise, informed and responsible decisions on
+sexuality matters.</p>
+<p>(c) Help students develop a moral compass and respect for themselves and
+others by having positive mainstream values and attitudes about sexuality
+that are premised on the family as the basic unit of society.</p>
 <p>&nbsp;</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
+<p>&nbsp;</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and respect
 yourself as you love and respect others;</p>
 <p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build positive
@@ -45,7 +44,7 @@ Casual sex can harm and hurt you and your loved ones.</p>
 more information on MOE Sexuality Education.</p>
 <p><strong><br></strong>
 </p>
-<p><strong>Overview of Kong Hwa School’s Sexuality Education Programme for 2024</strong>
+<p><strong>Overview of Kong Hwa School’s Sexuality Education Programme for 2025</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
@@ -78,17 +77,24 @@ social and emotional changes in their growing years. They learn to build
 healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;<strong>At Kong Hwa School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
+<p>&nbsp;
+<br>
 </p>
-<p>&nbsp;</p>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>At Kong Hwa School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
-<p><strong>&nbsp;Primary 5</strong>
+<p>&nbsp;<strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
-<p></p>
-<table>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Primary 5</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -105,6 +111,8 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
+</p>
+<p><strong>&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -171,13 +179,24 @@ and how to seek help for themselves and their friends.</p>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong><br></strong>
 </p>
-<p><strong>&nbsp;Primary 6</strong>
+<p></p>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<table>
+<p><strong>Primary 6</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -194,6 +213,8 @@ and how to seek help for themselves and their friends.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
+</p>
+<p><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </td>
 </tr>
@@ -216,7 +237,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p>Term 4</p>
 </td>
 </tr>
 <tr>
@@ -233,7 +254,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p>Term 4</p>
 </td>
 </tr>
 </tbody>
@@ -248,9 +269,10 @@ Education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated &nbsp;to parents at the
-start of the year and is also downloadable <a href="/files/MOE_Sexuality_Education_2024_Parent_Opt_out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-The completed opt-out form is to be submitted by 16/02/2024.</p>
+start of the year and is also downloadable <a href="/files/MOE SED/MOE_Sexuality_Education_2025_Parent_Opt_out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
+The completed opt-out form is to be submitted by 31/01/2025.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
-at 63421195 or email to <a rel="noopener noreferrer nofollow" target="_blank">konghwa_sch@moe.edu.sg</a> for
+at 6342 1195 or <a rel="noopener noreferrer nofollow" target="_blank">konghwa_sch@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
+<p></p>
