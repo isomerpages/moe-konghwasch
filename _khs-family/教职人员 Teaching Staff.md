@@ -262,6 +262,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Seet Qiu Yiong
+<br><a href="mailto:seet_qiu_yiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seet_qiu_yiong@schools.gov.sg</a>
 <br>
 <br>Ms Ivy Lee Pei Sze
 <br><a href="mailto:lee_pei_sze_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_pei_sze_a@schools.gov.sg</a>
