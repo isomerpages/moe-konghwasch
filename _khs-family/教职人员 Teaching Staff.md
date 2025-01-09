@@ -361,7 +361,9 @@ variant: tiptap
 <br><a href="mailto:hwang_yongxiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hwang_yongxiang@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mr Perry Chan</p>
+<p>Mr Perry Chan
+<br><a href="mailto:perry_chan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">perry_chan@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -370,7 +372,9 @@ variant: tiptap
 <p>P3-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Ying Hui</p>
+<p>Mr Ng Ying Hui
+<br><a href="mailto:ng_ying_hui_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ying_hui_a@schools.gov.sg</a>
+</p>
 <p></p>
 <p>Mdm Tang Ling Ling
 <br><a href="mailto:tang_ling_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_ling_ling@schools.gov.sg</a>
