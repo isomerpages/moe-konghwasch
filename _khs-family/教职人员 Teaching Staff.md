@@ -674,7 +674,9 @@ variant: tiptap
 <br><a href="mailto:wong_luan_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_luan_yin@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mr Chen Zhirong</p>
+<p>Mr Chen Zhirong
+<br><a href="mailto:chen_zhirong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_zhirong@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
