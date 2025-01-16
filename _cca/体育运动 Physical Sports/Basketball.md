@@ -24,14 +24,11 @@ members. The training sessions gave students the opportunity to learn and
 apply the fundamental basketball skills and inculcate values such as resilience,
 perseverance, teamwork and the spirit of sportsmanship.</p>
 <h4>Training Schedule</h4>
-<p><strong>Recreational</strong>
-</p>
-<p>Monday: 3.45 p.m. – 5.15 p.m.
-<br>Venue: ISH1</p>
-<p><strong>School Team</strong>
-</p>
-<p>Tuesday and Thursday: 4.15 p.m. – 5.45 p.m.
-<br>Venue: ISH1</p>
+<p>Mondays</p>
+<p>2 p.m. - 5 p.m. : P5 &amp; P6
+<br>3.30 p.m. - 5 p.m. : P3 &amp; P4</p>
+<p>Thursdays</p>
+<p>4.15 p.m. - 5.45 p.m. : P5 &amp; P6</p>
 <h4>Teachers In-Charge</h4>
 <table style="minWidth: 50px">
 <colgroup>
