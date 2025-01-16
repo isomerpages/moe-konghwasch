@@ -61,7 +61,8 @@ perseverance, teamwork and the spirit of sportsmanship.</p>
 <p>Mr Chen Zhirong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chen_zhirong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chen_zhirong@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 </tbody>
