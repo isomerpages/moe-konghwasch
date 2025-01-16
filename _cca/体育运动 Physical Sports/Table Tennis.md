@@ -129,7 +129,8 @@ well as develop a bond with the sport and their fellow CCA peers.</p>
 <p>Ms Seet Qiu Yiong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:seet_qiu_yiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>seet_qiu_yiong@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 </tbody>
