@@ -55,9 +55,9 @@ them to take on the role of their favourite characters in the stories.</p>
 programme. The first tier equips all students with basic journalistic skills,
 such as researching, interviewing, and presenting. Students create video
 news, aligned to themes in STELLAR, where they step into the roles of a
-<a href="http://journalist.In" rel="noopener noreferrer nofollow" target="_blank">journalist.In</a>the second tier, a selected group of students further
-hone their skills by producing newsworthy videos for KHS Live! This year,
-KHS Live! has been extended to the learning of Chinese Language in support
+journalist in the second tier, a selected group of students further hone
+their skills by producing newsworthy videos for KHS Live! This year, KHS
+Live! has been extended to the learning of Chinese Language in support
 of our school’s mission to empower Kong Hwaians with language skills and
 cross-cultural appreciation that come with bilingualism in English and
 Chinese languages. Students get a taste of the life of a journalist through
