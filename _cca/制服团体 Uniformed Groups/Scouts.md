@@ -96,7 +96,8 @@ pinnacle award in Cub Scouting – the Akela.</p>
 <p>Mr Perry Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:perry_chan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>perry_chan@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>

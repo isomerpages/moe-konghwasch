@@ -24,14 +24,13 @@ members. The training sessions gave students the opportunity to learn and
 apply the fundamental basketball skills and inculcate values such as resilience,
 perseverance, teamwork and the spirit of sportsmanship.</p>
 <h4>Training Schedule</h4>
-<p><strong>Recreational</strong>
+<p><u>Mondays</u>
 </p>
-<p>Monday: 3.45 p.m. – 5.15 p.m.
-<br>Venue: ISH1</p>
-<p><strong>School Team</strong>
+<p>2 p.m. - 5 p.m. : P5 &amp; P6
+<br>3.30 p.m. - 5 p.m. : P3 &amp; P4</p>
+<p><u>Thursdays</u>
 </p>
-<p>Tuesday and Thursday: 4.15 p.m. – 5.45 p.m.
-<br>Venue: ISH1</p>
+<p>4.15 p.m. - 5.45 p.m. : P5 &amp; P6</p>
 <h4>Teachers In-Charge</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -62,7 +61,8 @@ perseverance, teamwork and the spirit of sportsmanship.</p>
 <p>Mr Chen Zhirong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chen_zhirong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chen_zhirong@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 </tbody>
