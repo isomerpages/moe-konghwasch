@@ -73,7 +73,7 @@ Scouts who have earned their Gold Arrow badges, can aspire to attain the
 pinnacle award in Cub Scouting – the Akela.</p>
 <h4>Training Schedule</h4>
 <p>Day: Every Friday
-<br>Time: 3 pm to 3.30 pm
+<br>Time: 2 pm to 3.30 pm
 <br>Venue:B4-05</p>
 <h4>Teacher In-Charge</h4>
 <table style="minWidth: 50px">
