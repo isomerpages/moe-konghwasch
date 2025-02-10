@@ -96,8 +96,8 @@ variant: tiptap
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>杨晶晶&nbsp;</p>
-<p>JUMIATY NURAWAN</p>
+<p>龙国芬</p>
+<p>LIANG KOK FEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副秘书</p>
@@ -108,8 +108,8 @@ variant: tiptap
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>罗德民</p>
-<p>LOO TECK MING</p>
+<p>李彦</p>
+<p>IAN LEE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>财政</p>
@@ -120,8 +120,8 @@ variant: tiptap
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>李彦</p>
-<p>IAN LEE</p>
+<p>罗德民</p>
+<p>LOO TECK MING</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副财政</p>
@@ -204,8 +204,8 @@ variant: tiptap
 <p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>李秀英</p>
-<p>LEE SIEW ENG</p>
+<p>黄伟生</p>
+<p>NG WEE SENG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>交际</p>
@@ -216,8 +216,8 @@ variant: tiptap
 <p>16</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>黄伟生&nbsp;</p>
-<p>NG WEE SENG</p>
+<p>陈光荣</p>
+<p>TAN KWANG YONG, JAMES</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副交际</p>
@@ -226,19 +226,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>17</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>陈光荣</p>
-<p>TAN KWANG YONG, JAMES</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>副交际</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>陈诗家&nbsp;</p>
@@ -250,7 +237,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19</p>
+<p>18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>陈思㻰</p>
@@ -262,7 +249,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20</p>
+<p>19</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>龙国芬&nbsp;</p>
@@ -274,7 +261,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21</p>
+<p>20</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>吕建宏</p>
@@ -286,7 +273,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22</p>
+<p>21</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>庞君民</p>
@@ -298,7 +285,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23</p>
+<p>22</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>胡昌辉</p>
@@ -310,7 +297,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24</p>
+<p>23</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>陈慧玲</p>
@@ -322,7 +309,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25</p>
+<p>24</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>王沁滢&nbsp;</p>
@@ -334,7 +321,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26</p>
+<p>25</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>王沁茹&nbsp;</p>
@@ -346,7 +333,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27</p>
+<p>26</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>郑琳娜 &nbsp;</p>
