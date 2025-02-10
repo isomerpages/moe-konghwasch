@@ -7,10 +7,15 @@ variant: tiptap
 <h3>KHS Alumni Association</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7f424470_4a4b_485c_ac7d_7933cfe369a4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni_Photo_2025.jpg">
 </div>
 <h4><strong>光华校友会 第十六届理事会 </strong><br></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
