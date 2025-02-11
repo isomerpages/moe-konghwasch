@@ -252,8 +252,8 @@ variant: tiptap
 <p>19</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>龙国芬&nbsp;</p>
-<p>LIANG KOK FEN</p>
+<p>吕建宏</p>
+<p>LOO KIANG HONG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>文教</p>
@@ -264,8 +264,8 @@ variant: tiptap
 <p>20</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>吕建宏</p>
-<p>LOO KIANG HONG</p>
+<p>陈慧玲</p>
+<p>TAN HWEE LIN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副文教</p>
