@@ -324,8 +324,8 @@ variant: tiptap
 <p>25</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>王沁滢&nbsp;</p>
-<p>ONG CHIN YIN</p>
+<p>王沁茹&nbsp;</p>
+<p>ONG CHIN RHU</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>委员</p>
@@ -336,8 +336,8 @@ variant: tiptap
 <p>26</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>王沁茹&nbsp;</p>
-<p>ONG CHIN RHU</p>
+<p>王沁滢&nbsp;</p>
+<p>ONG CHIN YIN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>委员</p>
