@@ -276,6 +276,18 @@ variant: tiptap
 <p>21</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>黄星源</p>
+<p>DESMOND WONG SIN GUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>副文教</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>庞君民</p>
 <p>PANG CHIUN MIN</p>
 </td>
@@ -285,7 +297,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22</p>
+<p>23</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>胡昌辉</p>
@@ -297,23 +309,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>陈慧玲</p>
-<p>TAN HWEE LIN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>副青年团</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>24</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>王沁滢&nbsp;</p>
-<p>ONG CHIN YIN</p>
+<p>郑仰丰</p>
+<p>ALFRED TAY YANG FENG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副青年团</p>
@@ -324,8 +324,8 @@ variant: tiptap
 <p>25</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>王沁茹&nbsp;</p>
-<p>ONG CHIN RHU</p>
+<p>王沁滢&nbsp;</p>
+<p>ONG CHIN YIN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>委员</p>
@@ -336,8 +336,8 @@ variant: tiptap
 <p>26</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>郑琳娜 &nbsp;</p>
-<p>TEE LINDA</p>
+<p>王沁茹&nbsp;</p>
+<p>ONG CHIN RHU</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>委员</p>
