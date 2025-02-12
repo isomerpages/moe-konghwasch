@@ -9,7 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni_Photo_2025.jpg">
 </div>
-<h4><strong>光华校友会 第十六届理事会 </strong><br></h4>
+<h4><strong>光华校友会 第十七届理事会 </strong><br></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
