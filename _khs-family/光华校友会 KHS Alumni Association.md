@@ -7,10 +7,15 @@ variant: tiptap
 <h3>KHS Alumni Association</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7f424470_4a4b_485c_ac7d_7933cfe369a4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni_Photo_2025.jpg">
 </div>
-<h4><strong>光华校友会 第十六届理事会 </strong><br></h4>
-<table>
+<h4><strong>光华校友会 第十七届理事会 </strong><br></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -91,8 +96,8 @@ variant: tiptap
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>杨晶晶&nbsp;</p>
-<p>JUMIATY NURAWAN</p>
+<p>龙国芬</p>
+<p>LIANG KOK FEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副秘书</p>
@@ -103,8 +108,8 @@ variant: tiptap
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>罗德民</p>
-<p>LOO TECK MING</p>
+<p>李彦</p>
+<p>IAN LEE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>财政</p>
@@ -115,8 +120,8 @@ variant: tiptap
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>李彦</p>
-<p>IAN LEE</p>
+<p>罗德民</p>
+<p>LOO TECK MING</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副财政</p>
@@ -199,8 +204,8 @@ variant: tiptap
 <p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>李秀英</p>
-<p>LEE SIEW ENG</p>
+<p>黄伟生</p>
+<p>NG WEE SENG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>交际</p>
@@ -211,8 +216,8 @@ variant: tiptap
 <p>16</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>黄伟生&nbsp;</p>
-<p>NG WEE SENG</p>
+<p>陈光荣</p>
+<p>TAN KWANG YONG, JAMES</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副交际</p>
@@ -221,19 +226,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>17</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>陈光荣</p>
-<p>TAN KWANG YONG, JAMES</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>副交际</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>陈诗家&nbsp;</p>
@@ -245,7 +237,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19</p>
+<p>18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>陈思㻰</p>
@@ -257,11 +249,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20</p>
+<p>19</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>龙国芬&nbsp;</p>
-<p>LIANG KOK FEN</p>
+<p>吕建宏</p>
+<p>LOO KIANG HONG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>文教</p>
@@ -269,11 +261,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>陈慧玲</p>
+<p>TAN HWEE LIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>副文教</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>21</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>吕建宏</p>
-<p>LOO KIANG HONG</p>
+<p>黄星源</p>
+<p>DESMOND WONG SIN GUAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副文教</p>
@@ -308,8 +312,8 @@ variant: tiptap
 <p>24</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>陈慧玲</p>
-<p>TAN HWEE LIN</p>
+<p>郑仰丰</p>
+<p>ALFRED TAY YANG FENG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副青年团</p>
@@ -318,18 +322,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>25</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>王沁滢&nbsp;</p>
-<p>ONG CHIN YIN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>副青年团</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>王沁茹&nbsp;</p>
@@ -341,11 +333,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27</p>
+<p>26</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>郑琳娜 &nbsp;</p>
-<p>TEE LINDA</p>
+<p>王沁滢&nbsp;</p>
+<p>ONG CHIN YIN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>委员</p>
