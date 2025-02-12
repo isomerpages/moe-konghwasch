@@ -12,29 +12,30 @@ sections:
       title: KHS Highlights
       id: infobar
   - infopic:
-      title: KHS Art Magazine
-      description: We are thrilled to present to you our very own KHS Art Magazine!
-        This magazine is a wonderful way to explore the vibrant art scene at our
-        school.
+      title: Total Defence Day 2025
+      description: This Total Defence Day, Kong Hwa thanks our friends in the SPF and
+        SCDF for their continued dedication and service to our community and
+        nation!
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid023qAYXLpEDw2QJiW8bi5uUs1ejqZ6n4UGrC3FrPdHWc6jDGwkgG5J62BaZ7LJNVArl&id=100064994620909
-      image: /images/KHS Highlights/1.jpg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid023kjnc1zT4ufahZKioXJLAaT63WYnXaLN2DUWXiQTkv1zAJoSdzwVrZcLzhoG9yNtl&id=100064994620909
+      image: /images/KHS
+        Highlights/476599496_994955529347592_3581557147030926204_n.jpg
       alt: Image alt text
   - infopic:
-      title: P1 Orientation 2024
-      description: Newest members of the Kong Hwa Family came visiting for a preview
-        of their home away from home...
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0RrbZDwD6xHrxvttm8FQ36N1vJpAPR6MYSdNwsVidUni5G5KAGDT91hMhkvbXweVul&id=100064994620909
-      image: /images/KHS Highlights/2.jpg
+      title: Chinese New Year Celebrations
+      description: 农历新年的脚步悄然来临，光华全体师生于一月二十八日（农历除夕）上午，身着传统红色服装，欢庆蛇年的到来。
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02XftS4mh55Sges1vV299x6kG9k7yvSefvzbTWNiDGGYMBkTA3Lup731n2S5p48Tg3l&id=100064994620909
+      image: /images/KHS
+        Highlights/475836731_986323250210820_2830168264764974060_n.jpg
       alt: Image alt text
       button: Find out more
   - infopic:
-      title: Head Prefect Handover Ceremony
-      description: We thank all our P6 prefects and welcome our new batch of P5
-        prefects to take the reins, as they lead and show the way for our KHS
-        family.
+      title: P1/P2 Buddy Programme
+      description: Spending recesses together, these little buddies bonded, kindling a
+        relationship that may very well last through the coming years.
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0qLLYrEe2dotgRoTHXNBSEw8naDFHDrqEiC5W7Jhs8FGqzcpUfx2w31EgBnaVAhLzl&id=100064994620909
-      image: /images/KHS Highlights/3.jpg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid036E2BNhJbf5r33zbq9fPgyUWPt1MVtKYWLsVYoWbjMHt284VcdQQf33SpxaimT4sSl&id=100064994620909
+      image: /images/KHS
+        Highlights/472874640_972449274931551_7667359586314943199_n.jpg
       alt: Image alt text
 ---
