@@ -138,8 +138,7 @@ variant: tiptap
 </p>
 <p></p>
 <p>Mrs Tham Kok Wing
-<br><a href="mailto:tham_kok_wing@schools.gov.sg" rel="noopener nofollow" target="_blank">tham_kok_wing</a>
-<a href="mailto:tham_kok_wing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
+<br><a href="mailto:tham_kok_wing@schools.gov.sg" rel="noopener nofollow" target="_blank">tham_kok_wing@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
