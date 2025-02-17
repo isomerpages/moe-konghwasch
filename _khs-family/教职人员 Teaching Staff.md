@@ -104,8 +104,7 @@ variant: tiptap
 </p>
 <p></p>
 <p>Mrs Christine Kang
-<br><a href="mailto:lim_ching_chye@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_ching_chye</a>
-<a href="mailto:lim_ching_chye@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
+<br><a href="mailto:lim_ching_chye@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_ching_chye@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
@@ -139,8 +138,7 @@ variant: tiptap
 </p>
 <p></p>
 <p>Mrs Tham Kok Wing
-<br><a href="mailto:tham_kok_wing@schools.gov.sg" rel="noopener nofollow" target="_blank">tham_kok_wing</a>
-<a href="mailto:tham_kok_wing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
+<br><a href="mailto:tham_kok_wing@schools.gov.sg" rel="noopener nofollow" target="_blank">tham_kok_wing@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
@@ -236,8 +234,7 @@ variant: tiptap
 </p>
 <p></p>
 <p>Mrs Amanda Tan
-<br><a href="mailto:amanda_tan_bee_keng@schools.gov.sg" rel="noopener nofollow" target="_blank">amanda_tan_bee_keng</a>
-<a href="mailto:Amanda_Tan_Bee_Keng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
+<br><a href="mailto:amanda_tan_bee_keng@schools.gov.sg" rel="noopener nofollow" target="_blank">amanda_tan_bee_keng@schools.gov.sg</a>
 </p>
 <p></p>
 </td>

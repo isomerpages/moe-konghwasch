@@ -42,6 +42,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Teo Siew Khim
+<br><a href="mailto:Teo_Siew_Khim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_siew_khim@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Vice-Principal (Administration)</p>
 </td>
 <td rowspan="1" colspan="1">
