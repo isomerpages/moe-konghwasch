@@ -12,6 +12,14 @@ sections:
       title: KHS Highlights
       id: infobar
   - infopic:
+      title: 2025年全国杰出华文教师奖提名
+      id: infopic
+      description: 喜欢你的华文老师吗？欢迎大家提名你心目中的杰出华文教师！记得截至日期在5月11日（星期日）呀！
+      button: Button Text
+      url: https://contest.sph.com.sg/campaigns/dclta2025/
+      image: /images/2025_scarlet_Horizontal_800_164.jpg
+      alt: Image alt text
+  - infopic:
       title: Total Defence Day 2025
       description: This Total Defence Day, Kong Hwa thanks our friends in the SPF and
         SCDF for their continued dedication and service to our community and
