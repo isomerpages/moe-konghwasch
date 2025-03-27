@@ -1085,6 +1085,37 @@ variant: tiptap
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>2024 National Vlog Competition</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Futsing Association National Day Chinese Karaoke Singing Competition (Primary School Category) - 2nd Place</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xu Meng Jia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-07</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
 </div>
 <p></p>
 <h4>2018</h4>
