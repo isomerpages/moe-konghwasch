@@ -2,30 +2,16 @@
 title: Student iCON
 permalink: /khs-digital-learning/student-icon/
 description: ""
+variant: tiptap
 ---
-
-### Student iCON
-
-[gmail.com](http://gmail.com/)
-
-[workspace.google.com/dashboard](http://workspace.google.com/dashboard)
-  
-
-**Email example:**
-
-Student name: Siti Fatimah Bte Mohamed
-
-Student ICON email address: [siti\_fatimah\_mohamed@students.edu.sg](mailto:siti_fatimah_mohamed@students.edu.sg)
-
-\*Spaces in full name will be replaced by underscores.
-
-\*Bte will be removed.
-
-<img src="/images/icon1.png" style="width:80%">
-<img src="/images/icon2.png" style="width:80%">
-<img src="/images/icon3.png" style="width:80%">
-
-**Logging out of Student iCON**
-
-<img src="/images/icon4.png" style="width:80%">
-<img src="/images/icon5.png" style="width:80%">
+<h3>Student iCON</h3>
+<p>Login using: <a href="https://mims.moe.gov.sg" rel="noopener nofollow" target="_blank">https://mims.moe.gov.sg</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Icon login mims/iconlogin1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Icon login mims/iconlogin2.jpg">
+</div>
+<p></p>
