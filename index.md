@@ -20,14 +20,12 @@ sections:
       image: /images/2025_scarlet_Horizontal_800_164.jpg
       alt: Image alt text
   - infopic:
-      title: Total Defence Day 2025
-      description: This Total Defence Day, Kong Hwa thanks our friends in the SPF and
-        SCDF for their continued dedication and service to our community and
-        nation!
+      title: Learning Journey to the Zoo
+      description: A group of our Kong Hwaians had an incredible time exploring the
+        world of animals at the newly opened Zoo Learning Centre.
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid023kjnc1zT4ufahZKioXJLAaT63WYnXaLN2DUWXiQTkv1zAJoSdzwVrZcLzhoG9yNtl&id=100064994620909
-      image: /images/KHS
-        Highlights/476599496_994955529347592_3581557147030926204_n.jpg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02Vha9Ys4aeNaY3SrLisre2n82r2BZ6YgtGvez26PvM8LG2hDTFa6Aeakn9ZoHs8L8l&id=100064994620909
+      image: /images/zoo_learning.jpg
       alt: Image alt text
   - infopic:
       title: Math Week 2025
