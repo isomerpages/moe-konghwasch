@@ -82,10 +82,6 @@ forms with supporting evidence(s) (if any) must be submitted to the General
 Office or Form Teachers by <u>5 p.m., 8 July 2024</u>. For queries and clarifications,
 please contact Mdm Fida at <a rel="noopener noreferrer nofollow" target="_blank">nurafida_mohamed_anis@schools.gov.sg</a>.</p>
 <p>&nbsp;</p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
 <p><strong>Eligibility Criteria</strong>
 </p>
 <p>&nbsp;1.&nbsp;&nbsp;&nbsp; Student must be a Singapore citizen.</p>
