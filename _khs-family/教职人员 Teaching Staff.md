@@ -398,13 +398,7 @@ variant: tiptap
 <p>P3-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jerry Yang
-<br><a href="mailto:Yang_Ziyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yang_ziyi@schools.gov.sg</a>
-</p>
 <p></p>
-<p>Mrs Yeoh-Leong Poh Lay Claire
-<br><a href="mailto:leong_poh_lay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_poh_lay@schools.gov.sg</a>
-</p>
 <p></p>
 </td>
 </tr>
