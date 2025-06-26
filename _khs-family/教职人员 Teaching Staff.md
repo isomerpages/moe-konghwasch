@@ -219,7 +219,7 @@ variant: tiptap
 <br><a href="mailto:lim_ai_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ai_yi@schools.gov.sg</a>
 <br>
 <br>Mr Lee Yew Cheong
-<br><a href="mailto:lee_yew_cheong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yew_cheong@schools.gov.sg</a>
+<br><a href="mailto:lee_yew_cheong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yew_cheong_a@schools.gov.sg</a>
 <br>
 </p>
 </td>
