@@ -354,8 +354,8 @@ variant: tiptap
 <p>P3-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kang-Hwang Yongxiang
-<br><a href="mailto:hwang_yongxiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hwang_yongxiang@schools.gov.sg</a>
+<p>Ms Chin Wan Chen Vivienne
+<br><a href="mailto:chin_wan_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_wan_chen@schools.gov.sg</a>
 </p>
 <p></p>
 <p>Mr Perry Chan
