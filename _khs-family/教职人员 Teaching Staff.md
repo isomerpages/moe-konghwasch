@@ -219,7 +219,7 @@ variant: tiptap
 <br><a href="mailto:lim_ai_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ai_yi@schools.gov.sg</a>
 <br>
 <br>Mr Lee Yew Cheong
-<br><a href="mailto:lee_yew_cheong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yew_cheong@schools.gov.sg</a>
+<br><a href="mailto:lee_yew_cheong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yew_cheong_a@schools.gov.sg</a>
 <br>
 </p>
 </td>
@@ -354,8 +354,8 @@ variant: tiptap
 <p>P3-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kang-Hwang Yongxiang
-<br><a href="mailto:hwang_yongxiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hwang_yongxiang@schools.gov.sg</a>
+<p>Ms Chin Wan Chen Vivienne
+<br><a href="mailto:chin_wan_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_wan_chen@schools.gov.sg</a>
 </p>
 <p></p>
 <p>Mr Perry Chan
@@ -385,7 +385,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Yeoh-Goh Jia Hui
-<br><a href="mailto:goh_jia_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_jia_hui@schools.gov.sg</a>
+<br><a href="mailto:foo_wanru_yvette@schools.gov" rel="noopener noreferrer nofollow" target="_blank">foo_wanru_yvette@schools.gov</a>
+<a href="mailto:foo_wanru_yvette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">.sg</a>
 </p>
 <p></p>
 <p>Mdm Yeo Chin Choo Wendy<a href="mailto:yeo_chin_choo_wendy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>yeo_chin_choo_wendy@schools.gov.sg</u></a>
@@ -398,12 +399,11 @@ variant: tiptap
 <p>P3-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jerry Yang
-<br><a href="mailto:Yang_Ziyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yang_ziyi@schools.gov.sg</a>
+<p>Mrs Lim-Foo Wanru Yvette
+<br><a href="mailto:goh_jia_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_jia_hui@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mrs Yeoh-Leong Poh Lay Claire
-<br><a href="mailto:leong_poh_lay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_poh_lay@schools.gov.sg</a>
+<p>Ms Ang Yan Qing Clara<a href="mailto:ang_yan_qing_clara@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>ang_yan_qing_clara@schools.gov.sg</u></a>
 </p>
 <p></p>
 </td>
