@@ -223,16 +223,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Yeoh-Leong Poh Lay Claire
-<br><a href="mailto:leong_poh_lay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_poh_lay@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Level Head</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -279,6 +269,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Lin Jinlong Jimmy
 <br><a href="mailto:lin_jinlong_jimmy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_jinlong_jimmy@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Kang-Ang Yan Qing Clara</p>
+<p><a href="mailto:ang_yan_qing_clara@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_yan_qing_clara@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -434,16 +434,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Yang Ziyi Jerry
-<br><a href="mailto:yang_ziyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yang_ziyi@schools.gov.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
