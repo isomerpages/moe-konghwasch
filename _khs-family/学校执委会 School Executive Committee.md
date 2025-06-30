@@ -277,8 +277,8 @@ variant: tiptap
 <p>Level Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kang-Ang Yan Qing Clara</p>
-<p><a href="mailto:ang_yan_qing_clara@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_yan_qing_clara@schools.gov.sg</u></a>
+<p>Mrs Kang-Ang Yan Qing Clara
+<br><a href="mailto:ang_yan_qing_clara@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_yan_qing_clara@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
