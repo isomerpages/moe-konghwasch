@@ -385,8 +385,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Yeoh-Goh Jia Hui
-<br><a href="mailto:foo_wanru_yvette@schools.gov" rel="noopener noreferrer nofollow" target="_blank">foo_wanru_yvette@schools.gov</a>
-<a href="mailto:foo_wanru_yvette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<br><a href="mailto:goh_jia_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_jia_hui@schools.gov.sg</a>
 </p>
 <p></p>
 <p>Mdm Yeo Chin Choo Wendy<a href="mailto:yeo_chin_choo_wendy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>yeo_chin_choo_wendy@schools.gov.sg</u></a>
@@ -400,10 +399,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Lim-Foo Wanru Yvette
-<br><a href="mailto:goh_jia_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_jia_hui@schools.gov.sg</a>
+<br><a href="mailto:foo_wanru_yvette@schools.gov" rel="noopener noreferrer nofollow" target="_blank">foo_wanru_yvette@schools.gov</a>
+<a href="mailto:foo_wanru_yvette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">.sg</a>
 </p>
 <p></p>
-<p>Ms Ang Yan Qing Clara<a href="mailto:ang_yan_qing_clara@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>ang_yan_qing_clara@schools.gov.sg</u></a>
+<p>Mrs Kang-Ang Yan Qing Clara<a href="mailto:ang_yan_qing_clara@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>ang_yan_qing_clara@schools.gov.sg</u></a>
 </p>
 <p></p>
 </td>
