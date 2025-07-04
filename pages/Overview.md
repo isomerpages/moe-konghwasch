@@ -6,6 +6,37 @@ variant: tiptap
 third_nav_title: 课程辅助活动 CCA
 ---
 <h3>Co-Curricular Activities</h3>
+<p>CCAs are a key component of students’ holistic education. Through CCAs,
+students discover their interests and talents. CCAs also provide platforms
+for students to develop their character, learn values, social emotional
+competencies and other relevant skills to prepare them for future challenges.</p>
+<p>CCAs bring students from diverse backgrounds together. By learning and
+interacting with one another, students develop friendships and deepen their
+sense of belonging to the school and community.</p>
+<p>To cater to our students’ wide range of interests, we have 16 CCAs within
+the 4 main categories of: Clubs &amp; Societies, Physical Sports, Uniformed
+Groups and Visual &amp; Performing Arts.</p>
+<p></p>
+<p><strong><u>CCA Policy</u></strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All P3 to P6 students are strongly encouraged
+to participate in a CCA. Students are expected to attend all CCA sessions
+(except for valid reasons).</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA transfer period will only be in term
+1. Please take note that each request will be considered on a case-by-case
+basis, and if approved, the transfer will take effect in term 2.</p>
+<p><strong><em>Attachment: CCA transfer form</em></strong>
+</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA leaders will be selected by the teachers-in-charge
+of the CCA. Our CCA leaders are expected to display the following qualities:</p>
+<p><strong><u>A</u>ttendance:</strong> CCA leaders should be present for the
+majority of CCA sessions so that he/she is able to lead and influence fellow
+CCA members, and carry out assigned duties and responsibilities.</p>
+<p><strong><u>A</u>ttitude: </strong>CCA leaders should be a role model to
+other CCA members in terms of attitude and is someone who consistently
+displays the KHSPR<sup>2</sup>IDE values.</p>
+<p><strong><u>A</u>bility to Influence: </strong>CCA leaders should be able
+to garner support from CCA members to work towards a common goal.</p>
 <h4>Clubs and Societies</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/chess-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chess Club (International Chess, Xiangqi &amp; Weiqi)</div><div class="isomer-card-link">Click here for more information!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/infocomm-club/" class="isomer-card">
