@@ -20,12 +20,14 @@ sections:
       image: /images/2025_scarlet_Horizontal_800_164.jpg
       alt: Image alt text
   - infopic:
-      title: Learning Journey to the Zoo
-      description: A group of our Kong Hwaians had an incredible time exploring the
-        world of animals at the newly opened Zoo Learning Centre.
+      title: Hair for hope 2025
+      description: Our Hair for Hope event went on smoothly and successfully — all
+        thanks to the incredible support from our students, staff, parents, and
+        volunteers.
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02Vha9Ys4aeNaY3SrLisre2n82r2BZ6YgtGvez26PvM8LG2hDTFa6Aeakn9ZoHs8L8l&id=100064994620909
-      image: /images/zoo_learning.jpg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid05A5ERW62cBfFsbP2AvmzEp18g6AqXdyrhUnevUBnZrW6p55UV2GGz8jHb1vJBBdTl&id=100064994620909
+      image: /images/KHS
+        Highlights/514412598_1100630338780110_3315350055730454220_n.jpg
       alt: Image alt text
   - infopic:
       title: Math Week 2025
