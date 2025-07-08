@@ -34,17 +34,17 @@ sections:
       description: Our P3 Peer Support Leaders took part in a fun and meaningful
         training session — led by none other than the amazing student leaders
         from Dunman High School!
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0yYa9w8yvocKJGpPYjEbCBvjM7TeY9taXPPsGWPcwEu244EXGnMZ1B1dBwL26Gtz2l&id=100064994620909
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02Nswy8TaVRfk3SgNtvtusn47xE4yD9fk7Z4vCSdbMhAFWGEzKhZvutwAHzFDNFj1l&id=100064994620909
       image: /images/KHS
         Highlights/514347651_1099129215596889_7100145761933242564_n.jpg
       alt: Image alt text
       button: Find out more
   - infopic:
-      title: Joint Learning Journey
-      description: Our Environment Ambassadors went for a joint learning journey with
-        Tanjong Katong Pri School (TKPS) and Geylang Methodist School Pri (GMSP)
+      title: 双文化五年级北京浸濡之旅
+      description: 光华学校 | 转动北京万花筒——中华文化的棱镜之光
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0swEcZPdKCA3fR6u8XzfixYGJPynL3RW7ixWY6TyszoDufCiY1gCKoYv8EK1LnRULl&id=100064994620909
-      image: /images/environment_ambassadors2.jpg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02f2SBTfc5kziwQR8hJyQ3qbqDgFqnaJyz2ZeceRTLQcq9zUzWL8MS9EQPzLCRMKWYl&id=100064994620909
+      image: /images/KHS
+        Highlights/506449638_1086060113570466_1980399161415646460_n.jpg
       alt: Image alt text
 ---
