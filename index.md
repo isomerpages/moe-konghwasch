@@ -30,12 +30,13 @@ sections:
         Highlights/514412598_1100630338780110_3315350055730454220_n.jpg
       alt: Image alt text
   - infopic:
-      title: Math Week 2025
-      description: Math Is All Around Us! provided a platform for our Math Leaders to
-        lead and guide their peers in learning how to play Math games in a fun
-        and interactive way.
+      title: Peer Support Leadership Training
+      description: Our P3 Peer Support Leaders took part in a fun and meaningful
+        training session — led by none other than the amazing student leaders
+        from Dunman High School!
       url: https://www.facebook.com/permalink.php?story_fbid=pfbid0yYa9w8yvocKJGpPYjEbCBvjM7TeY9taXPPsGWPcwEu244EXGnMZ1B1dBwL26Gtz2l&id=100064994620909
-      image: /images/math_week.jpg
+      image: /images/KHS
+        Highlights/514347651_1099129215596889_7100145761933242564_n.jpg
       alt: Image alt text
       button: Find out more
   - infopic:
