@@ -87,6 +87,15 @@ thoughts and feeling</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yip Yiije</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Yip_Yijie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yip_yijie@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Achievements &amp; Highlights</h4>
