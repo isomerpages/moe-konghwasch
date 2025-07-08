@@ -83,6 +83,15 @@ and also took part in the annual National Inter-Primary School Wushu Championshi
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Ho Wei Vareck</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Ng_Ho_Wei_Vareck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ho_wei_vareck@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Achievements &amp; Highlights of 2021&amp;2022</h4>
