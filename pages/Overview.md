@@ -14,7 +14,7 @@ competencies and other relevant skills to prepare them for future challenges.</p
 interacting with one another, students develop friendships and deepen their
 sense of belonging to the school and community.</p>
 <p>To cater to our students’ wide range of interests, we have 16 CCAs within
-the 4 main categories of: Clubs &amp; Societies, Physical Sports, Uniformed
+the 4 main categories: Clubs &amp; Societies, Physical Sports, Uniformed
 Groups and Visual &amp; Performing Arts.</p>
 <p></p>
 <p><strong><u>CCA Policy</u></strong>
@@ -25,10 +25,11 @@ to participate in a CCA. Students are expected to attend all CCA sessions
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA transfer period will only be in term
 1. Please take note that each request will be considered on a case-by-case
 basis, and if approved, the transfer will take effect in term 2.</p>
-<p><strong><em>Attachment: CCA transfer form</em></strong>
+<p><strong>Link for CCA transfer form: </strong><a href="https://form.gov.sg/68673f3a6a4804a26a721017" rel="noopener nofollow" target="_blank">click here</a>
 </p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA leaders will be selected by the teachers-in-charge
-of the CCA. Our CCA leaders are expected to display the following qualities:</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA leaders will be selecte d by the
+teachers-in-charge of the CCA. Our CCA leaders are expected to display
+the following qualities:</p>
 <p><strong><u>A</u>ttendance:</strong> CCA leaders should be present for the
 majority of CCA sessions so that he/she is able to lead and influence fellow
 CCA members, and carry out assigned duties and responsibilities.</p>
