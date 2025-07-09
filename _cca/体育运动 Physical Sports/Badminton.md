@@ -138,16 +138,3 @@ sportsmanship.</p>
 </tbody>
 </table>
 <p></p>
-<h4>Achievements &amp; Highlights of 2021 and 2022</h4>
-<p><strong>National School Games (NSG) East Zone Badminton Championships 2021</strong>
-</p>
-<p>Senior Girls – 1st
-<br>Senior Boys – 3rd</p>
-<p>*No junior division competition and national level competition for senior
-division due to Covid-19.</p>
-<p><strong>National School Games (NSG) East Zone Badminton Championships 2022</strong>
-</p>
-<p>Senior Girls – 1st
-<br>Senior Boys – 2nd</p>
-<p>*No national level competition for senior division due to Covid-19. Results
-for junior division is not reflected as it is in an individual format.</p>
