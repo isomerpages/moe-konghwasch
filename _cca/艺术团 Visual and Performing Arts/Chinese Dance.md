@@ -98,28 +98,4 @@ thoughts and feeling</p>
 </tr>
 </tbody>
 </table>
-<h4>Achievements &amp; Highlights</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>CNY celebration (20 January 2023)</p>
-</li>
-<li>
-<p>Aesthetic Showcase 2022 performance</p>
-</li>
-<li>
-<p>SYF Art Presentation Dance (July 2022)</p>
-</li>
-<li>
-<p>Aesthetic Showcase 2019 performance</p>
-</li>
-<li>
-<p>SYF Art Presentation Dance (2018): Certificate of Distinction</p>
-</li>
-<li>
-<p>Aesthetic Showcase 2017 performance&nbsp;&nbsp;</p>
-</li>
-<li>
-<p>SYF Art Presentation Dance (2016): Certificate of Distinction</p>
-</li>
-</ul>
 <p></p>
