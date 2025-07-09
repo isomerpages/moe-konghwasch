@@ -48,7 +48,7 @@ and also took part in the annual National Inter-Primary School Wushu Championshi
 <br>(Primary 6 – till end of term 2)
 <br>(Primary 3 will join the sessions from term 2 week 1 onwards every Friday)
 <br>Time: 2 pm to 3.30 pm
-<br>Venue: ISH Level 1</p>
+<br>Venue: LT</p>
 <h4>Teachers In-Charge</h4>
 <table style="minWidth: 50px">
 <colgroup>
