@@ -63,15 +63,6 @@ participate in Art Competitions.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Julie Tay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tay_lee_joo_julie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_lee_joo_julie@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Miss Ann Pei</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,6 +72,4 @@ participate in Art Competitions.</p>
 </tr>
 </tbody>
 </table>
-<h4>Achievements &amp; Highlights of 2023</h4>
-<p>Students will be taking part in the SYF Art.</p>
-<p>Slice of Art Corner to showcase</p>
+<p></p>
