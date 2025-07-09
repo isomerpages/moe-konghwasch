@@ -202,23 +202,3 @@ Hokkien Huay Kuan and other venues.</p>
 </tbody>
 </table>
 <p></p>
-<h4>Achievements and Highlights</h4>
-<p><strong>Singapore Youth Festival (SYF) Central Judging</strong>
-</p>
-<p>2004 to 2010 Gold with Honours</p>
-<p><strong>Singapore Youth Festival (SYF) Arts Presentation</strong>
-</p>
-<p>2012 to 2018 Distinction Award</p>
-<p><strong>Performances</strong> 
-<br>Internal performances:
-<br>Chinese New Year
-<br>Mooncake Festival
-<br>Aesthetic Showcase
-<br>Graduation Ceremony&nbsp; etc.
-<br>
-<br>
-</p>
-<p>External performances:
-<br>River Hongbao
-<br>Seniors’ Night
-<br>Singapore Hokkien Huay Kuan etc.</p>
