@@ -136,19 +136,3 @@ well as develop a bond with the sport and their fellow CCA peers.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/tt1.png">
-</div>
-<p>Senior Girls (First in East Zone Championship 2021)</p>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/tt2.png">
-</div>
-<p>Senior Boys (First in East Zone Championship 2021)</p>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/tt3.png">
-</div>
-<p>Senior Girls (First in East Zone Championship 2022)</p>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/tt4.png">
-</div>
-<p>Senior Boys (First in East Zone Championship 2022)</p>
