@@ -49,7 +49,11 @@ Art Exhibition.</p>
 <br>Venue: A106 Art Room 3</p>
 <p>Competition Season: National Primary School Chinese Calligraphy Competition</p>
 <h4>Teachers In-Charge</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -71,15 +75,4 @@ Art Exhibition.</p>
 </tr>
 </tbody>
 </table>
-<h4>Achievements &amp; Highlights of 2021</h4>
-<p><strong>Ong Jing Yu, Hoo Yu Xin, Lee Yi Xin, Tham Shi Xuan, Ng Qian Hui</strong>
-</p>
-<p>2021 Singapore Youth Festival (SYF): Certificate of Recognition - modern
-Chinese painting</p>
-<h4>Achievements &amp; Highlights of 2022</h4>
-<p><strong>Ong Jing Yu</strong> 
-<br>2022 National Primary School Chinese Calligraphy Competition Consolation
-(Hong Wen School)</p>
-<p><strong>Lee Yi Xin</strong> 
-<br>2022 National Primary School Chinese Calligraphy Competition Consolation
-(Hong Wen School)</p>
+<p></p>
