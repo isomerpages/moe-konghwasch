@@ -14,9 +14,92 @@ competencies and other relevant skills to prepare them for future challenges.</p
 interacting with one another, students develop friendships and deepen their
 sense of belonging to the school and community.</p>
 <p>To cater to our students’ wide range of interests, we have 16 CCAs within
-the 4 main categories: Clubs &amp; Societies, Physical Sports, Uniformed
+the 4 main categories of: Clubs &amp; Societies, Physical Sports, Uniformed
 Groups and Visual &amp; Performing Arts.</p>
-<p></p>
+<p>&nbsp;</p>
+<p><u>Yearly CCA Timeline at a Glance</u>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 1 Week 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 CCA Fair</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 1 Week 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Start of CCA for P4-P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>By Term 1 Week 10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 CCA Allocation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>March School Holidays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA sessions for selected CCAs only</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 2 Week 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Start of CCA for P3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>End of Term 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Stand down from CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>June School Holidays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA sessions for selected CCAs only</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 4 Week 6 to Week 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA Suspension for EYE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>November/December School Holidays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA sessions for selected CCAs only</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 <p><strong><u>CCA Policy</u></strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All P3 to P6 students are strongly encouraged
@@ -25,18 +108,18 @@ to participate in a CCA. Students are expected to attend all CCA sessions
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA transfer period will only be in term
 1. Please take note that each request will be considered on a case-by-case
 basis, and if approved, the transfer will take effect in term 2.</p>
-<p><strong>Link for CCA transfer form: </strong><a href="https://form.gov.sg/68673f3a6a4804a26a721017" rel="noopener nofollow" target="_blank">click here</a>
+<p><strong>Link for CCA transfer form: </strong><a href="https://form.gov.sg/68673f3a6a4804a26a721017" rel="noopener noreferrer nofollow" target="_blank">click here</a>
 </p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA leaders will be selected by the teachers-in-charge
 of the CCA. Our CCA leaders are expected to display the following qualities:</p>
-<p><strong><u>A</u>ttendance:</strong> CCA leaders should be present for the
+<p><strong><u>P</u>resence:</strong> CCA leaders should be present for the
 majority of CCA sessions so that he/she is able to lead and influence fellow
 CCA members, and carry out assigned duties and responsibilities.</p>
 <p><strong><u>A</u>ttitude: </strong>CCA leaders should be a role model to
 other CCA members in terms of attitude and is someone who consistently
 displays the KHSPR<sup>2</sup>IDE values.</p>
-<p><strong><u>A</u>bility to Influence: </strong>CCA leaders should be able
-to garner support from CCA members to work towards a common goal.</p>
+<p><strong><u>I</u>nfluence: </strong>CCA leaders should be able to garner
+support from CCA members to work towards a common goal.</p>
 <h4>Clubs and Societies</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/chess-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chess Club (International Chess, Xiangqi &amp; Weiqi)</div><div class="isomer-card-link">Click here for more information!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/infocomm-club/" class="isomer-card">
