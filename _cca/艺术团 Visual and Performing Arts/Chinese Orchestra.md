@@ -31,11 +31,10 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/co6.jpg">
 </div>
 <p></p>
-<p>In Kong Hwa School, our Chinese Orchestra (CO) is led by our esteemed
-conductor, Ms Ma Huan. Coupled with a team of dedicated KHS teachers and
-our highly qualified instructors, we aim to develop all our members holistically
-and to be active listeners and dedicated musicians who appreciate Chinese
-Music and are enthusiastic performers in Chinese Orchestra.</p>
+<p>Our Chinese Orchestra (CO) is led by a team of dedicated KHS teachers
+and highly qualified instructors, as we aim to develop all our members
+holistically and to be active listeners and dedicated musicians who appreciate
+Chinese Music and are enthusiastic performers in Chinese Orchestra.</p>
 <p>Our students in Chinese Orchestra are able to demonstrate good musicianship
 and values of perseverance, teamwork and discipline through playing CO
 instruments. We view attendance, punctuality, preparedness, consistent
