@@ -36,9 +36,13 @@ keep them fit and healthy.</p>
 <h4>Training Schedule</h4>
 <p>Day: Mondays
 <br>Time: 2 pm to 3.30 pm
-<br>Venue: &nbsp;Lecture Theatre (LT)</p>
+<br>Venue: &nbsp;ISH1</p>
 <h4>Teacher In-Charge</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
