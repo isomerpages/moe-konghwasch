@@ -76,19 +76,4 @@ programmes with other schools.</p>
 </tr>
 </tbody>
 </table>
-<h4>Our Achievements &amp; Highlights</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>SYF Art Presentation Guzheng (June 2022)</p>
-</li>
-<li>
-<p>Aesthetic Showcase 2019 performance</p>
-</li>
-<li>
-<p>SYF Art Presentation Guzheng (April 2018): Certificate of Distinction</p>
-</li>
-<li>
-<p>SYF Art Presentation Guzheng (April 2016): Certificate of Distinction</p>
-</li>
-</ul>
 <p></p>
