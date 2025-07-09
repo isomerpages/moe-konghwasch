@@ -27,9 +27,8 @@ to participate in a CCA. Students are expected to attend all CCA sessions
 basis, and if approved, the transfer will take effect in term 2.</p>
 <p><strong>Link for CCA transfer form: </strong><a href="https://form.gov.sg/68673f3a6a4804a26a721017" rel="noopener nofollow" target="_blank">click here</a>
 </p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA leaders will be selecte d by the
-teachers-in-charge of the CCA. Our CCA leaders are expected to display
-the following qualities:</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA leaders will be selected by the teachers-in-charge
+of the CCA. Our CCA leaders are expected to display the following qualities:</p>
 <p><strong><u>A</u>ttendance:</strong> CCA leaders should be present for the
 majority of CCA sessions so that he/she is able to lead and influence fellow
 CCA members, and carry out assigned duties and responsibilities.</p>
