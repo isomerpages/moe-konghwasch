@@ -77,8 +77,3 @@ perseverance, teamwork and the spirit of sportsmanship.</p>
 </tbody>
 </table>
 <p></p>
-<h4>Achievements &amp; Highlights</h4>
-<p><strong>2021</strong> 
-<br>No competition due to Covid-19</p>
-<p><strong>2022</strong> 
-<br>National School Games – Junior Division (Tier 2) – 2nd</p>
