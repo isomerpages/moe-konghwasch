@@ -38,7 +38,7 @@ which better equips them for the 21st century.</p>
 <h4>Training Schedule</h4>
 <p>Day: Fridays
 <br>Time: 2 pm to 3.30 pm
-<br>Venue: Lecture Theatre (LT)</p>
+<br>Venue: ISH1</p>
 <h4>Teachers In-Charge</h4>
 <table style="minWidth: 50px">
 <colgroup>
