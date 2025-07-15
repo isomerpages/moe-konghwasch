@@ -61,37 +61,6 @@ definitely greatly enhance your social and cooperative skills too!</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Azirah Jamal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:azirah_jamal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>azirah_jamal@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
-<h4>Our Achievements &amp; Highlights for 2019</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Attained Platinum Award in BDazzled Festival 2019</p>
-</li>
-<li>
-<p>Performed at Singapore Youth Festival @ Community at Tampines Hub</p>
-</li>
-<li>
-<p>Represented Kong Hwa School in Singapore Youth Festival 2018 Arts Presentation
-(Choir) and attained Certificate of Accomplishment.</p>
-</li>
-<li>
-<p>Performed for special events such as the annual Aesthetic Showcase, Teachers’
-Day Celebrations, Graduation Ceremony, KHS 65th Anniversary Homecoming
-Learning Festival</p>
-</li>
-<li>
-<p>Spreading love, joy and music to the community – Values in Action: Performed
-for old folks at Dakota Activity Center</p>
-</li>
-</ul>
 <p></p>

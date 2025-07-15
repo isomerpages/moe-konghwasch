@@ -87,30 +87,15 @@ thoughts and feeling</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yip Yiije</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Yip_Yijie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yip_yijie@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-<h4>Achievements &amp; Highlights</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>CNY celebration (20 January 2023)</p>
-</li>
-<li>
-<p>Aesthetic Showcase 2022 performance</p>
-</li>
-<li>
-<p>SYF Art Presentation Dance (July 2022)</p>
-</li>
-<li>
-<p>Aesthetic Showcase 2019 performance</p>
-</li>
-<li>
-<p>SYF Art Presentation Dance (2018): Certificate of Distinction</p>
-</li>
-<li>
-<p>Aesthetic Showcase 2017 performance&nbsp;&nbsp;</p>
-</li>
-<li>
-<p>SYF Art Presentation Dance (2016): Certificate of Distinction</p>
-</li>
-</ul>
 <p></p>

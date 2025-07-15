@@ -12,36 +12,39 @@ sections:
       title: KHS Highlights
       id: infobar
   - infopic:
-      title: 2025年全国杰出华文教师奖提名
+      title: 2025年全国小学华语讲故事比赛
       id: infopic
-      description: 喜欢你的华文老师吗？欢迎大家提名你心目中的杰出华文教师！记得截至日期在5月11日（星期日）呀！
+      description: 时隔两年再登全国小学华语讲故事舞台 光华小五生陈书瑶勇夺冠军 (8world)
       button: 提名网址
-      url: https://contest.sph.com.sg/campaigns/dclta2025/
-      image: /images/2025_scarlet_Horizontal_800_164.jpg
+      url: https://soyoung.8world.com/y-news/chinese-storytelling-2844456
+      image: /images/KHS Highlights/Screenshot_2025_07_15_114735.png
       alt: Image alt text
   - infopic:
-      title: Learning Journey to the Zoo
-      description: A group of our Kong Hwaians had an incredible time exploring the
-        world of animals at the newly opened Zoo Learning Centre.
+      title: Hair for hope 2025
+      description: Our Hair for Hope event went on smoothly and successfully — all
+        thanks to the incredible support from our students, staff, parents, and
+        volunteers.
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02Vha9Ys4aeNaY3SrLisre2n82r2BZ6YgtGvez26PvM8LG2hDTFa6Aeakn9ZoHs8L8l&id=100064994620909
-      image: /images/zoo_learning.jpg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid05A5ERW62cBfFsbP2AvmzEp18g6AqXdyrhUnevUBnZrW6p55UV2GGz8jHb1vJBBdTl&id=100064994620909
+      image: /images/KHS
+        Highlights/514412598_1100630338780110_3315350055730454220_n.jpg
       alt: Image alt text
   - infopic:
-      title: Math Week 2025
-      description: Math Is All Around Us! provided a platform for our Math Leaders to
-        lead and guide their peers in learning how to play Math games in a fun
-        and interactive way.
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0yYa9w8yvocKJGpPYjEbCBvjM7TeY9taXPPsGWPcwEu244EXGnMZ1B1dBwL26Gtz2l&id=100064994620909
-      image: /images/math_week.jpg
+      title: Peer Support Leadership Training
+      description: Our P3 Peer Support Leaders took part in a fun and meaningful
+        training session — led by none other than the amazing student leaders
+        from Dunman High School!
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02Nswy8TaVRfk3SgNtvtusn47xE4yD9fk7Z4vCSdbMhAFWGEzKhZvutwAHzFDNFj1l&id=100064994620909
+      image: /images/KHS
+        Highlights/514347651_1099129215596889_7100145761933242564_n.jpg
       alt: Image alt text
       button: Find out more
   - infopic:
-      title: Joint Learning Journey
-      description: Our Environment Ambassadors went for a joint learning journey with
-        Tanjong Katong Pri School (TKPS) and Geylang Methodist School Pri (GMSP)
+      title: 双文化五年级北京浸濡之旅
+      description: 光华学校 | 转动北京万花筒——中华文化的棱镜之光
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0swEcZPdKCA3fR6u8XzfixYGJPynL3RW7ixWY6TyszoDufCiY1gCKoYv8EK1LnRULl&id=100064994620909
-      image: /images/environment_ambassadors2.jpg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02f2SBTfc5kziwQR8hJyQ3qbqDgFqnaJyz2ZeceRTLQcq9zUzWL8MS9EQPzLCRMKWYl&id=100064994620909
+      image: /images/KHS
+        Highlights/506449638_1086060113570466_1980399161415646460_n.jpg
       alt: Image alt text
 ---

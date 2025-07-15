@@ -31,11 +31,10 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/co6.jpg">
 </div>
 <p></p>
-<p>In Kong Hwa School, our Chinese Orchestra (CO) is led by our esteemed
-conductor, Ms Ma Huan. Coupled with a team of dedicated KHS teachers and
-our highly qualified instructors, we aim to develop all our members holistically
-and to be active listeners and dedicated musicians who appreciate Chinese
-Music and are enthusiastic performers in Chinese Orchestra.</p>
+<p>Our Chinese Orchestra (CO) is led by a team of dedicated KHS teachers
+and highly qualified instructors, as we aim to develop all our members
+holistically and to be active listeners and dedicated musicians who appreciate
+Chinese Music and are enthusiastic performers in Chinese Orchestra.</p>
 <p>Our students in Chinese Orchestra are able to demonstrate good musicianship
 and values of perseverance, teamwork and discipline through playing CO
 instruments. We view attendance, punctuality, preparedness, consistent
@@ -202,23 +201,3 @@ Hokkien Huay Kuan and other venues.</p>
 </tbody>
 </table>
 <p></p>
-<h4>Achievements and Highlights</h4>
-<p><strong>Singapore Youth Festival (SYF) Central Judging</strong>
-</p>
-<p>2004 to 2010 Gold with Honours</p>
-<p><strong>Singapore Youth Festival (SYF) Arts Presentation</strong>
-</p>
-<p>2012 to 2018 Distinction Award</p>
-<p><strong>Performances</strong> 
-<br>Internal performances:
-<br>Chinese New Year
-<br>Mooncake Festival
-<br>Aesthetic Showcase
-<br>Graduation Ceremony&nbsp; etc.
-<br>
-<br>
-</p>
-<p>External performances:
-<br>River Hongbao
-<br>Seniors’ Night
-<br>Singapore Hokkien Huay Kuan etc.</p>

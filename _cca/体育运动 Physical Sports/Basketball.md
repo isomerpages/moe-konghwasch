@@ -65,11 +65,15 @@ perseverance, teamwork and the spirit of sportsmanship.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Lim-Foo Wanru Yvette</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:foo_wanru_yvette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>foo_wanru_yvette@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
-<h4>Achievements &amp; Highlights</h4>
-<p><strong>2021</strong> 
-<br>No competition due to Covid-19</p>
-<p><strong>2022</strong> 
-<br>National School Games – Junior Division (Tier 2) – 2nd</p>
