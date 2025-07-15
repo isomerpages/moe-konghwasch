@@ -97,7 +97,7 @@ on a case-by-case basis</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Serves as a role model by consistently displaying KHSPR2IDE values</p>
+<p>Serves as a role model by consistently displaying KHSPR²IDE values</p>
 </li>
 <li>
 <p>Shows resilience when facing challenges</p>
