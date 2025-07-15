@@ -12,12 +12,12 @@ sections:
       title: KHS Highlights
       id: infobar
   - infopic:
-      title: 2025年全国杰出华文教师奖提名
+      title: 2025年全国小学华语讲故事比赛
       id: infopic
-      description: 喜欢你的华文老师吗？欢迎大家提名你心目中的杰出华文教师！记得截至日期在5月11日（星期日）呀！
+      description: 时隔两年再登全国小学华语讲故事舞台 光华小五生陈书瑶勇夺冠军
       button: 提名网址
-      url: https://contest.sph.com.sg/campaigns/dclta2025/
-      image: /images/2025_scarlet_Horizontal_800_164.jpg
+      url: https://soyoung.8world.com/y-news/chinese-storytelling-2844456
+      image: /images/KHS Highlights/Screenshot_2025_07_15_114735.png
       alt: Image alt text
   - infopic:
       title: Hair for hope 2025
