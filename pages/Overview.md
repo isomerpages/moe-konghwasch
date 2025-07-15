@@ -51,7 +51,8 @@ their niche and embark on their journey of personal growth and discovery.</p>
 <p></p>
 <p><strong>&nbsp;Co-Curricular Activity (CCA) Policy</strong>
 </p>
-<p>1. Participation and Attendance</p>
+<p><u>1. Participation and Attendance</u>
+</p>
 <p>* All Primary 3 to 6 students are strongly encouraged to participate in
 one CCA.</p>
 <p>* Regular attendance is mandatory for all scheduled CCA sessions.</p>
@@ -60,7 +61,8 @@ parent letters)</p>
 <p>* Students representing the school in competitions or performances must
 maintain good conduct.</p>
 <p>&nbsp;</p>
-<p>2. CCA Selection and Transfer</p>
+<p><u>2. CCA Selection and Transfer</u>
+</p>
 <p>* Students may indicate their CCA preferences at the start of Primary
 3</p>
 <p>* CCA transfers are only permitted during Term 1</p>
@@ -69,7 +71,8 @@ maintain good conduct.</p>
 on a case-by-case basis</p>
 <p>* Approved transfers will take effect from Term 2</p>
 <p>&nbsp;</p>
-<p>3. CCA Leadership Development</p>
+<p><u>3. CCA Leadership Development</u>
+</p>
 <p>Our CCA leaders are selected based on the following criteria:</p>
 <p><u>Presence</u>
 </p>
