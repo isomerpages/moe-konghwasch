@@ -6,120 +6,136 @@ variant: tiptap
 third_nav_title: 课程辅助活动 CCA
 ---
 <h3>Co-Curricular Activities</h3>
-<p>CCAs are a key component of students’ holistic education. Through CCAs,
-students discover their interests and talents. CCAs also provide platforms
-for students to develop their character, learn values, social emotional
-competencies and other relevant skills to prepare them for future challenges.</p>
-<p>CCAs bring students from diverse backgrounds together. By learning and
-interacting with one another, students develop friendships and deepen their
-sense of belonging to the school and community.</p>
-<p>To cater to our students’ wide range of interests, we have 16 CCAs within
-the 4 main categories of: Clubs &amp; Societies, Physical Sports, Uniformed
-Groups and Visual &amp; Performing Arts.</p>
+<p><strong>Discovering Potential Through Co-Curricular Activities</strong>
+</p>
+<p>At Kong Hwa, we believe that education extends far beyond the classroom.
+Our Co-Curricular Activities (CCAs) programme nurtures students who demonstrate
+strength of character and thrive in working collaboratively with their
+peers.</p>
+<p><u>Through our diverse range of CCAs, students:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Uncover hidden talents and develop new passions while building essential
+life skills such as leadership, resilience, and teamwork</p>
+</li>
+<li>
+<p>Form meaningful friendships across different backgrounds, fostering an
+inclusive school community where every student feels valued and connected</p>
+</li>
+<li>
+<p>Learn to balance commitment and time management as they pursue excellence
+in their chosen activities</p>
+</li>
+</ul>
+<p><u>Our comprehensive CCA programme spans four dynamic categories:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Physical Sports - Building discipline, teamwork, and sporting excellence</p>
+</li>
+<li>
+<p>Visual &amp; Performing Arts - Nurturing creativity and artistic expression</p>
+</li>
+<li>
+<p>Uniformed Groups - Developing leadership and character</p>
+</li>
+<li>
+<p>Clubs &amp; Societies - Exploring specific interests and building specialised
+skills</p>
+</li>
+</ul>
+<p>With 16 distinctive CCAs across these categories, every student can find
+their niche and embark on their journey of personal growth and discovery.</p>
+<hr>
+<p></p>
+<p><strong>&nbsp;Co-Curricular Activity (CCA) Policy</strong>
+</p>
+<p>1. Participation and Attendance</p>
+<p>* All Primary 3 to 6 students are strongly encouraged to participate in
+one CCA.</p>
+<p>* Regular attendance is mandatory for all scheduled CCA sessions.</p>
+<p>* Absences must be supported by valid documentation (medical certificates,
+parent letters)</p>
+<p>* Students representing the school in competitions or performances must
+maintain good conduct.</p>
 <p>&nbsp;</p>
-<p><u>Yearly CCA Timeline at a Glance</u>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Term 1 Week 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P3 CCA Fair</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Term 1 Week 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Start of CCA for P4-P6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>By Term 1 Week 10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P3 CCA Allocation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>March School Holidays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CCA sessions for selected CCAs only</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Start of CCA for P3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>End of Term 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 Stand down from CCA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>June School Holidays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CCA sessions for selected CCAs only</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Term 4 Week 6 to Week 8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CCA Suspension for EYE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>November/December School Holidays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CCA sessions for selected CCAs only</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>2. CCA Selection and Transfer</p>
+<p>* Students may indicate their CCA preferences at the start of Primary
+3</p>
+<p>* CCA transfers are only permitted during Term 1</p>
+<p>* Transfer requests require submission of the official CCA Transfer Form</p>
+<p>* All transfers are subject to available vacancies and will be reviewed
+on a case-by-case basis</p>
+<p>* Approved transfers will take effect from Term 2</p>
 <p>&nbsp;</p>
-<p><strong><u>CCA Policy</u></strong>
+<p>3. CCA Leadership Development</p>
+<p>Our CCA leaders are selected based on the following criteria:</p>
+<p><u>Presence</u>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All P3 to P6 students are strongly encouraged
-to participate in a CCA. Students are expected to attend all CCA sessions
-(except for valid reasons).</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA transfer period will only be in term
-1. Please take note that each request will be considered on a case-by-case
-basis, and if approved, the transfer will take effect in term 2.</p>
-<p><strong>Link for CCA transfer form: </strong><a href="https://form.gov.sg/68673f3a6a4804a26a721017" rel="noopener noreferrer nofollow" target="_blank">click here</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrates exemplary attendance and punctuality at CCA sessions</p>
+</li>
+<li>
+<p>Shows active participation and full engagement during activities</p>
+</li>
+<li>
+<p>Takes initiative to support teachers and peers beyond regular sessions</p>
+</li>
+<li>
+<p>Remains visible and accessible to CCA members who need guidance</p>
+</li>
+<li>
+<p>Demonstrates readiness to lead by being well-prepared for all sessions</p>
+</li>
+</ul>
+<p><u>Attitude</u>
 </p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA leaders will be selected by the teachers-in-charge
-of the CCA. Our CCA leaders are expected to display the following qualities:</p>
-<p><strong><u>P</u>resence:</strong> CCA leaders should be present for the
-majority of CCA sessions so that he/she is able to lead and influence fellow
-CCA members, and carry out assigned duties and responsibilities.</p>
-<p><strong><u>A</u>ttitude: </strong>CCA leaders should be a role model to
-other CCA members in terms of attitude and is someone who consistently
-displays the KHSPR<sup>2</sup>IDE values.</p>
-<p><strong><u>I</u>nfluence: </strong>CCA leaders should be able to garner
-support from CCA members to work towards a common goal.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Serves as a role model by consistently displaying KHSPR2IDE values</p>
+</li>
+<li>
+<p>Shows resilience when facing challenges</p>
+</li>
+<li>
+<p>Maintains a positive and encouraging demeanour</p>
+</li>
+<li>
+<p>Demonstrates responsibility and accountability in all tasks</p>
+</li>
+<li>
+<p>Exhibits enthusiasm and passion for the CCA</p>
+</li>
+<li>
+<p>Responds respectfully to feedback from teachers and peers</p>
+</li>
+</ul>
+<p><u>Influence</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Motivates and inspires fellow CCA members to achieve their best</p>
+</li>
+<li>
+<p>Builds positive relationships and promotes team unity</p>
+</li>
+<li>
+<p>Communicates effectively with both teachers and peers</p>
+</li>
+<li>
+<p>Guides junior members with patience and understanding</p>
+</li>
+<li>
+<p>Demonstrates ability to lead by example and rally team support for CCA
+initiatives</p>
+</li>
+<li>
+<p>Creates a positive and inclusive environment where every member feels
+valued</p>
+</li>
+</ul>
 <h4>Clubs and Societies</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/chess-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chess Club (International Chess, Xiangqi &amp; Weiqi)</div><div class="isomer-card-link">Click here for more information!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/infocomm-club/" class="isomer-card">
