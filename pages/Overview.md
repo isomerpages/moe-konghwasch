@@ -63,8 +63,8 @@ maintain good conduct.</p>
 <p>&nbsp;</p>
 <p><u>2. CCA Selection and Transfer</u>
 </p>
-<p>* Students may indicate their CCA preferences at the start of Primary
-3</p>
+<p>* Students may indicate their CCA preferences during the Primary 3 CCA
+Allocation Exercise</p>
 <p>* CCA transfers are only permitted during Term 1</p>
 <p>* Transfer requests require submission of the official CCA Transfer Form</p>
 <p>* All transfers are subject to available vacancies and will be reviewed
