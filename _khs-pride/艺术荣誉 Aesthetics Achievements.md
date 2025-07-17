@@ -5,6 +5,17 @@ description: ""
 variant: tiptap
 ---
 <h3>Aesthetics Achievements</h3>
+<h4>2025</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>B-Dazzled Music and Dance Festival</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Diamond Award</p>
+</div>
+</details>
+</div>
+<p></p>
 <h4>2024</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
