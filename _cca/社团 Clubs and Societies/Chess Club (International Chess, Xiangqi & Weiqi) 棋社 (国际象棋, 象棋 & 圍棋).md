@@ -5,7 +5,8 @@ description: ""
 third_nav_title: 社团 Clubs and Societies
 variant: tiptap
 ---
-<h3>Chess Club (International Chess, Xiangqi &amp; Weiqi)</h3>
+<h3>Chess Club (International Chess, Xiangqi &amp; Weiqi) 棋社 (国际象棋, 象棋 &amp; 圍棋)</h3>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.jpg">
