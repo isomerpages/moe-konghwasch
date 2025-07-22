@@ -5,7 +5,8 @@ description: ""
 third_nav_title: 艺术团 Visual and Performing Arts
 variant: tiptap
 ---
-<h3>Art Club</h3>
+<h3>Art Club 美术学会</h3>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/a1.jpg">
