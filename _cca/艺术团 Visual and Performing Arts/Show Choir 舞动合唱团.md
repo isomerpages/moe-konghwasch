@@ -5,8 +5,7 @@ description: ""
 third_nav_title: 艺术团 Visual and Performing Arts
 variant: tiptap
 ---
-<h3>Guzheng 古箏乐团</h3>
-<p></p>
+<h3>Show Choir 舞动合唱团</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir1.jpg">
