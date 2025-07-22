@@ -5,7 +5,8 @@ description: ""
 third_nav_title: 社团 Clubs and Societies
 variant: tiptap
 ---
-<h3>Infocomm Media Club</h3>
+<h3>Infocomm Club 资讯科技学会</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ict1.jpg">
 </div>
