@@ -1,11 +1,12 @@
 ---
-title: Guzheng
+title: Guzheng 古箏乐团
 permalink: /cca/visual-and-performing-arts/guzheng/
 description: ""
 third_nav_title: 艺术团 Visual and Performing Arts
 variant: tiptap
 ---
-<h3>Guzheng</h3>
+<h3>Guzheng 古箏乐团</h3>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/g1.jpg">
