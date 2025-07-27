@@ -142,7 +142,7 @@ valued</p>
 </li>
 </ul>
 <h4>Clubs and Societies</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/chess-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chess Club (International Chess, Xiangqi &amp; Weiqi)</div><div class="isomer-card-link">Click here for more information!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/chess-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chess Club (International Chess, Xiangqi &amp; Weiqi) 棋社 (国际象棋, 象棋 &amp; 圍棋)</div><div class="isomer-card-link">Click here for more information!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/infocomm-club/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -150,14 +150,14 @@ valued</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Infocomm Media Club</div>
+<div class="isomer-card-title">Infocomm Club 资讯科技学会</div>
 <div class="isomer-card-link">Click here for more information!</div>
 </div>
 </a>
 </div>
 <h4>Physical Sports</h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/badminton/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/bd1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Badminton</div><div class="isomer-card-link">Click here for more information!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/badminton/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/bd1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Badminton 羽毛球队</div><div class="isomer-card-link">Click here for more information!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/physical-sports/basketball/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -165,10 +165,10 @@ valued</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Basketball</div>
+<div class="isomer-card-title">Basketball 篮球队</div>
 <div class="isomer-card-link">Click here for more information!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/netball/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/nt3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Netball</div><div class="isomer-card-link">Click here for more information!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/netball/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/nt3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Netball 英式女篮</div><div class="isomer-card-link">Click here for more information!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/physical-sports/table-tennis/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -176,10 +176,10 @@ valued</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Table Tennis</div>
+<div class="isomer-card-title">Table Tennis 乒乓球队</div>
 <div class="isomer-card-link">Click here for more information!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/tchoukball/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="nil" src="/images/c1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tchoukball</div><div class="isomer-card-link">Click here for more information!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/tchoukball/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="nil" src="/images/c1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tchoukball 巧固球队</div><div class="isomer-card-link">Click here for more information!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/physical-sports/wushu/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -187,7 +187,7 @@ valued</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Wushu</div>
+<div class="isomer-card-title">Wushu 武术队</div>
 <div class="isomer-card-link">Click here for more information!</div>
 </div>
 </a>
@@ -195,7 +195,7 @@ valued</p>
 <p></p>
 <h4>Uniformed Groups</h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/uniformed-groups/brownies/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/br1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Brownies</div><div class="isomer-card-link">Click here for more information!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/uniformed-groups/brownies/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/br1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Brownies 女童军</div><div class="isomer-card-link">Click here for more information!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/uniformed-groups/scouts/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -203,7 +203,7 @@ valued</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Scouts</div>
+<div class="isomer-card-title">Scouts 童子军</div>
 <div class="isomer-card-link">Click here for more information!</div>
 </div>
 </a>
@@ -211,7 +211,7 @@ valued</p>
 <p></p>
 <h4>Visual and Performing Arts</h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/visual-and-performing-arts/art-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/a3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Art Club</div><div class="isomer-card-link">Click here for more information!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/visual-and-performing-arts/art-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/a3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Art Club 美术学会</div><div class="isomer-card-link">Click here for more information!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/visual-and-performing-arts/chinese-calligraphy-club/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -219,10 +219,10 @@ valued</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Chinese Calligraphy Club</div>
+<div class="isomer-card-title">Chinese Calligraphy Club 书法学会</div>
 <div class="isomer-card-link">Click here for more information!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/visual-and-performing-arts/chinese-dance/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/cd1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chinese Dance</div><div class="isomer-card-link">Click here for more information!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/visual-and-performing-arts/chinese-dance/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/cd1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chinese Dance 华族舞蹈团</div><div class="isomer-card-link">Click here for more information!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/visual-and-performing-arts/chinese-orchestra/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -230,10 +230,10 @@ valued</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Chinese Orchestra</div>
+<div class="isomer-card-title">Chinese Orchestra 华乐团</div>
 <div class="isomer-card-link">Click here for more information!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/visual-and-performing-arts/guzheng/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="nil" src="/images/g2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Guzheng</div><div class="isomer-card-link">Click here for more information!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/visual-and-performing-arts/guzheng/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="nil" src="/images/g2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Guzheng 古箏乐团</div><div class="isomer-card-link">Click here for more information!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.konghwa.moe.edu.sg/cca/visual-and-performing-arts/show-choir/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -241,7 +241,7 @@ valued</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Show Choir</div>
+<div class="isomer-card-title">Show Choir 舞动合唱团</div>
 <div class="isomer-card-link">Click here for more information!</div>
 </div>
 </a>

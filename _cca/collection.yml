@@ -2,23 +2,24 @@ collections:
   cca:
     output: true
     order:
-      - 社团 Clubs and Societies/Chess Club.md
-      - 社团 Clubs and Societies/Infocomm Media Club.md
+      - 社团 Clubs and Societies/Chess Club (International Chess, Xiangqi & Weiqi)
+        棋社 (国际象棋, 象棋 & 圍棋).md
+      - 社团 Clubs and Societies/Infocomm Club 资讯科技学会.md
       - 社团 Clubs and Societies/.keep
-      - 体育运动 Physical Sports/Badminton.md
-      - 体育运动 Physical Sports/Basketball.md
-      - 体育运动 Physical Sports/Netball.md
-      - 体育运动 Physical Sports/Table Tennis.md
-      - 体育运动 Physical Sports/Tchoukball.md
-      - 体育运动 Physical Sports/Wushu.md
+      - 体育运动 Physical Sports/Badminton 羽毛球队.md
+      - 体育运动 Physical Sports/Basketball 篮球队.md
+      - 体育运动 Physical Sports/Netball 英式女篮.md
+      - 体育运动 Physical Sports/Table Tennis 乒乓球队.md
+      - 体育运动 Physical Sports/Tchoukball 巧固球队.md
+      - 体育运动 Physical Sports/Wushu 武术队.md
       - 体育运动 Physical Sports/.keep
-      - 制服团体 Uniformed Groups/Brownies.md
-      - 制服团体 Uniformed Groups/Scouts.md
+      - 制服团体 Uniformed Groups/Brownies 女童军.md
+      - 制服团体 Uniformed Groups/Scouts 童子军.md
       - 制服团体 Uniformed Groups/.keep
-      - 艺术团 Visual and Performing Arts/Art Club.md
-      - 艺术团 Visual and Performing Arts/Chinese Calligraphy Club.md
-      - 艺术团 Visual and Performing Arts/Chinese Dance.md
-      - 艺术团 Visual and Performing Arts/Chinese Orchestra.md
-      - 艺术团 Visual and Performing Arts/Guzheng.md
-      - 艺术团 Visual and Performing Arts/Show Choir.md
+      - 艺术团 Visual and Performing Arts/Art Club 美术学会.md
+      - 艺术团 Visual and Performing Arts/Chinese Calligraphy Club 书法学会.md
+      - 艺术团 Visual and Performing Arts/Chinese Dance 华族舞蹈团.md
+      - 艺术团 Visual and Performing Arts/Chinese Orchestra 华乐团.md
+      - 艺术团 Visual and Performing Arts/Guzheng 古箏乐团.md
+      - 艺术团 Visual and Performing Arts/Show Choir 舞动合唱团.md
       - 艺术团 Visual and Performing Arts/.keep

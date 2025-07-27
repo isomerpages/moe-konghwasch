@@ -1,11 +1,12 @@
 ---
-title: Chinese Orchestra
+title: Chinese Orchestra 华乐团
 permalink: /cca/visual-and-performing-arts/chinese-orchestra/
 description: ""
 third_nav_title: 艺术团 Visual and Performing Arts
 variant: tiptap
 ---
-<h3>Chinese Orchestra</h3>
+<h3>Chinese Orchestra 华乐团</h3>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/co1.jpg">

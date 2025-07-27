@@ -1,11 +1,12 @@
 ---
-title: Chinese Dance
+title: Chinese Dance 华族舞蹈团
 permalink: /cca/visual-and-performing-arts/chinese-dance/
 description: ""
 third_nav_title: 艺术团 Visual and Performing Arts
 variant: tiptap
 ---
-<h3>Chinese Dance</h3>
+<h3>Chinese Dance 华族舞蹈团</h3>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cd1.jpg">
