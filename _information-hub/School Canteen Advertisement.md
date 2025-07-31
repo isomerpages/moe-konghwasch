@@ -131,19 +131,17 @@ includes complying with relevant authorities' requirements and guidelines.</p>
 environment.</p>
 </li>
 </ul>
-<p><strong>Applicants should preferably fulfil the following criteria:</strong>
+<p><strong>Note to successfull applicants:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Successful applicant and stall assistant(s) must possess the WSQ Basic
-Food Hygiene Certificate.</p>
-</li>
-<li>
-<p>Possess catering experience or experience operating in a school environment.</p>
+<p>Successful applicant and stall assistant(s) operating the stall must attend
+and pass the Food Safety Course Level 1 conducted by SkillsFuture Singapore
+approved training providers.</p>
 </li>
 <li>
 <p>Successful applicant is required to apply for a food stall license from
-Singapore Food Agency (SFA).</p>
+Singapore Food Agency (SFA) to operate the stall.</p>
 </li>
 </ul>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
