@@ -28,7 +28,7 @@ variant: tiptap
 <p>Malay Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 December 2024</p>
+<p>31 December 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rice or noodles are acceptable</p>
@@ -46,7 +46,7 @@ hardcopy from the School’s General Office.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/application%20form%20for%20canteen%20stall.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p><a href="/files/School Canteen Advertisement/Application_for_Canteen_Stall_FormBF7_as_of_Sep_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form for individual stallholder</a>
 </p>
 </li>
 </ul>
@@ -63,19 +63,19 @@ hardcopy from the School’s General Office.</p>
 <p>List of proposed menu and pricing for all items</p>
 </li>
 <li>
-<p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
+<p>Photocopy of relevant certificates such as Food Safety Course Level 1,
 etc</p>
 </li>
 </ul>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p>Submit the completed application form and documents by closing date via
-email OR to the School's General Office.</p>
+<p>Submit the completed Application Form and documents via email OR to the
+School's General Office by the closing date.</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Address: 350 Guillemard Road S399772</p>
+<p>Address: 350 Guillemard Road 399772</p>
 </li>
 <li>
 <p>Contact No: 6342 1195</p>
