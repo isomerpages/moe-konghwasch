@@ -69,13 +69,13 @@ etc</p>
 </ul>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p>Submit the completed application form and documents by closing date via
-email OR to the School's General Office.</p>
+<p>Submit the completed Application Form and documents via email OR to the
+School's General Office by the closing date.</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Address: 350 Guillemard Road S399772</p>
+<p>Address: 350 Guillemard Road 399772</p>
 </li>
 <li>
 <p>Contact No: 6342 1195</p>
