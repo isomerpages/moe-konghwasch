@@ -42,7 +42,7 @@ variant: tiptap
 <p>31 December 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zi Char food</p>
+<p>Zi Char food. Open to suggestions.</p>
 </td>
 </tr>
 </tbody>
