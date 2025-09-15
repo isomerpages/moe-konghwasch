@@ -28,7 +28,7 @@ sections:
         lives of our students.
       button: Find out more
       url: https://www.facebook.com/permalink.php?story_fbid=pfbid02dMVg86cNmP9MV1PEHzCtsv58FNXEAUPffx2Gxi8TGZosik4Z5uwjGQBMDoQPtSMHl&id=100064994620909
-      image: /images/DSC01458.jpg
+      image: /images/DSC01755.jpg
       alt: Image alt text
   - infopic:
       title: Singapore Moo-O Awards 2025
@@ -39,11 +39,11 @@ sections:
       alt: Image alt text
       button: Find out more
   - infopic:
-      title: 双文化五年级北京浸濡之旅
-      description: 光华学校 | 转动北京万花筒——中华文化的棱镜之光
+      title: National Primary Games Creation and Coding Competition
+      description: Let’s join in congratulating our Infocomm students for this
+        remarkable achievement!
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02f2SBTfc5kziwQR8hJyQ3qbqDgFqnaJyz2ZeceRTLQcq9zUzWL8MS9EQPzLCRMKWYl&id=100064994620909
-      image: /images/KHS
-        Highlights/506449638_1086060113570466_1980399161415646460_n.jpg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0SM479kyAnnzhhshj7TrwCtM8H9UM2b87EGEzYpmMmwvRWrAFMwPigGXR3nKa9mWfl&id=100064994620909
+      image: /images/542206133_1148618857314591_7730567276145856322_n.jpg
       alt: Image alt text
 ---
