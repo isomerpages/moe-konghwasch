@@ -22,23 +22,20 @@ sections:
       image: /images/PAT25_Ms_Diana_Lin_students_1.jpg
       alt: Image alt text
   - infopic:
-      title: Hair for hope 2025
-      description: Our Hair for Hope event went on smoothly and successfully — all
-        thanks to the incredible support from our students, staff, parents, and
-        volunteers.
+      title: "Teachers’ Day 2025: You Colour My World"
+      description: This year’s theme, “You Colour My World”, celebrates the way
+        teachers bring joy, inspiration, and vibrant possibilities into the
+        lives of our students.
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid05A5ERW62cBfFsbP2AvmzEp18g6AqXdyrhUnevUBnZrW6p55UV2GGz8jHb1vJBBdTl&id=100064994620909
-      image: /images/KHS
-        Highlights/514412598_1100630338780110_3315350055730454220_n.jpg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02dMVg86cNmP9MV1PEHzCtsv58FNXEAUPffx2Gxi8TGZosik4Z5uwjGQBMDoQPtSMHl&id=100064994620909
+      image: /images/DSC01458.jpg
       alt: Image alt text
   - infopic:
-      title: Peer Support Leadership Training
-      description: Our P3 Peer Support Leaders took part in a fun and meaningful
-        training session — led by none other than the amazing student leaders
-        from Dunman High School!
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02Nswy8TaVRfk3SgNtvtusn47xE4yD9fk7Z4vCSdbMhAFWGEzKhZvutwAHzFDNFj1l&id=100064994620909
-      image: /images/KHS
-        Highlights/514347651_1099129215596889_7100145761933242564_n.jpg
+      title: Singapore Moo-O Awards 2025
+      description: A huge congratulations to our little storytellers — you’ve made all
+        of us at KHS so proud!
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0SYxXsrEbyoDFerjXck44XEG2kCpdKekqWM8C23segdMeTWPgEm8z26nZocMs4iGJl&id=100064994620909
+      image: /images/DSC01270.jpg
       alt: Image alt text
       button: Find out more
   - infopic:
