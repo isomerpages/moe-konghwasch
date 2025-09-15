@@ -12,12 +12,14 @@ sections:
       title: KHS Highlights
       id: infobar
   - infopic:
-      title: 2025年全国小学华语讲故事比赛
+      title: With a culture shift, she turns mistakes into motivation
       id: infopic
-      description: 时隔两年再登全国小学华语讲故事舞台 光华小五生陈书瑶勇夺冠军 (8world)
-      button: 新闻网址
-      url: https://soyoung.8world.com/y-news/chinese-storytelling-2844456
-      image: /images/KHS Highlights/Screenshot_2025_07_15_114735.png
+      description: By helping her students see mistakes not as setbacks but as
+        stepping stones, she has shown her students what it means to learn with
+        courage and resilience.
+      button: Read on
+      url: https://www.schoolbag.edu.sg/story/with-a-culture-shift-she-turns-mistakes-into-motivation/
+      image: /images/PAT25_Ms_Diana_Lin_students_1.jpg
       alt: Image alt text
   - infopic:
       title: Hair for hope 2025
