@@ -12,39 +12,38 @@ sections:
       title: KHS Highlights
       id: infobar
   - infopic:
-      title: 2025年全国小学华语讲故事比赛
+      title: With a culture shift, she turns mistakes into motivation
       id: infopic
-      description: 时隔两年再登全国小学华语讲故事舞台 光华小五生陈书瑶勇夺冠军 (8world)
-      button: 新闻网址
-      url: https://soyoung.8world.com/y-news/chinese-storytelling-2844456
-      image: /images/KHS Highlights/Screenshot_2025_07_15_114735.png
+      description: By helping her students see mistakes not as setbacks but as
+        stepping stones, she has shown her students what it means to learn with
+        courage and resilience.
+      button: Read on
+      url: https://www.schoolbag.edu.sg/story/with-a-culture-shift-she-turns-mistakes-into-motivation/
+      image: /images/PAT25_Ms_Diana_Lin_students_1.jpg
       alt: Image alt text
   - infopic:
-      title: Hair for hope 2025
-      description: Our Hair for Hope event went on smoothly and successfully — all
-        thanks to the incredible support from our students, staff, parents, and
-        volunteers.
+      title: "Teachers’ Day 2025: You Colour My World"
+      description: This year’s theme, “You Colour My World”, celebrates the way
+        teachers bring joy, inspiration, and vibrant possibilities into the
+        lives of our students.
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid05A5ERW62cBfFsbP2AvmzEp18g6AqXdyrhUnevUBnZrW6p55UV2GGz8jHb1vJBBdTl&id=100064994620909
-      image: /images/KHS
-        Highlights/514412598_1100630338780110_3315350055730454220_n.jpg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02dMVg86cNmP9MV1PEHzCtsv58FNXEAUPffx2Gxi8TGZosik4Z5uwjGQBMDoQPtSMHl&id=100064994620909
+      image: /images/DSC01755.jpg
       alt: Image alt text
   - infopic:
-      title: Peer Support Leadership Training
-      description: Our P3 Peer Support Leaders took part in a fun and meaningful
-        training session — led by none other than the amazing student leaders
-        from Dunman High School!
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02Nswy8TaVRfk3SgNtvtusn47xE4yD9fk7Z4vCSdbMhAFWGEzKhZvutwAHzFDNFj1l&id=100064994620909
-      image: /images/KHS
-        Highlights/514347651_1099129215596889_7100145761933242564_n.jpg
+      title: Singapore Moo-O Awards 2025
+      description: A huge congratulations to our little storytellers — you’ve made all
+        of us at KHS so proud!
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0SYxXsrEbyoDFerjXck44XEG2kCpdKekqWM8C23segdMeTWPgEm8z26nZocMs4iGJl&id=100064994620909
+      image: /images/DSC01270.jpg
       alt: Image alt text
       button: Find out more
   - infopic:
-      title: 双文化五年级北京浸濡之旅
-      description: 光华学校 | 转动北京万花筒——中华文化的棱镜之光
+      title: National Primary Games Creation and Coding Competition
+      description: Let’s join in congratulating our Infocomm students for this
+        remarkable achievement!
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02f2SBTfc5kziwQR8hJyQ3qbqDgFqnaJyz2ZeceRTLQcq9zUzWL8MS9EQPzLCRMKWYl&id=100064994620909
-      image: /images/KHS
-        Highlights/506449638_1086060113570466_1980399161415646460_n.jpg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0SM479kyAnnzhhshj7TrwCtM8H9UM2b87EGEzYpmMmwvRWrAFMwPigGXR3nKa9mWfl&id=100064994620909
+      image: /images/542206133_1148618857314591_7730567276145856322_n.jpg
       alt: Image alt text
 ---
