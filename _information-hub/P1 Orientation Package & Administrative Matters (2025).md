@@ -7,11 +7,11 @@ variant: tiptap
 <h3>P1 Orientation Package &amp; Administrative Matters (2026)</h3>
 <h5>1. P1 Orientation Package 2026</h5>
 <p>P1 Principal’s Welcome Letter</p>
-<p><a href="/files/P1%20Orientation%202025/KHS_P1_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist for 2025</a>
+<p><a href="/files/P1 Orientation 2026/P1_BOOKLIST_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist for 2026</a>
 </p>
-<p><a href="/files/P1%20Orientation%202025/Kong_Hwa_Sch_uniform_sale_schedule_EY24.pdf" rel="noopener noreferrer nofollow" target="_blank">Kong Hwa Sch Uniform sale schedule</a>
+<p><a href="/files/P1 Orientation 2026/Kong_Hwa_Sch_sale_schedule_EY25.pdf" rel="noopener noreferrer nofollow" target="_blank">Kong Hwa Sch Uniform sale schedule</a>
 </p>
-<p><a href="/files/School%20bus%20service/KHS_Request_for_School_Bus_Services_2025__RS_Transport_.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services Form for 2025</a>
+<p><a href="/files/P1 Orientation 2026/KHS_Request_for_School_Bus_Services_2026__RS_Transport_.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services Form for 2026</a>
 </p>
 <h5>2. Other Information and Forms</h5>
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">Student Details Form</a>
