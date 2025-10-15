@@ -30,7 +30,7 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Orientation/efas_qr_2024.jpg">
+<img style="width: 33%;" height="auto" width="100%" alt="" src="/images/P1 Orientation/efas_qr_2024.jpg">
 </div>
 <p><a href="https://www.konghwa.moe.edu.sg/files/MOE%20FAS%20Form/MOE_FAS_Application_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>MOE FAS Application Form Sept 2024</u></a>
 </p>
