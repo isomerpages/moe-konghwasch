@@ -28,7 +28,6 @@ variant: tiptap
 <p><strong>Application for MOE Financial Assistance</strong>
 <br><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"><u>Online Application for MOE Financial Assistance</u></a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 33%;" height="auto" width="100%" alt="" src="/images/P1 Orientation/efas_qr_2024.jpg">
 </div>
