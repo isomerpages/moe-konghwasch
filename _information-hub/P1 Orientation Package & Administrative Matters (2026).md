@@ -6,7 +6,8 @@ variant: tiptap
 ---
 <h3>P1 Orientation Package &amp; Administrative Matters (2026)</h3>
 <h5>1. P1 Orientation Package 2026</h5>
-<p>P1 Principal’s Welcome Letter</p>
+<p><a href="/files/P1 Orientation 2026/Principal_s_Welcome_Letter_for_2026_P1_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Principal’s Welcome Letter</a>
+</p>
 <p><a href="/files/P1 Orientation 2026/P1_BOOKLIST_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist for 2026</a>
 </p>
 <p><a href="/files/P1 Orientation 2026/Kong_Hwa_Sch_sale_schedule_EY25.pdf" rel="noopener noreferrer nofollow" target="_blank">Kong Hwa Sch Uniform sale schedule</a>
