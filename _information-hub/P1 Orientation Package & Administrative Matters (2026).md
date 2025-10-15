@@ -25,6 +25,16 @@ variant: tiptap
 <p><a href="https://www.moe.gov.sg/financial-matters/edusave-account" rel="noopener noreferrer nofollow" target="_blank">Edusave Application site</a>
 </p>
 <p></p>
+<p><strong>Application for MOE Financial Assistance</strong>
+<br><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"><u>Online Application for MOE Financial Assistance</u></a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Orientation/efas_qr_2024.jpg">
+</div>
+<p><a href="https://www.konghwa.moe.edu.sg/files/MOE%20FAS%20Form/MOE_FAS_Application_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>MOE FAS Application Form Sept 2024</u></a>
+</p>
+<p></p>
 <p><strong>School Virtual Tour:</strong>
 </p>
 <div class="iframe-wrapper">
