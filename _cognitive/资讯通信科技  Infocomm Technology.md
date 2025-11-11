@@ -115,6 +115,7 @@ learner.</p>
 <p></p>
 <p><strong><u>Acceptable Use Policy (AUP) for use of EdTech Resources</u></strong>
 </p>
-<p></p>
+<p><a href="/files/ICT/Acceptable_Use_Policy__AUP__2025.pdf" rel="noopener nofollow" target="_blank">Acceptable Use Policy 2025 </a>
+</p>
 <p></p>
 <p></p>
