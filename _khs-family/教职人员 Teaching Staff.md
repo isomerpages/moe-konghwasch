@@ -58,8 +58,9 @@ variant: tiptap
 <br><a href="mailto:nur_shida_umar_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shida_umar_ali@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Ms Wang Hong</p>
-<p></p>
+<p>Ms Wang Hong
+<br><a href="mailto:wang_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_hong@schools.gov.sg</a>
+</p>
 <p></p>
 <p>Mr Lee Chia Liang
 <br><a href="mailto:lee_chia_liang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chia_liang@schools.gov.sg</a>
