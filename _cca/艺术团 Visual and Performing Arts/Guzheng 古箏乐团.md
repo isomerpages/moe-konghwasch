@@ -51,15 +51,6 @@ programmes with other schools.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Su Yan&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:su_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">su_yan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Yeo Hwee Gek Jeslin&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,10 +59,19 @@ programmes with other schools.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sim Kim Noy Anilia</p>
+<p>Mrs Kang-Hwang Yongxiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Sim_Kim_Noy_Anilia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Sim_Kim_Noy_Anilia@schools.gov.sg</u></a>
+<p><a href="mailto:hwang_yongxiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hwang_yongxiang@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Su Yan&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:su_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">su_yan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
