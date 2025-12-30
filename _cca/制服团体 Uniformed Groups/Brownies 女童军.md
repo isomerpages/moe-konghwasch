@@ -89,11 +89,10 @@ develop new skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Aishah&nbsp;</p>
+<p>Ms Tammy Swee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_aishah_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_aishah_ismail@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -103,6 +102,14 @@ develop new skills.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_pei_sze_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_pei_sze_a@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Rafeeza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
