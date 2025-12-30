@@ -58,10 +58,10 @@ which better equips them for the 21st century.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms An Wei&nbsp;</p>
+<p>Mdm Siti Aishah Bte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:an_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">an_wei@schools.gov.sg</a>
+<p><a href="mailto:siti_aishah_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_aishah_ismail@schools.gov.sg</a>
 </p>
 </td>
 </tr>
