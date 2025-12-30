@@ -71,6 +71,15 @@ and entrepreneurship capabilities through school-based activities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Perry Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:perry_chan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">perry_chan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Ng Zi Jian&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
