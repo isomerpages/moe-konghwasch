@@ -147,28 +147,10 @@ Hokkien Huay Kuan and other venues.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Hsiao Sze</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_hsiao_sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_hsiao_sze@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Xu Jing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:xu_jing_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>xu_jing_b@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Sharon Maggie Seet</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sharon_maggie_seet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sharon_maggie_seet@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -183,10 +165,10 @@ Hokkien Huay Kuan and other venues.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Yip Lai Ching Violet</p>
+<p>Mrs Sharon Maggie Seet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yip_lai_ching_violet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yip_lai_ching_violet@schools.gov.sg</u></a>
+<p><a href="mailto:sharon_maggie_seet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sharon_maggie_seet@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -196,6 +178,15 @@ Hokkien Huay Kuan and other venues.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_lee_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_lee_ping@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chua Hsiao Sze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_hsiao_sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_hsiao_sze@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
