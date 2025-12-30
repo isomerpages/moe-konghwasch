@@ -82,6 +82,15 @@ well as develop a bond with the sport and their fellow CCA peers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Agnes Wong&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_lay_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lay_hua@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Lim Ai Yi&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,19 +100,28 @@ well as develop a bond with the sport and their fellow CCA peers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jessica Loo&nbsp;</p>
+<p>Mr Vareck Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loo_yin_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_yin_wai@schools.gov.sg</a>
+<p><a href="mailto:ng_ho_wei_vareck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ho_wei_vareck@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Khusniah Liza&nbsp;</p>
+<p>Mdm Li Hongyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khusniah_liza_zainal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khusniah_liza_zainal@schools.gov.sg</a>
+<p><a href="mailto:Li_Hongyu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Li_Hongyu@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Seet Qiu Yiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seet_qiu_yiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>seet_qiu_yiong@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -118,19 +136,10 @@ well as develop a bond with the sport and their fellow CCA peers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Agnes Wong&nbsp;</p>
+<p>Mdm Khusniah Liza&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_lay_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lay_hua@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Seet Qiu Yiong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:seet_qiu_yiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>seet_qiu_yiong@schools.gov.sg</u></a>
+<p><a href="mailto:khusniah_liza_zainal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khusniah_liza_zainal@schools.gov.sg</a>
 </p>
 </td>
 </tr>
