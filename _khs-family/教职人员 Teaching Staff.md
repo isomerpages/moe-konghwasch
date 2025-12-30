@@ -267,7 +267,7 @@ variant: tiptap
 <p>Mrs Christine Kang
 <br><a href="mailto:lim_ching_chye@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_ching_chye@schools.gov.sg</a>
 <br>
-<br>Mdm Yip Yiije
+<br>Ms Yip Yiije
 <br><a href="mailto:yip_yijie@schools.gov.sg" rel="noopener nofollow" target="_blank">yip_yijie@schools.gov.sg</a>
 <br>
 </p>
