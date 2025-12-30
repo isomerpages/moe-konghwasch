@@ -316,9 +316,6 @@ variant: tiptap
 <p></p>
 <p>Mrs Tan-Chang Zhi Jun
 <br><a href="mailto:chang_zhi_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_zhi_jun@schools.gov.sg</a>
-<br>
-<br>Mrs Thio-Kooh Yong Tse
-<br><a href="mailto:Kooh_Yong_Tse@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kooh_yong_tse@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
@@ -590,8 +587,7 @@ variant: tiptap
 <p>Mdm Shao Linjuan
 <br><a href="mailto:Shao_Linjuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shao_linjuan@schools.gov.sg</a>
 <br>
-<br>Ms Evelyn Tan
-<br><a href="mailto:tan_leng_hwee_evelyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_leng_hwee_evelyn@schools.gov.sg</a>
+<br>
 </p>
 <p></p>
 <p>Ms Gan Ching Ching
@@ -656,7 +652,17 @@ variant: tiptap
 <p>P5-1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Sharifah Warda Bte Syed Mohd Alsagoff
+<br><a href="mailto:sharifah_warda_s_m@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharifah_warda_s_m@schools.gov.sg</a>
+</p>
 <p></p>
+<p>Mrs Han-Yap Lay Hua
+<br><a href="mailto:yap_lay_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_lay_hua@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Miss Pay Hui Ling
+<br><a href="mailto:pay_hui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pay_hui_ling@schools.gov.sg</a>
+</p>
 <p></p>
 <p>Mrs Chong-Goh Hwee Leng Wendi
 <br><a href="mailto:goh_hwee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_hwee_leng@schools.gov.sg</a>
@@ -675,8 +681,15 @@ variant: tiptap
 <p></p>
 <p>Mrs Goh-Wong Lee Ping
 <br><a href="mailto:wong_lee_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lee_ping@schools.gov.sg</a>
-<br>
 </p>
+<p></p>
+<p>Ms Gauri</p>
+<p></p>
+<p>
+<br>Mdm Nurafida Bte Mohd Anis
+<br><a href="mailto:nurafida_mohamed_anis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurafida_mohamed_anis@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -687,6 +700,14 @@ variant: tiptap
 <p></p>
 <p>Mrs Sharon Lynn Tan Chun Yin
 <br><a href="mailto:tan_chun_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chun_yin@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Ms Evelyn Tan
+<br><a href="mailto:tan_leng_hwee_evelyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_leng_hwee_evelyn@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mrs Thio-Kooh Yong Tse
+<br><a href="mailto:Kooh_Yong_Tse@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kooh_yong_tse@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
@@ -702,6 +723,10 @@ variant: tiptap
 <p></p>
 <p>Mdm An Wei
 <br><a href="mailto:an_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">an_wei@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mrs Kang-Hwang Yongxiang
+<br><a href="mailto:hwang_yongxiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hwang_yongxiang@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
@@ -796,8 +821,7 @@ variant: tiptap
 <p>P6-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurafida Bte Mohd Anis
-<br><a href="mailto:nurafida_mohamed_anis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurafida_mohamed_anis@schools.gov.sg</a>
+<p>
 <br>
 <br>Mrs Chew-Wong Hui Ren
 <br><a href="mailto:wong_hui_ren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_hui_ren@schools.gov.sg</a>
@@ -810,8 +834,7 @@ variant: tiptap
 <p>P6-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Pay Hui Ling
-<br><a href="mailto:pay_hui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pay_hui_ling@schools.gov.sg</a>
+<p>
 <br>
 <br>
 </p>
@@ -823,8 +846,7 @@ variant: tiptap
 <p>P6-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharifah Warda Bte Syed Mohd Alsagoff
-<br><a href="mailto:sharifah_warda_s_m@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharifah_warda_s_m@schools.gov.sg</a>
+<p>
 <br>
 <br>
 <br>
@@ -857,8 +879,7 @@ variant: tiptap
 <br><a href="mailto:zhang_juan_juan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_juan_juan@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mrs Han-Yap Lay Hua
-<br><a href="mailto:yap_lay_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_lay_hua@schools.gov.sg</a>
+<p>
 <br>
 </p>
 </td>
