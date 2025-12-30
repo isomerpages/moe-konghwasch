@@ -584,12 +584,6 @@ variant: tiptap
 <p>P4-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shao Linjuan
-<br><a href="mailto:Shao_Linjuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shao_linjuan@schools.gov.sg</a>
-<br>
-<br>
-</p>
-<p></p>
 <p>Ms Gan Ching Ching
 <br><a href="mailto:gan_ching_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gan_ching_ching@schools.gov.sg</a>
 </p>
@@ -609,9 +603,7 @@ variant: tiptap
 <br><a href="mailto:ng-tay_soh_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng-tay_soh_cheng@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Ms Liu Yali
-<br><a href="mailto:Liu_Yali_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yali_a@schools.gov.sg</a>
-</p>
+<p></p>
 <p></p>
 <p>Ms Seow Kheng Ling
 <br><a href="mailto:seow_kheng_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seow_kheng_ling@schools.gov.sg</a>
@@ -729,6 +721,10 @@ variant: tiptap
 <br><a href="mailto:hwang_yongxiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hwang_yongxiang@schools.gov.sg</a>
 </p>
 <p></p>
+<p>Miss Yip Lai Ching Violet
+<br><a href="mailto:yip_lai_ching_violet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yip_lai_ching_violet@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -742,6 +738,18 @@ variant: tiptap
 <p></p>
 <p>Mr Khoo Wenzhong James
 <br><a href="mailto:khoo_wenzhong_james@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_wenzhong_james@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mdm Sim Qing Qing
+<br><a href="mailto:sim_qing_qing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_qing_qing@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mr Lin Jinlong Jimmy
+<br><a href="mailto:lin_jinlong_jimmy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_jinlong_jimmy@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mrs Chew-Wong Hui Ren
+<br><a href="mailto:wong_hui_ren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_hui_ren@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
@@ -759,6 +767,17 @@ variant: tiptap
 <br><a href="mailto:chen_zhirong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_zhirong@schools.gov.sg</a>
 </p>
 <p></p>
+<p>Ms Joylynn</p>
+<p></p>
+<p></p>
+<p>Mr Muhammad Zulkifli Mohd Idries
+<br><a href="mailto:muhammad_zulkifli_mohd_idries@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_zulkifli_mohd_idries@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mdm Shao Linjuan
+<br><a href="mailto:Shao_Linjuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shao_linjuan@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -772,6 +791,13 @@ variant: tiptap
 <p></p>
 <p>Mdm Li Hongyu
 <br><a href="mailto:Li_Hongyu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_hongyu@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Ms Tammy Swee</p>
+<p></p>
+<p></p>
+<p>Ms Liu Yali
+<br><a href="mailto:Liu_Yali_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yali_a@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
@@ -823,8 +849,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>
 <br>
-<br>Mrs Chew-Wong Hui Ren
-<br><a href="mailto:wong_hui_ren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_hui_ren@schools.gov.sg</a>
+<br>
 </p>
 <p></p>
 </td>
@@ -858,11 +883,9 @@ variant: tiptap
 <p>P6-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Yip Lai Ching Violet
-<br><a href="mailto:yip_lai_ching_violet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yip_lai_ching_violet@schools.gov.sg</a>
+<p>
 <br>
-<br>Mr Lin Jinlong Jimmy
-<br><a href="mailto:lin_jinlong_jimmy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_jinlong_jimmy@schools.gov.sg</a>
+<br>
 <br>
 </p>
 </td>
@@ -889,8 +912,7 @@ variant: tiptap
 <p>P6-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sim Qing Qing
-<br><a href="mailto:sim_qing_qing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_qing_qing@schools.gov.sg</a>
+<p>
 <br>
 <br>Mr Larry Phoon
 <br><a href="mailto:Phoon_Kong_Meng_Larry_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Phoon_Kong_Meng_Larry_A@schools.gov.sg</a>
