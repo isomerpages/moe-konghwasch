@@ -59,19 +59,18 @@ perseverance, teamwork and the spirit of sportsmanship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Zhirong</p>
+<p>Ms Goh Siang Lu Serene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chen_zhirong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chen_zhirong@schools.gov.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim-Foo Wanru Yvette</p>
+<p>Ms Evelyn Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:foo_wanru_yvette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>foo_wanru_yvette@schools.gov.sg</u></a>
+<p><a href="mailto:tan_leng_hwee_evelyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_leng_hwee_evelyn@schools.gov.sg</a>
 </p>
 </td>
 </tr>
