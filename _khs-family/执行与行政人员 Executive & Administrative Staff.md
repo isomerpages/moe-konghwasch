@@ -71,10 +71,10 @@ variant: tiptap
 <br>Mr Chia Zhao Yan
 <br>
 <br>Desktop Engineer
-<br>Mr Nasrul Bin Saiful
+<br>Mr Ithayatiban
 <br>
 <br>Desktop Engineer
-<br>Mr Tay Wei Qi</p>
+<br>Mr Allen Ang</p>
 </td>
 </tr>
 <tr>
@@ -108,8 +108,6 @@ variant: tiptap
 <br>Mdm Kamariah Bte Suri</p>
 <p></p>
 <p>Mdm Masturah Bte Abdullah
-<br>
-<br>Mr Abdul Hamid Bin Ahmad
 <br>
 <br>Mr Lee Lian Cheow Ricky</p>
 </td>
