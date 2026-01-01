@@ -67,7 +67,7 @@ maintain good conduct.</p>
 Allocation Exercise</p>
 <p>* CCA transfers are only permitted during Term 1</p>
 <p>* Transfer requests require submission of the official CCA Transfer Form</p>
-<p><strong>CCA Transfer Form</strong>: <a href="https://form.gov.sg/68673f3a6a4804a26a721017" rel="noopener nofollow" target="_blank">Click Here</a>
+<p><strong>Students are to obtain the CCA transfer form from the current CCA teacher-in-charge</strong>
 </p>
 <p>* All transfers are subject to available vacancies and will be reviewed
 on a case-by-case basis</p>

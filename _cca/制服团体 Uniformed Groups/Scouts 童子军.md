@@ -94,28 +94,28 @@ pinnacle award in Cub Scouting – the Akela.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Perry Chan</p>
+<p>Mr Chen Zhirong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:perry_chan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>perry_chan@schools.gov.sg</u></a>
+<p><a href="mailto:chen_zhirong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_zhirong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jerry Yang&nbsp;</p>
+<p>Mrs Serena Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yang_ziyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_ziyi@moe.edu.sg</a>
+<p><a href="mailto:lee_bih_ye@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_bih_ye@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zheng Huier</p>
+<p>Ms Rachel Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zheng_huier@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zheng_huier@schools.gov.sg</u></a>
+<p><a href="mailto:lim_ching_hwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ching_hwee@schools.gov.sg</a>
 </p>
 </td>
 </tr>

@@ -63,10 +63,10 @@ thoughts and feeling</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Tang Kin Tuck Christabelle&nbsp;</p>
+<p>Miss Wong Luan Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tang_kin_tuck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_kin_tuck@schools.gov.sg</a>
+<p><a href="mailto:wong_luan_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_luan_yin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -85,15 +85,6 @@ thoughts and feeling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_yan_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ho_yan_lin@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Yip Yiije</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Yip_Yijie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yip_yijie@schools.gov.sg</a>
 </p>
 </td>
 </tr>

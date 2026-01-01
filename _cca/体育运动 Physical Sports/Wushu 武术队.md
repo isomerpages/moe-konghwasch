@@ -59,10 +59,10 @@ and also took part in the annual National Inter-Primary School Wushu Championshi
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Lim Jie Xi</p>
+<p>Ms Gan Ching Ching &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_Jie_xi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_Jie_xi@schools.gov.sg</a>
+<p><a href="mailto:gan_ching_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gan_ching_ching@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -77,19 +77,10 @@ and also took part in the annual National Inter-Primary School Wushu Championshi
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Gan Ching Ching &nbsp;</p>
+<p>Miss Lim Jie Xi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gan_ching_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gan_ching_ching@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Ho Wei Vareck</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Ng_Ho_Wei_Vareck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ho_wei_vareck@schools.gov.sg</a>
+<p><a href="mailto:lim_Jie_xi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_Jie_xi@schools.gov.sg</a>
 </p>
 </td>
 </tr>

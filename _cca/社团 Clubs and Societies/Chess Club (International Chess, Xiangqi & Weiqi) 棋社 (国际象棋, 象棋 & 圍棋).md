@@ -58,28 +58,19 @@ and their opponent, and the pieces on the chessboard are.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Luan Yin</p>
+<p>Ms Yip Yiije</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_luan_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_luan_yin@schools.gov.sg</a>
+<p><a href="mailto:yip_yijie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yip_yijie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chin Wan Chen</p>
+<p>Mdm An Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chin_wan_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_wan_chen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Li Hongyu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Li_Hongyu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>li_hongyu@schools.gov.sg</u></a>
+<p><a href="mailto:an_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">an_wei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
