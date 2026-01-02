@@ -735,5 +735,33 @@ variant: tiptap
 </table>
 <p>
 <br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ho Choong On</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>
 <br>
 </p>
