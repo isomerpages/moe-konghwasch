@@ -622,8 +622,9 @@ variant: tiptap
 <p>P5-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gauri</p>
-<p></p>
+<p>Ms Rai
+<br><a href="mailto:gauri_varsha_rai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gauri_varsha_rai@schools.gov.sg</a>
+</p>
 <p>
 <br>Mdm Nurafida Bte Mohd Anis
 <br><a href="mailto:nurafida_mohamed_anis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurafida_mohamed_anis@schools.gov.sg</a>
