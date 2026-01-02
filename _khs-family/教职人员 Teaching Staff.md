@@ -141,7 +141,7 @@ variant: tiptap
 <br><a href="mailto:foo_wanru_yvette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_wanru_yvette@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Ms Clara Khoo</p>
+<p>Mrs Wee-Khoo Jie Hui Clara</p>
 <p></p>
 <p></p>
 </td>
@@ -151,7 +151,7 @@ variant: tiptap
 <p>P1-9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Serene Goh</p>
+<p>Ms Goh Siang Lu Serene</p>
 <p></p>
 <p></p>
 <p>Mrs Wong-Lim Eng Tsing
@@ -705,7 +705,7 @@ variant: tiptap
 <p>P5-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tammy Swee</p>
+<p>Mdm Swee Shou Peng Tammy</p>
 <p></p>
 <p></p>
 <p>Ms Liu Yali
