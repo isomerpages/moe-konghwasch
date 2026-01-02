@@ -441,7 +441,9 @@ variant: tiptap
 <br><a href="mailto:nuraisha_mohamed_anis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nuraisha_mohamed_anis@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Ms Rafeeza</p>
+<p>Ms Feeza Khaliq
+<br><a href="mailto:rafeeza_khaliq@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rafeeza_khaliq@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
