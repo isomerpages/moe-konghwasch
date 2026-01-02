@@ -464,6 +464,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rai<a href="mailto:gauri_varsha_rai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>gauri_varsha_rai@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>
