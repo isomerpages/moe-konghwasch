@@ -661,10 +661,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Quah Li Zhen
+<br><a href="mailto:quah_li_zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quah_li_zhen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
