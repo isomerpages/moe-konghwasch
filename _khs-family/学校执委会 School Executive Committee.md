@@ -156,8 +156,8 @@ variant: tiptap
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yeo Chin Choo Wendy
-<br><a href="mailto:yeo_chin_choo_wendy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_chin_choo_wendy@schools.gov.sg</a>
+<p>Ms Lim Chew Yen Joylynn
+<br><a href="mailto:lim_chew_yen_joylynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chew_yen_joylynn@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -333,6 +333,16 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chua Hsiao Sze
+<br><a href="mailto:chua_hsiao_sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_hsiao_sze@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>
@@ -397,12 +407,22 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Music</strong>
+<p><strong>Aesthetics</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Feeza Khaliq
+<br><a href="mailto:rafeeza_khaliq@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rafeeza_khaliq@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -441,6 +461,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurafida Bte Mohd Anis<a href="mailto:nurafida_mohamed_anis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>nurafida_mohamed_anis@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rai<a href="mailto:gauri_varsha_rai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>gauri_varsha_rai@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -613,7 +642,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Information and Communication Technology</strong>
+<p><strong>EdTech and Knowledge Management</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -627,6 +656,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Low Kok Leong
 <br><a href="mailto:low_kok_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_kok_leong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Quah Li Zhen
+<br><a href="mailto:quah_li_zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quah_li_zhen@schools.gov.sg</a>
 </p>
 </td>
 </tr>

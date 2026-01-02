@@ -441,7 +441,9 @@ variant: tiptap
 <br><a href="mailto:nuraisha_mohamed_anis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nuraisha_mohamed_anis@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Ms Rafeeza</p>
+<p>Ms Feeza Khaliq
+<br><a href="mailto:rafeeza_khaliq@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rafeeza_khaliq@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -620,8 +622,9 @@ variant: tiptap
 <p>P5-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gauri</p>
-<p></p>
+<p>Ms Rai
+<br><a href="mailto:gauri_varsha_rai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gauri_varsha_rai@schools.gov.sg</a>
+</p>
 <p>
 <br>Mdm Nurafida Bte Mohd Anis
 <br><a href="mailto:nurafida_mohamed_anis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurafida_mohamed_anis@schools.gov.sg</a>
@@ -683,8 +686,9 @@ variant: tiptap
 <p>P5-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joylynn</p>
-<p></p>
+<p>Ms Lim Chew Yen Joylynn
+<br><a href="mailto:lim_chew_yen_joylynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chew_yen_joylynn@schools.gov.sg</a>
+</p>
 <p></p>
 <p>Mr Muhammad Zulkifli Mohd Idries
 <br><a href="mailto:muhammad_zulkifli_mohd_idries@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_zulkifli_mohd_idries@schools.gov.sg</a>
