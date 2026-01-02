@@ -683,8 +683,9 @@ variant: tiptap
 <p>P5-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joylynn</p>
-<p></p>
+<p>Ms Lim Chew Yen Joylynn
+<br><a href="mailto:lim_chew_yen_joylynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chew_yen_joylynn@schools.gov.sg</a>
+</p>
 <p></p>
 <p>Mr Muhammad Zulkifli Mohd Idries
 <br><a href="mailto:muhammad_zulkifli_mohd_idries@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_zulkifli_mohd_idries@schools.gov.sg</a>
