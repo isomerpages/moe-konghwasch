@@ -30,6 +30,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Operations Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ho Choong On</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Administration Executive</strong>
 </p>
 </td>
@@ -48,6 +57,15 @@ variant: tiptap
 <br>Ms Tan Khar Luan Stephanie
 <br>
 <br>Ms Ng Siew Hong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Allied Educator (Admin Support)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Loo Yin Wai Jessica</p>
 </td>
 </tr>
 <tr>

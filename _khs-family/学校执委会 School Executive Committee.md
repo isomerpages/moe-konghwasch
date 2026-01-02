@@ -357,7 +357,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Physical Education &amp; Co-Curricular Activities</strong>
+<p><strong>Physical Education &amp; Co-Curricular Activities (Physical Sports and Clubs &amp; Societies)</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -407,7 +407,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Aesthetics</strong>
+<p><strong>Aesthetics &amp; Co-Curricular Activities (Performing Arts and Uniform Groups)</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -469,7 +469,7 @@ variant: tiptap
 <p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rai<a href="mailto:gauri_varsha_rai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>gauri_varsha_rai@schools.gov.sg</u></a>
+<p>Ms Gauri Varsha Rai<a href="mailto:gauri_varsha_rai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>gauri_varsha_rai@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -735,5 +735,33 @@ variant: tiptap
 </table>
 <p>
 <br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ho Choong On</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>
 <br>
 </p>
