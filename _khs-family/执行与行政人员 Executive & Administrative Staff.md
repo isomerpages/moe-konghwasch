@@ -52,6 +52,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Allied Educator (Admin Support)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Loo Yin Wai Jessica</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Reception &amp; Administration Assistant</strong>
 </p>
 </td>
