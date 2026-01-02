@@ -2,7 +2,7 @@
 title: 辅助教育人员 Allied Educators
 permalink: /khs-family/allied-educators/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>Allied Educators</h3>
 <table style="minWidth: 50px">
@@ -32,20 +32,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Allied Educator (Teaching &amp; Learning)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Loo Yin Wai Jessica
-<br><a href="mailto:loo_yin_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_yin_wai@schools.gov.sg</a> 
-<br>
-<br>Mrs Zhang-Sim Kim Noy Anilia
-<br><a href="mailto:sim_kim_noy_anilia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_kim_noy_anilia@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Special Educational Needs Officer (SENO)</strong>
 </p>
 </td>
@@ -58,11 +44,15 @@ variant: markdown
 <br>
 <br>Miss Raden Siti Norafifah Binte Raden Amran
 <br><a href="mailto:raden_siti_norafifah_amran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">raden_siti_norafifah_amran@schools.gov.sg</a>
-
 <br>
 <br>Mr Cornelius Joshua Lee Jin
 <br><a href="mailto:cornelius_joshua_lee_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cornelius_joshua_lee_jin@schools.gov.sg</a>
 </p>
+<p></p>
+<p>Mrs Zhang-Sim Kim Noy Anilia
+<br><a href="mailto:sim_kim_noy_anilia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_kim_noy_anilia@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 </tbody>
