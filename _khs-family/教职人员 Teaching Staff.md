@@ -622,7 +622,7 @@ variant: tiptap
 <p>P5-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rai
+<p>Ms Gauri Varsha Rai
 <br><a href="mailto:gauri_varsha_rai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gauri_varsha_rai@schools.gov.sg</a>
 </p>
 <p>
