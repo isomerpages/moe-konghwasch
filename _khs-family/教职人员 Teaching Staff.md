@@ -707,8 +707,9 @@ variant: tiptap
 <p>P5-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Swee Shou Peng Tammy</p>
-<p></p>
+<p>Mdm Swee Shou Peng Tammy
+<br><a href="mailto:swee_shou_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">swee_shou_peng@schools.gov.sg</a>
+</p>
 <p></p>
 <p>Ms Liu Yali
 <br><a href="mailto:Liu_Yali_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yali_a@schools.gov.sg</a>
