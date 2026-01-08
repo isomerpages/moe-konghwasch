@@ -32,6 +32,10 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3648_photo.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Environment/I_Love_KHS__Wall_.jpg">
+</div>
 <p><strong>文化长廊 Cultural Corridor</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -61,6 +65,10 @@ description: ""
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5928_photo.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Environment/I_Love_KHS.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -123,10 +131,17 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5923_photo.jpg">
 </div>
-<p><strong>学校跑道与健身角落 School Running Track and Fitness Corner</strong>
+<p></p>
+<p><strong>以棋会友 Chess Corner</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6009_photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Environment/Chess_Corner.jpg">
+</div>
+<p><strong>学校跑道与健身角落 School Running Track and Fitness Corner</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Environment/Sch_Running_Track.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -222,8 +237,9 @@ description: ""
 </div>
 <p><strong>科学实验室与花园 Science Laboratory and Garden</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6001_photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Environment/Sci_Garden.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
