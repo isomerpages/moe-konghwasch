@@ -756,7 +756,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ho Choong On</p>
+<p>Mr Ho Choong On
+<br><a href="mailto:ho_choong_on@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_choong_on@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
