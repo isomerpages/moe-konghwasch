@@ -5,7 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Moe Sexuality Education in Schools</strong></h3>
-<p>&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
+<p>&nbsp;</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 (SEd) in schools aims to enable students to understand the physiological,
 social and emotional changes they experience as they mature, develop healthy
 and rewarding relationships with others, including those with members of
@@ -25,10 +26,10 @@ sexuality matters.</p>
 <p>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
+<p></p>
 <p>&nbsp;</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
-<p>&nbsp;</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and respect
 yourself as you love and respect others;</p>
 <p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build positive
@@ -44,20 +45,26 @@ Casual sex can harm and hurt you and your loved ones.</p>
 more information on MOE Sexuality Education.</p>
 <p><strong><br></strong>
 </p>
-<p><strong>Overview of Kong Hwa School’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Kong Hwa School’s Sexuality Education Programme for 2026</strong>
 </p>
+<p>&nbsp;</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
 for Sexuality Education is grouped into five main themes: Human Development,
 Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
 Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
 information on the scope of Sexuality Education in the school curriculum.</p>
+<p>&nbsp;</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate
 topics on sexuality include:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
 (CCE)</p>
-<p><strong><u>Sexuality Education Lessons</u></strong>:</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong>Sexuality Education Lessons</strong>
+</p>
+<p>&nbsp;</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years
 mark the onset of puberty. With better nutrition and improved health care,
 children are reaching puberty at a younger age and have to grapple with
@@ -69,7 +76,7 @@ exposed to a wide range of influences that could endanger health and undermine
 the integrity of the family. Our students require close guidance so that
 they can respond with discernment to the sexual messages in the media and
 other sources.</p>
-<p>&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
 <p>7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd)
 lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these
 lessons, students will learn healthy ways to manage the physiological,
@@ -77,16 +84,18 @@ social and emotional changes in their growing years. They learn to build
 healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
-<p>&nbsp;
-<br>
+<p>&nbsp;</p>
+<p>&nbsp;<strong>At Kong Hwa School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
-<p><strong>At Kong Hwa School, the following Sexuality Education lessons will be taught in 2025:</strong>
-</p>
-<p>&nbsp;<strong>2025 Sexuality Education Lessons in CCE</strong>
+<p>&nbsp;</p>
+<p></p>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Primary 5</strong>
+</p>
+<p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -112,7 +121,7 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
 </p>
-<p><strong>&nbsp;</strong>
+<p><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </td>
 </tr>
@@ -182,7 +191,7 @@ and how to seek help for themselves and their friends.</p>
 <p><strong><br></strong>
 </p>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -263,16 +272,19 @@ and learn to behave maturely towards each other.</p>
 </p>
 <p><strong>Information for Parents</strong>
 </p>
+<p><strong>&nbsp;</strong>
+</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
 children out of Sexuality Education lessons, and/or supplementary Sexuality
 Education programmes by MOE-approved external providers.</p>
+<p>&nbsp;</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
-an opt-out form. This form will be communicated &nbsp;to parents at the
-start of the year and is also downloadable <a href="/files/MOE SED/MOE_Sexuality_Education_2025_Parent_Opt_out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-The completed opt-out form is to be submitted by 31/01/2025.</p>
+an opt-out form. This form will be communicated to parents at the start
+of the year and is also available <a href="/files/MOE SED/MOE_Sexuality_Education_Parent_Opt_Out_Form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
+The completed opt-out form is to be submitted by 31/01/2026.</p>
+<p>&nbsp;</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
-at 6342 1195 or <a rel="noopener noreferrer nofollow" target="_blank">konghwa_sch@moe.edu.sg</a> for
+at 6342 1195 or <a href="mailto:konghwa_sch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">konghwa_sch@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
-<p></p>
