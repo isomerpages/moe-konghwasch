@@ -72,6 +72,29 @@ at the recreational and competitive levels.</p>
 <p>It is also a great learning platform for you to develop your values of
 perseverance, team work and discipline. The group ensemble experience will
 definitely greatly enhance your social and cooperative skills too!</p>
+<p></p>
+<h4>Awards</h4>
+<p><u>B-Dazzled 20225</u>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Platinum Award</p>
+</li>
+<li>
+<p>U13 Excellence Award</p>
+</li>
+</ol>
+<p><u>B-Dazzled 2024</u>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Diamond Award</p>
+</li>
+<li>
+<p>Best Costume</p>
+</li>
+</ol>
+<p></p>
 <h4>Training Schedule</h4>
 <p>Day: Mondays
 <br>Time: 2 pm to 4 pm
