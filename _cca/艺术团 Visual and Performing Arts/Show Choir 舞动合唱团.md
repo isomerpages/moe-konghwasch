@@ -8,15 +8,55 @@ variant: tiptap
 <h3>Show Choir 舞动合唱团</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Choir/WhatsApp_Image_2026_01_15_at_16_56_58.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Choir/WhatsApp_Image_2026_01_15_at_16_57_08.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Choir/WhatsApp_Image_2026_01_15_at_16_57_09__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Choir/WhatsApp_Image_2026_01_15_at_16_57_08__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Choir/WhatsApp_Image_2026_01_15_at_16_57_09.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Choir/WhatsApp_Image_2026_01_15_at_16_57_26.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Choir/WhatsApp_Image_2026_01_15_at_16_57_27.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Choir/WhatsApp_Image_2026_01_15_at_16_59_14.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Choir/WhatsApp_Image_2026_01_15_at_16_59_14__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Choir/WhatsApp_Image_2026_01_15_at_16_59_39.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Choir/WhatsApp_Image_2026_01_15_at_19_55_10.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Choir/WhatsApp_Image_2026_01_15_at_19_55_10__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Choir/WhatsApp_Image_2026_01_15_at_19_55_10__2_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
