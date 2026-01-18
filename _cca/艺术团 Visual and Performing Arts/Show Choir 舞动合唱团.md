@@ -126,10 +126,11 @@ definitely greatly enhance your social and cooperative skills too!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Clara Khoo</p>
+<p>Mrs Wee-Khoo Jie Hui Clara</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:khoo_jiehui_clara@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>khoo_jiehui_clara@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 </tbody>
