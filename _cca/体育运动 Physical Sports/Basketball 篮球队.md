@@ -62,7 +62,8 @@ perseverance, teamwork and the spirit of sportsmanship.</p>
 <p>Ms Goh Siang Lu Serene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:goh_siang_lu_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_siang_lu_serene@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
