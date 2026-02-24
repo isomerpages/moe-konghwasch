@@ -38,11 +38,11 @@ sections:
       alt: Image alt text
       button: Find out more
   - infopic:
-      title: National Primary Games Creation and Coding Competition
-      description: Let’s join in congratulating our Infocomm students for this
-        remarkable achievement!
+      title: Back to School Carnival
+      description: Our Very Supportive Parents brought the Back-To-School spirit to
+        life with a buzzing *BTS Carnival* during recess
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0SM479kyAnnzhhshj7TrwCtM8H9UM2b87EGEzYpmMmwvRWrAFMwPigGXR3nKa9mWfl&id=100064994620909
-      image: /images/542206133_1148618857314591_7730567276145856322_n.jpg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0PhNqqpQhg1DUdECukRASKefgbQoox8h2sT6AYEnPJc8MYhYXcoSop8KjKwy98q2jl&id=100064994620909
+      image: /images/Homepage highlights images/back_to_school.jpg
       alt: Image alt text
 ---
