@@ -12,30 +12,29 @@ sections:
       title: KHS Highlights
       id: infobar
   - infopic:
-      title: With a culture shift, she turns mistakes into motivation
+      title: Lunar New Year Celebrations
       id: infopic
-      description: By helping her students see mistakes not as setbacks but as
-        stepping stones, she has shown her students what it means to learn with
-        courage and resilience.
+      description: From roaring lion dances to ancient crafts - see how students
+        brought chinese traditions to life
       button: Read on
-      url: https://www.schoolbag.edu.sg/story/with-a-culture-shift-she-turns-mistakes-into-motivation/
-      image: /images/PAT25_Ms_Diana_Lin_students_1.jpg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid029ytYb8P4A8SwzgTF1qetDpRcN3t5AF6XJ21eej5aAFGax1TujqpY5tbXtBPLTpURl&id=100064994620909
+      image: /images/Homepage highlights images/cny2026.jpg
       alt: Image alt text
   - infopic:
-      title: "Teachers’ Day 2025: You Colour My World"
-      description: This year’s theme, “You Colour My World”, celebrates the way
-        teachers bring joy, inspiration, and vibrant possibilities into the
-        lives of our students.
+      title: Tai Pei Old People’s Home Visit
+      description: See how these young leaders are making a real difference in elderly
+        care through music and compassion
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02dMVg86cNmP9MV1PEHzCtsv58FNXEAUPffx2Gxi8TGZosik4Z5uwjGQBMDoQPtSMHl&id=100064994620909
-      image: /images/DSC01755.jpg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0yQg7aPBdCpiii9ncSLAouQxUBerYZhDcj1bVvuVhoNoLUqDFGFfPf2WTmB951dkTl&id=100064994620909
+      image: /images/Homepage highlights images/old_folks_home.jpg
       alt: Image alt text
   - infopic:
-      title: Singapore Moo-O Awards 2025
-      description: A huge congratulations to our little storytellers — you’ve made all
-        of us at KHS so proud!
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0SYxXsrEbyoDFerjXck44XEG2kCpdKekqWM8C23segdMeTWPgEm8z26nZocMs4iGJl&id=100064994620909
-      image: /images/DSC01270.jpg
+      title: Science Takes Off at Kong Hwa School
+      description: Students were introduced to two fun and inspiring Science platforms
+        – the Sony Creative Science Award (SCSA) and the Young Scientist Badge
+        Scheme (YSBS)
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02AnrFCGv9MjZnnbucvsT5WtqaZ6NDRMRqiqAX5UiCR4DHyMM2nTVhnLsAkkY3LcBol&id=100064994620909
+      image: /images/Homepage highlights images/science_recess.jpg
       alt: Image alt text
       button: Find out more
   - infopic:
