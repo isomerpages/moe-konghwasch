@@ -402,6 +402,10 @@ variant: tiptap
 <br><a href="mailto:tang_kin_tuck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_kin_tuck@schools.gov.sg</a>
 </p>
 <p></p>
+<p>Ms Lynnette Tan
+<br><a href="mailto:tan_hui_ling_lynnette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_ling_lynnette@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
