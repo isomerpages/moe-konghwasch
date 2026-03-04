@@ -125,9 +125,7 @@ variant: tiptap
 <br>
 <br>Mdm Kamariah Bte Suri</p>
 <p></p>
-<p>Mdm Masturah Bte Abdullah
-<br>
-<br>Mr Lee Lian Cheow Ricky</p>
+<p>Mr Lee Lian Cheow Ricky</p>
 </td>
 </tr>
 </tbody>
