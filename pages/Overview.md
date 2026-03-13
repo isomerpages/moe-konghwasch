@@ -65,13 +65,13 @@ maintain good conduct.</p>
 </p>
 <p>* Students may indicate their CCA preferences during the Primary 3 CCA
 Allocation Exercise</p>
-<p>* CCA transfers are only permitted during Term 1</p>
+<p>* CCA transfers are only permitted in January</p>
 <p>* Transfer requests require submission of the official CCA Transfer Form</p>
 <p><strong>Students are to obtain the CCA transfer form from the current CCA teacher-in-charge</strong>
 </p>
 <p>* All transfers are subject to available vacancies and will be reviewed
 on a case-by-case basis</p>
-<p>* Approved transfers will take effect from Term 2</p>
+<p>* Approved transfers will take effect from February</p>
 <p>&nbsp;</p>
 <p><u>3. CCA Leadership Development</u>
 </p>
