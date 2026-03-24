@@ -651,6 +651,10 @@ variant: tiptap
 <br><a href="mailto:Kooh_Yong_Tse@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kooh_yong_tse@schools.gov.sg</a>
 </p>
 <p></p>
+<p>Mrs Chew-Wong Hui Ren
+<br><a href="mailto:wong_hui_ren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_hui_ren@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -679,10 +683,6 @@ variant: tiptap
 <p></p>
 <p>Mr Lin Jinlong Jimmy
 <br><a href="mailto:lin_jinlong_jimmy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_jinlong_jimmy@schools.gov.sg</a>
-</p>
-<p></p>
-<p>Mrs Chew-Wong Hui Ren
-<br><a href="mailto:wong_hui_ren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_hui_ren@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
