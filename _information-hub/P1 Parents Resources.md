@@ -44,7 +44,7 @@ description: ""
 <li>
 <p>become more independent and responsible</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/l0EnKuLTHpQ?si=HteHxHIZbg0AURC6"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/l0EnKuLTHpQ?si=HteHxHIZbg0AURC6"></iframe>
 </div>
 </li>
 </ul>
@@ -62,7 +62,10 @@ description: ""
 <p>Every child develops at a different pace. How can we support our children
 to prepare for primary school? What do they really need for Primary 1?
 Click on the image below to check out these tips.</p>
-<p></p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---supporting-your-child-through-the-primary-1-journey"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Parents resources/Parent_Kit___Supporting_Your_Child_Through_the_Primary_1_Journey_Page_1.jpg"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Parents resources/Parent_Kit___Supporting_Your_Child_Through_the_Primary_1_Journey_Page_1.jpg">
+</div>
 <p></p>
 <blockquote>
 <h3>Parent-Child Activity Book (Digital)</h3>
@@ -77,7 +80,10 @@ school.</p>
 <blockquote>
 <h3>School-Home Partnership</h3>
 </blockquote>
-<p>Click on the image below for more information.</p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/-/media/files/parent-kit/school-home-partnership.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Parents resources/school_home_partnership_Page_1.jpg"></a>
+<p>Click on the image below for more information.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Parents resources/school_home_partnership_Page_1.jpg">
+</div>
 <p></p>
 <blockquote>
 <h3>Keeping Children Healthy - A Guide For Parents</h3>
