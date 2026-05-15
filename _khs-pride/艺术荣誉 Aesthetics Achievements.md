@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Aesthetics Achievements</h3>
 <h4>2026</h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Singapore Youth Festival Arts Presentation Chinese Dance – Certificate of Distinction</strong>
 </summary>
@@ -358,6 +358,714 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Singapore Youth Festival Arts Presentation Chinese Orchestra – Certificate of Distinction</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DENG YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEOW JING CHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE BENG KIAT, PAUL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SU RUILIN SABRINA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KHOO ZI YAO JANELLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EMILY CHOO WANGJIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHANG ZIMO DEREK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE KEEGAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ALEXANDER KOH JUN JIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WANG ZONGHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-04</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SIOW RUI FENG, DYLAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-04</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HAN SHUYI HANNAH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PHANG HUI XUEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN YITING CHARLENE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHEN YIXIAO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN ZHI RUI, TOBY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TOR JIA LING EMMA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WU YICHEN AUSTEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RAYNA TIONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ETHAN TAN ZHI FENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WEE BOON YEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM SHI TONG, VICTORIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHUA JIA QIAN NICOLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG EN NING GWEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ETHEL TAY SHI XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KANG YUAN TONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ONG KOK HEE, DANIEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-04</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SHAYERS TAN SHENG JIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JOELLE CHIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>XU AIMI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SHANG KAIYUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LAURA GAN WENQI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EMILIA XIAOXIAO MOSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LI YOUBO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EMILY ISABEL GOH YI LING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YU HSIN YING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN XIAO RUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN HUI SHAN, CAILEY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AEOLIA TAN HSUAN ING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AVERIE LOH ZI NING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>THAM SHU HAN , SOFIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIN MINLONG JEROLD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHUA DING HENG YERIEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHEANG JING XUAN ANNETTE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NATALIE NG JING HAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE BENG CHIT, GEORGE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TEO EN SHIN, ASHLYN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WONG KAI LE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HO SZE YUT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HENDRICK TAN JING YANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZENG XINYA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN YOU ANN, RYAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIONG YING HAN SARAH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHUA DING SHAO OWAIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LAU LUO YAN ALEXIS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-07</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Singapore Youth Festival Arts Presentation Guzheng Ensemble – Certificate of Distinction</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN YU JIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3-03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WONG CHEN FENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TEO CHENG XU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LAI ISAAC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GOH QIAN HUI LEIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LI YUNXI KERRINE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN SHI TING ABBY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PAIGE TAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>XU SHIWEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHANG QING YANG, ZERLINDA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ASHLYN TAN KAI EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHERYL CHEN SHUXIAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ERICA TAN KAI XIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HE JINYING ALEXANDRA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEOW LE XUAN REANNE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHENG SHIYING CHARLOTTE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ER ANA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LUAR JUN TING, AVA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OLIVIA HUANG YUNYI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TRINA LAU GIN XIAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KEE YI JUN ANYA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-04</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE YI CHEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-04</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN GEOK CHIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-04</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HUANG CAIQIAN, JERRISA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TEO HUI YING, ELIZABETH JANE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG DANSON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>POON CHI HUEN ALLISON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WEE SI TONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-04</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EMILY TAN JING WEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WOO JIA YI SKYLA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-07</p>
 </td>
 </tr>
 </tbody>
