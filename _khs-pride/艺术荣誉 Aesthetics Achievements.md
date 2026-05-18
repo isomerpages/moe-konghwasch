@@ -8,7 +8,7 @@ variant: tiptap
 <h4>2026</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Singapore Youth Festival Arts Presentation Chinese Dance – Certificate of Distinction</strong>
+<summary><strong>SYF Arts Presentation Chinese Dance </strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -17,6 +17,12 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Certificate of Distinction</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>TAN YI EN, STELLA</p>
@@ -430,7 +436,7 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Singapore Youth Festival Arts Presentation Chinese Orchestra – Certificate of Distinction</strong>
+<summary><strong>SYF Arts Presentation Chinese Orchestra</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -439,6 +445,12 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Certificate of Distinction</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>DENG YI</p>
@@ -884,7 +896,7 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Singapore Youth Festival Arts Presentation Guzheng Ensemble – Certificate of Distinction</strong>
+<summary><strong>SYF Arts Presentation Guzheng Ensemble</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -893,6 +905,12 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Certificate of Distinction</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>TAN YU JIE</p>
