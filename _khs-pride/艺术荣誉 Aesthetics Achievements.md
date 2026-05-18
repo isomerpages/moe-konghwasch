@@ -8,7 +8,7 @@ variant: tiptap
 <h4>2026</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>SYF Arts Presentation Chinese Dance </strong>
+<summary><strong>Chinese Dance</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -19,7 +19,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Certificate of Distinction</strong>
+<p><strong>SYF Arts Presentation - Certificate of Distinction</strong>
 </p>
 </td>
 </tr>
@@ -436,7 +436,7 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>SYF Arts Presentation Chinese Orchestra</strong>
+<summary><strong>Chinese Orchestra</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -447,7 +447,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Certificate of Distinction</strong>
+<p><strong>SYF Arts Presentation - Certificate of Distinction</strong>
 </p>
 </td>
 </tr>
@@ -896,7 +896,7 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>SYF Arts Presentation Guzheng Ensemble</strong>
+<summary><strong>Guzheng Ensemble</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -907,7 +907,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Certificate of Distinction</strong>
+<p><strong>SYF Arts Presentation - Certificate of Distinction</strong>
 </p>
 </td>
 </tr>
