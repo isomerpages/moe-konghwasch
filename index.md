@@ -12,37 +12,35 @@ sections:
       title: KHS Highlights
       id: infobar
   - infopic:
-      title: Lunar New Year Celebrations
+      title: Hair for Hope 2026
       id: infopic
-      description: From roaring lion dances to ancient crafts - see how students
-        brought chinese traditions to life
-      button: Read on
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid029ytYb8P4A8SwzgTF1qetDpRcN3t5AF6XJ21eej5aAFGax1TujqpY5tbXtBPLTpURl&id=100064994620909
-      image: /images/Homepage highlights images/cny2026.jpg
-      alt: Image alt text
-  - infopic:
-      title: Tai Pei Old People’s Home Visit
-      description: See how these young leaders are making a real difference in elderly
-        care through music and compassion
+      description: What a truly resounding success for Hair for Hope 2026 at Kong Hwa
+        School!
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0yQg7aPBdCpiii9ncSLAouQxUBerYZhDcj1bVvuVhoNoLUqDFGFfPf2WTmB951dkTl&id=100064994620909
-      image: /images/Homepage highlights images/old_folks_home.jpg
-      alt: Image alt text
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid03NwdecKeRinZpk8zwprKiPA2eAAN9A7QpW8qRMskVrLRPChibL2ws6oj6S2TQsqnl&id=100064994620909
+      image: /images/KHS Highlights/HFH.jpg
+      alt: Hair for hope group photo
   - infopic:
-      title: Science Takes Off at Kong Hwa School
-      description: Students were introduced to two fun and inspiring Science platforms
-        – the Sony Creative Science Award (SCSA) and the Young Scientist Badge
-        Scheme (YSBS)
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02AnrFCGv9MjZnnbucvsT5WtqaZ6NDRMRqiqAX5UiCR4DHyMM2nTVhnLsAkkY3LcBol&id=100064994620909
-      image: /images/Homepage highlights images/science_recess.jpg
+      title: National School Games (NSG) Table Tennis League 1 Finals
+      description: Congrats to all our athletes, and a huge thanks to the coaches and
+        parents for their unwavering support and guidance!
+      button: Find out more
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0tpaimVnuPwMw74TZ6dcZRm94u44kd3sJuNAe68YunNxYKnK2LU8tbz3L6XY2znG6l&id=100064994620909
+      image: /images/KHS Highlights/Table_tennis_competition.jpg
+      alt: Table tennis cca group photo
+  - infopic:
+      title: Mountbatten SMC’s Labour Day Community Dinner
+      description: Proud of our Kong Hwaians and alumni for serving with heart and
+        showing that small gestures can make a big difference in our community.
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid032SE5vdQETBrs3gcMYXC7HzTiKXGigsk5So3x1CPPNNfqV7ee5sdngXvTvpHimWJFl&id=100064994620909
+      image: /images/KHS Highlights/community_dinner.jpg
       alt: Image alt text
       button: Find out more
   - infopic:
-      title: Back to School Carnival
-      description: Our Very Supportive Parents brought the Back-To-School spirit to
-        life with a buzzing *BTS Carnival* during recess
+      title: Singapore Youth Festival Arts Presentation 2026
+      description: Congratulations to our Performing Arts CCA on this SYF milestone!
       button: Find out more
-      url: https://www.facebook.com/permalink.php?story_fbid=pfbid0PhNqqpQhg1DUdECukRASKefgbQoox8h2sT6AYEnPJc8MYhYXcoSop8KjKwy98q2jl&id=100064994620909
-      image: /images/Homepage highlights images/back_to_school.jpg
+      url: https://www.facebook.com/permalink.php?story_fbid=pfbid02RffMsbrqwnrQNFWCf3ehwjvE2epTypqwv8DbLNhe56uVCst8QiBHVrmGq3i8MD1sl&id=100064994620909
+      image: /images/KHS Highlights/SYF.jpg
       alt: Image alt text
 ---
