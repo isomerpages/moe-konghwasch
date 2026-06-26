@@ -73,14 +73,14 @@ are as follows:</p>
 students, teaching staff, non-teaching staff and other key stakeholders
 (VSP, Alumni, and parents who have had more than one interaction with the
 nominee) may nominate deserving students. All nominations must be made
-using the <a href="/files/ECHA/Nomination_Form__KHSPR2IDE__2025.pdf" rel="noopener nofollow" target="_blank">Nomination Form</a>&nbsp;,
-available from the Kong Hwa School website and Parent Gateway from <u>1 June 2025.</u>
+using the Nomination Form&nbsp;, available from the Kong Hwa School website
+and Parent Gateway from <u>TBA.</u>
 </p>
 <p>&nbsp;&nbsp;</p>
 <p>5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Completed nomination
 forms with supporting evidence(s) (if any) must be submitted to the General
-Office or Form Teachers by <u>5 p.m., 8 July 2024</u>. For queries and clarifications,
-please contact Mdm Fida at <a rel="noopener noreferrer nofollow" target="_blank">nurafida_mohamed_anis@schools.gov.sg</a>.</p>
+Office or Form Teachers by <u>TBA.</u>
+</p>
 <p>&nbsp;</p>
 <p><strong>Eligibility Criteria</strong>
 </p>
