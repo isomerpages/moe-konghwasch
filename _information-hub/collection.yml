@@ -2,7 +2,6 @@ collections:
   information-hub:
     output: true
     order:
-      - Virtual School Tour.md
       - Application for Leave of Absence (LOA).md
       - Edusave Character Award (ECHA).md
       - MOE Financial Assistance Scheme.md
@@ -17,3 +16,4 @@ collections:
       - School Canteen Advertisement.md
       - Student iCON.md
       - Student Insurance.md
+      - Virtual School Tour.md
