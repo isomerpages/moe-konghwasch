@@ -25,21 +25,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay Food Stall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 December 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rice or noodles are acceptable</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chinese Noodle/Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 December 2025</p>
+<p>31 December 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Zi Char food. Open to suggestions.</p>
