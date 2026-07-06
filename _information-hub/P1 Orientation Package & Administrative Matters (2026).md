@@ -32,9 +32,4 @@ variant: tiptap
 <img style="width: 33%;" height="auto" width="100%" alt="" src="/images/P1 Orientation/efas_qr_2024.jpg">
 </div>
 <p></p>
-<p><strong>School Virtual Tour:</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/txZRKSJqyXo"></iframe>
-</div>
 <p></p>
