@@ -119,10 +119,6 @@ description: ""
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Environment/c7.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5910_photo.jpg">
 </div>
 <p></p>
@@ -131,9 +127,14 @@ description: ""
 </div>
 <p><strong>食堂表演舞台 Performance Platform @ Canteen</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5911_photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Environment/c7.jpg">
 </div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>美术与音乐角落 Art and Music Corners @ Canteen</strong>
 </p>
 <div class="isomer-image-wrapper">
