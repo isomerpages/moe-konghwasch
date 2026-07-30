@@ -68,6 +68,10 @@ description: ""
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Environment/pavillion.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Environment/I_Love_KHS.jpg">
 </div>
 <p></p>
@@ -132,8 +136,17 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Environment/c7.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Environment/p1.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Environment/p2.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Environment/p3.jpg">
+</div>
 <p></p>
 <p><strong>美术与音乐角落 Art and Music Corners @ Canteen</strong>
 </p>
