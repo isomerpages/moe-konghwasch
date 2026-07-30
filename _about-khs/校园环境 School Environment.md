@@ -93,12 +93,33 @@ description: ""
 </div>
 <p><strong>学校食堂 School Canteen</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5907_photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Environment/c1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5908_photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Environment/c2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Environment/c3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Environment/c4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Environment/c5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Environment/c6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Environment/c7.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
